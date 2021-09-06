@@ -1,2 +1,3 @@
 # crypto-market-data
-Crawl trading markets of crypto exchanges everyday
+
+Crawl trading markets of crypto exchanges everyday.

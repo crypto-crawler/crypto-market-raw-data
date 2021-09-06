@@ -1,0 +1,344 @@
+[
+    {
+        "coin": "BTC",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 125,
+        "minLeverage": 1,
+        "priceEndStep": 5,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "btcusd",
+        "tick_size": "1",
+        "underlying_index": "BTC"
+    },
+    {
+        "coin": "ETH",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 100,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "ethusd",
+        "tick_size": "2",
+        "underlying_index": "ETH"
+    },
+    {
+        "coin": "LTC",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "ltcusd",
+        "tick_size": "2",
+        "underlying_index": "LTC"
+    },
+    {
+        "coin": "XRP",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "xrpusd",
+        "tick_size": "4",
+        "underlying_index": "XRP"
+    },
+    {
+        "coin": "BCH",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "bchusd",
+        "tick_size": "2",
+        "underlying_index": "BCH"
+    },
+    {
+        "coin": "EOS",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": false,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USD",
+        "size_increment": "0",
+        "symbol": "eosusd",
+        "tick_size": "3",
+        "underlying_index": "EOS"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "0.001",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 125,
+        "minLeverage": 1,
+        "priceEndStep": 5,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_btcusdt",
+        "tick_size": "1",
+        "underlying_index": "BTC"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_eosusdt",
+        "tick_size": "3",
+        "underlying_index": "EOS"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "0.1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 100,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_ethusdt",
+        "tick_size": "2",
+        "underlying_index": "ETH"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "0.1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_ltcusdt",
+        "tick_size": "2",
+        "underlying_index": "LTC"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "10",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_xrpusdt",
+        "tick_size": "4",
+        "underlying_index": "XRP"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "0.01",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 100,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_bchusdt",
+        "tick_size": "2",
+        "underlying_index": "BCH"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_etcusdt",
+        "tick_size": "3",
+        "underlying_index": "ETC"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "100",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 20,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_adausdt",
+        "tick_size": "5",
+        "underlying_index": "ADA"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 20,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_linkusdt",
+        "tick_size": "3",
+        "underlying_index": "LINK"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "100",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 20,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_trxusdt",
+        "tick_size": "5",
+        "underlying_index": "TRX"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_uniusdt",
+        "tick_size": "3",
+        "underlying_index": "UNI"
+    },
+    {
+        "coin": "USDT",
+        "contract_val": "1",
+        "delivery": [
+            "07:00:00",
+            "15:00:00",
+            "23:00:00"
+        ],
+        "forwardContractFlag": true,
+        "listing": null,
+        "maxLeverage": 50,
+        "minLeverage": 1,
+        "priceEndStep": 1,
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "symbol": "cmt_sushiusdt",
+        "tick_size": "4",
+        "underlying_index": "SUSHI"
+    }
+]
