@@ -14,8 +14,8 @@ def fetch_markets(market_type: str) -> List[Dict[str, Any]]:
 
 
 def _fetch_spot_markets() -> List[Dict[str, Any]]:
-    return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:exchange')
+    return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:exchange')[0]
 
 
 def _fetch_swap_markets() -> List[Dict[str, Any]]:
-    return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:futures')
+    return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:futures')[0]

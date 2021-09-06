@@ -30,4 +30,6 @@ def _fetch_raw_markets(url: str) -> List[Dict[str, Any]]:
             if filter['filterType'] == 'PRICE_FILTER':
                 del filter['minPrice']
                 del filter['maxPrice']
+            elif filter['filterType'] == 'MAX_POSITION':
+                del filter['maxPosition']
     return symbols
