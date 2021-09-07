@@ -50,6 +50,13 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "ftx": [
         "all",
     ],
+    "gate": [
+        "inverse_future",
+        "inverse_swap",
+        "linear_future",
+        "linear_swap",
+        "spot"
+    ],
 }
 
 if __name__ == "__main__":

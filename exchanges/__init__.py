@@ -11,6 +11,7 @@ from .bybit import fetch_markets as bybit_fetch_markets
 from .coinbase_pro import fetch_markets as coinbase_pro_fetch_markets
 from .deribit import fetch_markets as deribit_fetch_markets
 from .ftx import fetch_markets as ftx_fetch_markets
+from .gate import fetch_markets as gate_fetch_markets
 
 
 def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List[Any]]:
@@ -37,5 +38,7 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return deribit_fetch_markets(market_type)
     elif exchange == 'ftx':
         return ftx_fetch_markets(market_type)
+    elif exchange == 'gate':
+        return gate_fetch_markets(market_type)
     else:
         raise ValueError(f"Unknown exchange {exchange}")
