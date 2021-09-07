@@ -18,37 +18,37 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     ],
     "bitfinex": [
         "spot",
-        "swap",
+        "swap"
     ],
     "bitget": [
         "spot",
-        "swap",
+        "swap"
     ],
     "bithumb": [
-        "spot",
+        "spot"
     ],
     "bitmex": [
-        "all",
+        "all"
     ],
     "bitstamp": [
-        "spot",
+        "spot"
     ],
     "bitz": [
         "spot",
-        "swap",
+        "swap"
     ],
     "bybit": [
-        "all",
+        "all"
     ],
     "coinbase_pro": [
-        "spot",
+        "spot"
     ],
     "deribit": [
         "future",
-        "option",
+        "option"
     ],
     "ftx": [
-        "all",
+        "all"
     ],
     "gate": [
         "inverse_future",
@@ -57,6 +57,12 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "linear_swap",
         "spot"
     ],
+    "huobi": [
+        "inverse_future",
+        "inverse_swap",
+        "linear_swap",
+        "spot"
+    ]
 }
 
 if __name__ == "__main__":
