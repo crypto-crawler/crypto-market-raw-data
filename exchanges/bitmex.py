@@ -15,6 +15,7 @@ def _fetch_all_markets() -> List[Dict[str, Any]]:
     url = 'https://www.bitmex.com/api/v1/instrument/active'
     symbols = get_json(url)
     for symbol in symbols:
+        del symbol['closingTimestamp']
         del symbol['fairBasis']
         del symbol['fairBasisRate']
         del symbol['foreignNotional24h']
@@ -23,6 +24,7 @@ def _fetch_all_markets() -> List[Dict[str, Any]]:
         del symbol['lastChangePcnt']
         del symbol['lastTickDirection']
         del symbol['openInterest']
+        del symbol['openingTimestamp']
         del symbol['openValue']
         del symbol['prevTotalTurnover']
         del symbol['prevTotalVolume']
