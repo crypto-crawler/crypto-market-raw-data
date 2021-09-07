@@ -37,6 +37,9 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "spot",
         "swap",
     ],
+    "bybit": [
+        "all",
+    ],
 }
 
 if __name__ == "__main__":
