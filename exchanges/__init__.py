@@ -8,6 +8,7 @@ from .bitmex import fetch_markets as bitmex_fetch_markets
 from .bitstamp import fetch_markets as bitstamp_fetch_markets
 from .bitz import fetch_markets as bitz_fetch_markets
 from .bybit import fetch_markets as bybit_fetch_markets
+from .coinbase_pro import fetch_markets as coinbase_pro_fetch_markets
 
 
 def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List[Any]]:
@@ -28,5 +29,7 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return bitz_fetch_markets(market_type)
     elif exchange == 'bybit':
         return bybit_fetch_markets(market_type)
+    elif exchange == 'coinbase_pro':
+        return coinbase_pro_fetch_markets(market_type)
     else:
         raise ValueError(f"Unknown exchange {exchange}")

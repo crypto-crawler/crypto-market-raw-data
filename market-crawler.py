@@ -40,6 +40,9 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "bybit": [
         "all",
     ],
+    "coinbase_pro": [
+        "spot",
+    ],
 }
 
 if __name__ == "__main__":
