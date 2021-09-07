@@ -20,4 +20,9 @@ def _fetch_spot_markets() -> Dict[str, Any]:
     if resp['code'] != "0":
         logging.error(f"code : {resp['code']}, msg: {resp['msg']}")
         return {}
-    return resp['data']
+    data = resp['data']
+    for x in data['coinConfig']:
+        del x['withdrawFee']
+        del x['depositStatus']
+        del x['withdrawStatus']
+    return data

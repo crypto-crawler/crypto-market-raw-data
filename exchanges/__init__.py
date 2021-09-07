@@ -4,6 +4,7 @@ from .binance import fetch_markets as binance_fetch_markets
 from .bitfinex import fetch_markets as bitfinex_fetch_markets
 from .bitget import fetch_markets as bitget_fetch_markets
 from .bithumb import fetch_markets as bithumb_fetch_markets
+from .bitmex import fetch_markets as bitmex_fetch_markets
 
 
 def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List[Any]]:
@@ -12,9 +13,11 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return binance_fetch_markets(market_type)
     elif exchange == 'bitfinex':
         return bitfinex_fetch_markets(market_type)
-    elif exchange == 'bithumb':
-        return bithumb_fetch_markets(market_type)
     elif exchange == 'bitget':
         return bitget_fetch_markets(market_type)
+    elif exchange == 'bithumb':
+        return bithumb_fetch_markets(market_type)
+    elif exchange == 'bitmex':
+        return bitmex_fetch_markets(market_type)
     else:
         raise ValueError(f"Unknown exchange {exchange}")

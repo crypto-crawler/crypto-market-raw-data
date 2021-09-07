@@ -14,5 +14,5 @@ def get_json(url: str) -> Union[Dict[str, Any], List[Any]]:
         logging.error(f'resp.status_code is {resp.status_code}')
         return []
     else:
-        # return resp.text
+        # print(resp.text)
         return resp.json()
