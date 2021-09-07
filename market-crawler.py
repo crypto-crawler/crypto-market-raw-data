@@ -33,6 +33,10 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "bitstamp": [
         "spot",
     ],
+    "bitz": [
+        "spot",
+        "swap",
+    ],
 }
 
 if __name__ == "__main__":
