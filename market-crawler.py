@@ -47,6 +47,9 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "future",
         "option",
     ],
+    "ftx": [
+        "all",
+    ],
 }
 
 if __name__ == "__main__":
