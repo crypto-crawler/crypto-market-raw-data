@@ -15,6 +15,7 @@ from .gate import fetch_markets as gate_fetch_markets
 from .huobi import fetch_markets as huobi_fetch_markets
 from .kraken import fetch_markets as kraken_fetch_markets
 from .kucoin import fetch_markets as kucoin_fetch_markets
+from .mxc import fetch_markets as mxc_fetch_markets
 
 
 def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List[Any]]:
@@ -49,5 +50,7 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return kraken_fetch_markets(market_type)
     elif exchange == 'kucoin':
         return kucoin_fetch_markets(market_type)
+    elif exchange == 'mxc':
+        return mxc_fetch_markets(market_type)
     else:
         raise ValueError(f"Unknown exchange {exchange}")
