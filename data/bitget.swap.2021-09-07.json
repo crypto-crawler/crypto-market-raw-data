@@ -38,25 +38,6 @@
         "underlying_index": "ETH"
     },
     {
-        "coin": "LTC",
-        "contract_val": "1",
-        "delivery": [
-            "07:00:00",
-            "15:00:00",
-            "23:00:00"
-        ],
-        "forwardContractFlag": false,
-        "listing": null,
-        "maxLeverage": 50,
-        "minLeverage": 1,
-        "priceEndStep": 1,
-        "quote_currency": "USD",
-        "size_increment": "0",
-        "symbol": "ltcusd",
-        "tick_size": "2",
-        "underlying_index": "LTC"
-    },
-    {
         "coin": "XRP",
         "contract_val": "1",
         "delivery": [
@@ -74,44 +55,6 @@
         "symbol": "xrpusd",
         "tick_size": "4",
         "underlying_index": "XRP"
-    },
-    {
-        "coin": "BCH",
-        "contract_val": "1",
-        "delivery": [
-            "07:00:00",
-            "15:00:00",
-            "23:00:00"
-        ],
-        "forwardContractFlag": false,
-        "listing": null,
-        "maxLeverage": 50,
-        "minLeverage": 1,
-        "priceEndStep": 1,
-        "quote_currency": "USD",
-        "size_increment": "0",
-        "symbol": "bchusd",
-        "tick_size": "2",
-        "underlying_index": "BCH"
-    },
-    {
-        "coin": "EOS",
-        "contract_val": "1",
-        "delivery": [
-            "07:00:00",
-            "15:00:00",
-            "23:00:00"
-        ],
-        "forwardContractFlag": false,
-        "listing": null,
-        "maxLeverage": 50,
-        "minLeverage": 1,
-        "priceEndStep": 1,
-        "quote_currency": "USD",
-        "size_increment": "0",
-        "symbol": "eosusd",
-        "tick_size": "3",
-        "underlying_index": "EOS"
     },
     {
         "coin": "USDT",

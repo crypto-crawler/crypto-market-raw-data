@@ -23,6 +23,7 @@ def _clean_fields(symbols: List[Dict[str, Any]]) -> None:
     for symbol in symbols:
         symbol.pop('basis_rate', None)
         symbol.pop('basis_value', None)
+        symbol.pop('funding_rate_indicative', None)
         symbol.pop('index_price', None)
         symbol.pop('last_price', None)
         symbol.pop('long_users', None)
