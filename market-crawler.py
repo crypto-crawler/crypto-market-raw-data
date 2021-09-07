@@ -74,6 +74,12 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "spot",
         "swap"
     ],
+    "okex": [
+        "future",
+        "option",
+        "spot",
+        "swap"
+    ],
 }
 
 if __name__ == "__main__":
