@@ -80,6 +80,10 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "spot",
         "swap"
     ],
+    "zbg": [
+        "spot",
+        "swap"
+    ],
 }
 
 if __name__ == "__main__":
