@@ -20,7 +20,9 @@ def _fetch_spot_markets() -> List[Dict[str, Any]]:
     if resp['code'] != 200:
         logging.error(json.dumps(resp))
         return []
-    return resp['data']
+    symbols = resp['data']
+    symbols.sort(key=lambda x: x['symbol'])
+    return symbols
 
 
 def _fetch_swap_markets() -> List[Dict[str, Any]]:
@@ -29,4 +31,6 @@ def _fetch_swap_markets() -> List[Dict[str, Any]]:
     if not resp['success']:
         logging.error(json.dumps(resp))
         return []
-    return resp['data']
+    symbols = resp['data']
+    symbols.sort(key=lambda x: x['symbol'])
+    return symbols
