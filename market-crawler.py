@@ -43,6 +43,10 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "coinbase_pro": [
         "spot",
     ],
+    "deribit": [
+        "future",
+        "option",
+    ],
 }
 
 if __name__ == "__main__":
