@@ -66,6 +66,10 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "kraken": [
         "spot"
     ],
+    "kucoin": [
+        "contract",
+        "spot"
+    ],
 }
 
 if __name__ == "__main__":
