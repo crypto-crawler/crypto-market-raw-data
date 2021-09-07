@@ -1,9 +1,9 @@
-from typing import Any, Dict, List
+from typing import List
 
 from .utils import get_json
 
 
-def fetch_markets(market_type: str) -> List[Dict[str, Any]]:
+def fetch_markets(market_type: str) -> List[str]:
     '''Fetch all trading markets from a crypto exchage.'''
     if market_type == 'spot':
         return _fetch_spot_markets()
@@ -13,9 +13,9 @@ def fetch_markets(market_type: str) -> List[Dict[str, Any]]:
         raise ValueError(f'Unknown market type: {market_type}')
 
 
-def _fetch_spot_markets() -> List[Dict[str, Any]]:
+def _fetch_spot_markets() -> List[str]:
     return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:exchange')[0]
 
 
-def _fetch_swap_markets() -> List[Dict[str, Any]]:
+def _fetch_swap_markets() -> List[str]:
     return get_json('https://api-pub.bitfinex.com/v2/conf/pub:list:pair:futures')[0]

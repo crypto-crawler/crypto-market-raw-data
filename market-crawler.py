@@ -24,6 +24,9 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
         "spot",
         "swap",
     ],
+    "bithumb": [
+        "spot",
+    ],
 }
 
 if __name__ == "__main__":

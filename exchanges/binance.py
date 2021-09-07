@@ -23,7 +23,7 @@ def fetch_markets(market_type: str) -> List[Dict[str, Any]]:
 
 
 def _fetch_raw_markets(url: str) -> List[Dict[str, Any]]:
-    json_obj = get_json(url)
+    json_obj: Dict[str, Any] = get_json(url)
     symbols = json_obj['symbols'] if 'symbols' in json_obj else json_obj['data']['optionSymbols']
     for symbol in symbols:
         for filter in symbol['filters']:
@@ -32,4 +32,8 @@ def _fetch_raw_markets(url: str) -> List[Dict[str, Any]]:
                 del filter['maxPrice']
             elif filter['filterType'] == 'MAX_POSITION':
                 del filter['maxPosition']
+            elif filter['filterType'] == 'LOT_SIZE':
+                del filter['maxQty']
+            elif filter['filterType'] == 'MARKET_LOT_SIZE':
+                del filter['maxQty']
     return symbols
