@@ -1,0 +1,41 @@
+name: "Crypto Markets Crawler"
+
+on:
+  push:
+  schedule:
+    # Run every 4 hours
+    - cron: "0 */4 * * *"
+
+jobs:
+  coinmarketcap-crawlers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Crawl markets
+        run: |
+          python market-crawler.py.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./data/
+          git commit -am "Added new data by Github Action"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
