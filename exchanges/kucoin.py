@@ -6,6 +6,7 @@ from .utils import get_json
 
 def _clean_fields(symbols: List[Dict[str, Any]]) -> None:
     for symbol in symbols:
+        symbol.pop('fundingFeeRate', None)
         symbol.pop('highPrice', None)
         symbol.pop('indexPrice', None)
         symbol.pop('lastTradePrice', None)

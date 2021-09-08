@@ -24,7 +24,9 @@ def _fetch_future_markets() -> List[Dict[str, Any]]:
 
 def _fetch_spot_markets() -> List[Dict[str, Any]]:
     url = 'https://www.okex.com/api/spot/v3/instruments'
-    return get_json(url)
+    symbols = get_json(url)
+    symbols.sort(key=lambda x: x['instrument_id'])
+    return symbols
 
 
 def _fetch_swap_markets() -> List[Dict[str, Any]]:

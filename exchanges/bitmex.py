@@ -19,6 +19,8 @@ def _fetch_all_markets() -> List[Dict[str, Any]]:
         del symbol['fairBasis']
         del symbol['fairBasisRate']
         del symbol['foreignNotional24h']
+        del symbol['fundingRate']
+        del symbol['fundingTimestamp']
         del symbol['hasLiquidity']
         del symbol['homeNotional24h']
         del symbol['indicativeFundingRate']
