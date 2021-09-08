@@ -4086,7 +4086,7 @@
         "state": "online",
         "symbol": "dfbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -11378,7 +11378,7 @@
         "state": "online",
         "symbol": "propybtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -11394,7 +11394,7 @@
         "state": "online",
         "symbol": "propyeth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -15594,6 +15594,22 @@
         "symbol": "xmxusdt",
         "symbol-partition": "innovation",
         "tags": "hadax",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "xprt",
+        "limit-order-min-order-amt": 0.0001,
+        "min-order-amt": 0.0001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.0001,
+        "state": "online",
+        "symbol": "xprtusdt",
+        "symbol-partition": "innovation",
+        "tags": "",
         "value-precision": 8
     },
     {

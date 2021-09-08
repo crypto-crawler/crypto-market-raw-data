@@ -6283,6 +6283,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "DYDX",
+        "buy_start": 1631152800,
+        "fee": "0.2",
+        "id": "DYDX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "SASHIMI",
         "buy_start": 0,
@@ -16227,14 +16239,14 @@
     {
         "amount_precision": 3,
         "base": "PHM",
-        "buy_start": 1631102400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PHM_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20219,6 +20231,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DYDX",
+        "buy_start": 1631152800,
+        "fee": "0.2",
+        "id": "DYDX_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ARGON",
         "buy_start": 0,
         "fee": "0.2",
@@ -21980,6 +22004,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XIL",
+        "buy_start": 1631194200,
+        "fee": "0.2",
+        "id": "XIL_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
