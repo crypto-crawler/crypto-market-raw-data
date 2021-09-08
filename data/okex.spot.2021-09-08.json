@@ -1,156 +1,12 @@
 [
     {
-        "base_currency": "BTC",
-        "category": "1",
-        "instrument_id": "BTC-USDT",
-        "min_size": "0.00001",
-        "quote_currency": "USDT",
+        "base_currency": "1INCH",
+        "category": "2",
+        "instrument_id": "1INCH-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
         "size_increment": "0.00000001",
-        "tick_size": "0.1"
-    },
-    {
-        "base_currency": "ETH",
-        "category": "1",
-        "instrument_id": "ETH-USDT",
-        "min_size": "0.001",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "OKB",
-        "category": "1",
-        "instrument_id": "OKB-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "OKT",
-        "category": "1",
-        "instrument_id": "OKT-USDT",
-        "min_size": "0.01",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-USDT",
-        "min_size": "0.01",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "DOT",
-        "category": "2",
-        "instrument_id": "DOT-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "DOGE",
-        "category": "2",
-        "instrument_id": "DOGE-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
         "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "FTM",
-        "category": "2",
-        "instrument_id": "FTM-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "FIL",
-        "category": "2",
-        "instrument_id": "FIL-USDT",
-        "min_size": "0.01",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "SOL",
-        "category": "2",
-        "instrument_id": "SOL-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "ADA",
-        "category": "2",
-        "instrument_id": "ADA-USDT",
-        "min_size": "1",
-        "quote_currency": "USDT",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "OMG",
-        "category": "2",
-        "instrument_id": "OMG-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "ILV",
-        "category": "3",
-        "instrument_id": "ILV-USDT",
-        "min_size": "0.01",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "AGLD",
-        "category": "3",
-        "instrument_id": "AGLD-USDT",
-        "min_size": "1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "ERN",
-        "category": "2",
-        "instrument_id": "ERN-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "REVV",
-        "category": "3",
-        "instrument_id": "REVV-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "SLP",
-        "category": "2",
-        "instrument_id": "SLP-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.00001"
     },
     {
         "base_currency": "1INCH",
@@ -173,6 +29,24 @@
     {
         "base_currency": "AAVE",
         "category": "2",
+        "instrument_id": "AAVE-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "AAVE",
+        "category": "2",
+        "instrument_id": "AAVE-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "AAVE",
+        "category": "2",
         "instrument_id": "AAVE-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
@@ -191,11 +65,56 @@
     {
         "base_currency": "ACT",
         "category": "2",
+        "instrument_id": "ACT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "ACT",
+        "category": "2",
         "instrument_id": "ACT-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "ADA",
+        "category": "2",
+        "instrument_id": "ADA-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ADA",
+        "category": "2",
+        "instrument_id": "ADA-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ADA",
+        "category": "2",
+        "instrument_id": "ADA-USDT",
+        "min_size": "1",
+        "quote_currency": "USDT",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "AE",
+        "category": "2",
+        "instrument_id": "AE-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "AE",
@@ -216,6 +135,15 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "AGLD",
+        "category": "3",
+        "instrument_id": "AGLD-USDT",
+        "min_size": "1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
         "base_currency": "AKITA",
         "category": "3",
         "instrument_id": "AKITA-USDT",
@@ -227,11 +155,29 @@
     {
         "base_currency": "ALGO",
         "category": "2",
+        "instrument_id": "ALGO-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ALGO",
+        "category": "2",
         "instrument_id": "ALGO-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "ALPHA",
+        "category": "2",
+        "instrument_id": "ALPHA-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "ALPHA",
@@ -263,6 +209,15 @@
     {
         "base_currency": "ANT",
         "category": "2",
+        "instrument_id": "ANT-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ANT",
+        "category": "2",
         "instrument_id": "ANT-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -277,6 +232,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "API3",
+        "category": "2",
+        "instrument_id": "API3-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "API3",
@@ -306,6 +270,24 @@
         "tick_size": "0.00001"
     },
     {
+        "base_currency": "ARDR",
+        "category": "2",
+        "instrument_id": "ARDR-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ARK",
+        "category": "2",
+        "instrument_id": "ARK-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
         "base_currency": "ARK",
         "category": "2",
         "instrument_id": "ARK-USDT",
@@ -326,6 +308,24 @@
     {
         "base_currency": "ATOM",
         "category": "2",
+        "instrument_id": "ATOM-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ATOM",
+        "category": "2",
+        "instrument_id": "ATOM-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ATOM",
+        "category": "2",
         "instrument_id": "ATOM-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -340,6 +340,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "AVAX",
+        "category": "2",
+        "instrument_id": "AVAX-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "AVAX",
+        "category": "2",
+        "instrument_id": "AVAX-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "AVAX",
@@ -371,11 +389,29 @@
     {
         "base_currency": "BADGER",
         "category": "2",
+        "instrument_id": "BADGER-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "BADGER",
+        "category": "2",
         "instrument_id": "BADGER-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "BAL",
+        "category": "2",
+        "instrument_id": "BAL-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "BAL",
@@ -398,11 +434,29 @@
     {
         "base_currency": "BAT",
         "category": "2",
+        "instrument_id": "BAT-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "BAT",
+        "category": "2",
         "instrument_id": "BAT-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "BCD",
+        "category": "2",
+        "instrument_id": "BCD-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "BCD",
@@ -416,11 +470,56 @@
     {
         "base_currency": "BCH",
         "category": "1",
+        "instrument_id": "BCH-BTC",
+        "min_size": "0.001",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "BCH",
+        "category": "1",
+        "instrument_id": "BCH-USDC",
+        "min_size": "0.001",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BCH",
+        "category": "1",
+        "instrument_id": "BCH-USDK",
+        "min_size": "0.001",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BCH",
+        "category": "1",
         "instrument_id": "BCH-USDT",
         "min_size": "0.001",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BCX",
+        "category": "2",
+        "instrument_id": "BCX-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.1",
+        "tick_size": "0.00000000001"
+    },
+    {
+        "base_currency": "BETH",
+        "category": "2",
+        "instrument_id": "BETH-ETH",
+        "min_size": "0.001",
+        "quote_currency": "ETH",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
     },
     {
         "base_currency": "BETH",
@@ -430,6 +529,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BHP",
+        "category": "3",
+        "instrument_id": "BHP-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "BHP",
@@ -452,6 +560,15 @@
     {
         "base_currency": "BNT",
         "category": "2",
+        "instrument_id": "BNT-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "BNT",
+        "category": "2",
         "instrument_id": "BNT-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -470,11 +587,83 @@
     {
         "base_currency": "BSV",
         "category": "1",
+        "instrument_id": "BSV-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "BSV",
+        "category": "1",
+        "instrument_id": "BSV-USDC",
+        "min_size": "0.01",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BSV",
+        "category": "1",
+        "instrument_id": "BSV-USDK",
+        "min_size": "0.01",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BSV",
+        "category": "1",
         "instrument_id": "BSV-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "BTC",
+        "category": "1",
+        "instrument_id": "BTC-DAI",
+        "min_size": "0.00001",
+        "quote_currency": "DAI",
+        "size_increment": "0.00000001",
+        "tick_size": "0.1"
+    },
+    {
+        "base_currency": "BTC",
+        "category": "1",
+        "instrument_id": "BTC-USDC",
+        "min_size": "0.00001",
+        "quote_currency": "USDC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.1"
+    },
+    {
+        "base_currency": "BTC",
+        "category": "1",
+        "instrument_id": "BTC-USDK",
+        "min_size": "0.00001",
+        "quote_currency": "USDK",
+        "size_increment": "0.00000001",
+        "tick_size": "0.1"
+    },
+    {
+        "base_currency": "BTC",
+        "category": "1",
+        "instrument_id": "BTC-USDT",
+        "min_size": "0.00001",
+        "quote_currency": "USDT",
+        "size_increment": "0.00000001",
+        "tick_size": "0.1"
+    },
+    {
+        "base_currency": "BTG",
+        "category": "2",
+        "instrument_id": "BTG-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "BTG",
@@ -486,12 +675,21 @@
         "tick_size": "0.01"
     },
     {
-        "base_currency": "BTT",
+        "base_currency": "BTM",
         "category": "2",
-        "instrument_id": "BTT-USDT",
-        "min_size": "100",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
+        "instrument_id": "BTM-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "BTM",
+        "category": "2",
+        "instrument_id": "BTM-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
         "tick_size": "0.0000001"
     },
     {
@@ -504,6 +702,24 @@
         "tick_size": "0.00001"
     },
     {
+        "base_currency": "BTT",
+        "category": "2",
+        "instrument_id": "BTT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000000001"
+    },
+    {
+        "base_currency": "BTT",
+        "category": "2",
+        "instrument_id": "BTT-USDT",
+        "min_size": "100",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0000001"
+    },
+    {
         "base_currency": "BZZ",
         "category": "3",
         "instrument_id": "BZZ-USDT",
@@ -511,6 +727,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "CEL",
+        "category": "3",
+        "instrument_id": "CEL-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "CELO",
+        "category": "2",
+        "instrument_id": "CELO-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "CELO",
@@ -531,13 +765,13 @@
         "tick_size": "0.000001"
     },
     {
-        "base_currency": "CEL",
+        "base_currency": "CFG",
         "category": "3",
-        "instrument_id": "CEL-USDT",
-        "min_size": "0.1",
+        "instrument_id": "CFG-USDT",
+        "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
-        "tick_size": "0.001"
+        "tick_size": "0.0001"
     },
     {
         "base_currency": "CFX",
@@ -549,15 +783,6 @@
         "tick_size": "0.00001"
     },
     {
-        "base_currency": "CFG",
-        "category": "3",
-        "instrument_id": "CFG-USDT",
-        "min_size": "1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
         "base_currency": "CHAT",
         "category": "2",
         "instrument_id": "CHAT-USDT",
@@ -565,6 +790,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "CHZ",
+        "category": "2",
+        "instrument_id": "CHZ-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "CHZ",
@@ -587,6 +821,24 @@
     {
         "base_currency": "CMT",
         "category": "2",
+        "instrument_id": "CMT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "CMT",
+        "category": "2",
+        "instrument_id": "CMT-ETH",
+        "min_size": "100",
+        "quote_currency": "ETH",
+        "size_increment": "0.01",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "CMT",
+        "category": "2",
         "instrument_id": "CMT-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
@@ -605,16 +857,16 @@
     {
         "base_currency": "COMP",
         "category": "2",
-        "instrument_id": "COMP-USDT",
+        "instrument_id": "COMP-BTC",
         "min_size": "0.001",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
     },
     {
-        "base_currency": "COVER",
+        "base_currency": "COMP",
         "category": "2",
-        "instrument_id": "COVER-USDT",
+        "instrument_id": "COMP-USDT",
         "min_size": "0.001",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
@@ -630,6 +882,24 @@
         "tick_size": "0.00001"
     },
     {
+        "base_currency": "COVER",
+        "category": "2",
+        "instrument_id": "COVER-USDT",
+        "min_size": "0.001",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "CQT",
+        "category": "3",
+        "instrument_id": "CQT-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.00000001"
+    },
+    {
         "base_currency": "CQT",
         "category": "3",
         "instrument_id": "CQT-USDT",
@@ -641,11 +911,47 @@
     {
         "base_currency": "CRO",
         "category": "2",
+        "instrument_id": "CRO-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "CRO",
+        "category": "2",
+        "instrument_id": "CRO-USDK",
+        "min_size": "10",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "CRO",
+        "category": "2",
         "instrument_id": "CRO-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "CRV",
+        "category": "2",
+        "instrument_id": "CRV-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "CRV",
+        "category": "2",
+        "instrument_id": "CRV-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "CRV",
@@ -668,6 +974,15 @@
     {
         "base_currency": "CTC",
         "category": "3",
+        "instrument_id": "CTC-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "CTC",
+        "category": "3",
         "instrument_id": "CTC-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -682,6 +997,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "CVC",
+        "category": "2",
+        "instrument_id": "CVC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "CVC",
@@ -704,6 +1028,15 @@
     {
         "base_currency": "CVT",
         "category": "3",
+        "instrument_id": "CVT-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "CVT",
+        "category": "3",
         "instrument_id": "CVT-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -720,6 +1053,33 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "DAO",
+        "category": "3",
+        "instrument_id": "DAO-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "DASH",
+        "category": "2",
+        "instrument_id": "DASH-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "DASH",
+        "category": "2",
+        "instrument_id": "DASH-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
         "base_currency": "DASH",
         "category": "2",
         "instrument_id": "DASH-USDT",
@@ -729,13 +1089,13 @@
         "tick_size": "0.01"
     },
     {
-        "base_currency": "DAO",
-        "category": "3",
-        "instrument_id": "DAO-USDT",
-        "min_size": "0.1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
+        "base_currency": "DCR",
+        "category": "2",
+        "instrument_id": "DCR-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "DCR",
@@ -754,6 +1114,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "DGB",
+        "category": "2",
+        "instrument_id": "DGB-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "DGB",
@@ -803,6 +1172,15 @@
     {
         "base_currency": "DNA",
         "category": "3",
+        "instrument_id": "DNA-BTC",
+        "min_size": "1000",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000000001"
+    },
+    {
+        "base_currency": "DNA",
+        "category": "3",
         "instrument_id": "DNA-USDT",
         "min_size": "1000",
         "quote_currency": "USDT",
@@ -810,9 +1188,72 @@
         "tick_size": "0.0000001"
     },
     {
+        "base_currency": "DOGE",
+        "category": "2",
+        "instrument_id": "DOGE-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "DOGE",
+        "category": "2",
+        "instrument_id": "DOGE-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "DOGE",
+        "category": "2",
+        "instrument_id": "DOGE-USDK",
+        "min_size": "10",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "DOGE",
+        "category": "2",
+        "instrument_id": "DOGE-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
         "base_currency": "DORA",
         "category": "3",
         "instrument_id": "DORA-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "DOT",
+        "category": "2",
+        "instrument_id": "DOT-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "DOT",
+        "category": "2",
+        "instrument_id": "DOT-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "DOT",
+        "category": "2",
+        "instrument_id": "DOT-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
@@ -839,6 +1280,15 @@
     {
         "base_currency": "EGLD",
         "category": "2",
+        "instrument_id": "EGLD-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "EGLD",
+        "category": "2",
         "instrument_id": "EGLD-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
@@ -848,11 +1298,38 @@
     {
         "base_currency": "EGT",
         "category": "2",
+        "instrument_id": "EGT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000000001"
+    },
+    {
+        "base_currency": "EGT",
+        "category": "2",
+        "instrument_id": "EGT-ETH",
+        "min_size": "100",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "EGT",
+        "category": "2",
         "instrument_id": "EGT-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ELF",
+        "category": "2",
+        "instrument_id": "ELF-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "ELF",
@@ -875,11 +1352,56 @@
     {
         "base_currency": "ENJ",
         "category": "2",
+        "instrument_id": "ENJ-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ENJ",
+        "category": "2",
         "instrument_id": "ENJ-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "EOS",
+        "category": "1",
+        "instrument_id": "EOS-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "EOS",
+        "category": "1",
+        "instrument_id": "EOS-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "EOS",
+        "category": "1",
+        "instrument_id": "EOS-USDC",
+        "min_size": "0.1",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "EOS",
+        "category": "1",
+        "instrument_id": "EOS-USDK",
+        "min_size": "0.1",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.001"
     },
     {
         "base_currency": "EOS",
@@ -891,6 +1413,60 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "ERN",
+        "category": "2",
+        "instrument_id": "ERN-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "ETC",
+        "category": "1",
+        "instrument_id": "ETC-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ETC",
+        "category": "1",
+        "instrument_id": "ETC-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "ETC",
+        "category": "1",
+        "instrument_id": "ETC-OKB",
+        "min_size": "0.1",
+        "quote_currency": "OKB",
+        "size_increment": "0.00001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "ETC",
+        "category": "1",
+        "instrument_id": "ETC-USDC",
+        "min_size": "0.1",
+        "quote_currency": "USDC",
+        "size_increment": "0.00001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "ETC",
+        "category": "1",
+        "instrument_id": "ETC-USDK",
+        "min_size": "0.1",
+        "quote_currency": "USDK",
+        "size_increment": "0.00001",
+        "tick_size": "0.001"
+    },
+    {
         "base_currency": "ETC",
         "category": "1",
         "instrument_id": "ETC-USDT",
@@ -898,6 +1474,51 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "ETH",
+        "category": "1",
+        "instrument_id": "ETH-BTC",
+        "min_size": "0.001",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "ETH",
+        "category": "1",
+        "instrument_id": "ETH-DAI",
+        "min_size": "0.001",
+        "quote_currency": "DAI",
+        "size_increment": "0.000001",
+        "tick_size": "1"
+    },
+    {
+        "base_currency": "ETH",
+        "category": "1",
+        "instrument_id": "ETH-USDC",
+        "min_size": "0.001",
+        "quote_currency": "USDC",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "ETH",
+        "category": "1",
+        "instrument_id": "ETH-USDK",
+        "min_size": "0.001",
+        "quote_currency": "USDK",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "ETH",
+        "category": "1",
+        "instrument_id": "ETH-USDT",
+        "min_size": "0.001",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
     },
     {
         "base_currency": "ETM",
@@ -927,6 +1548,33 @@
         "tick_size": "0.000001"
     },
     {
+        "base_currency": "FIL",
+        "category": "2",
+        "instrument_id": "FIL-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "FIL",
+        "category": "2",
+        "instrument_id": "FIL-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "FIL",
+        "category": "2",
+        "instrument_id": "FIL-USDT",
+        "min_size": "0.01",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
         "base_currency": "FLM",
         "category": "2",
         "instrument_id": "FLM-USDT",
@@ -934,6 +1582,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "FLOW",
+        "category": "2",
+        "instrument_id": "FLOW-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "FLOW",
+        "category": "2",
+        "instrument_id": "FLOW-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "FLOW",
@@ -972,13 +1638,22 @@
         "tick_size": "0.001"
     },
     {
-        "base_currency": "GAS",
+        "base_currency": "FTM",
         "category": "2",
-        "instrument_id": "GAS-USDT",
-        "min_size": "0.1",
+        "instrument_id": "FTM-USDT",
+        "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
-        "tick_size": "0.001"
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "FUN",
+        "category": "2",
+        "instrument_id": "FUN-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "GAL",
@@ -988,6 +1663,42 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "GAS",
+        "category": "2",
+        "instrument_id": "GAS-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "GAS",
+        "category": "2",
+        "instrument_id": "GAS-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "GAS",
+        "category": "2",
+        "instrument_id": "GAS-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "GHST",
+        "category": "2",
+        "instrument_id": "GHST-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "GHST",
@@ -1008,6 +1719,24 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "GNX",
+        "category": "2",
+        "instrument_id": "GNX-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "GRT",
+        "category": "2",
+        "instrument_id": "GRT-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
         "base_currency": "GRT",
         "category": "2",
         "instrument_id": "GRT-USDT",
@@ -1015,6 +1744,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "GTO",
+        "category": "2",
+        "instrument_id": "GTO-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "GTO",
@@ -1037,11 +1775,38 @@
     {
         "base_currency": "HBAR",
         "category": "2",
+        "instrument_id": "HBAR-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "HBAR",
+        "category": "2",
+        "instrument_id": "HBAR-USDK",
+        "min_size": "10",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "HBAR",
+        "category": "2",
         "instrument_id": "HBAR-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "HC",
+        "category": "2",
+        "instrument_id": "HC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "HC",
@@ -1064,6 +1829,15 @@
     {
         "base_currency": "HEGIC",
         "category": "2",
+        "instrument_id": "HEGIC-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.0000001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "HEGIC",
+        "category": "2",
         "instrument_id": "HEGIC-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -1082,6 +1856,15 @@
     {
         "base_currency": "ICP",
         "category": "2",
+        "instrument_id": "ICP-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ICP",
+        "category": "2",
         "instrument_id": "ICP-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
@@ -1091,11 +1874,47 @@
     {
         "base_currency": "ICX",
         "category": "2",
+        "instrument_id": "ICX-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ICX",
+        "category": "2",
         "instrument_id": "ICX-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "ILV",
+        "category": "3",
+        "instrument_id": "ILV-USDT",
+        "min_size": "0.01",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "INT",
+        "category": "3",
+        "instrument_id": "INT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "INT",
+        "category": "3",
+        "instrument_id": "INT-ETH",
+        "min_size": "100",
+        "quote_currency": "ETH",
+        "size_increment": "0.01",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "INT",
@@ -1118,11 +1937,38 @@
     {
         "base_currency": "IOST",
         "category": "2",
+        "instrument_id": "IOST-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.0000000001"
+    },
+    {
+        "base_currency": "IOST",
+        "category": "2",
+        "instrument_id": "IOST-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.01",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "IOST",
+        "category": "2",
         "instrument_id": "IOST-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "IOTA",
+        "category": "2",
+        "instrument_id": "IOTA-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "IOTA",
@@ -1172,6 +2018,15 @@
     {
         "base_currency": "KAN",
         "category": "2",
+        "instrument_id": "KAN-ETH",
+        "min_size": "100",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "KAN",
+        "category": "2",
         "instrument_id": "KAN-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
@@ -1217,11 +2072,29 @@
     {
         "base_currency": "KLAY",
         "category": "2",
+        "instrument_id": "KLAY-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "KLAY",
+        "category": "2",
         "instrument_id": "KLAY-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "KNC",
+        "category": "2",
+        "instrument_id": "KNC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "KNC",
@@ -1249,6 +2122,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "KSM",
+        "category": "2",
+        "instrument_id": "KSM-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "KSM",
+        "category": "2",
+        "instrument_id": "KSM-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
     },
     {
         "base_currency": "KSM",
@@ -1307,6 +2198,24 @@
     {
         "base_currency": "LINK",
         "category": "2",
+        "instrument_id": "LINK-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "LINK",
+        "category": "2",
+        "instrument_id": "LINK-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "LINK",
+        "category": "2",
         "instrument_id": "LINK-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -1323,12 +2232,12 @@
         "tick_size": "0.00001"
     },
     {
-        "base_currency": "LOON",
+        "base_currency": "LON",
         "category": "3",
-        "instrument_id": "LOON-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
+        "instrument_id": "LON-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
         "tick_size": "0.00001"
     },
     {
@@ -1339,6 +2248,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "LOON",
+        "category": "3",
+        "instrument_id": "LOON-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "LPT",
@@ -1352,11 +2270,29 @@
     {
         "base_currency": "LRC",
         "category": "2",
+        "instrument_id": "LRC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "LRC",
+        "category": "2",
         "instrument_id": "LRC-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "LSK",
+        "category": "2",
+        "instrument_id": "LSK-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "LSK",
@@ -1368,6 +2304,69 @@
         "tick_size": "0.001"
     },
     {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-OKB",
+        "min_size": "0.01",
+        "quote_currency": "OKB",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-USDC",
+        "min_size": "0.01",
+        "quote_currency": "USDC",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-USDK",
+        "min_size": "0.01",
+        "quote_currency": "USDK",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "LTC",
+        "category": "1",
+        "instrument_id": "LTC-USDT",
+        "min_size": "0.01",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "LUNA",
+        "category": "2",
+        "instrument_id": "LUNA-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
+    },
+    {
         "base_currency": "LUNA",
         "category": "2",
         "instrument_id": "LUNA-USDT",
@@ -1375,6 +2374,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "MANA",
+        "category": "2",
+        "instrument_id": "MANA-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "MANA",
+        "category": "2",
+        "instrument_id": "MANA-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.01",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "MANA",
@@ -1440,13 +2457,13 @@
         "tick_size": "1"
     },
     {
-        "base_currency": "MITH",
+        "base_currency": "MINA",
         "category": "2",
-        "instrument_id": "MITH-USDT",
-        "min_size": "10",
+        "instrument_id": "MINA-USDT",
+        "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
-        "tick_size": "0.00001"
+        "tick_size": "0.001"
     },
     {
         "base_currency": "MIR",
@@ -1458,11 +2475,38 @@
         "tick_size": "0.001"
     },
     {
-        "base_currency": "MINA",
+        "base_currency": "MITH",
         "category": "2",
-        "instrument_id": "MINA-USDT",
-        "min_size": "1",
+        "instrument_id": "MITH-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "MITH",
+        "category": "2",
+        "instrument_id": "MITH-USDT",
+        "min_size": "10",
         "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "MKR",
+        "category": "2",
+        "instrument_id": "MKR-BTC",
+        "min_size": "0.001",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "MKR",
+        "category": "2",
+        "instrument_id": "MKR-ETH",
+        "min_size": "0.001",
+        "quote_currency": "ETH",
         "size_increment": "0.000001",
         "tick_size": "0.001"
     },
@@ -1483,6 +2527,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "MOF",
+        "category": "3",
+        "instrument_id": "MOF-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "MOF",
@@ -1514,11 +2567,29 @@
     {
         "base_currency": "NANO",
         "category": "2",
+        "instrument_id": "NANO-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "NANO",
+        "category": "2",
         "instrument_id": "NANO-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "NAS",
+        "category": "2",
+        "instrument_id": "NAS-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "NAS",
@@ -1541,11 +2612,47 @@
     {
         "base_currency": "NEAR",
         "category": "2",
+        "instrument_id": "NEAR-BTC",
+        "min_size": "0.5",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "NEAR",
+        "category": "2",
+        "instrument_id": "NEAR-ETH",
+        "min_size": "0.5",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "NEAR",
+        "category": "2",
         "instrument_id": "NEAR-USDT",
         "min_size": "0.5",
         "quote_currency": "USDT",
         "size_increment": "0.00000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "NEO",
+        "category": "2",
+        "instrument_id": "NEO-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "NEO",
+        "category": "2",
+        "instrument_id": "NEO-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.00001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "NEO",
@@ -1568,11 +2675,38 @@
     {
         "base_currency": "NU",
         "category": "2",
+        "instrument_id": "NU-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "NU",
+        "category": "2",
         "instrument_id": "NU-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "NULS",
+        "category": "2",
+        "instrument_id": "NULS-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "NULS",
+        "category": "2",
+        "instrument_id": "NULS-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "NULS",
@@ -1584,10 +2718,109 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "OKB",
+        "category": "1",
+        "instrument_id": "OKB-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "OKB",
+        "category": "1",
+        "instrument_id": "OKB-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "OKB",
+        "category": "1",
+        "instrument_id": "OKB-USDC",
+        "min_size": "0.1",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "OKB",
+        "category": "1",
+        "instrument_id": "OKB-USDK",
+        "min_size": "0.1",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "OKB",
+        "category": "1",
+        "instrument_id": "OKB-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "OKT",
+        "category": "1",
+        "instrument_id": "OKT-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "OKT",
+        "category": "1",
+        "instrument_id": "OKT-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "OKT",
+        "category": "1",
+        "instrument_id": "OKT-USDT",
+        "min_size": "0.01",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
+    },
+    {
+        "base_currency": "OM",
+        "category": "2",
+        "instrument_id": "OM-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
         "base_currency": "OM",
         "category": "2",
         "instrument_id": "OM-USDT",
         "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "OMG",
+        "category": "2",
+        "instrument_id": "OMG-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "OMG",
+        "category": "2",
+        "instrument_id": "OMG-USDT",
+        "min_size": "0.1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
@@ -1600,6 +2833,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.001",
         "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ONT",
+        "category": "2",
+        "instrument_id": "ONT-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "ONT",
+        "category": "2",
+        "instrument_id": "ONT-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.000001"
     },
     {
         "base_currency": "ONT",
@@ -1640,11 +2891,29 @@
     {
         "base_currency": "PAX",
         "category": "2",
+        "instrument_id": "PAX-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "PAX",
+        "category": "2",
         "instrument_id": "PAX-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "PAY",
+        "category": "2",
+        "instrument_id": "PAY-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "PAY",
@@ -1663,6 +2932,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "PHA",
+        "category": "2",
+        "instrument_id": "PHA-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "PHA",
@@ -1690,6 +2968,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "PMA",
+        "category": "3",
+        "instrument_id": "PMA-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000000001"
+    },
+    {
+        "base_currency": "PMA",
+        "category": "3",
+        "instrument_id": "PMA-USDK",
+        "min_size": "1",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "PNK",
@@ -1721,6 +3017,15 @@
     {
         "base_currency": "PROPS",
         "category": "3",
+        "instrument_id": "PROPS-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "PROPS",
+        "category": "3",
         "instrument_id": "PROPS-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -1739,10 +3044,37 @@
     {
         "base_currency": "PST",
         "category": "3",
+        "instrument_id": "PST-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "PST",
+        "category": "3",
         "instrument_id": "PST-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "QTUM",
+        "category": "2",
+        "instrument_id": "QTUM-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "QTUM",
+        "category": "2",
+        "instrument_id": "QTUM-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00001",
         "tick_size": "0.00001"
     },
     {
@@ -1757,10 +3089,28 @@
     {
         "base_currency": "REN",
         "category": "2",
+        "instrument_id": "REN-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "REN",
+        "category": "2",
         "instrument_id": "REN-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "REP",
+        "category": "2",
+        "instrument_id": "REP-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
         "tick_size": "0.00001"
     },
     {
@@ -1771,6 +3121,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "REVV",
+        "category": "3",
+        "instrument_id": "REVV-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "RFUEL",
+        "category": "3",
+        "instrument_id": "RFUEL-ETH",
+        "min_size": "5",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "RFUEL",
@@ -1811,11 +3179,38 @@
     {
         "base_currency": "RSR",
         "category": "2",
+        "instrument_id": "RSR-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "RSR",
+        "category": "2",
+        "instrument_id": "RSR-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "RSR",
+        "category": "2",
         "instrument_id": "RSR-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "RVN",
+        "category": "2",
+        "instrument_id": "RVN-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "RVN",
@@ -1834,6 +3229,24 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "SBTC",
+        "category": "2",
+        "instrument_id": "SBTC-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "SC",
+        "category": "2",
+        "instrument_id": "SC-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "SC",
@@ -1872,12 +3285,48 @@
         "tick_size": "0.00001"
     },
     {
+        "base_currency": "SLP",
+        "category": "2",
+        "instrument_id": "SLP-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "SNC",
+        "category": "2",
+        "instrument_id": "SNC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "SNT",
+        "category": "2",
+        "instrument_id": "SNT-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
+    },
+    {
         "base_currency": "SNT",
         "category": "2",
         "instrument_id": "SNT-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "SNX",
+        "category": "2",
+        "instrument_id": "SNX-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
         "tick_size": "0.00001"
     },
     {
@@ -1897,6 +3346,42 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "SOL",
+        "category": "2",
+        "instrument_id": "SOL-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "SOL",
+        "category": "2",
+        "instrument_id": "SOL-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "SOL",
+        "category": "2",
+        "instrument_id": "SOL-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "SRM",
+        "category": "2",
+        "instrument_id": "SRM-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "SRM",
@@ -1928,6 +3413,15 @@
     {
         "base_currency": "STX",
         "category": "2",
+        "instrument_id": "STX-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "STX",
+        "category": "2",
         "instrument_id": "STX-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -1946,11 +3440,38 @@
     {
         "base_currency": "SUSHI",
         "category": "2",
+        "instrument_id": "SUSHI-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "SUSHI",
+        "category": "2",
         "instrument_id": "SUSHI-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "SWFTC",
+        "category": "2",
+        "instrument_id": "SWFTC-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.1",
+        "tick_size": "0.0000000001"
+    },
+    {
+        "base_currency": "SWFTC",
+        "category": "2",
+        "instrument_id": "SWFTC-ETH",
+        "min_size": "100",
+        "quote_currency": "ETH",
+        "size_increment": "0.1",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "SWFTC",
@@ -1991,6 +3512,15 @@
     {
         "base_currency": "THETA",
         "category": "2",
+        "instrument_id": "THETA-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "THETA",
+        "category": "2",
         "instrument_id": "THETA-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -2025,15 +3555,6 @@
         "tick_size": "0.01"
     },
     {
-        "base_currency": "TRADE",
-        "category": "3",
-        "instrument_id": "TRADE-USDT",
-        "min_size": "1",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
         "base_currency": "TRA",
         "category": "3",
         "instrument_id": "TRA-USDT",
@@ -2041,6 +3562,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "TRADE",
+        "category": "3",
+        "instrument_id": "TRADE-USDT",
+        "min_size": "1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
     },
     {
         "base_currency": "TRB",
@@ -2054,11 +3584,74 @@
     {
         "base_currency": "TRIO",
         "category": "2",
+        "instrument_id": "TRIO-BTC",
+        "min_size": "1000",
+        "quote_currency": "BTC",
+        "size_increment": "0.1",
+        "tick_size": "0.0000000001"
+    },
+    {
+        "base_currency": "TRIO",
+        "category": "2",
         "instrument_id": "TRIO-USDT",
         "min_size": "1000",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "TRUE",
+        "category": "3",
+        "instrument_id": "TRUE-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "TRUE",
+        "category": "3",
+        "instrument_id": "TRUE-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "TRX",
+        "category": "1",
+        "instrument_id": "TRX-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.01",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "TRX",
+        "category": "1",
+        "instrument_id": "TRX-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.01",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "TRX",
+        "category": "1",
+        "instrument_id": "TRX-USDC",
+        "min_size": "10",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "TRX",
+        "category": "1",
+        "instrument_id": "TRX-USDK",
+        "min_size": "10",
+        "quote_currency": "USDK",
+        "size_increment": "0.01",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "TRX",
@@ -2070,13 +3663,13 @@
         "tick_size": "0.00001"
     },
     {
-        "base_currency": "TRUE",
-        "category": "3",
-        "instrument_id": "TRUE-USDT",
-        "min_size": "10",
-        "quote_currency": "USDT",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
+        "base_currency": "TUSD",
+        "category": "2",
+        "instrument_id": "TUSD-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "TUSD",
@@ -2108,6 +3701,24 @@
     {
         "base_currency": "UNI",
         "category": "2",
+        "instrument_id": "UNI-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "UNI",
+        "category": "2",
+        "instrument_id": "UNI-ETH",
+        "min_size": "0.1",
+        "quote_currency": "ETH",
+        "size_increment": "0.00001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "UNI",
+        "category": "2",
         "instrument_id": "UNI-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -2117,10 +3728,28 @@
     {
         "base_currency": "USDC",
         "category": "2",
+        "instrument_id": "USDC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "USDC",
+        "category": "2",
         "instrument_id": "USDC-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "USDT",
+        "category": "2",
+        "instrument_id": "USDT-USDK",
+        "min_size": "0.1",
+        "quote_currency": "USDK",
+        "size_increment": "0.0001",
         "tick_size": "0.0001"
     },
     {
@@ -2153,11 +3782,29 @@
     {
         "base_currency": "VIB",
         "category": "2",
+        "instrument_id": "VIB-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "VIB",
+        "category": "2",
         "instrument_id": "VIB-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "VITE",
+        "category": "2",
+        "instrument_id": "VITE-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000000001"
     },
     {
         "base_currency": "VRA",
@@ -2171,6 +3818,15 @@
     {
         "base_currency": "VSYS",
         "category": "2",
+        "instrument_id": "VSYS-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "VSYS",
+        "category": "2",
         "instrument_id": "VSYS-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -2180,11 +3836,38 @@
     {
         "base_currency": "WAVES",
         "category": "2",
+        "instrument_id": "WAVES-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "WAVES",
+        "category": "2",
         "instrument_id": "WAVES-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
         "size_increment": "0.00000001",
         "tick_size": "0.001"
+    },
+    {
+        "base_currency": "WBTC",
+        "category": "2",
+        "instrument_id": "WBTC-BTC",
+        "min_size": "0.00001",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "WBTC",
+        "category": "2",
+        "instrument_id": "WBTC-ETH",
+        "min_size": "0.00001",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.01"
     },
     {
         "base_currency": "WBTC",
@@ -2234,6 +3917,15 @@
     {
         "base_currency": "WTC",
         "category": "2",
+        "instrument_id": "WTC-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "WTC",
+        "category": "2",
         "instrument_id": "WTC-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -2243,10 +3935,28 @@
     {
         "base_currency": "WXT",
         "category": "2",
+        "instrument_id": "WXT-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "WXT",
+        "category": "2",
         "instrument_id": "WXT-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "XCH",
+        "category": "2",
+        "instrument_id": "XCH-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
         "tick_size": "0.000001"
     },
     {
@@ -2270,6 +3980,24 @@
     {
         "base_currency": "XEM",
         "category": "2",
+        "instrument_id": "XEM-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "XEM",
+        "category": "2",
+        "instrument_id": "XEM-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "XEM",
+        "category": "2",
         "instrument_id": "XEM-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -2279,9 +4007,45 @@
     {
         "base_currency": "XLM",
         "category": "2",
+        "instrument_id": "XLM-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "XLM",
+        "category": "2",
+        "instrument_id": "XLM-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
+    },
+    {
+        "base_currency": "XLM",
+        "category": "2",
         "instrument_id": "XLM-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "XMR",
+        "category": "2",
+        "instrument_id": "XMR-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "XMR",
+        "category": "2",
+        "instrument_id": "XMR-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
     },
@@ -2315,6 +4079,51 @@
     {
         "base_currency": "XRP",
         "category": "1",
+        "instrument_id": "XRP-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "XRP",
+        "category": "1",
+        "instrument_id": "XRP-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "XRP",
+        "category": "1",
+        "instrument_id": "XRP-OKB",
+        "min_size": "1",
+        "quote_currency": "OKB",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "XRP",
+        "category": "1",
+        "instrument_id": "XRP-USDC",
+        "min_size": "1",
+        "quote_currency": "USDC",
+        "size_increment": "0.0001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "XRP",
+        "category": "1",
+        "instrument_id": "XRP-USDK",
+        "min_size": "1",
+        "quote_currency": "USDK",
+        "size_increment": "0.001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "XRP",
+        "category": "1",
         "instrument_id": "XRP-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -2329,6 +4138,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "XTZ",
+        "category": "2",
+        "instrument_id": "XTZ-BTC",
+        "min_size": "0.1",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.00000001"
     },
     {
         "base_currency": "XTZ",
@@ -2360,6 +4178,24 @@
     {
         "base_currency": "YFI",
         "category": "2",
+        "instrument_id": "YFI-BTC",
+        "min_size": "0.00001",
+        "quote_currency": "BTC",
+        "size_increment": "0.0001",
+        "tick_size": "0.001"
+    },
+    {
+        "base_currency": "YFI",
+        "category": "2",
+        "instrument_id": "YFI-ETH",
+        "min_size": "0.00001",
+        "quote_currency": "ETH",
+        "size_increment": "0.0001",
+        "tick_size": "0.1"
+    },
+    {
+        "base_currency": "YFI",
+        "category": "2",
         "instrument_id": "YFI-USDT",
         "min_size": "0.0001",
         "quote_currency": "USDT",
@@ -2387,6 +4223,15 @@
     {
         "base_currency": "YOU",
         "category": "3",
+        "instrument_id": "YOU-BTC",
+        "min_size": "100",
+        "quote_currency": "BTC",
+        "size_increment": "0.00000001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "YOU",
+        "category": "3",
         "instrument_id": "YOU-USDT",
         "min_size": "100",
         "quote_currency": "USDT",
@@ -2405,6 +4250,24 @@
     {
         "base_currency": "ZEC",
         "category": "2",
+        "instrument_id": "ZEC-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ZEC",
+        "category": "2",
+        "instrument_id": "ZEC-ETH",
+        "min_size": "0.01",
+        "quote_currency": "ETH",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "ZEC",
+        "category": "2",
         "instrument_id": "ZEC-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
@@ -2414,11 +4277,38 @@
     {
         "base_currency": "ZEN",
         "category": "2",
+        "instrument_id": "ZEN-BTC",
+        "min_size": "0.01",
+        "quote_currency": "BTC",
+        "size_increment": "0.00001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ZEN",
+        "category": "2",
         "instrument_id": "ZEN-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.01"
+    },
+    {
+        "base_currency": "ZIL",
+        "category": "2",
+        "instrument_id": "ZIL-BTC",
+        "min_size": "10",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.000000001"
+    },
+    {
+        "base_currency": "ZIL",
+        "category": "2",
+        "instrument_id": "ZIL-ETH",
+        "min_size": "10",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.0000001"
     },
     {
         "base_currency": "ZIL",
@@ -2441,6 +4331,24 @@
     {
         "base_currency": "ZRX",
         "category": "2",
+        "instrument_id": "ZRX-BTC",
+        "min_size": "1",
+        "quote_currency": "BTC",
+        "size_increment": "0.001",
+        "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ZRX",
+        "category": "2",
+        "instrument_id": "ZRX-ETH",
+        "min_size": "1",
+        "quote_currency": "ETH",
+        "size_increment": "0.001",
+        "tick_size": "0.000001"
+    },
+    {
+        "base_currency": "ZRX",
+        "category": "2",
         "instrument_id": "ZRX-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -2455,1913 +4363,5 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "BTC",
-        "category": "1",
-        "instrument_id": "BTC-USDK",
-        "min_size": "0.00001",
-        "quote_currency": "USDK",
-        "size_increment": "0.00000001",
-        "tick_size": "0.1"
-    },
-    {
-        "base_currency": "ETH",
-        "category": "1",
-        "instrument_id": "ETH-USDK",
-        "min_size": "0.001",
-        "quote_currency": "USDK",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "OKB",
-        "category": "1",
-        "instrument_id": "OKB-USDK",
-        "min_size": "0.1",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-USDK",
-        "min_size": "0.01",
-        "quote_currency": "USDK",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "BTC",
-        "category": "1",
-        "instrument_id": "BTC-USDC",
-        "min_size": "0.00001",
-        "quote_currency": "USDC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.1"
-    },
-    {
-        "base_currency": "ETH",
-        "category": "1",
-        "instrument_id": "ETH-USDC",
-        "min_size": "0.001",
-        "quote_currency": "USDC",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "OKB",
-        "category": "1",
-        "instrument_id": "OKB-USDC",
-        "min_size": "0.1",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-USDC",
-        "min_size": "0.01",
-        "quote_currency": "USDC",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "ETH",
-        "category": "1",
-        "instrument_id": "ETH-BTC",
-        "min_size": "0.001",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "OKB",
-        "category": "1",
-        "instrument_id": "OKB-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "OKT",
-        "category": "1",
-        "instrument_id": "OKT-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "DOT",
-        "category": "2",
-        "instrument_id": "DOT-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "KSM",
-        "category": "2",
-        "instrument_id": "KSM-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "DOGE",
-        "category": "2",
-        "instrument_id": "DOGE-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "XRP",
-        "category": "1",
-        "instrument_id": "XRP-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "ETC",
-        "category": "1",
-        "instrument_id": "ETC-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "EOS",
-        "category": "1",
-        "instrument_id": "EOS-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "FIL",
-        "category": "2",
-        "instrument_id": "FIL-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "TRX",
-        "category": "1",
-        "instrument_id": "TRX-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "CQT",
-        "category": "3",
-        "instrument_id": "CQT-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-OKB",
-        "min_size": "0.01",
-        "quote_currency": "OKB",
-        "size_increment": "0.000001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "OKB",
-        "category": "1",
-        "instrument_id": "OKB-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "OKT",
-        "category": "1",
-        "instrument_id": "OKT-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "LTC",
-        "category": "1",
-        "instrument_id": "LTC-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "DOT",
-        "category": "2",
-        "instrument_id": "DOT-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "KSM",
-        "category": "2",
-        "instrument_id": "KSM-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "DOGE",
-        "category": "2",
-        "instrument_id": "DOGE-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "LINK",
-        "category": "2",
-        "instrument_id": "LINK-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "ADA",
-        "category": "2",
-        "instrument_id": "ADA-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "BTC",
-        "category": "1",
-        "instrument_id": "BTC-DAI",
-        "min_size": "0.00001",
-        "quote_currency": "DAI",
-        "size_increment": "0.00000001",
-        "tick_size": "0.1"
-    },
-    {
-        "base_currency": "ETH",
-        "category": "1",
-        "instrument_id": "ETH-DAI",
-        "min_size": "0.001",
-        "quote_currency": "DAI",
-        "size_increment": "0.000001",
-        "tick_size": "1"
-    },
-    {
-        "base_currency": "ALPHA",
-        "category": "2",
-        "instrument_id": "ALPHA-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "DOGE",
-        "category": "2",
-        "instrument_id": "DOGE-USDK",
-        "min_size": "10",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "BCH",
-        "category": "1",
-        "instrument_id": "BCH-USDK",
-        "min_size": "0.001",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "BSV",
-        "category": "1",
-        "instrument_id": "BSV-USDK",
-        "min_size": "0.01",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "CRO",
-        "category": "2",
-        "instrument_id": "CRO-USDK",
-        "min_size": "10",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "EOS",
-        "category": "1",
-        "instrument_id": "EOS-USDK",
-        "min_size": "0.1",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "ETC",
-        "category": "1",
-        "instrument_id": "ETC-USDK",
-        "min_size": "0.1",
-        "quote_currency": "USDK",
-        "size_increment": "0.00001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "HBAR",
-        "category": "2",
-        "instrument_id": "HBAR-USDK",
-        "min_size": "10",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "PMA",
-        "category": "3",
-        "instrument_id": "PMA-USDK",
-        "min_size": "1",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "TRX",
-        "category": "1",
-        "instrument_id": "TRX-USDK",
-        "min_size": "10",
-        "quote_currency": "USDK",
-        "size_increment": "0.01",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "USDT",
-        "category": "2",
-        "instrument_id": "USDT-USDK",
-        "min_size": "0.1",
-        "quote_currency": "USDK",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "XRP",
-        "category": "1",
-        "instrument_id": "XRP-USDK",
-        "min_size": "1",
-        "quote_currency": "USDK",
-        "size_increment": "0.001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "BCH",
-        "category": "1",
-        "instrument_id": "BCH-USDC",
-        "min_size": "0.001",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "BSV",
-        "category": "1",
-        "instrument_id": "BSV-USDC",
-        "min_size": "0.01",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "EOS",
-        "category": "1",
-        "instrument_id": "EOS-USDC",
-        "min_size": "0.1",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "ETC",
-        "category": "1",
-        "instrument_id": "ETC-USDC",
-        "min_size": "0.1",
-        "quote_currency": "USDC",
-        "size_increment": "0.00001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "TRX",
-        "category": "1",
-        "instrument_id": "TRX-USDC",
-        "min_size": "10",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "XRP",
-        "category": "1",
-        "instrument_id": "XRP-USDC",
-        "min_size": "1",
-        "quote_currency": "USDC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "AAVE",
-        "category": "2",
-        "instrument_id": "AAVE-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "ACT",
-        "category": "2",
-        "instrument_id": "ACT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "ADA",
-        "category": "2",
-        "instrument_id": "ADA-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "AE",
-        "category": "2",
-        "instrument_id": "AE-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "ALGO",
-        "category": "2",
-        "instrument_id": "ALGO-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ANT",
-        "category": "2",
-        "instrument_id": "ANT-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ARDR",
-        "category": "2",
-        "instrument_id": "ARDR-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "ARK",
-        "category": "2",
-        "instrument_id": "ARK-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ATOM",
-        "category": "2",
-        "instrument_id": "ATOM-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "AVAX",
-        "category": "2",
-        "instrument_id": "AVAX-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "BADGER",
-        "category": "2",
-        "instrument_id": "BADGER-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "BAL",
-        "category": "2",
-        "instrument_id": "BAL-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "BAT",
-        "category": "2",
-        "instrument_id": "BAT-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "BCD",
-        "category": "2",
-        "instrument_id": "BCD-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "BCH",
-        "category": "1",
-        "instrument_id": "BCH-BTC",
-        "min_size": "0.001",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "BCX",
-        "category": "2",
-        "instrument_id": "BCX-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.1",
-        "tick_size": "0.00000000001"
-    },
-    {
-        "base_currency": "BHP",
-        "category": "3",
-        "instrument_id": "BHP-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "BNT",
-        "category": "2",
-        "instrument_id": "BNT-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "BSV",
-        "category": "1",
-        "instrument_id": "BSV-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "BTG",
-        "category": "2",
-        "instrument_id": "BTG-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "BTM",
-        "category": "2",
-        "instrument_id": "BTM-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "BTT",
-        "category": "2",
-        "instrument_id": "BTT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000000001"
-    },
-    {
-        "base_currency": "CELO",
-        "category": "2",
-        "instrument_id": "CELO-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "CHZ",
-        "category": "2",
-        "instrument_id": "CHZ-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "CMT",
-        "category": "2",
-        "instrument_id": "CMT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "COMP",
-        "category": "2",
-        "instrument_id": "COMP-BTC",
-        "min_size": "0.001",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "CRO",
-        "category": "2",
-        "instrument_id": "CRO-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "CRV",
-        "category": "2",
-        "instrument_id": "CRV-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "CTC",
-        "category": "3",
-        "instrument_id": "CTC-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "CVC",
-        "category": "2",
-        "instrument_id": "CVC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "CVT",
-        "category": "3",
-        "instrument_id": "CVT-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "DASH",
-        "category": "2",
-        "instrument_id": "DASH-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "DCR",
-        "category": "2",
-        "instrument_id": "DCR-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "DGB",
-        "category": "2",
-        "instrument_id": "DGB-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "DNA",
-        "category": "3",
-        "instrument_id": "DNA-BTC",
-        "min_size": "1000",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000000001"
-    },
-    {
-        "base_currency": "EGLD",
-        "category": "2",
-        "instrument_id": "EGLD-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "EGT",
-        "category": "2",
-        "instrument_id": "EGT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000000001"
-    },
-    {
-        "base_currency": "ELF",
-        "category": "2",
-        "instrument_id": "ELF-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "ENJ",
-        "category": "2",
-        "instrument_id": "ENJ-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "FLOW",
-        "category": "2",
-        "instrument_id": "FLOW-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "FUN",
-        "category": "2",
-        "instrument_id": "FUN-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "GAS",
-        "category": "2",
-        "instrument_id": "GAS-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "GNX",
-        "category": "2",
-        "instrument_id": "GNX-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "GRT",
-        "category": "2",
-        "instrument_id": "GRT-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "GTO",
-        "category": "2",
-        "instrument_id": "GTO-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "HBAR",
-        "category": "2",
-        "instrument_id": "HBAR-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "HC",
-        "category": "2",
-        "instrument_id": "HC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ICX",
-        "category": "2",
-        "instrument_id": "ICX-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ICP",
-        "category": "2",
-        "instrument_id": "ICP-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "INT",
-        "category": "3",
-        "instrument_id": "INT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "IOST",
-        "category": "2",
-        "instrument_id": "IOST-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.0000000001"
-    },
-    {
-        "base_currency": "IOTA",
-        "category": "2",
-        "instrument_id": "IOTA-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "KLAY",
-        "category": "2",
-        "instrument_id": "KLAY-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "KNC",
-        "category": "2",
-        "instrument_id": "KNC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "LINK",
-        "category": "2",
-        "instrument_id": "LINK-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "LRC",
-        "category": "2",
-        "instrument_id": "LRC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "LSK",
-        "category": "2",
-        "instrument_id": "LSK-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "LUNA",
-        "category": "2",
-        "instrument_id": "LUNA-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "MANA",
-        "category": "2",
-        "instrument_id": "MANA-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "MITH",
-        "category": "2",
-        "instrument_id": "MITH-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "MKR",
-        "category": "2",
-        "instrument_id": "MKR-BTC",
-        "min_size": "0.001",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "MOF",
-        "category": "3",
-        "instrument_id": "MOF-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "NANO",
-        "category": "2",
-        "instrument_id": "NANO-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "NAS",
-        "category": "2",
-        "instrument_id": "NAS-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "NEAR",
-        "category": "2",
-        "instrument_id": "NEAR-BTC",
-        "min_size": "0.5",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "NEO",
-        "category": "2",
-        "instrument_id": "NEO-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "NU",
-        "category": "2",
-        "instrument_id": "NU-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "NULS",
-        "category": "2",
-        "instrument_id": "NULS-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "OMG",
-        "category": "2",
-        "instrument_id": "OMG-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ONT",
-        "category": "2",
-        "instrument_id": "ONT-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "PAX",
-        "category": "2",
-        "instrument_id": "PAX-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "PAY",
-        "category": "2",
-        "instrument_id": "PAY-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "PMA",
-        "category": "3",
-        "instrument_id": "PMA-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000000001"
-    },
-    {
-        "base_currency": "PST",
-        "category": "3",
-        "instrument_id": "PST-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "QTUM",
-        "category": "2",
-        "instrument_id": "QTUM-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "REN",
-        "category": "2",
-        "instrument_id": "REN-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "RSR",
-        "category": "2",
-        "instrument_id": "RSR-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "RVN",
-        "category": "2",
-        "instrument_id": "RVN-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "SBTC",
-        "category": "2",
-        "instrument_id": "SBTC-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "SC",
-        "category": "2",
-        "instrument_id": "SC-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "SNC",
-        "category": "2",
-        "instrument_id": "SNC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "SNT",
-        "category": "2",
-        "instrument_id": "SNT-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "SOL",
-        "category": "2",
-        "instrument_id": "SOL-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "SRM",
-        "category": "2",
-        "instrument_id": "SRM-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "STX",
-        "category": "2",
-        "instrument_id": "STX-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "SWFTC",
-        "category": "2",
-        "instrument_id": "SWFTC-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.1",
-        "tick_size": "0.0000000001"
-    },
-    {
-        "base_currency": "THETA",
-        "category": "2",
-        "instrument_id": "THETA-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.01",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "TRIO",
-        "category": "2",
-        "instrument_id": "TRIO-BTC",
-        "min_size": "1000",
-        "quote_currency": "BTC",
-        "size_increment": "0.1",
-        "tick_size": "0.0000000001"
-    },
-    {
-        "base_currency": "TRUE",
-        "category": "3",
-        "instrument_id": "TRUE-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "TUSD",
-        "category": "2",
-        "instrument_id": "TUSD-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "UNI",
-        "category": "2",
-        "instrument_id": "UNI-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "USDC",
-        "category": "2",
-        "instrument_id": "USDC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "VIB",
-        "category": "2",
-        "instrument_id": "VIB-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "VITE",
-        "category": "2",
-        "instrument_id": "VITE-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "VSYS",
-        "category": "2",
-        "instrument_id": "VSYS-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "WAVES",
-        "category": "2",
-        "instrument_id": "WAVES-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "WBTC",
-        "category": "2",
-        "instrument_id": "WBTC-BTC",
-        "min_size": "0.00001",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "WTC",
-        "category": "2",
-        "instrument_id": "WTC-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "WXT",
-        "category": "2",
-        "instrument_id": "WXT-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "XCH",
-        "category": "2",
-        "instrument_id": "XCH-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "XEM",
-        "category": "2",
-        "instrument_id": "XEM-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "XLM",
-        "category": "2",
-        "instrument_id": "XLM-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "XMR",
-        "category": "2",
-        "instrument_id": "XMR-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "XTZ",
-        "category": "2",
-        "instrument_id": "XTZ-BTC",
-        "min_size": "0.1",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "YFI",
-        "category": "2",
-        "instrument_id": "YFI-BTC",
-        "min_size": "0.00001",
-        "quote_currency": "BTC",
-        "size_increment": "0.0001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "YOU",
-        "category": "3",
-        "instrument_id": "YOU-BTC",
-        "min_size": "100",
-        "quote_currency": "BTC",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "ZEC",
-        "category": "2",
-        "instrument_id": "ZEC-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "ZEN",
-        "category": "2",
-        "instrument_id": "ZEN-BTC",
-        "min_size": "0.01",
-        "quote_currency": "BTC",
-        "size_increment": "0.00001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "ZIL",
-        "category": "2",
-        "instrument_id": "ZIL-BTC",
-        "min_size": "10",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "ZRX",
-        "category": "2",
-        "instrument_id": "ZRX-BTC",
-        "min_size": "1",
-        "quote_currency": "BTC",
-        "size_increment": "0.001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "ETC",
-        "category": "1",
-        "instrument_id": "ETC-OKB",
-        "min_size": "0.1",
-        "quote_currency": "OKB",
-        "size_increment": "0.00001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "XRP",
-        "category": "1",
-        "instrument_id": "XRP-OKB",
-        "min_size": "1",
-        "quote_currency": "OKB",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "SUSHI",
-        "category": "2",
-        "instrument_id": "SUSHI-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "UNI",
-        "category": "2",
-        "instrument_id": "UNI-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "FIL",
-        "category": "2",
-        "instrument_id": "FIL-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "1INCH",
-        "category": "2",
-        "instrument_id": "1INCH-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "AAVE",
-        "category": "2",
-        "instrument_id": "AAVE-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "API3",
-        "category": "2",
-        "instrument_id": "API3-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "ATOM",
-        "category": "2",
-        "instrument_id": "ATOM-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "AVAX",
-        "category": "2",
-        "instrument_id": "AVAX-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "BETH",
-        "category": "2",
-        "instrument_id": "BETH-ETH",
-        "min_size": "0.001",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "BTM",
-        "category": "2",
-        "instrument_id": "BTM-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "CMT",
-        "category": "2",
-        "instrument_id": "CMT-ETH",
-        "min_size": "100",
-        "quote_currency": "ETH",
-        "size_increment": "0.01",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "CRV",
-        "category": "2",
-        "instrument_id": "CRV-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "DASH",
-        "category": "2",
-        "instrument_id": "DASH-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "EGT",
-        "category": "2",
-        "instrument_id": "EGT-ETH",
-        "min_size": "100",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "EOS",
-        "category": "1",
-        "instrument_id": "EOS-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "ETC",
-        "category": "1",
-        "instrument_id": "ETC-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "FLOW",
-        "category": "2",
-        "instrument_id": "FLOW-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "GAS",
-        "category": "2",
-        "instrument_id": "GAS-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "GHST",
-        "category": "2",
-        "instrument_id": "GHST-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "HEGIC",
-        "category": "2",
-        "instrument_id": "HEGIC-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.0000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "INT",
-        "category": "3",
-        "instrument_id": "INT-ETH",
-        "min_size": "100",
-        "quote_currency": "ETH",
-        "size_increment": "0.01",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "IOST",
-        "category": "2",
-        "instrument_id": "IOST-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.01",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "KAN",
-        "category": "2",
-        "instrument_id": "KAN-ETH",
-        "min_size": "100",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "MANA",
-        "category": "2",
-        "instrument_id": "MANA-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.01",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "LON",
-        "category": "3",
-        "instrument_id": "LON-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "MKR",
-        "category": "2",
-        "instrument_id": "MKR-ETH",
-        "min_size": "0.001",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.001"
-    },
-    {
-        "base_currency": "NEAR",
-        "category": "2",
-        "instrument_id": "NEAR-ETH",
-        "min_size": "0.5",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "NEO",
-        "category": "2",
-        "instrument_id": "NEO-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.00001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "NULS",
-        "category": "2",
-        "instrument_id": "NULS-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "OM",
-        "category": "2",
-        "instrument_id": "OM-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ONT",
-        "category": "2",
-        "instrument_id": "ONT-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "PHA",
-        "category": "2",
-        "instrument_id": "PHA-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "PROPS",
-        "category": "3",
-        "instrument_id": "PROPS-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.00000001",
-        "tick_size": "0.00000001"
-    },
-    {
-        "base_currency": "QTUM",
-        "category": "2",
-        "instrument_id": "QTUM-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.00001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "REP",
-        "category": "2",
-        "instrument_id": "REP-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "RFUEL",
-        "category": "3",
-        "instrument_id": "RFUEL-ETH",
-        "min_size": "5",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "RSR",
-        "category": "2",
-        "instrument_id": "RSR-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "SNX",
-        "category": "2",
-        "instrument_id": "SNX-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "SOL",
-        "category": "2",
-        "instrument_id": "SOL-ETH",
-        "min_size": "0.1",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "SWFTC",
-        "category": "2",
-        "instrument_id": "SWFTC-ETH",
-        "min_size": "100",
-        "quote_currency": "ETH",
-        "size_increment": "0.1",
-        "tick_size": "0.000000001"
-    },
-    {
-        "base_currency": "TRX",
-        "category": "1",
-        "instrument_id": "TRX-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.01",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "WBTC",
-        "category": "2",
-        "instrument_id": "WBTC-ETH",
-        "min_size": "0.00001",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.01"
-    },
-    {
-        "base_currency": "XEM",
-        "category": "2",
-        "instrument_id": "XEM-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "XLM",
-        "category": "2",
-        "instrument_id": "XLM-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "XMR",
-        "category": "2",
-        "instrument_id": "XMR-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.00001"
-    },
-    {
-        "base_currency": "XRP",
-        "category": "1",
-        "instrument_id": "XRP-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.000001"
-    },
-    {
-        "base_currency": "YFI",
-        "category": "2",
-        "instrument_id": "YFI-ETH",
-        "min_size": "0.00001",
-        "quote_currency": "ETH",
-        "size_increment": "0.0001",
-        "tick_size": "0.1"
-    },
-    {
-        "base_currency": "ZEC",
-        "category": "2",
-        "instrument_id": "ZEC-ETH",
-        "min_size": "0.01",
-        "quote_currency": "ETH",
-        "size_increment": "0.000001",
-        "tick_size": "0.0001"
-    },
-    {
-        "base_currency": "ZIL",
-        "category": "2",
-        "instrument_id": "ZIL-ETH",
-        "min_size": "10",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.0000001"
-    },
-    {
-        "base_currency": "ZRX",
-        "category": "2",
-        "instrument_id": "ZRX-ETH",
-        "min_size": "1",
-        "quote_currency": "ETH",
-        "size_increment": "0.001",
-        "tick_size": "0.000001"
     }
 ]

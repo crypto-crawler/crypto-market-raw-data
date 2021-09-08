@@ -4233,11 +4233,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "SFG",
+        "amount_precision": 3,
+        "base": "COFIX",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "SFG_USDT",
+        "id": "COFIX_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -4245,11 +4245,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "COFIX",
+        "amount_precision": 4,
+        "base": "SFG",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "COFIX_USDT",
+        "id": "SFG_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -15549,6 +15549,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "TALK",
+        "buy_start": 1631275200,
+        "fee": "0.2",
+        "id": "TALK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
