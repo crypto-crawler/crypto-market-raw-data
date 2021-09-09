@@ -1045,6 +1045,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "DYDX3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DYDX3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 4,
         "base": "ICP",
         "buy_start": 0,
@@ -3334,6 +3346,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "CHZ",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CHZ_USD",
+        "precision": 5,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EPK",
         "buy_start": 0,
         "fee": "0.2",
@@ -3466,6 +3489,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "STEP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "STEP_USD",
+        "precision": 5,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CRV",
         "buy_start": 0,
         "fee": "0.2",
@@ -3585,18 +3619,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
-        "base": "VTHO",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "VTHO_USDT",
-        "min_quote_amount": "1",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 3,
         "base": "OKB3L",
         "buy_start": 0,
@@ -3604,6 +3626,18 @@
         "id": "OKB3L_USDT",
         "min_quote_amount": "1",
         "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "VTHO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "VTHO_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -4413,6 +4447,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DYDX3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DYDX3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "GLQ",
         "buy_start": 0,
         "fee": "0.2",
@@ -5192,6 +5238,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "HT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "HT_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "TARA",
         "buy_start": 0,
         "fee": "0.2",
@@ -5548,6 +5605,17 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "REN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "REN_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -6327,6 +6395,17 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "OMG",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "OMG_USD",
+        "precision": 3,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -7416,6 +7495,17 @@
         "fee": "0.2",
         "id": "SRM_USD",
         "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CEL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CEL_USD",
+        "precision": 3,
         "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -9004,6 +9094,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "C98",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "C98_USD",
+        "precision": 5,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "KINE",
         "buy_start": 0,
         "fee": "0.2",
@@ -9603,14 +9704,14 @@
     {
         "amount_precision": 3,
         "base": "CYS",
-        "buy_start": 1631188800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CYS_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -10537,6 +10638,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "ENJ",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ENJ_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "KNC",
         "buy_start": 0,
         "fee": "0.2",
@@ -11198,14 +11310,14 @@
     {
         "amount_precision": 3,
         "base": "CYS",
-        "buy_start": 1631188800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CYS_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -11600,6 +11712,17 @@
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "AGLD",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AGLD_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -12121,6 +12244,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "FTM",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "FTM_USD",
+        "precision": 5,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DUSK",
         "buy_start": 0,
         "fee": "0.2",
@@ -12380,6 +12514,17 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DYDX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DYDX_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -13910,6 +14055,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "RAY",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RAY_USD",
+        "precision": 3,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "LUN",
         "buy_start": 0,
         "fee": "0.2",
@@ -14313,6 +14469,28 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SAND",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SAND_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DAI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DAI_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -15223,6 +15401,17 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PERP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "PERP_USD",
+        "precision": 3,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16477,6 +16666,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DVI",
+        "buy_start": 1631268000,
+        "fee": "0.2",
+        "id": "DVI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CHZ3L",
         "buy_start": 0,
         "fee": "0.2",
@@ -16532,6 +16733,17 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "CRV",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CRV_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16628,6 +16840,17 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CQT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CQT_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -17073,6 +17296,17 @@
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GRT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GRT_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -17785,6 +18019,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "SXP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SXP_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "QTUM",
         "buy_start": 0,
@@ -18193,6 +18438,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "AKRO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AKRO_USD",
+        "precision": 5,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "DOGNFT",
         "buy_start": 0,
@@ -18218,6 +18474,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "EDEN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "EDEN_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ETH",
         "buy_start": 0,
         "fee": "0.2",
@@ -18227,6 +18494,17 @@
         "quote": "SGD",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ZRX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ZRX_USD",
+        "precision": 4,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -19546,6 +19824,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "FTT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "FTT_USD",
+        "precision": 2,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 4,
         "base": "EZ",
         "buy_start": 0,
@@ -19818,6 +20107,17 @@
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "YFI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "YFI_USD",
+        "precision": 2,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
