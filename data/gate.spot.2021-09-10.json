@@ -195,14 +195,14 @@
     {
         "amount_precision": 3,
         "base": "SBR",
-        "buy_start": 1631253600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SBR_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -843,14 +843,14 @@
     {
         "amount_precision": 1,
         "base": "XYO",
-        "buy_start": 1631257200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "XYO_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -3323,14 +3323,14 @@
     {
         "amount_precision": 1,
         "base": "SUNNY",
-        "buy_start": 1631250000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SUNNY_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -6598,6 +6598,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "FTT3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "FTT3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -12448,14 +12460,14 @@
     {
         "amount_precision": 3,
         "base": "SBR",
-        "buy_start": 1631253600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SBR_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13511,6 +13523,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "RGT",
+        "buy_start": 1631264400,
+        "fee": "0.2",
+        "id": "RGT_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -19000,14 +19024,14 @@
     {
         "amount_precision": 3,
         "base": "SUNNY",
-        "buy_start": 1631250000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SUNNY_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20386,6 +20410,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "RGT",
+        "buy_start": 1631264400,
+        "fee": "0.2",
+        "id": "RGT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "LEDU",
         "buy_start": 0,
@@ -20676,14 +20712,14 @@
     {
         "amount_precision": 3,
         "base": "XYO",
-        "buy_start": 1631257200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "XYO_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21615,6 +21651,18 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "PNK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "FTT3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "FTT3S_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
