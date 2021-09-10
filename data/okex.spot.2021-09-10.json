@@ -1287,6 +1287,15 @@
         "tick_size": "0.000001"
     },
     {
+        "base_currency": "EDEN",
+        "category": "3",
+        "instrument_id": "EDEN-USDT",
+        "min_size": "1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.0001"
+    },
+    {
         "base_currency": "EFI",
         "category": "3",
         "instrument_id": "EFI-USDT",
@@ -1659,7 +1668,7 @@
         "base_currency": "FTM",
         "category": "2",
         "instrument_id": "FTM-USDT",
-        "min_size": "10",
+        "min_size": "1",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
