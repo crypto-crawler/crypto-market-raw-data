@@ -108202,5 +108202,249 @@
         "quotePrecision": 8,
         "status": "TRADING",
         "symbol": "USDPUSDT"
+    },
+    {
+        "baseAsset": "GALA",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.00001000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "USDT",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "GALAUSDT"
+    },
+    {
+        "baseAsset": "GALA",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.00001000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "BUSD",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "GALABUSD"
+    },
+    {
+        "baseAsset": "GALA",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.00000001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.05000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "BNB",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "GALABNB"
+    },
+    {
+        "baseAsset": "GALA",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.00000001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "BTC",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "GALABTC"
     }
 ]
