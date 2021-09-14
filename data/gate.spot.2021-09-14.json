@@ -1260,6 +1260,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "GAFI",
+        "buy_start": 1631610000,
+        "fee": "0.2",
+        "id": "GAFI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 5,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "TAI",
         "buy_start": 0,
@@ -2467,6 +2479,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ALD",
+        "buy_start": 1631613600,
+        "fee": "0.2",
+        "id": "ALD_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -5155,14 +5179,14 @@
     {
         "amount_precision": 3,
         "base": "LDO",
-        "buy_start": 1631599200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "LDO_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -6988,14 +7012,14 @@
     {
         "amount_precision": 3,
         "base": "LDO",
-        "buy_start": 1631599200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "LDO_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -16400,6 +16424,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "GAFI",
+        "buy_start": 1631610000,
+        "fee": "0.2",
+        "id": "GAFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "DOT3S",
         "buy_start": 0,
@@ -21776,6 +21812,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ALD",
+        "buy_start": 1631613600,
+        "fee": "0.2",
+        "id": "ALD_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
