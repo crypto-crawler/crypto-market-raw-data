@@ -1262,14 +1262,14 @@
     {
         "amount_precision": 3,
         "base": "GAFI",
-        "buy_start": 1631610000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GAFI_ETH",
         "min_quote_amount": "0.001",
         "precision": 5,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -2483,14 +2483,14 @@
     {
         "amount_precision": 3,
         "base": "ALD",
-        "buy_start": 1631613600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ALD_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -15730,14 +15730,14 @@
     {
         "amount_precision": 3,
         "base": "PING",
-        "buy_start": 1631617200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PING_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16426,14 +16426,14 @@
     {
         "amount_precision": 4,
         "base": "GAFI",
-        "buy_start": 1631610000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GAFI_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -18638,6 +18638,18 @@
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GEL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GEL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -20963,6 +20975,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "GEL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GEL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EXRD",
         "buy_start": 0,
         "fee": "0.2",
@@ -21816,14 +21840,14 @@
     {
         "amount_precision": 3,
         "base": "ALD",
-        "buy_start": 1631613600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ALD_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
