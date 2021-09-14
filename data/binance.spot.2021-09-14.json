@@ -67446,6 +67446,12 @@
                 "tickSize": "0.00100000"
             },
             {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
                 "filterType": "LOT_SIZE",
                 "minQty": "0.01000000",
                 "stepSize": "0.01000000"
@@ -67496,7 +67502,7 @@
         "quoteCommissionPrecision": 8,
         "quoteOrderQtyMarketAllowed": false,
         "quotePrecision": 8,
-        "status": "BREAK",
+        "status": "TRADING",
         "symbol": "TRXDOWNUSDT"
     },
     {
