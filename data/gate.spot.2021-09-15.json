@@ -3021,6 +3021,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "CTRC",
+        "buy_start": 1631851200,
+        "fee": "0.2",
+        "id": "CTRC_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "MXC",
         "buy_start": 0,
@@ -3921,14 +3933,14 @@
     {
         "amount_precision": 3,
         "base": "IDEX",
-        "buy_start": 1631689200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "IDEX_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -17099,14 +17111,14 @@
     {
         "amount_precision": 3,
         "base": "IDEX",
-        "buy_start": 1631689200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "IDEX_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -18748,6 +18760,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MONI",
+        "buy_start": 1631844000,
+        "fee": "0.2",
+        "id": "MONI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

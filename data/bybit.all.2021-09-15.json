@@ -725,6 +725,31 @@
         "taker_fee": "0.00075"
     },
     {
+        "alias": "ICPUSDT",
+        "base_currency": "ICP",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "ICPUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
         "alias": "BTCUSD0325",
         "base_currency": "BTC",
         "leverage_filter": {
