@@ -2211,6 +2211,22 @@
         "vcoinStatus": 1
     },
     {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": true,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 2,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "BNX_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "BNX",
+        "vcoinStatus": 1
+    },
+    {
         "etf_mark": 0,
         "limited": true,
         "maker_fee_rate": "0.002",
@@ -4981,7 +4997,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DYDX_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "DYDX",
         "vcoinStatus": 1

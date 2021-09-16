@@ -2002,6 +2002,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "HOTCROSS",
+        "buy_start": 1631937600,
+        "fee": "0.2",
+        "id": "HOTCROSS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CS",
         "buy_start": 0,
         "fee": "0.2",
@@ -4037,6 +4049,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PRT",
+        "buy_start": 1631932200,
+        "fee": "0.2",
+        "id": "PRT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -11166,14 +11190,14 @@
     {
         "amount_precision": 3,
         "base": "TOKE",
-        "buy_start": 1631786400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TOKE_ETH",
         "min_quote_amount": "0.001",
         "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13562,6 +13586,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "HOTCROSS",
+        "buy_start": 1631937600,
+        "fee": "0.2",
+        "id": "HOTCROSS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FLOW",
         "buy_start": 0,
         "fee": "0.2",
@@ -14152,14 +14188,14 @@
     {
         "amount_precision": 0,
         "base": "FLOKI",
-        "buy_start": 1631781000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "FLOKI_USDT",
         "min_quote_amount": "1",
         "precision": 10,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20388,6 +20424,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "PRT",
+        "buy_start": 1631932200,
+        "fee": "0.2",
+        "id": "PRT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "YAM",
         "buy_start": 0,
@@ -22164,14 +22212,14 @@
     {
         "amount_precision": 3,
         "base": "TOKE",
-        "buy_start": 1631786400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TOKE_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
