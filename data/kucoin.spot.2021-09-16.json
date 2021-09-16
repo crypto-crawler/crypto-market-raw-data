@@ -15052,7 +15052,7 @@
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "100",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -15136,6 +15136,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.000001",
         "symbol": "MLN-BTC"
+    },
+    {
+        "baseCurrency": "XNL",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "0.1",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "name": "XNL-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "XNL-USDT"
     },
     {
         "baseCurrency": "AERGO",

@@ -8075,6 +8075,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BTMV1",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BTMV1_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "OXT",
         "buy_start": 0,
@@ -21035,6 +21047,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "BTMV1",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BTMV1_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ALEPH",
         "buy_start": 0,
         "fee": "0.2",
@@ -21954,6 +21978,18 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BTMV1",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BTMV1_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 9,
+        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
