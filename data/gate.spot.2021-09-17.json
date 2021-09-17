@@ -2133,6 +2133,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "PROS",
+        "buy_start": 1631872800,
+        "fee": "0.2",
+        "id": "PROS_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "SRM",
         "buy_start": 0,
         "fee": "0.2",
@@ -4051,13 +4063,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "PRT",
         "buy_start": 1631932200,
         "fee": "0.2",
         "id": "PRT_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "sellable"
@@ -8495,6 +8507,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "MIST",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MIST_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "OIN",
         "buy_start": 0,
@@ -9442,6 +9466,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "PROS",
+        "buy_start": 1631872800,
+        "fee": "0.2",
+        "id": "PROS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "OCC",
         "buy_start": 0,
         "fee": "0.2",
@@ -9556,6 +9592,18 @@
         "min_quote_amount": "0.0001",
         "precision": 9,
         "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MIST",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MIST_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -20442,7 +20490,7 @@
         "fee": "0.2",
         "id": "PRT_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "sellable"
