@@ -5333,6 +5333,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "KNIGHT",
+        "buy_start": 1632276000,
+        "fee": "0.2",
+        "id": "KNIGHT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "SRM",
         "buy_start": 0,
@@ -14282,6 +14294,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "KNIGHT",
+        "buy_start": 1632276000,
+        "fee": "0.2",
+        "id": "KNIGHT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "BU",
         "buy_start": 0,
@@ -15977,6 +16001,18 @@
         "min_quote_amount": "0.001",
         "precision": 5,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BEEFI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BEEFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -20341,6 +20377,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "BEEFI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BEEFI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 4,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "PROPS",
         "buy_start": 0,
         "fee": "0.2",
@@ -21284,6 +21332,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MOT",
+        "buy_start": 1632573000,
+        "fee": "0.2",
+        "id": "MOT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
