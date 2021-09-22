@@ -5981,6 +5981,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "FOREX",
+        "buy_start": 1632715200,
+        "fee": "0.2",
+        "id": "FOREX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "WOM",
         "buy_start": 0,
         "fee": "0.2",
@@ -6508,24 +6520,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "LTC3L",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "LTC3L_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "LPT",
         "buy_start": 0,
         "fee": "0.2",
         "id": "LPT_USDT",
         "min_quote_amount": "1",
         "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LTC3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LTC3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -14819,6 +14831,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "FOREX",
+        "buy_start": 1632715200,
+        "fee": "0.2",
+        "id": "FOREX_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
