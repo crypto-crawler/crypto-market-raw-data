@@ -541,6 +541,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "CTT",
+        "buy_start": 1632369600,
+        "fee": "0.2",
+        "id": "CTT_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "BSV3L",
         "buy_start": 0,
@@ -5335,14 +5347,14 @@
     {
         "amount_precision": 3,
         "base": "KNIGHT",
-        "buy_start": 1632308400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "KNIGHT_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -11201,6 +11213,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "MDF",
+        "buy_start": 1632477600,
+        "fee": "0.2",
+        "id": "MDF_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "VIDY",
         "buy_start": 0,
         "fee": "0.2",
@@ -12784,6 +12808,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SHI",
+        "buy_start": 1632456000,
+        "fee": "0.2",
+        "id": "SHI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FET",
         "buy_start": 0,
         "fee": "0.2",
@@ -14332,14 +14368,14 @@
     {
         "amount_precision": 3,
         "base": "KNIGHT",
-        "buy_start": 1632308400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "KNIGHT_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -18893,6 +18929,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MDF",
+        "buy_start": 1632477600,
+        "fee": "0.2",
+        "id": "MDF_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
