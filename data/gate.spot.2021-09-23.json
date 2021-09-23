@@ -506,6 +506,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "OPUL",
+        "buy_start": 1632398400,
+        "fee": "0.2",
+        "id": "OPUL_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "NFTX",
         "buy_start": 0,
         "fee": "0.2",
@@ -2106,6 +2118,18 @@
         "quote": "TRX",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SPELL",
+        "buy_start": 1632387600,
+        "fee": "0.2",
+        "id": "SPELL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 6,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -8131,18 +8155,6 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "BTMV1",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "BTMV1_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16449,6 +16461,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "OPUL",
+        "buy_start": 1632398400,
+        "fee": "0.2",
+        "id": "OPUL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BONDED",
         "buy_start": 0,
         "fee": "0.2",
@@ -18797,6 +18821,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SPELL",
+        "buy_start": 1632387600,
+        "fee": "0.2",
+        "id": "SPELL_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -21287,18 +21323,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "BTMV1",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "BTMV1_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "ALEPH",
         "buy_start": 0,
         "fee": "0.2",
@@ -22266,18 +22290,6 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "BTMV1",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "BTMV1_BTC",
-        "min_quote_amount": "0.0001",
-        "precision": 9,
-        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
