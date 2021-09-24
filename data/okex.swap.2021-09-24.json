@@ -646,6 +646,23 @@
         "underlying_index": "ALGO"
     },
     {
+        "base_currency": "CELO",
+        "category": "3",
+        "coin": "USDT",
+        "contract_val": "1",
+        "contract_val_currency": "CELO",
+        "delivery": "2021-09-25T08:00:00.000Z",
+        "instrument_id": "CELO-USDT-SWAP",
+        "is_inverse": "false",
+        "listing": "2021-09-24T10:03:05.000Z",
+        "quote_currency": "USDT",
+        "settlement_currency": "USDT",
+        "size_increment": "1",
+        "tick_size": "0.00010",
+        "underlying": "CELO-USDT",
+        "underlying_index": "CELO"
+    },
+    {
         "base_currency": "IOST",
         "category": "2",
         "coin": "USDT",
@@ -1409,6 +1426,23 @@
         "tick_size": "0.01",
         "underlying": "XMR-USD",
         "underlying_index": "XMR"
+    },
+    {
+        "base_currency": "GALA",
+        "category": "4",
+        "coin": "USDT",
+        "contract_val": "10",
+        "contract_val_currency": "GALA",
+        "delivery": "2021-09-25T08:00:00.000Z",
+        "instrument_id": "GALA-USDT-SWAP",
+        "is_inverse": "false",
+        "listing": "2021-09-24T10:03:09.000Z",
+        "quote_currency": "USDT",
+        "settlement_currency": "USDT",
+        "size_increment": "1",
+        "tick_size": "0.000010",
+        "underlying": "GALA-USDT",
+        "underlying_index": "GALA"
     },
     {
         "base_currency": "IOTA",
