@@ -6329,6 +6329,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DERI",
+        "buy_start": 1632888000,
+        "fee": "0.2",
+        "id": "DERI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BLES",
         "buy_start": 0,
         "fee": "0.2",
@@ -7655,6 +7667,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "TAUR",
+        "buy_start": 1633006800,
+        "fee": "0.2",
+        "id": "TAUR_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -20508,6 +20532,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "KLO",
+        "buy_start": 1632754800,
+        "fee": "0.2",
+        "id": "KLO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "PST",
         "buy_start": 0,
@@ -22208,6 +22244,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DERI",
+        "buy_start": 1632888000,
+        "fee": "0.2",
+        "id": "DERI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
