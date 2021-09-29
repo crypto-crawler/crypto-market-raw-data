@@ -2819,14 +2819,14 @@
     {
         "amount_precision": 3,
         "base": "TXT",
-        "buy_start": 1632916800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TXT_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -12665,14 +12665,14 @@
     {
         "amount_precision": 3,
         "base": "RMRK",
-        "buy_start": 1632909600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RMRK_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -17686,18 +17686,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "RMRK",
-        "buy_start": 1632909600,
-        "fee": "0.2",
-        "id": "RMRK_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "sellable"
-    },
-    {
-        "amount_precision": 3,
         "base": "L3P",
         "buy_start": 0,
         "fee": "0.2",
@@ -19802,6 +19790,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "NII",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "NII_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 4,
         "base": "AMPL",
         "buy_start": 0,
@@ -19917,6 +19917,18 @@
         "id": "BABYDOGE_USDT",
         "min_quote_amount": "1",
         "precision": 12,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "NII",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "NII_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -20235,14 +20247,14 @@
     {
         "amount_precision": 2,
         "base": "TXT",
-        "buy_start": 1632916800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TXT_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
