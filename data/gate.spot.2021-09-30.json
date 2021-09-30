@@ -4207,6 +4207,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "EQX",
+        "buy_start": 1633752000,
+        "fee": "0.2",
+        "id": "EQX_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "CRV",
         "buy_start": 0,
@@ -6605,14 +6617,14 @@
     {
         "amount_precision": 0,
         "base": "TOKAU",
-        "buy_start": 1632985200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TOKAU_USDT",
         "min_quote_amount": "1",
         "precision": 11,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -19802,6 +19814,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "POLIS",
+        "buy_start": 1632992400,
+        "fee": "0.2",
+        "id": "POLIS_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "AMPL",
         "buy_start": 0,
@@ -21870,6 +21894,18 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ATLAS",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ATLAS_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
