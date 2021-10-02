@@ -10203,7 +10203,7 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NMT_USDT",
@@ -10474,6 +10474,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "OG",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 2,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "OHM_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "OHM",
         "vcoinStatus": 1
     },
     {
