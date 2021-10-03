@@ -254,18 +254,6 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -492,18 +480,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "uni",
-        "id": "5248",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "uni_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "fil",
         "id": "5256",
@@ -525,30 +501,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "woo_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "near",
-        "id": "5259",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "near_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "hep",
-        "id": "5260",
-        "max-order-amt": null,
-        "min-order-amt": "10",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "hep_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -636,6 +588,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "rc",
+        "id": "5273",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "rc_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "lpt",
         "id": "5274",
@@ -717,6 +681,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "dfl_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 0,
+        "base-currency": "safemoon",
+        "id": "5283",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 9,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "safemoon_usdt",
         "symbol-partition": "innovation"
     },
     {
