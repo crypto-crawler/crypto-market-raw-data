@@ -254,6 +254,18 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
+        "id": "5008",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "qtum_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -369,6 +381,18 @@
         "quote-currency": "btc",
         "state": "online",
         "symbol": "vlx_btc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "vlx",
+        "id": "5213",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 9,
+        "quote-currency": "eth",
+        "state": "online",
+        "symbol": "vlx_eth",
         "symbol-partition": "innovation"
     },
     {
@@ -921,18 +945,6 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "xem_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "btm",
-        "id": "5307",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
