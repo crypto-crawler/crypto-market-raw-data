@@ -12938,6 +12938,22 @@
     {
         "countDownMark": 1,
         "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "SPELL_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "SPELL",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
         "limited": true,
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
@@ -14131,7 +14147,7 @@
     {
         "countDownMark": 1,
         "etf_mark": 0,
-        "limited": false,
+        "limited": true,
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
@@ -14139,7 +14155,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "UFO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.002",
         "vcoinName": "UFO",
         "vcoinStatus": 1
