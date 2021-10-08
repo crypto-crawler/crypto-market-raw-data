@@ -1285,6 +1285,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "RBN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RBN_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "AMPL3L",
         "buy_start": 0,
         "fee": "0.2",
@@ -22904,6 +22916,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "RBN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RBN_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
