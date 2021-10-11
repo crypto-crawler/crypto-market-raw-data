@@ -111729,6 +111729,11 @@
                 "limit": 10
             },
             {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
                 "filterType": "MAX_NUM_ORDERS",
                 "maxNumOrders": 200
             },
@@ -111788,6 +111793,11 @@
             {
                 "filterType": "ICEBERG_PARTS",
                 "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
             },
             {
                 "filterType": "MAX_NUM_ORDERS",
@@ -111851,6 +111861,11 @@
                 "limit": 10
             },
             {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
                 "filterType": "MAX_NUM_ORDERS",
                 "maxNumOrders": 200
             },
@@ -111910,6 +111925,11 @@
             {
                 "filterType": "ICEBERG_PARTS",
                 "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
             },
             {
                 "filterType": "MAX_NUM_ORDERS",
