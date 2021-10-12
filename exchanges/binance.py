@@ -37,5 +37,7 @@ def _fetch_raw_markets(url: str) -> List[Dict[str, Any]]:
             elif filter['filterType'] == 'MARKET_LOT_SIZE':
                 del filter['maxQty']
     if 'voptions' in url:
+        for symbol in symbols:
+            del symbol['leverage']
         symbols.sort(key=lambda x: x['id'])
     return symbols

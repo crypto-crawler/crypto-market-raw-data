@@ -10,6 +10,7 @@ from .bitz import fetch_markets as bitz_fetch_markets
 from .bybit import fetch_markets as bybit_fetch_markets
 from .coinbase_pro import fetch_markets as coinbase_pro_fetch_markets
 from .deribit import fetch_markets as deribit_fetch_markets
+from .dydx import fetch_markets as dydx_fetch_markets
 from .ftx import fetch_markets as ftx_fetch_markets
 from .gate import fetch_markets as gate_fetch_markets
 from .huobi import fetch_markets as huobi_fetch_markets
@@ -42,6 +43,8 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return coinbase_pro_fetch_markets(market_type)
     elif exchange == 'deribit':
         return deribit_fetch_markets(market_type)
+    elif exchange == 'dydx':
+        return dydx_fetch_markets(market_type)
     elif exchange == 'ftx':
         return ftx_fetch_markets(market_type)
     elif exchange == 'gate':
