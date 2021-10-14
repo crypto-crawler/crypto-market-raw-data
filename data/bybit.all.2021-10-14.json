@@ -1,30 +1,5 @@
 [
     {
-        "alias": "DOTUSD",
-        "base_currency": "DOT",
-        "leverage_filter": {
-            "leverage_step": "0.01",
-            "max_leverage": 50,
-            "min_leverage": 1
-        },
-        "lot_size_filter": {
-            "max_trading_qty": 500000,
-            "min_trading_qty": 1,
-            "qty_step": 1
-        },
-        "maker_fee": "-0.00025",
-        "name": "DOTUSD",
-        "price_filter": {
-            "max_price": "9999.99",
-            "min_price": "0.005",
-            "tick_size": "0.005"
-        },
-        "price_scale": 3,
-        "quote_currency": "USD",
-        "status": "Trading",
-        "taker_fee": "0.00075"
-    },
-    {
         "alias": "ETHUSD",
         "base_currency": "ETH",
         "leverage_filter": {
@@ -120,6 +95,31 @@
             "tick_size": "0.5"
         },
         "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "DOTUSD",
+        "base_currency": "DOT",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "DOTUSD",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
         "quote_currency": "USD",
         "status": "Trading",
         "taker_fee": "0.00075"
