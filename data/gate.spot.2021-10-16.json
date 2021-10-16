@@ -13777,6 +13777,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "METAX",
+        "buy_start": 1634817600,
+        "fee": "0.2",
+        "id": "METAX_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "SNT",
         "buy_start": 0,
@@ -14976,6 +14988,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "METAX",
+        "buy_start": 1634817600,
+        "fee": "0.2",
+        "id": "METAX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
