@@ -20643,6 +20643,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "EVRY",
+        "buy_start": 1634734800,
+        "fee": "0.2",
+        "id": "EVRY_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CTI",
         "buy_start": 0,
         "fee": "0.2",
@@ -24296,6 +24308,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "EVRY",
+        "buy_start": 1634734800,
+        "fee": "0.2",
+        "id": "EVRY_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
