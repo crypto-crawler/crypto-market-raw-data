@@ -1345,6 +1345,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "HERA",
+        "buy_start": 1634818200,
+        "fee": "0.2",
+        "id": "HERA_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DHV",
         "buy_start": 0,
         "fee": "0.2",
@@ -10460,6 +10472,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "NIFTSY",
+        "buy_start": 1634817600,
+        "fee": "0.2",
+        "id": "NIFTSY_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "XRP",
         "buy_start": 0,
         "fee": "0.2",
@@ -16786,14 +16810,14 @@
     {
         "amount_precision": 3,
         "base": "RICE",
-        "buy_start": 1634558400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RICE_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -17975,14 +17999,14 @@
     {
         "amount_precision": 3,
         "base": "RICE",
-        "buy_start": 1634558400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RICE_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
