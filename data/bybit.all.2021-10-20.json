@@ -25,11 +25,11 @@
         "taker_fee": "0.00075"
     },
     {
-        "alias": "BTCUSD",
-        "base_currency": "BTC",
+        "alias": "ETHUSD",
+        "base_currency": "ETH",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 100,
+            "max_leverage": 50,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -38,11 +38,11 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "BTCUSD",
+        "name": "ETHUSD",
         "price_filter": {
-            "max_price": "999999",
-            "min_price": "0.5",
-            "tick_size": "0.5"
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
         },
         "price_scale": 2,
         "quote_currency": "USD",
@@ -100,11 +100,11 @@
         "taker_fee": "0.00075"
     },
     {
-        "alias": "ETHUSD",
-        "base_currency": "ETH",
+        "alias": "BTCUSD",
+        "base_currency": "BTC",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 50,
+            "max_leverage": 100,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -113,11 +113,11 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "ETHUSD",
+        "name": "BTCUSD",
         "price_filter": {
-            "max_price": "99999.9",
-            "min_price": "0.05",
-            "tick_size": "0.05"
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
         },
         "price_scale": 2,
         "quote_currency": "USD",
@@ -870,6 +870,31 @@
             "tick_size": "0.00005"
         },
         "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "SHIB1000USDT",
+        "base_currency": "SHIB1000",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000000,
+            "min_trading_qty": 10,
+            "qty_step": 10
+        },
+        "maker_fee": "-0.00025",
+        "name": "SHIB1000USDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
         "quote_currency": "USDT",
         "status": "Trading",
         "taker_fee": "0.00075"

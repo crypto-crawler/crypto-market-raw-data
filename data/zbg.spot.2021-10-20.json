@@ -254,18 +254,6 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -433,14 +421,14 @@
     },
     {
         "amount-precision": 4,
-        "base-currency": "arec",
-        "id": "5229",
+        "base-currency": "ksm",
+        "id": "5223",
         "max-order-amt": null,
-        "min-order-amt": "11",
+        "min-order-amt": "0.0001",
         "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "arec_usdt",
+        "symbol": "ksm_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -537,6 +525,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "near_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "hep",
+        "id": "5260",
+        "max-order-amt": null,
+        "min-order-amt": "10",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "hep_usdt",
         "symbol-partition": "innovation"
     },
     {
