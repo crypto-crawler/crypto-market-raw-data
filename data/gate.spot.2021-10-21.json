@@ -807,14 +807,14 @@
     {
         "amount_precision": 3,
         "base": "ASM",
-        "buy_start": 1634806800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ASM_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -863,6 +863,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "BNC",
+        "buy_start": 1634821200,
+        "fee": "0.2",
+        "id": "BNC_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -1370,14 +1382,14 @@
     {
         "amount_precision": 3,
         "base": "HERA",
-        "buy_start": 1634818200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "HERA_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -2346,6 +2358,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "WND",
+        "buy_start": 1634826600,
+        "fee": "0.2",
+        "id": "WND_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -7480,14 +7504,14 @@
     {
         "amount_precision": 3,
         "base": "ASM",
-        "buy_start": 1634806800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ASM_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -10557,14 +10581,14 @@
     {
         "amount_precision": 3,
         "base": "NIFTSY",
-        "buy_start": 1634817600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "NIFTSY_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13935,14 +13959,14 @@
     {
         "amount_precision": 3,
         "base": "METAX",
-        "buy_start": 1634817600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "METAX_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -15196,14 +15220,14 @@
     {
         "amount_precision": 3,
         "base": "METAX",
-        "buy_start": 1634817600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "METAX_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16852,6 +16876,18 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "REF",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "REF_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -24450,6 +24486,18 @@
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MNW",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MNW_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
