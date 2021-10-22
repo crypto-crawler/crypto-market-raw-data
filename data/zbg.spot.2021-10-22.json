@@ -289,14 +289,14 @@
     },
     {
         "amount-precision": 4,
-        "base-currency": "520",
-        "id": "5073",
+        "base-currency": "bnct",
+        "id": "5109",
         "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 6,
-        "quote-currency": "qc",
+        "min-order-amt": "100",
+        "price-precision": 4,
+        "quote-currency": "usdt",
         "state": "online",
-        "symbol": "520_qc",
+        "symbol": "bnct_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -441,6 +441,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "arec_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "dot",
+        "id": "5235",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dot_qc",
         "symbol-partition": "innovation"
     },
     {
