@@ -1,55 +1,5 @@
 [
     {
-        "alias": "ETHUSD",
-        "base_currency": "ETH",
-        "leverage_filter": {
-            "leverage_step": "0.01",
-            "max_leverage": 50,
-            "min_leverage": 1
-        },
-        "lot_size_filter": {
-            "max_trading_qty": 1000000,
-            "min_trading_qty": 1,
-            "qty_step": 1
-        },
-        "maker_fee": "-0.00025",
-        "name": "ETHUSD",
-        "price_filter": {
-            "max_price": "99999.9",
-            "min_price": "0.05",
-            "tick_size": "0.05"
-        },
-        "price_scale": 2,
-        "quote_currency": "USD",
-        "status": "Trading",
-        "taker_fee": "0.00075"
-    },
-    {
-        "alias": "EOSUSD",
-        "base_currency": "EOS",
-        "leverage_filter": {
-            "leverage_step": "0.01",
-            "max_leverage": 50,
-            "min_leverage": 1
-        },
-        "lot_size_filter": {
-            "max_trading_qty": 1000000,
-            "min_trading_qty": 1,
-            "qty_step": 1
-        },
-        "maker_fee": "-0.00025",
-        "name": "EOSUSD",
-        "price_filter": {
-            "max_price": "1999.998",
-            "min_price": "0.001",
-            "tick_size": "0.001"
-        },
-        "price_scale": 3,
-        "quote_currency": "USD",
-        "status": "Trading",
-        "taker_fee": "0.00075"
-    },
-    {
         "alias": "DOTUSD",
         "base_currency": "DOT",
         "leverage_filter": {
@@ -120,6 +70,56 @@
             "tick_size": "0.0001"
         },
         "price_scale": 4,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "ETHUSD",
+        "base_currency": "ETH",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "ETHUSD",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "EOSUSD",
+        "base_currency": "EOS",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "EOSUSD",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
         "quote_currency": "USD",
         "status": "Trading",
         "taker_fee": "0.00075"
