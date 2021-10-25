@@ -6066,6 +6066,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "LAZIO",
+        "buy_start": 1635156000,
+        "fee": "0.2",
+        "id": "LAZIO_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ALPHA",
         "buy_start": 0,
         "fee": "0.2",
@@ -22053,6 +22065,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LAZIO",
+        "buy_start": 1635156000,
+        "fee": "0.2",
+        "id": "LAZIO_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

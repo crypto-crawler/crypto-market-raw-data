@@ -1,10 +1,10 @@
 [
     {
-        "alias": "ETHUSD",
-        "base_currency": "ETH",
+        "alias": "BTCUSD",
+        "base_currency": "BTC",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 50,
+            "max_leverage": 100,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -13,11 +13,11 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "ETHUSD",
+        "name": "BTCUSD",
         "price_filter": {
-            "max_price": "99999.9",
-            "min_price": "0.05",
-            "tick_size": "0.05"
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
         },
         "price_scale": 2,
         "quote_currency": "USD",
@@ -50,8 +50,8 @@
         "taker_fee": "0.00075"
     },
     {
-        "alias": "EOSUSD",
-        "base_currency": "EOS",
+        "alias": "ETHUSD",
+        "base_currency": "ETH",
         "leverage_filter": {
             "leverage_step": "0.01",
             "max_leverage": 50,
@@ -63,36 +63,11 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "EOSUSD",
+        "name": "ETHUSD",
         "price_filter": {
-            "max_price": "1999.998",
-            "min_price": "0.001",
-            "tick_size": "0.001"
-        },
-        "price_scale": 3,
-        "quote_currency": "USD",
-        "status": "Trading",
-        "taker_fee": "0.00075"
-    },
-    {
-        "alias": "BTCUSD",
-        "base_currency": "BTC",
-        "leverage_filter": {
-            "leverage_step": "0.01",
-            "max_leverage": 100,
-            "min_leverage": 1
-        },
-        "lot_size_filter": {
-            "max_trading_qty": 1000000,
-            "min_trading_qty": 1,
-            "qty_step": 1
-        },
-        "maker_fee": "-0.00025",
-        "name": "BTCUSD",
-        "price_filter": {
-            "max_price": "999999",
-            "min_price": "0.5",
-            "tick_size": "0.5"
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
         },
         "price_scale": 2,
         "quote_currency": "USD",
@@ -118,6 +93,31 @@
             "max_price": "9999.99",
             "min_price": "0.005",
             "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "EOSUSD",
+        "base_currency": "EOS",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "EOSUSD",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
         },
         "price_scale": 3,
         "quote_currency": "USD",
@@ -675,6 +675,31 @@
         "taker_fee": "0.00075"
     },
     {
+        "alias": "VETUSDT",
+        "base_currency": "VET",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1150000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "VETUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
         "alias": "THETAUSDT",
         "base_currency": "THETA",
         "leverage_filter": {
@@ -870,6 +895,31 @@
             "tick_size": "0.00005"
         },
         "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "CRVUSDT",
+        "base_currency": "CRV",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 30000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "CRVUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
         "quote_currency": "USDT",
         "status": "Trading",
         "taker_fee": "0.00075"
@@ -1168,6 +1218,131 @@
             "max_price": "1999.998",
             "min_price": "0.001",
             "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "CELRUSDT",
+        "base_currency": "CELR",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "CELRUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "HBARUSDT",
+        "base_currency": "HBAR",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "HBARUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "ONEUSDT",
+        "base_currency": "ONE",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "-0.00025",
+        "name": "ONEUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "C98USDT",
+        "base_currency": "C98",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 12000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "C98USDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "ALICEUSDT",
+        "base_currency": "ALICE",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "ALICEUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
         },
         "price_scale": 3,
         "quote_currency": "USDT",
