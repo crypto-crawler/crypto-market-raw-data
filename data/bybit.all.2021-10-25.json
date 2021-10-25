@@ -1,10 +1,10 @@
 [
     {
-        "alias": "BTCUSD",
-        "base_currency": "BTC",
+        "alias": "ETHUSD",
+        "base_currency": "ETH",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 100,
+            "max_leverage": 50,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -13,11 +13,11 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "BTCUSD",
+        "name": "ETHUSD",
         "price_filter": {
-            "max_price": "999999",
-            "min_price": "0.5",
-            "tick_size": "0.5"
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
         },
         "price_scale": 2,
         "quote_currency": "USD",
@@ -50,8 +50,8 @@
         "taker_fee": "0.00075"
     },
     {
-        "alias": "ETHUSD",
-        "base_currency": "ETH",
+        "alias": "EOSUSD",
+        "base_currency": "EOS",
         "leverage_filter": {
             "leverage_step": "0.01",
             "max_leverage": 50,
@@ -63,13 +63,13 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "ETHUSD",
+        "name": "EOSUSD",
         "price_filter": {
-            "max_price": "99999.9",
-            "min_price": "0.05",
-            "tick_size": "0.05"
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
         },
-        "price_scale": 2,
+        "price_scale": 3,
         "quote_currency": "USD",
         "status": "Trading",
         "taker_fee": "0.00075"
@@ -100,11 +100,11 @@
         "taker_fee": "0.00075"
     },
     {
-        "alias": "EOSUSD",
-        "base_currency": "EOS",
+        "alias": "BTCUSD",
+        "base_currency": "BTC",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 50,
+            "max_leverage": 100,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -113,13 +113,13 @@
             "qty_step": 1
         },
         "maker_fee": "-0.00025",
-        "name": "EOSUSD",
+        "name": "BTCUSD",
         "price_filter": {
-            "max_price": "1999.998",
-            "min_price": "0.001",
-            "tick_size": "0.001"
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
         },
-        "price_scale": 3,
+        "price_scale": 2,
         "quote_currency": "USD",
         "status": "Trading",
         "taker_fee": "0.00075"
