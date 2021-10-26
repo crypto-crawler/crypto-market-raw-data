@@ -2624,6 +2624,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "STETH",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "STETH_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 4,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "ALPACA",
         "buy_start": 0,
@@ -7142,6 +7154,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "MSOL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MSOL_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "POWR",
         "buy_start": 0,
@@ -8550,6 +8574,18 @@
         "id": "RFOX_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "MSOL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MSOL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 5,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -11012,14 +11048,14 @@
     {
         "amount_precision": 3,
         "base": "BAKED",
-        "buy_start": 1635249600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BAKED_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -15158,6 +15194,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 4,
+        "base": "STETH",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "STETH_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "XMR",
         "buy_start": 0,
@@ -15683,6 +15731,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ZAM",
+        "buy_start": 1635904800,
+        "fee": "0.2",
+        "id": "ZAM_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -16739,14 +16799,14 @@
     {
         "amount_precision": 0,
         "base": "SAITAMA",
-        "buy_start": 1635249600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SAITAMA_USDT",
         "min_quote_amount": "1",
         "precision": 12,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -22261,14 +22321,14 @@
     {
         "amount_precision": 2,
         "base": "BAKED",
-        "buy_start": 1635249600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BAKED_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -24356,6 +24416,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZAM",
+        "buy_start": 1635904800,
+        "fee": "0.2",
+        "id": "ZAM_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
