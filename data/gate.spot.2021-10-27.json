@@ -4372,7 +4372,7 @@
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -4877,6 +4877,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BNX",
+        "buy_start": 1635408000,
+        "fee": "0.2",
+        "id": "BNX_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -20883,6 +20895,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "POSI",
+        "buy_start": 1635480000,
+        "fee": "0.2",
+        "id": "POSI_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "HUR",
         "buy_start": 0,
         "fee": "0.2",
@@ -21945,7 +21969,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 4,
