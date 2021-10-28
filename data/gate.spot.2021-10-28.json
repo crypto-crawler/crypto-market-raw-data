@@ -6223,7 +6223,7 @@
     {
         "amount_precision": 3,
         "base": "CPOOL",
-        "buy_start": 1635426000,
+        "buy_start": 1635426060,
         "fee": "0.2",
         "id": "CPOOL_USDT",
         "min_quote_amount": "1",
@@ -8163,14 +8163,14 @@
     {
         "amount_precision": 3,
         "base": "SCLP",
-        "buy_start": 1635418800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SCLP_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -11236,6 +11236,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LFW",
+        "buy_start": 1635431400,
+        "fee": "0.2",
+        "id": "LFW_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -22201,14 +22213,14 @@
     {
         "amount_precision": 3,
         "base": "SCLP",
-        "buy_start": 1635418800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SCLP_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
