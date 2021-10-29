@@ -10962,6 +10962,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "MIMIR",
+        "buy_start": 1636095600,
+        "fee": "0.2",
+        "id": "MIMIR_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "DRGN",
         "buy_start": 0,
@@ -13297,6 +13309,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MIMIR",
+        "buy_start": 1636095600,
+        "fee": "0.2",
+        "id": "MIMIR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -21818,14 +21842,14 @@
     {
         "amount_precision": 3,
         "base": "ENNO",
-        "buy_start": 1635510600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ENNO_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
