@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "binance": ["inverse", "linear", "option", "spot"],
-    "bitfinex": ["all"],
+    "bitfinex": ["spot", "swap"],
     "bitget": ["spot", "swap"],
     "bithumb": ["spot"],
     "bitmex": ["all"],
