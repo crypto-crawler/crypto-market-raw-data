@@ -8,85 +8,28 @@ from exchanges import fetch_markets
 
 logging.basicConfig(level=logging.INFO)
 
-
 EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
-    "binance": [
-        "inverse",
-        "linear",
-        "option",
-        "spot"
-    ],
-    "bitfinex": [
-        "spot",
-        "swap"
-    ],
-    "bitget": [
-        "spot",
-        "swap"
-    ],
-    "bithumb": [
-        "spot"
-    ],
-    "bitmex": [
-        "all"
-    ],
-    "bitstamp": [
-        "spot"
-    ],
-    "bitz": [
-        "spot",
-        "swap"
-    ],
-    "bybit": [
-        "all"
-    ],
-    "coinbase_pro": [
-        "spot"
-    ],
-    "deribit": [
-        "future",
-        "option"
-    ],
-    "dydx": [
-        "all"
-    ],
-    "ftx": [
-        "all"
-    ],
+    "binance": ["inverse", "linear", "option", "spot"],
+    "bitfinex": ["all"],
+    "bitget": ["spot", "swap"],
+    "bithumb": ["spot"],
+    "bitmex": ["all"],
+    "bitstamp": ["spot"],
+    # "bitz": ["spot", "swap"],
+    "bybit": ["all"],
+    "coinbase_pro": ["spot"],
+    "deribit": ["future", "option"],
+    "dydx": ["all"],
+    "ftx": ["all"],
     "gate": [
-        "inverse_future",
-        "inverse_swap",
-        "linear_future",
-        "linear_swap",
-        "spot"
+        "inverse_future", "inverse_swap", "linear_future", "linear_swap", "spot"
     ],
-    "huobi": [
-        "inverse_future",
-        "inverse_swap",
-        "linear_swap",
-        "spot"
-    ],
-    "kraken": [
-        "spot"
-    ],
-    "kucoin": [
-        "contract",
-        "spot"
-    ],
-    "mxc": [
-        "spot",
-        "swap"
-    ],
-    "okex": [
-        "future",
-        "option",
-        "spot",
-        "swap"
-    ],
-    "zbg": [
-        "spot",
-        "swap"
-    ],
+    "huobi": ["inverse_future", "inverse_swap", "linear_swap", "spot"],
+    "kraken": ["spot"],
+    "kucoin": ["contract", "spot"],
+    "mxc": ["spot", "swap"],
+    "okex": ["future", "option", "spot", "swap"],
+    "zbg": ["spot", "swap"],
 }
 
 if __name__ == "__main__":
@@ -96,8 +39,8 @@ if __name__ == "__main__":
             logging.info(f'{exchange} {market_type}')
             try:
                 json_obj = fetch_markets(exchange, market_type)
-                json_text = json.dumps(
-                    json_obj, indent=4, sort_keys=True) + '\n'
+                json_text = json.dumps(json_obj, indent=4,
+                                       sort_keys=True) + '\n'
                 today = datetime.utcnow().isoformat()[:10]
                 latest_file = f'./data/{exchange}.{market_type}.json'
                 daily_file = f'./data/{exchange}.{market_type}.{today}.json'
