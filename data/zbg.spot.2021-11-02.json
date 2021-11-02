@@ -480,18 +480,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "uni",
-        "id": "5248",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "uni_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "nbs",
         "id": "5249",
@@ -708,18 +696,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "safemoon",
-        "id": "5283",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 9,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "safemoon_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 3,
         "base-currency": "lemd",
         "id": "5285",
@@ -876,6 +852,18 @@
         "symbol-partition": "main"
     },
     {
+        "amount-precision": 0,
+        "base-currency": "xrp",
+        "id": "5302",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xrp_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 1,
         "base-currency": "trx",
         "id": "5303",
@@ -909,6 +897,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "xem_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "btm",
+        "id": "5307",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
