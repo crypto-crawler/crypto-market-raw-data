@@ -2710,6 +2710,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ALU",
+        "buy_start": 1635854400,
+        "fee": "0.2",
+        "id": "ALU_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ALD",
         "buy_start": 0,
         "fee": "0.2",
@@ -15086,6 +15098,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SYN",
+        "buy_start": 1635843600,
+        "fee": "0.2",
+        "id": "SYN_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "RGT",
         "buy_start": 0,
         "fee": "0.2",
@@ -23026,6 +23050,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "SYN",
+        "buy_start": 1635843600,
+        "fee": "0.2",
+        "id": "SYN_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "BTM",
         "buy_start": 0,
@@ -24884,6 +24920,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ALU",
+        "buy_start": 1635854400,
+        "fee": "0.2",
+        "id": "ALU_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
