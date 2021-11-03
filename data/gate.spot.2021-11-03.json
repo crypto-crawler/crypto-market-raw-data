@@ -2927,14 +2927,14 @@
     {
         "amount_precision": 3,
         "base": "WAGYU",
-        "buy_start": 1635933600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "WAGYU_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -3251,14 +3251,14 @@
     {
         "amount_precision": 3,
         "base": "ENV",
-        "buy_start": 1635933600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ENV_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -12533,6 +12533,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "BCMC",
+        "buy_start": 1636027200,
+        "fee": "0.2",
+        "id": "BCMC_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BTG",
         "buy_start": 0,
         "fee": "0.2",
@@ -12950,6 +12962,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "KINGSHIB",
+        "buy_start": 1636020000,
+        "fee": "0.2",
+        "id": "KINGSHIB_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -17075,14 +17099,14 @@
     {
         "amount_precision": 3,
         "base": "WAGYU",
-        "buy_start": 1635933600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "WAGYU_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -22609,14 +22633,14 @@
     {
         "amount_precision": 3,
         "base": "SPIRIT",
-        "buy_start": 1635940800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SPIRIT_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -24036,14 +24060,14 @@
     {
         "amount_precision": 3,
         "base": "SGB",
-        "buy_start": 1635940800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SGB_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,

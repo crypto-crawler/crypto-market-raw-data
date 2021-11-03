@@ -34143,8 +34143,8 @@
             },
             {
                 "filterType": "LOT_SIZE",
-                "minQty": "1.00000000",
-                "stepSize": "1.00000000"
+                "minQty": "0.10000000",
+                "stepSize": "0.10000000"
             },
             {
                 "applyToMarket": true,
@@ -34260,7 +34260,7 @@
         "filters": [
             {
                 "filterType": "PRICE_FILTER",
-                "tickSize": "0.00000100"
+                "tickSize": "0.00100000"
             },
             {
                 "avgPriceMins": 5,
@@ -81152,7 +81152,7 @@
         "quoteCommissionPrecision": 2,
         "quoteOrderQtyMarketAllowed": true,
         "quotePrecision": 2,
-        "status": "TRADING",
+        "status": "BREAK",
         "symbol": "BUSDBVND"
     },
     {
@@ -81218,7 +81218,7 @@
         "quoteCommissionPrecision": 2,
         "quoteOrderQtyMarketAllowed": true,
         "quotePrecision": 2,
-        "status": "TRADING",
+        "status": "BREAK",
         "symbol": "USDTBVND"
     },
     {
