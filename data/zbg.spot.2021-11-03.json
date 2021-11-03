@@ -410,6 +410,18 @@
     {
         "amount-precision": 2,
         "base-currency": "xwc",
+        "id": "5215",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xwc_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "xwc",
         "id": "5216",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -513,18 +525,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "woo_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "near",
-        "id": "5259",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "near_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -816,6 +816,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ltc",
+        "id": "5299",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "ltc_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 0,
         "base-currency": "doge",
         "id": "5300",
@@ -877,14 +889,14 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "true",
-        "id": "5308",
+        "base-currency": "btm",
+        "id": "5307",
         "max-order-amt": null,
         "min-order-amt": "0.01",
         "price-precision": 4,
         "quote-currency": "qc",
         "state": "online",
-        "symbol": "true_qc",
+        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
