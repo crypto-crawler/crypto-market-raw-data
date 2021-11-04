@@ -1,6 +1,6 @@
-# crypto-market-data
+# crypto-market-raw-data
 
-Crawl trading markets of crypto exchanges everyday.
+Crawl trading markets from crypto exchanges everyday.
 
 ## Related Projects
 
