@@ -3648,7 +3648,7 @@
         "state": "online",
         "symbol": "cvcoinbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -7119,6 +7119,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "imx",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "imxusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "inj",
@@ -9981,7 +9997,7 @@
         "state": "online",
         "symbol": "nestbtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9997,7 +10013,7 @@
         "state": "online",
         "symbol": "nesteth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -10029,7 +10045,7 @@
         "state": "online",
         "symbol": "nesthusd",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -10046,7 +10062,7 @@
         "state": "online",
         "symbol": "nestusdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -11164,7 +11180,7 @@
         "state": "online",
         "symbol": "phxbtc",
         "symbol-partition": "innovation",
-        "tags": "st,abnormalmarket",
+        "tags": "st",
         "value-precision": 8
     },
     {
@@ -15827,7 +15843,7 @@
         "state": "online",
         "symbol": "xrtbtc",
         "symbol-partition": "potentials",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -15859,7 +15875,7 @@
         "state": "online",
         "symbol": "xrtusdt",
         "symbol-partition": "potentials",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -16102,7 +16118,7 @@
         "state": "online",
         "symbol": "yeebtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
