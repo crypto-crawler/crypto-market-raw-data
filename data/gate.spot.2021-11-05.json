@@ -745,6 +745,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "IMX",
+        "buy_start": 1636110900,
+        "fee": "0.2",
+        "id": "IMX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "CFG",
         "buy_start": 0,
@@ -8222,6 +8234,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "IMX",
+        "buy_start": 1636110900,
+        "fee": "0.2",
+        "id": "IMX_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EFI",
         "buy_start": 0,
         "fee": "0.2",
@@ -11084,14 +11108,14 @@
     {
         "amount_precision": 3,
         "base": "MIMIR",
-        "buy_start": 1636095600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MIMIR_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -13469,14 +13493,14 @@
     {
         "amount_precision": 3,
         "base": "MIMIR",
-        "buy_start": 1636095600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MIMIR_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
