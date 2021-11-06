@@ -113856,6 +113856,11 @@
                 "limit": 10
             },
             {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00",
+                "stepSize": "0.00"
+            },
+            {
                 "filterType": "MAX_NUM_ORDERS",
                 "maxNumOrders": 200
             },
