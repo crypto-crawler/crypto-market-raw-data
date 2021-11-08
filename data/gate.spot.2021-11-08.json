@@ -2504,18 +2504,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "RING",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "RING_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 2,
         "base": "BCD",
         "buy_start": 0,
@@ -2524,6 +2512,18 @@
         "min_quote_amount": "0.0001",
         "precision": 8,
         "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "RING",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RING_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -5825,13 +5825,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "XRPBEAR",
         "buy_start": 0,
         "fee": "0.2",
         "id": "XRPBEAR_USDT",
         "min_quote_amount": "1",
-        "precision": 8,
+        "precision": 10,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -9623,13 +9623,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "SOP",
         "buy_start": 0,
         "fee": "0.2",
         "id": "SOP_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 11,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -10101,13 +10101,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "GEM",
         "buy_start": 0,
         "fee": "0.2",
         "id": "GEM_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 11,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -12352,13 +12352,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "ETHBEAR",
         "buy_start": 0,
         "fee": "0.2",
         "id": "ETHBEAR_USDT",
         "min_quote_amount": "1",
-        "precision": 9,
+        "precision": 11,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -13899,13 +13899,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "EOSBEAR",
         "buy_start": 0,
         "fee": "0.2",
         "id": "EOSBEAR_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 9,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -15055,7 +15055,7 @@
         "fee": "0.2",
         "id": "BTCBEAR_USDT",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -15265,13 +15265,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "ZSC",
         "buy_start": 0,
         "fee": "0.2",
         "id": "ZSC_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 11,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -17098,6 +17098,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "SOLR",
+        "buy_start": 1636538400,
+        "fee": "0.2",
+        "id": "SOLR_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "COMP",
         "buy_start": 0,
@@ -17205,13 +17217,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "EOSDAC",
         "buy_start": 0,
         "fee": "0.2",
         "id": "EOSDAC_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 10,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -17287,6 +17299,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PLACE",
+        "buy_start": 1636804800,
+        "fee": "0.2",
+        "id": "PLACE_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -17756,13 +17780,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "BCDN",
         "buy_start": 0,
         "fee": "0.2",
         "id": "BCDN_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 10,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -18482,7 +18506,7 @@
         "fee": "0.2",
         "id": "XRPBULL_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -19957,7 +19981,7 @@
         "fee": "0.2",
         "id": "EOSBULL_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -25677,6 +25701,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SOLR",
+        "buy_start": 1636538400,
+        "fee": "0.2",
+        "id": "SOLR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
