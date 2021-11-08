@@ -3551,14 +3551,14 @@
     {
         "amount_precision": 2,
         "base": "GAN",
-        "buy_start": 1636372800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GAN_USDT",
         "min_quote_amount": "1",
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -8652,12 +8652,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "BLANKV2",
+        "base": "EVA",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "BLANKV2_USDT",
+        "id": "EVA_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BBANK",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BBANK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -8676,24 +8688,12 @@
     },
     {
         "amount_precision": 3,
-        "base": "BBANK",
+        "base": "BLANKV2",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "BBANK_USDT",
+        "id": "BLANKV2_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "EVA",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "EVA_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -9177,6 +9177,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CERE",
+        "buy_start": 1636380120,
+        "fee": "0.2",
+        "id": "CERE_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -21723,12 +21735,12 @@
     },
     {
         "amount_precision": 3,
-        "base": "MDT",
+        "base": "PDEX",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "MDT_USDT",
+        "id": "PDEX_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -21746,12 +21758,12 @@
     },
     {
         "amount_precision": 3,
-        "base": "PDEX",
+        "base": "MDT",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "PDEX_USDT",
+        "id": "MDT_USDT",
         "min_quote_amount": "1",
-        "precision": 3,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -21982,6 +21994,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CERE",
+        "buy_start": 1636380120,
+        "fee": "0.2",
+        "id": "CERE_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

@@ -16315,7 +16315,7 @@
         "enableTrading": true,
         "feeCurrency": "BTC",
         "isMarginEnabled": false,
-        "market": "USDS",
+        "market": "DeFi",
         "name": "UNO-BTC",
         "priceIncrement": "0.00000001",
         "priceLimitRate": "0.1",
@@ -17170,6 +17170,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.001",
         "symbol": "ISP-USDT"
+    },
+    {
+        "baseCurrency": "CERE",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "name": "CERE-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.01",
+        "symbol": "CERE-USDT"
     },
     {
         "baseCurrency": "AERGO",
