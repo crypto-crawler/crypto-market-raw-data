@@ -10006,6 +10006,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "CATE",
+        "buy_start": 1636545600,
+        "fee": "0.2",
+        "id": "CATE_USDT",
+        "min_quote_amount": "1",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BLZ",
         "buy_start": 0,
@@ -11116,6 +11128,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BETU",
+        "buy_start": 1636603200,
+        "fee": "0.2",
+        "id": "BETU_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -16499,6 +16523,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BETU",
+        "buy_start": 1636603200,
+        "fee": "0.2",
+        "id": "BETU_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -24072,14 +24108,14 @@
     {
         "amount_precision": 4,
         "base": "ENS",
-        "buy_start": 1636434000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ENS_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -24900,14 +24936,14 @@
     {
         "amount_precision": 3,
         "base": "ENS",
-        "buy_start": 1636434000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ENS_ETH",
         "min_quote_amount": "0.001",
         "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -25140,14 +25176,14 @@
     {
         "amount_precision": 1,
         "base": "UFO",
-        "buy_start": 1636437600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "UFO_USDT",
         "min_quote_amount": "1",
         "precision": 9,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
