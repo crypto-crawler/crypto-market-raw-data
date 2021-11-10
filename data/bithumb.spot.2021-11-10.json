@@ -2234,6 +2234,7 @@
         {
             "fullName": "UMI",
             "makerFeeRate": "0.001",
+            "minTxAmt": "200",
             "minWithdraw": "10",
             "name": "UMI",
             "takerFeeRate": "0.001"
@@ -2893,6 +2894,58 @@
         },
         {
             "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.00837",
+            "openTime": 1585827194412,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BCNT-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.01",
+            "openTime": 1599036924000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "TON-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.01707",
+            "openTime": 1585827194413,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "CZZ-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "9",
+            "openTime": 1599969600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "HGET-USDT"
+        },
+        {
+            "accuracy": [
                 "7",
                 "0"
             ],
@@ -3387,55 +3440,68 @@
         },
         {
             "accuracy": [
-                "5",
+                "4",
+                "2"
+            ],
+            "openPrice": "0.7",
+            "openTime": 1599015600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BZRX-USDT"
+        },
+        {
+            "accuracy": [
+                "6",
                 "1"
             ],
-            "openPrice": "0.00837",
+            "openPrice": "0.0029",
             "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BCNT-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.01",
-            "openTime": 1599036924000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "TON-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.01707",
-            "openTime": 1585827194413,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "CZZ-USDT"
+            "symbol": "PI-USDT"
         },
         {
             "accuracy": [
                 "3",
                 "3"
             ],
-            "openPrice": "9",
-            "openTime": 1599969600000,
+            "openPrice": "4",
+            "openTime": 1599807600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "HGET-USDT"
+            "symbol": "SWRV-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "0"
+            ],
+            "openPrice": "0.040064",
+            "openTime": 1585827194413,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "KEYT-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "1",
+            "openTime": 1600945200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BURGER-USDT"
         },
         {
             "accuracy": [
@@ -3934,67 +4000,54 @@
         {
             "accuracy": [
                 "4",
-                "2"
+                "4"
             ],
-            "openPrice": "0.7",
-            "openTime": 1599015600000,
+            "openPrice": "1.111",
+            "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BZRX-USDT"
+            "symbol": "YT-USDT"
         },
         {
             "accuracy": [
                 "6",
                 "1"
             ],
-            "openPrice": "0.0029",
-            "openTime": 1585827194412,
+            "openPrice": "0.05",
+            "openTime": 1599210000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "PI-USDT"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "4",
-            "openTime": 1599807600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "SWRV-USDT"
+            "symbol": "PAZZI-USDT"
         },
         {
             "accuracy": [
                 "5",
-                "0"
+                "1"
             ],
-            "openPrice": "0.040064",
+            "openPrice": "0.00243",
             "openTime": 1585827194413,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "KEYT-USDT"
+            "symbol": "QKC-USDT"
         },
         {
             "accuracy": [
                 "3",
                 "3"
             ],
-            "openPrice": "1",
-            "openTime": 1600945200000,
+            "openPrice": "3",
+            "openTime": 1600327925000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BURGER-USDT"
+            "symbol": "UNI-USDT"
         },
         {
             "accuracy": [
@@ -4480,54 +4533,80 @@
         {
             "accuracy": [
                 "4",
-                "4"
+                "2"
             ],
-            "openPrice": "1.111",
+            "openPrice": "0.0517",
             "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "YT-USDT"
+            "symbol": "RIF-USDT"
         },
         {
             "accuracy": [
-                "6",
-                "1"
+                "2",
+                "5"
             ],
-            "openPrice": "0.05",
-            "openTime": 1599210000000,
+            "openPrice": "90",
+            "openTime": 1599015600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "PAZZI-USDT"
+            "symbol": "CREAM-USDT"
+        },
+        {
+            "accuracy": [
+                "6",
+                "2"
+            ],
+            "openPrice": "0.003564",
+            "openTime": 1585827194413,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BXA-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.00243",
+            "openPrice": "0.032",
+            "openTime": 1600056000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "GTH-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.1661",
             "openTime": 1585827194413,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "QKC-USDT"
+            "symbol": "DAD-USDT"
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "4",
+                "2"
             ],
-            "openPrice": "3",
-            "openTime": 1600327925000,
+            "openPrice": "0.14",
+            "openTime": 1601285400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "UNI-USDT"
+            "symbol": "RFUEL-USDT"
         },
         {
             "accuracy": [
@@ -4999,81 +5078,68 @@
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "3",
+                "3"
             ],
-            "openPrice": "0.0517",
-            "openTime": 1585827194412,
+            "openPrice": "5",
+            "openTime": 1598931915000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "RIF-USDT"
-        },
-        {
-            "accuracy": [
-                "2",
-                "5"
-            ],
-            "openPrice": "90",
-            "openTime": 1599015600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "CREAM-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "2"
-            ],
-            "openPrice": "0.003564",
-            "openTime": 1585827194413,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "BXA-USDT"
+            "symbol": "SUSHI-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.032",
-            "openTime": 1600056000000,
+            "openPrice": "0.01571",
+            "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "GTH-USDT"
+            "symbol": "STPT-USDT"
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "5",
+                "1"
             ],
-            "openPrice": "0.1661",
+            "openPrice": "0.03",
+            "openTime": 1599213600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "DKA-USDT"
+        },
+        {
+            "accuracy": [
+                "7",
+                "0"
+            ],
+            "openPrice": "0.000022",
             "openTime": 1585827194413,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "DAD-USDT"
+            "symbol": "NASH-USDT"
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "3",
+                "3"
             ],
-            "openPrice": "0.14",
-            "openTime": 1601285400000,
+            "openPrice": "7",
+            "openTime": 1600765200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "RFUEL-USDT"
+            "symbol": "EGLD-USDT"
         },
         {
             "accuracy": [
@@ -5574,65 +5640,65 @@
                 "3",
                 "3"
             ],
-            "openPrice": "5",
-            "openTime": 1598931915000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "SUSHI-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.01571",
+            "openPrice": "2.895",
             "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "STPT-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.03",
-            "openTime": 1599213600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "DKA-USDT"
-        },
-        {
-            "accuracy": [
-                "7",
-                "0"
-            ],
-            "openPrice": "0.000022",
-            "openTime": 1585827194413,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "NASH-USDT"
+            "symbol": "PLC-USDT"
         },
         {
             "accuracy": [
                 "3",
                 "3"
             ],
-            "openPrice": "7",
-            "openTime": 1600765200000,
+            "openPrice": "5",
+            "openTime": 1599116400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "EGLD-USDT"
+            "symbol": "DOT-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.0222",
+            "openTime": 1585827194413,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "VSYS-USDT"
+        },
+        {
+            "accuracy": [
+                "8",
+                "0"
+            ],
+            "openPrice": "0.0008",
+            "openTime": 1600315200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ASK-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.01738",
+            "openTime": 1585827194413,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "COTI-USDT"
         },
         {
             "accuracy": [
@@ -6130,68 +6196,68 @@
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "2",
+                "4"
             ],
-            "openPrice": "2.895",
-            "openTime": 1585827194412,
+            "openPrice": "30",
+            "openTime": 1599015600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "PLC-USDT"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "5",
-            "openTime": 1599116400000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "DOT-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
-                "2"
-            ],
-            "openPrice": "0.0222",
-            "openTime": 1585827194413,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "VSYS-USDT"
-        },
-        {
-            "accuracy": [
-                "8",
-                "0"
-            ],
-            "openPrice": "0.0008",
-            "openTime": 1600315200000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "ASK-USDT"
+            "symbol": "YAMV2-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.01738",
+            "openPrice": "0.07411",
+            "openTime": 1585827194412,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "KDAG-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.22",
+            "openTime": 1599815580000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "LNT-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.00898",
             "openTime": 1585827194413,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "COTI-USDT"
+            "symbol": "UTK-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.32",
+            "openTime": 1601017200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "TITAN-USDT"
         },
         {
             "accuracy": [
@@ -6663,6 +6729,19 @@
         },
         {
             "accuracy": [
+                "10",
+                "1"
+            ],
+            "openPrice": "0.000000442",
+            "openTime": 1636556400000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "UMI-BTC"
+        },
+        {
+            "accuracy": [
                 "6",
                 "2"
             ],
@@ -6676,68 +6755,42 @@
         },
         {
             "accuracy": [
-                "2",
-                "4"
-            ],
-            "openPrice": "30",
-            "openTime": 1599015600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "YAMV2-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
+                "6",
                 "1"
             ],
-            "openPrice": "0.07411",
+            "openPrice": "0.007867",
             "openTime": 1585827194412,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "KDAG-USDT"
+            "symbol": "LINKA-USDT"
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "1",
+                "6"
             ],
-            "openPrice": "0.22",
-            "openTime": 1599815580000,
+            "openPrice": "3000",
+            "openTime": 1599109200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "LNT-USDT"
+            "symbol": "PEARL-USDT"
         },
         {
             "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.00898",
-            "openTime": 1585827194413,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "UTK-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
+                "7",
                 "2"
             ],
-            "openPrice": "0.32",
-            "openTime": 1601017200000,
+            "openPrice": "1",
+            "openTime": 1600419600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TITAN-USDT"
+            "symbol": "FOODY-USDT"
         },
         {
             "accuracy": [
@@ -7258,45 +7311,6 @@
                 "multiplierUp": "3"
             },
             "symbol": "CRV-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "1"
-            ],
-            "openPrice": "0.007867",
-            "openTime": 1585827194412,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "LINKA-USDT"
-        },
-        {
-            "accuracy": [
-                "1",
-                "6"
-            ],
-            "openPrice": "3000",
-            "openTime": 1599109200000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "PEARL-USDT"
-        },
-        {
-            "accuracy": [
-                "7",
-                "2"
-            ],
-            "openPrice": "1",
-            "openTime": 1600419600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "FOODY-USDT"
         }
     ]
 }
