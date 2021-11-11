@@ -2301,6 +2301,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "YIN",
+        "buy_start": 1636977600,
+        "fee": "0.2",
+        "id": "YIN_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "BTT",
         "buy_start": 0,
@@ -3055,6 +3067,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "YIN",
+        "buy_start": 1636977600,
+        "fee": "0.2",
+        "id": "YIN_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -4098,6 +4122,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CSTR",
+        "buy_start": 1637236800,
+        "fee": "0.2",
+        "id": "CSTR_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -9720,6 +9756,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CSTR",
+        "buy_start": 1637236800,
+        "fee": "0.2",
+        "id": "CSTR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BOSON",
         "buy_start": 0,
         "fee": "0.2",
@@ -13446,14 +13494,14 @@
     {
         "amount_precision": 3,
         "base": "GGG",
-        "buy_start": 1636635600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GGG_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -24752,6 +24800,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DAL",
+        "buy_start": 1637326800,
+        "fee": "0.2",
+        "id": "DAL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
