@@ -1010,36 +1010,6 @@
         "symbol": "QNT"
     },
     {
-        "contract_code": "BAND-USDT",
-        "contract_size": 1.0,
-        "contract_status": 3,
-        "create_date": "20201223",
-        "delivery_time": "",
-        "price_tick": 0.0001,
-        "support_margin_mode": "isolated",
-        "symbol": "BAND"
-    },
-    {
-        "contract_code": "KNC-USDT",
-        "contract_size": 1.0,
-        "contract_status": 3,
-        "create_date": "20210120",
-        "delivery_time": "",
-        "price_tick": 0.0001,
-        "support_margin_mode": "isolated",
-        "symbol": "KNC"
-    },
-    {
-        "contract_code": "BAT-USDT",
-        "contract_size": 10.0,
-        "contract_status": 3,
-        "create_date": "20210120",
-        "delivery_time": "",
-        "price_tick": 0.0001,
-        "support_margin_mode": "isolated",
-        "symbol": "BAT"
-    },
-    {
         "contract_code": "FORTH-USDT",
         "contract_size": 0.1,
         "contract_status": 3,
@@ -1058,56 +1028,6 @@
         "price_tick": 1e-05,
         "support_margin_mode": "all",
         "symbol": "AKRO"
-    },
-    {
-        "contract_code": "OGN-USDT",
-        "contract_size": 1.0,
-        "contract_status": 3,
-        "create_date": "20210409",
-        "delivery_time": "",
-        "price_tick": 0.0001,
-        "support_margin_mode": "isolated",
-        "symbol": "OGN"
-    },
-    {
-        "contract_code": "BAL-USDT",
-        "contract_size": 0.1,
-        "contract_status": 3,
-        "create_date": "20210129",
-        "delivery_time": "",
-        "price_tick": 0.01,
-        "support_margin_mode": "isolated",
-        "symbol": "BAL"
-    },
-    {
-        "contract_code": "ANKR-USDT",
-        "contract_size": 10.0,
-        "contract_status": 3,
-        "create_date": "20210401",
-        "delivery_time": "",
-        "price_tick": 1e-05,
-        "support_margin_mode": "isolated",
-        "symbol": "ANKR"
-    },
-    {
-        "contract_code": "EGLD-USDT",
-        "contract_size": 0.01,
-        "contract_status": 3,
-        "create_date": "20210923",
-        "delivery_time": "",
-        "price_tick": 0.01,
-        "support_margin_mode": "isolated",
-        "symbol": "EGLD"
-    },
-    {
-        "contract_code": "BLZ-USDT",
-        "contract_size": 10.0,
-        "contract_status": 3,
-        "create_date": "20210312",
-        "delivery_time": "",
-        "price_tick": 1e-05,
-        "support_margin_mode": "isolated",
-        "symbol": "BLZ"
     },
     {
         "contract_code": "RNDR-USDT",
@@ -1160,16 +1080,6 @@
         "symbol": "LAT"
     },
     {
-        "contract_code": "FRONT-USDT",
-        "contract_size": 1.0,
-        "contract_status": 3,
-        "create_date": "20210223",
-        "delivery_time": "",
-        "price_tick": 0.0001,
-        "support_margin_mode": "isolated",
-        "symbol": "FRONT"
-    },
-    {
         "contract_code": "XCH-USDT",
         "contract_size": 0.001,
         "contract_status": 3,
@@ -1190,6 +1100,26 @@
         "symbol": "CTSI"
     },
     {
+        "contract_code": "MASS-USDT",
+        "contract_size": 1.0,
+        "contract_status": 3,
+        "create_date": "20210129",
+        "delivery_time": "",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "MASS"
+    },
+    {
+        "contract_code": "KNC-USDT",
+        "contract_size": 1.0,
+        "contract_status": 3,
+        "create_date": "20210120",
+        "delivery_time": "",
+        "price_tick": 0.0001,
+        "support_margin_mode": "isolated",
+        "symbol": "KNC"
+    },
+    {
         "contract_code": "UMA-USDT",
         "contract_size": 0.1,
         "contract_status": 3,
@@ -1200,13 +1130,83 @@
         "symbol": "UMA"
     },
     {
-        "contract_code": "MASS-USDT",
+        "contract_code": "FRONT-USDT",
         "contract_size": 1.0,
+        "contract_status": 3,
+        "create_date": "20210223",
+        "delivery_time": "",
+        "price_tick": 0.0001,
+        "support_margin_mode": "isolated",
+        "symbol": "FRONT"
+    },
+    {
+        "contract_code": "BLZ-USDT",
+        "contract_size": 10.0,
+        "contract_status": 3,
+        "create_date": "20210312",
+        "delivery_time": "",
+        "price_tick": 1e-05,
+        "support_margin_mode": "isolated",
+        "symbol": "BLZ"
+    },
+    {
+        "contract_code": "ANKR-USDT",
+        "contract_size": 10.0,
+        "contract_status": 3,
+        "create_date": "20210401",
+        "delivery_time": "",
+        "price_tick": 1e-05,
+        "support_margin_mode": "isolated",
+        "symbol": "ANKR"
+    },
+    {
+        "contract_code": "BAND-USDT",
+        "contract_size": 1.0,
+        "contract_status": 3,
+        "create_date": "20201223",
+        "delivery_time": "",
+        "price_tick": 0.0001,
+        "support_margin_mode": "isolated",
+        "symbol": "BAND"
+    },
+    {
+        "contract_code": "OGN-USDT",
+        "contract_size": 1.0,
+        "contract_status": 3,
+        "create_date": "20210409",
+        "delivery_time": "",
+        "price_tick": 0.0001,
+        "support_margin_mode": "isolated",
+        "symbol": "OGN"
+    },
+    {
+        "contract_code": "BAL-USDT",
+        "contract_size": 0.1,
         "contract_status": 3,
         "create_date": "20210129",
         "delivery_time": "",
+        "price_tick": 0.01,
+        "support_margin_mode": "isolated",
+        "symbol": "BAL"
+    },
+    {
+        "contract_code": "BAT-USDT",
+        "contract_size": 10.0,
+        "contract_status": 3,
+        "create_date": "20210120",
+        "delivery_time": "",
         "price_tick": 0.0001,
-        "support_margin_mode": "all",
-        "symbol": "MASS"
+        "support_margin_mode": "isolated",
+        "symbol": "BAT"
+    },
+    {
+        "contract_code": "EGLD-USDT",
+        "contract_size": 0.01,
+        "contract_status": 3,
+        "create_date": "20210923",
+        "delivery_time": "",
+        "price_tick": 0.01,
+        "support_margin_mode": "isolated",
+        "symbol": "EGLD"
     }
 ]
