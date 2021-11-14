@@ -445,6 +445,18 @@
     },
     {
         "amount-precision": 4,
+        "base-currency": "dot",
+        "id": "5235",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dot_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
         "base-currency": "gdfc",
         "id": "5238",
         "max-order-amt": null,
@@ -864,15 +876,15 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 1,
-        "base-currency": "xem",
-        "id": "5306",
+        "amount-precision": 2,
+        "base-currency": "btm",
+        "id": "5307",
         "max-order-amt": null,
-        "min-order-amt": "0.1",
+        "min-order-amt": "0.01",
         "price-precision": 4,
         "quote-currency": "qc",
         "state": "online",
-        "symbol": "xem_qc",
+        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
