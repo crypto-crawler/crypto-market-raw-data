@@ -3801,6 +3801,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "LIFE",
+        "buy_start": 1637121600,
+        "fee": "0.2",
+        "id": "LIFE_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ACH3L",
         "buy_start": 0,
@@ -9756,6 +9768,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "KMON",
+        "buy_start": 1637208000,
+        "fee": "0.2",
+        "id": "KMON_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "REQ",
         "buy_start": 0,
         "fee": "0.2",
@@ -10507,6 +10531,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "LIFE",
+        "buy_start": 1637121600,
+        "fee": "0.2",
+        "id": "LIFE_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -12606,14 +12642,14 @@
     {
         "amount_precision": 3,
         "base": "RIN",
-        "buy_start": 1636963200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RIN_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -15143,6 +15179,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "NFTY",
+        "buy_start": 1637064000,
+        "fee": "0.2",
+        "id": "NFTY_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -22091,6 +22139,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "NFTY",
+        "buy_start": 1637064000,
+        "fee": "0.2",
+        "id": "NFTY_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
