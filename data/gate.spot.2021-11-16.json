@@ -1550,14 +1550,14 @@
     {
         "amount_precision": 4,
         "base": "PSP",
-        "buy_start": 1637049600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PSP_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -5216,6 +5216,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ADAPAD",
+        "buy_start": 1637150400,
+        "fee": "0.2",
+        "id": "ADAPAD_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "PPS",
         "buy_start": 0,
         "fee": "0.2",
@@ -5668,6 +5680,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "TITA",
+        "buy_start": 1637244000,
+        "fee": "0.2",
+        "id": "TITA_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -8727,14 +8751,14 @@
     {
         "amount_precision": 3,
         "base": "ACE",
-        "buy_start": 1637049600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ACE_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -9132,18 +9156,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "SAO",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "SAO_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "VELO",
         "buy_start": 0,
         "fee": "0.2",
@@ -9151,6 +9163,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SAO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SAO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16347,6 +16371,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "TITA",
+        "buy_start": 1637244000,
+        "fee": "0.2",
+        "id": "TITA_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "GS",
         "buy_start": 0,
         "fee": "0.2",
@@ -18666,6 +18702,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PLSPAD",
+        "buy_start": 1637150400,
+        "fee": "0.2",
+        "id": "PLSPAD_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -24444,14 +24492,14 @@
     {
         "amount_precision": 3,
         "base": "PSP",
-        "buy_start": 1637049600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PSP_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
