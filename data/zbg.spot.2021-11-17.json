@@ -288,18 +288,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "520",
-        "id": "5073",
-        "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 6,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "520_qc",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 1,
         "base-currency": "bts",
         "id": "5150",
@@ -660,18 +648,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 6,
-        "base-currency": "rmsc",
-        "id": "5280",
-        "max-order-amt": null,
-        "min-order-amt": "0.000001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "rmsc_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "dfl",
         "id": "5281",
@@ -814,6 +790,18 @@
         "state": "online",
         "symbol": "svt_usdt",
         "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 0,
+        "base-currency": "doge",
+        "id": "5300",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "doge_qc",
+        "symbol-partition": "main"
     },
     {
         "amount-precision": 3,
