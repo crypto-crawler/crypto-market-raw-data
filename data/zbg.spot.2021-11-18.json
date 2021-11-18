@@ -288,6 +288,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 4,
+        "base-currency": "520",
+        "id": "5073",
+        "max-order-amt": null,
+        "min-order-amt": "0.1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "520_qc",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 1,
         "base-currency": "bts",
         "id": "5150",
@@ -444,15 +456,15 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "nbs",
-        "id": "5249",
+        "amount-precision": 4,
+        "base-currency": "uni",
+        "id": "5248",
         "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 6,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "nbs_usdt",
+        "symbol": "uni_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -816,6 +828,18 @@
         "symbol-partition": "main"
     },
     {
+        "amount-precision": 0,
+        "base-currency": "xrp",
+        "id": "5302",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xrp_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 1,
         "base-currency": "trx",
         "id": "5303",
@@ -1113,6 +1137,18 @@
         "quote-currency": "zusd",
         "state": "online",
         "symbol": "zbtc3l_zusd",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "ens",
+        "id": "5330",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ens_usdt",
         "symbol-partition": "innovation"
     }
 ]
