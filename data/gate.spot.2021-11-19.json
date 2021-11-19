@@ -818,6 +818,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "UNO",
+        "buy_start": 1637640000,
+        "fee": "0.2",
+        "id": "UNO_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DMLG",
         "buy_start": 0,
         "fee": "0.2",
@@ -2409,6 +2421,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "UNO",
+        "buy_start": 1637640000,
+        "fee": "0.2",
+        "id": "UNO_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FODL",
         "buy_start": 0,
         "fee": "0.2",
@@ -3115,6 +3139,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DMTR",
+        "buy_start": 1637470800,
+        "fee": "0.2",
+        "id": "DMTR_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -6820,6 +6856,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "XCV",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XCV_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "GTC",
         "buy_start": 0,
@@ -8667,14 +8715,14 @@
     {
         "amount_precision": 3,
         "base": "XCV",
-        "buy_start": 1637308800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "XCV_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -10375,6 +10423,18 @@
         "quote": "SGD",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EGAME",
+        "buy_start": 1637668800,
+        "fee": "0.2",
+        "id": "EGAME_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -25320,7 +25380,7 @@
     {
         "amount_precision": 3,
         "base": "DAL",
-        "buy_start": 1637326800,
+        "buy_start": 1638536400,
         "fee": "0.2",
         "id": "DAL_USDT",
         "min_quote_amount": "1",
