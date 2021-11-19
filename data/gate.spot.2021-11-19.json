@@ -6785,6 +6785,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SOURCE",
+        "buy_start": 1637560800,
+        "fee": "0.2",
+        "id": "SOURCE_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ABT",
         "buy_start": 0,
         "fee": "0.2",
@@ -7577,14 +7589,14 @@
     {
         "amount_precision": 0,
         "base": "CATGIRL",
-        "buy_start": 1637323200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CATGIRL_USDT",
         "min_quote_amount": "1",
         "precision": 13,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -8016,6 +8028,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "BOBA",
+        "buy_start": 1637373600,
+        "fee": "0.2",
+        "id": "BOBA_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -11952,7 +11976,7 @@
         "fee": "0.2",
         "id": "DES_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -12483,6 +12507,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BOBA",
+        "buy_start": 1637373600,
+        "fee": "0.2",
+        "id": "BOBA_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -13538,6 +13574,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "VGX",
+        "buy_start": 1637496000,
+        "fee": "0.2",
+        "id": "VGX_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -16356,6 +16404,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SOURCE",
+        "buy_start": 1637560800,
+        "fee": "0.2",
+        "id": "SOURCE_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -24404,6 +24464,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "VGX",
+        "buy_start": 1637496000,
+        "fee": "0.2",
+        "id": "VGX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
