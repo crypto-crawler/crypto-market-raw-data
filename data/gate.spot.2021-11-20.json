@@ -1022,24 +1022,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "INSUR",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "INSUR_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 6,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "LIKE",
         "buy_start": 0,
         "fee": "0.2",
         "id": "LIKE_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "INSUR",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "INSUR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -1166,18 +1166,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "REVV",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "REVV_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "KYL",
         "buy_start": 0,
         "fee": "0.2",
@@ -1185,6 +1173,18 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "REVV",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "REVV_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -1298,18 +1298,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "VAI",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "VAI_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "MATIC",
         "buy_start": 0,
         "fee": "0.2",
@@ -1328,6 +1316,18 @@
         "id": "UNI_USD",
         "precision": 3,
         "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "VAI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "VAI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -1513,18 +1513,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "XEND",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "XEND_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "PBR",
         "buy_start": 0,
         "fee": "0.2",
@@ -1532,6 +1520,18 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XEND",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XEND_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -2182,24 +2182,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "ADX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ADX_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "MTL",
         "buy_start": 0,
         "fee": "0.2",
         "id": "MTL_ETH",
         "min_quote_amount": "0.001",
         "precision": 6,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ADX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ADX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -2326,18 +2326,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "GOD",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GOD_BTC",
-        "min_quote_amount": "0.0001",
-        "precision": 8,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "A5T",
         "buy_start": 0,
         "fee": "0.2",
@@ -2345,6 +2333,18 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GOD",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GOD_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 8,
+        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -2649,24 +2649,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "AUDIO",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "AUDIO_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "FIRO",
         "buy_start": 0,
         "fee": "0.2",
         "id": "FIRO_USDT",
         "min_quote_amount": "1",
         "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "AUDIO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AUDIO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -3742,18 +3742,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "GS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GS_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "TULIP",
         "buy_start": 0,
         "fee": "0.2",
@@ -3761,6 +3749,18 @@
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GS",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -4339,18 +4339,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "ROSE",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ROSE_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 3,
         "base": "SCRT",
         "buy_start": 0,
@@ -4359,6 +4347,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ROSE",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ROSE_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -5336,10 +5336,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "UNISTAKE",
+        "base": "DAFI",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "UNISTAKE_ETH",
+        "id": "DAFI_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -5348,10 +5348,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "DAFI",
+        "base": "UNISTAKE",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "DAFI_ETH",
+        "id": "UNISTAKE_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -7060,11 +7060,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "RAGE",
+        "amount_precision": 4,
+        "base": "RAZOR",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "RAGE_USDT",
+        "id": "RAZOR_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
@@ -7072,11 +7072,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "RAZOR",
+        "amount_precision": 3,
+        "base": "RAGE",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "RAZOR_USDT",
+        "id": "RAGE_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
@@ -7575,18 +7575,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
-        "base": "TARA",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "TARA_BTC",
-        "min_quote_amount": "0.0001",
-        "precision": 10,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 3,
         "base": "AGS",
         "buy_start": 0,
@@ -7595,6 +7583,18 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "TARA",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "TARA_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 10,
+        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -7983,24 +7983,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "PCNT",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "PCNT_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "CUDOS",
         "buy_start": 0,
         "fee": "0.2",
         "id": "CUDOS_USDT",
         "min_quote_amount": "1",
         "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PCNT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "PCNT_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -9228,10 +9228,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "SHFT",
+        "base": "OXT",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "SHFT_USDT",
+        "id": "OXT_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -9240,10 +9240,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "OXT",
+        "base": "SHFT",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "OXT_USDT",
+        "id": "SHFT_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -10319,6 +10319,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "STEP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "STEP_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DG",
         "buy_start": 0,
         "fee": "0.2",
@@ -10338,18 +10350,6 @@
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "STEP",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "STEP_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -10929,18 +10929,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "ALCX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ALCX_USDT",
-        "min_quote_amount": "1",
-        "precision": 2,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "GRAP",
         "buy_start": 0,
         "fee": "0.2",
@@ -10948,6 +10936,18 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ALCX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ALCX_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -13385,18 +13385,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "CYS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "CYS_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "SASHIMI",
         "buy_start": 0,
         "fee": "0.2",
@@ -13404,6 +13392,18 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CYS",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CYS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -14727,6 +14727,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "LKR",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LKR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "SBR",
         "buy_start": 0,
         "fee": "0.2",
@@ -14739,10 +14751,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "LKR",
+        "base": "GLQ",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "LKR_ETH",
+        "id": "GLQ_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -14755,18 +14767,6 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "ZIL_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "GLQ",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GLQ_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -14941,11 +14941,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "DDIM",
+        "amount_precision": 4,
+        "base": "DASH",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "DDIM_USDT",
+        "id": "DASH_USDT",
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
@@ -14953,11 +14953,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "DASH",
+        "amount_precision": 3,
+        "base": "DDIM",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "DASH_USDT",
+        "id": "DDIM_USDT",
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
@@ -15014,18 +15014,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "INSUR",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "INSUR_USDT",
-        "min_quote_amount": "1",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "UNN",
         "buy_start": 0,
         "fee": "0.2",
@@ -15033,6 +15021,18 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "INSUR",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "INSUR_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -15974,6 +15974,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SYN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SYN_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "RGT",
         "buy_start": 0,
         "fee": "0.2",
@@ -16550,6 +16562,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "KYL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "KYL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "BAT",
         "buy_start": 0,
@@ -16563,24 +16587,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "KYL",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "KYL_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "WXT",
         "buy_start": 0,
         "fee": "0.2",
         "id": "WXT_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LON",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LON_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -16599,36 +16623,12 @@
     },
     {
         "amount_precision": 3,
-        "base": "LON",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "LON_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 6,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "TITA",
         "buy_start": 0,
         "fee": "0.2",
         "id": "TITA_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "MIS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "MIS_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -16642,6 +16642,18 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MIS",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MIS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -18933,18 +18945,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "ARCX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ARCX_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 3,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "BOX",
         "buy_start": 0,
         "fee": "0.2",
@@ -18952,6 +18952,18 @@
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ARCX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ARCX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 3,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -19125,24 +19137,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "EHASH",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "EHASH_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "CHNG",
         "buy_start": 0,
         "fee": "0.2",
         "id": "CHNG_USDT",
         "min_quote_amount": "1",
         "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "EHASH",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "EHASH_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -19316,18 +19328,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "CEL",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "CEL_USDT",
-        "min_quote_amount": "1",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 4,
         "base": "BTC",
         "buy_start": 0,
@@ -19336,6 +19336,18 @@
         "min_base_amount": "0.0001",
         "min_quote_amount": "1",
         "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CEL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CEL_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -19353,6 +19365,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "WAVES",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "WAVES_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 7,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 4,
         "base": "LTC",
         "buy_start": 0,
@@ -19362,18 +19386,6 @@
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "WAVES",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "WAVES_BTC",
-        "min_quote_amount": "0.0001",
-        "precision": 7,
-        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -19440,14 +19452,14 @@
     {
         "amount_precision": 3,
         "base": "VDR",
-        "buy_start": 1637384400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "VDR_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -19953,10 +19965,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "ZEE",
+        "base": "WOZX",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "ZEE_USDT",
+        "id": "WOZX_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -19965,10 +19977,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "WOZX",
+        "base": "ZEE",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "WOZX_USDT",
+        "id": "ZEE_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
@@ -20744,24 +20756,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "SNY",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "SNY_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "EOS",
         "buy_start": 0,
         "fee": "0.2",
         "id": "EOS_USDT",
         "min_quote_amount": "1",
         "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SNY",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SNY_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -22346,18 +22358,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "CREAM",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "CREAM_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 5,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 2,
         "base": "SWRV",
         "buy_start": 0,
@@ -22365,6 +22365,18 @@
         "id": "SWRV_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CREAM",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CREAM_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 5,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -22395,24 +22407,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "DSD",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "DSD_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "CTI",
         "buy_start": 0,
         "fee": "0.2",
         "id": "CTI_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DSD",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DSD_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -22657,24 +22669,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "UNISTAKE",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "UNISTAKE_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "ETH2",
         "buy_start": 0,
         "fee": "0.2",
         "id": "ETH2_USDT",
         "min_quote_amount": "1",
         "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "UNISTAKE",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "UNISTAKE_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -23316,18 +23328,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "YAM",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "YAM_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 3,
         "base": "PRT",
         "buy_start": 0,
@@ -23335,6 +23335,18 @@
         "id": "PRT_USDT",
         "min_quote_amount": "1",
         "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "YAM",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "YAM_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -23735,6 +23747,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "ULU",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ULU_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "LARIX",
         "buy_start": 0,
@@ -23754,18 +23778,6 @@
         "id": "INV_USDT",
         "min_quote_amount": "1",
         "precision": 2,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 4,
-        "base": "ULU",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ULU_USDT",
-        "min_quote_amount": "1",
-        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -24293,6 +24305,18 @@
         "id": "RARI_USDT",
         "min_quote_amount": "1",
         "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SYN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SYN_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -24982,14 +25006,14 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "TNC",
+        "amount_precision": 2,
+        "base": "ERG",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "TNC_USDT",
-        "min_quote_amount": "1",
+        "id": "ERG_ETH",
+        "min_quote_amount": "0.001",
         "precision": 7,
-        "quote": "USDT",
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -25006,14 +25030,14 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "ERG",
+        "amount_precision": 3,
+        "base": "TNC",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "ERG_ETH",
-        "min_quote_amount": "0.001",
+        "id": "TNC_USDT",
+        "min_quote_amount": "1",
         "precision": 7,
-        "quote": "ETH",
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -25510,6 +25534,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "NGL",
+        "buy_start": 1637409600,
+        "fee": "0.2",
+        "id": "NGL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "STPT",
         "buy_start": 0,
@@ -25859,18 +25895,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "ADA",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ADA_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "RAI",
         "buy_start": 0,
         "fee": "0.2",
@@ -25878,6 +25902,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ADA",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ADA_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -26590,18 +26626,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "BDP",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "BDP_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 4,
         "base": "SUSHI",
         "buy_start": 0,
@@ -26609,6 +26633,18 @@
         "id": "SUSHI_USDT",
         "min_quote_amount": "1",
         "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BDP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BDP_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
