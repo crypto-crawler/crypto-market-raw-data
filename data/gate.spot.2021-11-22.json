@@ -5252,6 +5252,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CWAR",
+        "buy_start": 1637632800,
+        "fee": "0.2",
+        "id": "CWAR_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "WILD",
         "buy_start": 0,
         "fee": "0.2",
@@ -6822,14 +6834,14 @@
     {
         "amount_precision": 3,
         "base": "SOURCE",
-        "buy_start": 1637560800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SOURCE_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13480,6 +13492,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "CWAR",
+        "buy_start": 1637632800,
+        "fee": "0.2",
+        "id": "CWAR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ELEC",
         "buy_start": 0,
@@ -15650,6 +15674,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "TABOO",
+        "buy_start": 1637668800,
+        "fee": "0.2",
+        "id": "TABOO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "UMX",
         "buy_start": 0,
         "fee": "0.2",
@@ -16456,14 +16492,14 @@
     {
         "amount_precision": 3,
         "base": "SOURCE",
-        "buy_start": 1637560800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SOURCE_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -26676,14 +26712,14 @@
     {
         "amount_precision": 3,
         "base": "DEHUB",
-        "buy_start": 1637568000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DEHUB_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
