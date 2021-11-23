@@ -169,6 +169,18 @@
     },
     {
         "amount-precision": 4,
+        "base-currency": "comc",
+        "id": "393",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "comc_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
         "base-currency": "abbc",
         "id": "411",
         "max-order-amt": null,
@@ -249,18 +261,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "trx_usdt",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
         "symbol-partition": "main"
     },
     {
@@ -409,6 +409,18 @@
     },
     {
         "amount-precision": 4,
+        "base-currency": "ksm",
+        "id": "5223",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
         "base-currency": "dot",
         "id": "5235",
         "max-order-amt": null,
@@ -501,6 +513,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "near_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "xt",
+        "id": "5261",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "xt_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -813,6 +837,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "xrp_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 1,
+        "base-currency": "xlm",
+        "id": "5305",
+        "max-order-amt": null,
+        "min-order-amt": "0.1",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xlm_qc",
         "symbol-partition": "main"
     },
     {
