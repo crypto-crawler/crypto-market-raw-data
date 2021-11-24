@@ -2457,6 +2457,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DAR",
+        "buy_start": 1637744400,
+        "fee": "0.2",
+        "id": "DAR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "MIR",
         "buy_start": 0,
         "fee": "0.2",
@@ -2850,6 +2862,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "DAR",
+        "buy_start": 1637744400,
+        "fee": "0.2",
+        "id": "DAR_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
