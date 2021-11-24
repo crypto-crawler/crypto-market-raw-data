@@ -2458,14 +2458,14 @@
     {
         "amount_precision": 3,
         "base": "DAR",
-        "buy_start": 1637744400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DAR_ETH",
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -2866,14 +2866,14 @@
     {
         "amount_precision": 4,
         "base": "DAR",
-        "buy_start": 1637744400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DAR_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -18993,6 +18993,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ICONS",
+        "buy_start": 1637841600,
+        "fee": "0.2",
+        "id": "ICONS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BTM",
         "buy_start": 0,
         "fee": "0.2",
@@ -22240,14 +22252,14 @@
     {
         "amount_precision": 3,
         "base": "GRBE",
-        "buy_start": 1637755200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GRBE_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -23062,6 +23074,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CHEQ",
+        "buy_start": 1637920800,
+        "fee": "0.2",
+        "id": "CHEQ_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -25136,6 +25160,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ICONS",
+        "buy_start": 1637841600,
+        "fee": "0.2",
+        "id": "ICONS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
