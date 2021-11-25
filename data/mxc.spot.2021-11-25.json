@@ -1630,6 +1630,22 @@
         "price_scale": 4,
         "quantity_scale": 2,
         "state": "ENABLED",
+        "symbol": "B2M_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "B2M",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
         "symbol": "BABY_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
@@ -11198,6 +11214,7 @@
         "vcoinStatus": 1
     },
     {
+        "countDownMark": 1,
         "etf_mark": 0,
         "limited": false,
         "maker_fee_rate": "0.002",
@@ -11206,10 +11223,10 @@
         "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
-        "symbol": "MCC_USDT",
-        "symbol_partition": "MAIN",
+        "symbol": "MCC1_USDT",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
-        "vcoinName": "MCC",
+        "vcoinName": "MCC1",
         "vcoinStatus": 1
     },
     {
