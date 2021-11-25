@@ -363,7 +363,7 @@
         "base_currency": "AVAX",
         "category": "2",
         "instrument_id": "AVAX-USDT",
-        "min_size": "0.1",
+        "min_size": "0.01",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
@@ -583,6 +583,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.0001"
+    },
+    {
+        "base_currency": "BORING",
+        "category": "2",
+        "instrument_id": "BORING-USDT",
+        "min_size": "10",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.00001"
     },
     {
         "base_currency": "BOX",
@@ -3558,7 +3567,7 @@
         "base_currency": "SOL",
         "category": "2",
         "instrument_id": "SOL-USDT",
-        "min_size": "0.1",
+        "min_size": "0.01",
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.001"
