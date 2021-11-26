@@ -6726,6 +6726,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "BTL",
+        "buy_start": 1638536400,
+        "fee": "0.2",
+        "id": "BTL_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CPOOL",
         "buy_start": 0,
         "fee": "0.2",
@@ -12881,6 +12893,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "TRVL",
+        "buy_start": 1637931600,
+        "fee": "0.2",
+        "id": "TRVL_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CBK",
         "buy_start": 0,
         "fee": "0.2",
@@ -13106,6 +13130,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XTAG",
+        "buy_start": 1638273600,
+        "fee": "0.2",
+        "id": "XTAG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -15142,7 +15178,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16595,7 +16631,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20409,6 +20445,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "XTAG",
+        "buy_start": 1638273600,
+        "fee": "0.2",
+        "id": "XTAG_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "SWTH",
         "buy_start": 0,
         "fee": "0.2",
@@ -23150,14 +23198,14 @@
     {
         "amount_precision": 3,
         "base": "CHEQ",
-        "buy_start": 1637920800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CHEQ_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -23852,7 +23900,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,

@@ -136,7 +136,7 @@
     },
     {
         "base_currency": "AGLD",
-        "category": "3",
+        "category": "2",
         "instrument_id": "AGLD-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -151,6 +151,15 @@
         "quote_currency": "USDT",
         "size_increment": "1",
         "tick_size": "0.00000001"
+    },
+    {
+        "base_currency": "ALCX",
+        "category": "3",
+        "instrument_id": "ALCX-USDT",
+        "min_size": "0.01",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.01"
     },
     {
         "base_currency": "ALGO",
@@ -505,7 +514,7 @@
     },
     {
         "base_currency": "BCX",
-        "category": "2",
+        "category": "3",
         "instrument_id": "BCX-BTC",
         "min_size": "100",
         "quote_currency": "BTC",
@@ -937,7 +946,7 @@
     },
     {
         "base_currency": "COVER",
-        "category": "2",
+        "category": "3",
         "instrument_id": "COVER-USDT",
         "min_size": "0.001",
         "quote_currency": "USDT",
@@ -1096,6 +1105,15 @@
         "quote_currency": "USDT",
         "size_increment": "0.000001",
         "tick_size": "0.00001"
+    },
+    {
+        "base_currency": "CVX",
+        "category": "3",
+        "instrument_id": "CVX-USDT",
+        "min_size": "0.1",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.001"
     },
     {
         "base_currency": "DAI",
@@ -1342,7 +1360,7 @@
     },
     {
         "base_currency": "EDEN",
-        "category": "3",
+        "category": "2",
         "instrument_id": "EDEN-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -1765,7 +1783,7 @@
     },
     {
         "base_currency": "GAL",
-        "category": "3",
+        "category": "2",
         "instrument_id": "GAL-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -1774,7 +1792,7 @@
     },
     {
         "base_currency": "GALA",
-        "category": "3",
+        "category": "2",
         "instrument_id": "GALA-USDT",
         "min_size": "10",
         "quote_currency": "USDT",
@@ -2026,7 +2044,7 @@
     },
     {
         "base_currency": "ILV",
-        "category": "3",
+        "category": "2",
         "instrument_id": "ILV-USDT",
         "min_size": "0.01",
         "quote_currency": "USDT",
@@ -2035,7 +2053,7 @@
     },
     {
         "base_currency": "IMX",
-        "category": "3",
+        "category": "2",
         "instrument_id": "IMX-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
@@ -3087,6 +3105,15 @@
         "tick_size": "0.0001"
     },
     {
+        "base_currency": "PEOPLE",
+        "category": "3",
+        "instrument_id": "PEOPLE-USDT",
+        "min_size": "100",
+        "quote_currency": "USDT",
+        "size_increment": "0.000001",
+        "tick_size": "0.000001"
+    },
+    {
         "base_currency": "PERP",
         "category": "2",
         "instrument_id": "PERP-USDT",
@@ -3178,7 +3205,7 @@
     },
     {
         "base_currency": "PPT",
-        "category": "2",
+        "category": "3",
         "instrument_id": "PPT-USDT",
         "min_size": "0.1",
         "quote_currency": "USDT",
@@ -3412,7 +3439,7 @@
     },
     {
         "base_currency": "SBTC",
-        "category": "2",
+        "category": "3",
         "instrument_id": "SBTC-BTC",
         "min_size": "0.1",
         "quote_currency": "BTC",
@@ -4447,7 +4474,7 @@
     },
     {
         "base_currency": "YGG",
-        "category": "3",
+        "category": "2",
         "instrument_id": "YGG-USDT",
         "min_size": "1",
         "quote_currency": "USDT",
