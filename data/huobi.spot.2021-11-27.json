@@ -11698,6 +11698,22 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "pyr",
+        "limit-order-min-order-amt": 0.0001,
+        "min-order-amt": 0.0001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.0001,
+        "state": "online",
+        "symbol": "pyrusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "qash",
         "limit-order-min-order-amt": 0.1,
         "min-order-amt": 0.1,
