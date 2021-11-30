@@ -15926,6 +15926,194 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "KILTEUR",
+        "base": "KILT",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "2",
+        "pair_decimals": 2,
+        "quote": "ZEUR",
+        "wsname": "KILT/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "KILTUSD",
+        "base": "KILT",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "2",
+        "pair_decimals": 2,
+        "quote": "ZUSD",
+        "wsname": "KILT/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "KNCETH",
         "base": "KNC",
         "fee_volume_currency": "ZUSD",
