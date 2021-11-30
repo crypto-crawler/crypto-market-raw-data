@@ -3937,7 +3937,7 @@
         "price-precision": 10,
         "quote-currency": "btc",
         "sell-market-min-order-amt": 1,
-        "state": "online",
+        "state": "suspend",
         "symbol": "datbtc",
         "symbol-partition": "innovation",
         "tags": "abnormalmarket",
@@ -3953,7 +3953,7 @@
         "price-precision": 8,
         "quote-currency": "eth",
         "sell-market-min-order-amt": 1,
-        "state": "online",
+        "state": "suspend",
         "symbol": "dateth",
         "symbol-partition": "innovation",
         "tags": "",
@@ -9730,7 +9730,7 @@
         "state": "online",
         "symbol": "musketh",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -12741,6 +12741,22 @@
     {
         "amount-precision": 2,
         "api-trading": "enabled",
+        "base-currency": "sdn",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "sdnusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
         "base-currency": "seele",
         "limit-order-min-order-amt": 1,
         "min-order-amt": 1,
@@ -13455,10 +13471,10 @@
         "price-precision": 10,
         "quote-currency": "btc",
         "sell-market-min-order-amt": 1,
-        "state": "online",
+        "state": "suspend",
         "symbol": "stkbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
