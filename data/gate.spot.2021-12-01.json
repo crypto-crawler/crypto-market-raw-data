@@ -4378,14 +4378,14 @@
     {
         "amount_precision": 3,
         "base": "BICO",
-        "buy_start": 1638363660,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BICO_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -20674,14 +20674,14 @@
     {
         "amount_precision": 3,
         "base": "BICO",
-        "buy_start": 1638363660,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BICO_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -22267,7 +22267,7 @@
     {
         "amount_precision": 3,
         "base": "TTT",
-        "buy_start": 1638468000,
+        "buy_start": 1638460800,
         "fee": "0.2",
         "id": "TTT_USDT",
         "min_quote_amount": "1",

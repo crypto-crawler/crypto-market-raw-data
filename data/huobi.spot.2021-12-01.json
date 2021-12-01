@@ -1900,6 +1900,22 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "bico",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "bicousdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "bifi",
         "limit-order-min-order-amt": 1,
         "max-order-value": 1000,
@@ -12491,7 +12507,7 @@
         "state": "online",
         "symbol": "rteeth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
