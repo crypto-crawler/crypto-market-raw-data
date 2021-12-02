@@ -52380,7 +52380,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -52391,7 +52391,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "BTC",
         "quoteAssetPrecision": 8,
@@ -52446,7 +52447,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -52457,7 +52458,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "USDT",
         "quoteAssetPrecision": 8,
@@ -111315,7 +111317,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -111326,7 +111328,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "BUSD",
         "quoteAssetPrecision": 8,
@@ -113960,7 +113963,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -113971,7 +113974,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "USDT",
         "quoteAssetPrecision": 8,
@@ -114026,7 +114030,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -114037,7 +114041,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "BUSD",
         "quoteAssetPrecision": 8,
@@ -114158,7 +114163,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -114169,7 +114174,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "BTC",
         "quoteAssetPrecision": 8,
@@ -119264,5 +119270,188 @@
         "quotePrecision": 8,
         "status": "TRADING",
         "symbol": "SANTOSTRY"
+    },
+    {
+        "baseAsset": "MC",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.00000010"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "BTC",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "MCBTC"
+    },
+    {
+        "baseAsset": "MC",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "BUSD",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "MCBUSD"
+    },
+    {
+        "baseAsset": "MC",
+        "baseAssetPrecision": 8,
+        "baseCommissionPrecision": 8,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "icebergAllowed": true,
+        "isMarginTradingAllowed": false,
+        "isSpotTradingAllowed": true,
+        "ocoAllowed": true,
+        "orderTypes": [
+            "LIMIT",
+            "LIMIT_MAKER",
+            "MARKET",
+            "STOP_LOSS_LIMIT",
+            "TAKE_PROFIT_LIMIT"
+        ],
+        "permissions": [
+            "SPOT"
+        ],
+        "quoteAsset": "USDT",
+        "quoteAssetPrecision": 8,
+        "quoteCommissionPrecision": 8,
+        "quoteOrderQtyMarketAllowed": true,
+        "quotePrecision": 8,
+        "status": "TRADING",
+        "symbol": "MCUSDT"
     }
 ]
