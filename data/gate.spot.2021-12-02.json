@@ -350,6 +350,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "MOO",
+        "buy_start": 1638450000,
+        "fee": "0.2",
+        "id": "MOO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "SMTY",
         "buy_start": 0,
         "fee": "0.2",
@@ -1390,6 +1402,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MLT",
+        "buy_start": 1638864000,
+        "fee": "0.2",
+        "id": "MLT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -11396,6 +11420,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "MMM",
+        "buy_start": 1638864000,
+        "fee": "0.2",
+        "id": "MMM_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "POND",
         "buy_start": 0,
         "fee": "0.2",
@@ -12375,6 +12411,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "EMPIRE",
+        "buy_start": 1638849600,
+        "fee": "0.2",
+        "id": "EMPIRE_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -15471,14 +15519,14 @@
     {
         "amount_precision": 3,
         "base": "NEXT",
-        "buy_start": 1638442800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "NEXT_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -22075,6 +22123,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "EMPIRE",
+        "buy_start": 1638849600,
+        "fee": "0.2",
+        "id": "EMPIRE_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "WOOP",
         "buy_start": 0,
         "fee": "0.2",
@@ -26388,14 +26448,14 @@
     {
         "amount_precision": 3,
         "base": "SIS",
-        "buy_start": 1638446400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SIS_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
