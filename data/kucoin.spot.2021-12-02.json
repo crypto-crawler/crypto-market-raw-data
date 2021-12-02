@@ -18741,8 +18741,8 @@
         "baseCurrency": "VR",
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
-        "baseMinSize": "100",
-        "enableTrading": false,
+        "baseMinSize": "1",
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -18752,7 +18752,7 @@
         "quoteCurrency": "USDT",
         "quoteIncrement": "0.00001",
         "quoteMaxSize": "99999999",
-        "quoteMinSize": "0.001",
+        "quoteMinSize": "0.1",
         "symbol": "VR-USDT"
     },
     {
