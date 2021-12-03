@@ -2684,6 +2684,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "LAND",
+        "buy_start": 1638619200,
+        "fee": "0.2",
+        "id": "LAND_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "BCD",
         "buy_start": 0,
@@ -3859,6 +3871,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "TT",
+        "buy_start": 1638777600,
+        "fee": "0.2",
+        "id": "TT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -5129,6 +5153,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "TT",
+        "buy_start": 1638777600,
+        "fee": "0.2",
+        "id": "TT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -8415,6 +8451,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ORO",
+        "buy_start": 1639202400,
+        "fee": "0.2",
+        "id": "ORO_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "LITH",
         "buy_start": 0,
         "fee": "0.2",
@@ -9961,14 +10009,14 @@
     {
         "amount_precision": 3,
         "base": "YCT",
-        "buy_start": 1638525600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "YCT_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13048,6 +13096,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "LUFFY",
+        "buy_start": 1638936000,
+        "fee": "0.2",
+        "id": "LUFFY_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 16,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "TRVL",
         "buy_start": 0,
@@ -15983,6 +16043,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "LUFFY",
+        "buy_start": 1638936000,
+        "fee": "0.2",
+        "id": "LUFFY_USDT",
+        "min_quote_amount": "1",
+        "precision": 13,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

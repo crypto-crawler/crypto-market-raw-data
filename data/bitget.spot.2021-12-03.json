@@ -919,6 +919,24 @@
     },
     {
         "base_asset_precision": "4",
+        "base_currency": "XRP",
+        "quote_currency": "ETH",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "XRP_ETH",
+        "tick_size": "7"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "ATOM",
+        "quote_currency": "ETH",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "ATOM_ETH",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "4",
         "base_currency": "RSR",
         "quote_currency": "USDT",
         "size_increment": "4",

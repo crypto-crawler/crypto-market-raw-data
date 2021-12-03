@@ -2007,7 +2007,7 @@
         "state": "online",
         "symbol": "bkbtbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -8478,6 +8478,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "lith",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "lithusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "lol",
@@ -14203,7 +14219,7 @@
         "state": "online",
         "symbol": "tosbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
