@@ -4437,22 +4437,6 @@
         "vcoinStatus": 1
     },
     {
-        "countDownMark": 1,
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "CRE8_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "CRE8",
-        "vcoinStatus": 1
-    },
-    {
         "etf_mark": 0,
         "limited": false,
         "maker_fee_rate": "0.002",
@@ -8441,6 +8425,22 @@
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.002",
         "vcoinName": "GOLD",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "GP_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "GP",
         "vcoinStatus": 1
     },
     {
@@ -12868,7 +12868,7 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "O3_USDT",
