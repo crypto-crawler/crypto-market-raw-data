@@ -408,6 +408,18 @@
         "symbol-partition": "main"
     },
     {
+        "amount-precision": 2,
+        "base-currency": "xwc",
+        "id": "5216",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "xwc_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 4,
         "base-currency": "ksm",
         "id": "5223",
@@ -454,18 +466,6 @@
         "state": "online",
         "symbol": "dot_usdt",
         "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "uni",
-        "id": "5248",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "uni_usdt",
-        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 2,
