@@ -3206,7 +3206,7 @@
         "state": "online",
         "symbol": "cnnsusdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9730,7 +9730,7 @@
         "state": "online",
         "symbol": "mtxbtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -11035,6 +11035,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "opul",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "opulusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "ost",
@@ -11388,7 +11404,7 @@
         "state": "online",
         "symbol": "pntbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -11404,7 +11420,7 @@
         "state": "online",
         "symbol": "pnteth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
