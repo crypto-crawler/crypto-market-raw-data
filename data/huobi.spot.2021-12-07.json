@@ -550,7 +550,7 @@
         "state": "online",
         "symbol": "aidoceth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -2340,7 +2340,7 @@
         "state": "online",
         "symbol": "bsv3susdt",
         "symbol-partition": "innovation",
-        "tags": "etp,nav,holdinglimit,activities,abnormalmarket",
+        "tags": "etp,nav,holdinglimit,activities",
         "underlying": "bsvusdt",
         "value-precision": 8
     },
@@ -11676,7 +11676,7 @@
         "state": "online",
         "symbol": "propybtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -11692,7 +11692,7 @@
         "state": "online",
         "symbol": "propyeth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -12296,6 +12296,22 @@
         "state": "online",
         "symbol": "requsdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "rifi",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "rifiusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
