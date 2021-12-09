@@ -829,13 +829,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
         "base": "RACA3S",
         "buy_start": 0,
         "fee": "0.2",
         "id": "RACA3S_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -1105,13 +1105,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
         "base": "RACA3L",
         "buy_start": 0,
         "fee": "0.2",
         "id": "RACA3L_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -6379,14 +6379,14 @@
     {
         "amount_precision": 2,
         "base": "PBX",
-        "buy_start": 1639036800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PBX_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -18743,14 +18743,14 @@
     {
         "amount_precision": 2,
         "base": "PBX",
-        "buy_start": 1639036800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PBX_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
