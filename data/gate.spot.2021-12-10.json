@@ -938,6 +938,18 @@
     },
     {
         "amount_precision": 4,
+        "base": "NIF",
+        "buy_start": 1639468800,
+        "fee": "0.2",
+        "id": "NIF_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 4,
         "base": "BNC",
         "buy_start": 0,
         "fee": "0.2",
@@ -18013,14 +18025,14 @@
     {
         "amount_precision": 3,
         "base": "DIVER",
-        "buy_start": 1639123200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DIVER_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21701,6 +21713,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XNL",
+        "buy_start": 1639652400,
+        "fee": "0.2",
+        "id": "XNL_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
