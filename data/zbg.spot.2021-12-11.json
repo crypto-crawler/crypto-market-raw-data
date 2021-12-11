@@ -505,18 +505,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "near",
-        "id": "5259",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "near_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "xt",
         "id": "5261",
         "max-order-amt": null,
@@ -1125,6 +1113,18 @@
         "quote-currency": "zusd",
         "state": "online",
         "symbol": "zbtc3l_zusd",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "ens",
+        "id": "5330",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ens_usdt",
         "symbol-partition": "innovation"
     },
     {
