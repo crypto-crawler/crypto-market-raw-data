@@ -3333,6 +3333,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "GOLDMINER",
+        "buy_start": 1639738800,
+        "fee": "0.2",
+        "id": "GOLDMINER_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "WIT",
         "buy_start": 0,
@@ -3379,6 +3391,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DMS",
+        "buy_start": 1639800000,
+        "fee": "0.2",
+        "id": "DMS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -3971,14 +3995,14 @@
     {
         "amount_precision": 3,
         "base": "PSB",
-        "buy_start": 1639569600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PSB_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -9575,6 +9599,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "MSU",
+        "buy_start": 1639706400,
+        "fee": "0.2",
+        "id": "MSU_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "MSOL",
         "buy_start": 0,
@@ -10053,6 +10089,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DMS",
+        "buy_start": 1639800000,
+        "fee": "0.2",
+        "id": "DMS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -20663,14 +20711,14 @@
     {
         "amount_precision": 3,
         "base": "PPAD",
-        "buy_start": 1639566000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "PPAD_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
