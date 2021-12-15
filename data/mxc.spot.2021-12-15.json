@@ -4602,6 +4602,22 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "CREDI_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "CREDI",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
         "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -5307,6 +5323,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "DERI",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 2,
+        "quantity_scale": 3,
+        "state": "ENABLED",
+        "symbol": "DEUS_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "DEUS",
         "vcoinStatus": 1
     },
     {
@@ -6124,6 +6156,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "DRK",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "DRM_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "DRM",
         "vcoinStatus": 1
     },
     {
@@ -15126,7 +15174,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RADAR_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "RADAR",
         "vcoinStatus": 1
