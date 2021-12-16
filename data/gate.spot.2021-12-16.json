@@ -2469,7 +2469,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 3,
         "base": "BTT",
         "buy_start": 0,
         "fee": "0.2",
@@ -4887,6 +4887,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "EMON",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "EMON_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -18329,7 +18341,7 @@
         "fee": "0.2",
         "id": "BTT_ETH",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 10,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -20589,13 +20601,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 3,
         "base": "BTT",
         "buy_start": 0,
         "fee": "0.2",
         "id": "BTT_USDT",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -21909,14 +21921,14 @@
     {
         "amount_precision": 3,
         "base": "XNL",
-        "buy_start": 1639652400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "XNL_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -24394,6 +24406,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "AAG",
+        "buy_start": 1640145600,
+        "fee": "0.2",
+        "id": "AAG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
