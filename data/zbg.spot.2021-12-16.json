@@ -373,18 +373,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "vlx",
-        "id": "5212",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 10,
-        "quote-currency": "btc",
-        "state": "online",
-        "symbol": "vlx_btc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "zb",
         "id": "5214",
         "max-order-amt": null,
@@ -850,6 +838,18 @@
         "state": "online",
         "symbol": "xlm_qc",
         "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 1,
+        "base-currency": "xem",
+        "id": "5306",
+        "max-order-amt": null,
+        "min-order-amt": "0.1",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xem_qc",
+        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 2,
