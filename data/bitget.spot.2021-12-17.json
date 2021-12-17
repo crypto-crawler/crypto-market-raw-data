@@ -1144,6 +1144,15 @@
     },
     {
         "base_asset_precision": "4",
+        "base_currency": "RIN",
+        "quote_currency": "USDT",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "RIN_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "4",
         "base_currency": "MANA",
         "quote_currency": "BTC",
         "size_increment": "4",
@@ -1240,6 +1249,33 @@
         "status": "online",
         "symbol": "ANY_USDT",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "FXS",
+        "quote_currency": "USDT",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "FXS_USDT",
+        "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "SOLR",
+        "quote_currency": "USDT",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "SOLR_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "WKD",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "WKD_USDT",
+        "tick_size": "10"
     },
     {
         "base_asset_precision": "4",

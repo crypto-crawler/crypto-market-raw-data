@@ -254,18 +254,6 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -381,6 +369,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "dot",
+        "id": "5235",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dot_qc",
         "symbol-partition": "innovation"
     },
     {
@@ -1053,30 +1053,6 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "glc_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "zbtc3s",
-        "id": "5328",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 6,
-        "quote-currency": "zusd",
-        "state": "online",
-        "symbol": "zbtc3s_zusd",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "zbtc3l",
-        "id": "5329",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 6,
-        "quote-currency": "zusd",
-        "state": "online",
-        "symbol": "zbtc3l_zusd",
         "symbol-partition": "innovation"
     },
     {
