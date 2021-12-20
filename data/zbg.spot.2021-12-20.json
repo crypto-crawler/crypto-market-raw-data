@@ -361,6 +361,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "vlx",
+        "id": "5211",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 5,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "vlx_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "zb",
         "id": "5214",
         "max-order-amt": null,
@@ -477,18 +489,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "woo_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "near",
-        "id": "5259",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "near_usdt",
         "symbol-partition": "innovation"
     },
     {
