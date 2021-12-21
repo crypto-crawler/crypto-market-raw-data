@@ -4294,6 +4294,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "SNTR",
+        "buy_start": 1640232000,
+        "fee": "0.2",
+        "id": "SNTR_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "CELR",
         "buy_start": 0,
@@ -9480,6 +9492,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ALTB",
+        "buy_start": 1640336400,
+        "fee": "0.2",
+        "id": "ALTB_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "KNC",
         "buy_start": 0,
@@ -11124,14 +11148,14 @@
     {
         "amount_precision": 3,
         "base": "EURT",
-        "buy_start": 1640077200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "EURT_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -11399,14 +11423,14 @@
     {
         "amount_precision": 5,
         "base": "XAUT",
-        "buy_start": 1640077200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "XAUT_USDT",
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -15850,6 +15874,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "OOKI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "OOKI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -23774,6 +23810,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "HEART",
+        "buy_start": 1640606400,
+        "fee": "0.2",
+        "id": "HEART_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "KEX",
         "buy_start": 0,
         "fee": "0.2",
@@ -27621,6 +27669,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SNTR",
+        "buy_start": 1640232000,
+        "fee": "0.2",
+        "id": "SNTR_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
