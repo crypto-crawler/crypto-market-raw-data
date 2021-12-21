@@ -1429,7 +1429,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ATTN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.002",
         "vcoinName": "ATTN",
         "vcoinStatus": 1
@@ -6268,6 +6268,22 @@
         "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
+        "symbol": "DTX_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "DTX",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
         "symbol": "DVC_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
@@ -7538,7 +7554,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FBT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.002",
         "vcoinName": "FBT",
         "vcoinStatus": 1
@@ -11193,6 +11209,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "LBC",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "LBL_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "LBL",
         "vcoinStatus": 1
     },
     {
@@ -19319,6 +19351,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "UNO",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "UNQ_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "UNQ",
         "vcoinStatus": 1
     },
     {

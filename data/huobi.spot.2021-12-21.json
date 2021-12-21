@@ -6131,7 +6131,7 @@
         "state": "online",
         "symbol": "ftieth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -6355,6 +6355,22 @@
         "state": "online",
         "symbol": "glmusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "gmpd",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "gmpdusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
