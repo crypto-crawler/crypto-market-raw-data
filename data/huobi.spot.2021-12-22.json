@@ -566,7 +566,7 @@
         "state": "online",
         "symbol": "aidoceth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -3792,7 +3792,7 @@
         "state": "online",
         "symbol": "cvntbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -3808,7 +3808,7 @@
         "state": "online",
         "symbol": "cvnteth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -4683,7 +4683,7 @@
         "state": "online",
         "symbol": "edubtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -4699,7 +4699,7 @@
         "state": "online",
         "symbol": "edueth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9440,7 +9440,7 @@
         "state": "online",
         "symbol": "meetbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -11452,6 +11452,22 @@
         "state": "online",
         "symbol": "pearlusdt",
         "symbol-partition": "potentials",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "people",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "peopleusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
