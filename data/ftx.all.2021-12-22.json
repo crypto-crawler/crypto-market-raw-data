@@ -3720,6 +3720,20 @@
         "underlying": null
     },
     {
+        "baseCurrency": "GOG",
+        "enabled": true,
+        "highLeverageFeeExempt": true,
+        "minProvideSize": 1.0,
+        "name": "GOG/USD",
+        "postOnly": false,
+        "priceIncrement": 0.00025,
+        "quoteCurrency": "USD",
+        "restricted": false,
+        "sizeIncrement": 1.0,
+        "type": "spot",
+        "underlying": null
+    },
+    {
         "baseCurrency": null,
         "enabled": true,
         "highLeverageFeeExempt": false,
