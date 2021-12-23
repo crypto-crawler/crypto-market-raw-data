@@ -481,6 +481,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "near",
+        "id": "5259",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "near_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "xt",
         "id": "5261",
         "max-order-amt": null,
@@ -805,18 +817,6 @@
     },
     {
         "amount-precision": 1,
-        "base-currency": "trx",
-        "id": "5303",
-        "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "trx_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 1,
         "base-currency": "xlm",
         "id": "5305",
         "max-order-amt": null,
@@ -1125,6 +1125,54 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "btc3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "kilt",
+        "id": "5335",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 3,
+        "quote-currency": "usdt",
+        "state": "suspend",
+        "symbol": "kilt_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "people",
+        "id": "5336",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "suspend",
+        "symbol": "people_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "eth3s",
+        "id": "5337",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "suspend",
+        "symbol": "eth3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "eth3l",
+        "id": "5338",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "suspend",
+        "symbol": "eth3l_usdt",
         "symbol-partition": "innovation"
     }
 ]
