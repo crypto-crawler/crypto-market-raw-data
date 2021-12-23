@@ -1458,6 +1458,15 @@
         "tick_size": "8"
     },
     {
+        "base_asset_precision": "3",
+        "base_currency": "FREE",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "FREE_USDT",
+        "tick_size": "9"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "FIL",
         "quote_currency": "ETH",
@@ -1537,6 +1546,15 @@
         "status": "online",
         "symbol": "LDO_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "TRX",
+        "quote_currency": "ETH",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "TRX_ETH",
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "4",
