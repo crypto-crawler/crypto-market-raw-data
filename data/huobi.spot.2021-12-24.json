@@ -7323,7 +7323,7 @@
         "state": "online",
         "symbol": "idteth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -8309,6 +8309,23 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "lbabtc",
+        "symbol-partition": "innovation",
+        "tags": "st,highrisk",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "lba",
+        "limit-order-min-order-amt": 1,
+        "max-order-value": 1000,
+        "min-order-amt": 1,
+        "min-order-value": 0.001,
+        "price-precision": 8,
+        "quote-currency": "eth",
+        "sell-market-min-order-amt": 1,
+        "state": "offline",
+        "symbol": "lbaeth",
         "symbol-partition": "innovation",
         "tags": "st,highrisk",
         "value-precision": 8
