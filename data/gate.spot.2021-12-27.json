@@ -1501,6 +1501,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "KINT",
+        "buy_start": 1640611800,
+        "fee": "0.2",
+        "id": "KINT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "GAFI",
         "buy_start": 0,
         "fee": "0.2",
@@ -20103,7 +20115,7 @@
         "fee": "0.2",
         "id": "ARCX_ETH",
         "min_quote_amount": "0.001",
-        "precision": 3,
+        "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -22262,7 +22274,7 @@
         "fee": "0.2",
         "id": "ARCX_USDT",
         "min_quote_amount": "1",
-        "precision": 2,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -23427,6 +23439,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "KINT",
+        "buy_start": 1640611800,
+        "fee": "0.2",
+        "id": "KINT_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "AAVE",
         "buy_start": 0,
@@ -23967,14 +23991,14 @@
     {
         "amount_precision": 3,
         "base": "HEART",
-        "buy_start": 1640606400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "HEART_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
