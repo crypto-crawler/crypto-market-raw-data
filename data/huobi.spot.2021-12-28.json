@@ -4699,7 +4699,7 @@
         "state": "online",
         "symbol": "edubtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9472,7 +9472,7 @@
         "state": "online",
         "symbol": "meetbtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -15789,6 +15789,22 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "wiccusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "wnd",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "wndusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
