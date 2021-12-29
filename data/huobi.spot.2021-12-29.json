@@ -2343,7 +2343,7 @@
         "state": "online",
         "symbol": "boxeth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -4346,6 +4346,22 @@
     {
         "amount-precision": 2,
         "api-trading": "enabled",
+        "base-currency": "dio",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "diousdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
         "base-currency": "dka",
         "limit-order-min-order-amt": 1,
         "min-order-amt": 1,
@@ -5568,7 +5584,7 @@
         "state": "online",
         "symbol": "evxbtc",
         "symbol-partition": "innovation",
-        "tags": "st,abnormalmarket",
+        "tags": "st",
         "value-precision": 8
     },
     {
@@ -17224,7 +17240,7 @@
         "state": "online",
         "symbol": "zlabtc",
         "symbol-partition": "innovation",
-        "tags": "st,abnormalmarket",
+        "tags": "st",
         "value-precision": 8
     },
     {
