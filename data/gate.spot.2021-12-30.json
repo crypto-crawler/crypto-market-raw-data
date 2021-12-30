@@ -1155,14 +1155,14 @@
     {
         "amount_precision": 1,
         "base": "GASDAO",
-        "buy_start": 1640840400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GASDAO_USDT",
         "min_quote_amount": "1",
         "precision": 9,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -14835,6 +14835,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CWEB",
+        "buy_start": 1640858400,
+        "fee": "0.2",
+        "id": "CWEB_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
