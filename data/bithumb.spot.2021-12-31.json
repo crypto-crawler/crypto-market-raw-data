@@ -2268,7 +2268,7 @@
         {
             "fullName": "Uniswap Finance (BEP20)",
             "makerFeeRate": "0.001",
-            "minTxAmt": "63",
+            "minTxAmt": "6",
             "minWithdraw": "120",
             "name": "UNFI",
             "takerFeeRate": "0.001"
@@ -2904,6 +2904,45 @@
         },
         {
             "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.0045",
+            "openTime": 1588233600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "DEP-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "2"
+            ],
+            "openPrice": "8",
+            "openTime": 1620230400000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "USDT-TRY"
+        },
+        {
+            "accuracy": [
+                "6",
+                "0"
+            ],
+            "openPrice": "0.006",
+            "openTime": 1589533200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BIP-USDT"
+        },
+        {
+            "accuracy": [
                 "5",
                 "1"
             ],
@@ -3398,42 +3437,42 @@
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "5",
+                "1"
             ],
-            "openPrice": "0.0045",
-            "openTime": 1588233600000,
+            "openPrice": "0.012",
+            "openTime": 1619514000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "DEP-USDT"
+            "symbol": "TFBX-USDT"
         },
         {
             "accuracy": [
-                "3",
-                "2"
+                "5",
+                "1"
             ],
-            "openPrice": "8",
-            "openTime": 1620230400000,
+            "openPrice": "0.01",
+            "openTime": 1589356800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "USDT-TRY"
+            "symbol": "ARPA-USDT"
         },
         {
             "accuracy": [
-                "6",
-                "0"
+                "5",
+                "1"
             ],
-            "openPrice": "0.006",
-            "openTime": 1589533200000,
+            "openPrice": "0.01",
+            "openTime": 1621501200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BIP-USDT"
+            "symbol": "TFF-USDT"
         },
         {
             "accuracy": [
@@ -3934,39 +3973,26 @@
                 "5",
                 "1"
             ],
-            "openPrice": "0.012",
-            "openTime": 1619514000000,
+            "openPrice": "0.00712",
+            "openTime": 1589094000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TFBX-USDT"
+            "symbol": "YSR-USDT"
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "6",
+                "2"
             ],
-            "openPrice": "0.01",
-            "openTime": 1589356800000,
+            "openPrice": "0.0079",
+            "openTime": 1620316800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ARPA-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.01",
-            "openTime": 1621501200000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "TFF-USDT"
+            "symbol": "LBA-USDT"
         },
         {
             "accuracy": [
@@ -4490,29 +4516,42 @@
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "9",
+                "0"
             ],
-            "openPrice": "0.00712",
-            "openTime": 1589094000000,
+            "openPrice": "0.00000048",
+            "openTime": 1588233600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "YSR-USDT"
+            "symbol": "DEP-BTC"
         },
         {
             "accuracy": [
-                "6",
-                "2"
+                "8",
+                "3"
             ],
-            "openPrice": "0.0079",
-            "openTime": 1620316800000,
+            "openPrice": "0.000027",
+            "openTime": 1619773200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "LBA-USDT"
+            "symbol": "NWC-BTC"
+        },
+        {
+            "accuracy": [
+                "10",
+                "0"
+            ],
+            "openPrice": "0.00000065",
+            "openTime": 1589533200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BIP-BTC"
         },
         {
             "accuracy": [
@@ -5023,42 +5062,29 @@
         },
         {
             "accuracy": [
-                "9",
+                "6",
                 "0"
             ],
-            "openPrice": "0.00000048",
-            "openTime": 1588233600000,
+            "openPrice": "0.003",
+            "openTime": 1588842000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "DEP-BTC"
+            "symbol": "LBXC-USDT"
         },
         {
             "accuracy": [
-                "8",
-                "3"
+                "4",
+                "2"
             ],
-            "openPrice": "0.000027",
-            "openTime": 1619773200000,
+            "openPrice": "0.13",
+            "openTime": 1620810000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "NWC-BTC"
-        },
-        {
-            "accuracy": [
-                "10",
-                "0"
-            ],
-            "openPrice": "0.00000065",
-            "openTime": 1589533200000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "BIP-BTC"
+            "symbol": "STA-USDT"
         },
         {
             "accuracy": [
@@ -5280,6 +5306,19 @@
                 "multiplierUp": "3"
             },
             "symbol": "TRB-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.7513",
+            "openTime": 1640940139000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "UNFI-USDT"
         },
         {
             "accuracy": [
@@ -5598,26 +5637,13 @@
                 "6",
                 "0"
             ],
-            "openPrice": "0.003",
-            "openTime": 1588842000000,
+            "openPrice": "0.002",
+            "openTime": 1588680000000,
             "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
+                "multiplierDown": "0.00004",
+                "multiplierUp": "300"
             },
-            "symbol": "LBXC-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
-                "2"
-            ],
-            "openPrice": "0.13",
-            "openTime": 1620810000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "STA-USDT"
+            "symbol": "SWFTC-USDT"
         },
         {
             "accuracy": [
@@ -6180,16 +6206,42 @@
         },
         {
             "accuracy": [
-                "6",
-                "0"
+                "3",
+                "3"
             ],
-            "openPrice": "0.002",
-            "openTime": 1588680000000,
+            "openPrice": "1.5",
+            "openTime": 1619773200000,
             "percentPrice": {
-                "multiplierDown": "0.00004",
-                "multiplierUp": "300"
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
             },
-            "symbol": "SWFTC-USDT"
+            "symbol": "NWC-USDT"
+        },
+        {
+            "accuracy": [
+                "2",
+                "6"
+            ],
+            "openPrice": "100",
+            "openTime": 1589360400000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ETHS-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.01",
+            "openTime": 1621846800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "REFI-USDT"
         },
         {
             "accuracy": [
@@ -6700,42 +6752,29 @@
         },
         {
             "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "1.5",
-            "openTime": 1619773200000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "NWC-USDT"
-        },
-        {
-            "accuracy": [
                 "2",
                 "6"
             ],
             "openPrice": "100",
-            "openTime": 1589360400000,
+            "openTime": 1588837214740,
             "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
+                "multiplierDown": "0.004",
+                "multiplierUp": "30"
             },
-            "symbol": "ETHS-USDT"
+            "symbol": "BTCS-USDT"
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "10",
+                "0"
             ],
-            "openPrice": "0.01",
-            "openTime": 1621846800000,
+            "openPrice": "0.000006",
+            "openTime": 1620469800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "REFI-USDT"
+            "symbol": "SHIB-USDT"
         },
         {
             "accuracy": [
@@ -7256,32 +7295,6 @@
                 "multiplierUp": "3"
             },
             "symbol": "STC-USDT"
-        },
-        {
-            "accuracy": [
-                "2",
-                "6"
-            ],
-            "openPrice": "100",
-            "openTime": 1588837214740,
-            "percentPrice": {
-                "multiplierDown": "0.004",
-                "multiplierUp": "30"
-            },
-            "symbol": "BTCS-USDT"
-        },
-        {
-            "accuracy": [
-                "10",
-                "0"
-            ],
-            "openPrice": "0.000006",
-            "openTime": 1620469800000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "SHIB-USDT"
         }
     ]
 }
