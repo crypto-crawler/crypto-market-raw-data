@@ -19404,6 +19404,24 @@
         "symbol": "IOTA-USDT"
     },
     {
+        "baseCurrency": "IOTA",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "0.1",
+        "enableTrading": false,
+        "feeCurrency": "BTC",
+        "isMarginEnabled": false,
+        "market": "BTC",
+        "name": "IOTA-BTC",
+        "priceIncrement": "0.00000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "BTC",
+        "quoteIncrement": "0.00000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.000001",
+        "symbol": "IOTA-BTC"
+    },
+    {
         "baseCurrency": "OOKI",
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
