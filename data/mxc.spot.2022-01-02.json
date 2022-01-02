@@ -1729,7 +1729,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AVG_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "AVG",
         "vcoinStatus": 1
@@ -3072,21 +3072,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "BOO1",
-        "vcoinStatus": 1
-    },
-    {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "BOOM_USDT",
-        "symbol_partition": "MAIN",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "BOOM",
         "vcoinStatus": 1
     },
     {
@@ -9552,21 +9537,6 @@
         "vcoinStatus": 1
     },
     {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "GTS_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "GTS",
-        "vcoinStatus": 1
-    },
-    {
         "countDownMark": 1,
         "etf_mark": 0,
         "limited": false,
@@ -13008,21 +12978,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "MDF",
-        "vcoinStatus": 1
-    },
-    {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "MDU_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "MDU",
         "vcoinStatus": 1
     },
     {
@@ -19594,6 +19549,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "TRD",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "TREEB_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "TREEB",
         "vcoinStatus": 1
     },
     {
