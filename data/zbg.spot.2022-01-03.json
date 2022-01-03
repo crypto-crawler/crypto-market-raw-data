@@ -421,18 +421,6 @@
     },
     {
         "amount-precision": 4,
-        "base-currency": "ksm",
-        "id": "5223",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "ksm_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 4,
         "base-currency": "dot",
         "id": "5235",
         "max-order-amt": null,
@@ -1104,18 +1092,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 3,
-        "base-currency": "ens",
-        "id": "5330",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "ens_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "btc3l",
         "id": "5331",
@@ -1149,6 +1125,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "btc3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "kilt",
+        "id": "5335",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 3,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "kilt_usdt",
         "symbol-partition": "innovation"
     },
     {
