@@ -254,6 +254,18 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
+        "id": "5008",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "qtum_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -816,18 +828,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "xrp",
-        "id": "5302",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xrp_qc",
-        "symbol-partition": "main"
-    },
-    {
         "amount-precision": 1,
         "base-currency": "trx",
         "id": "5303",
@@ -852,18 +852,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 1,
-        "base-currency": "xem",
-        "id": "5306",
-        "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xem_qc",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "btm",
         "id": "5307",
@@ -873,18 +861,6 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "btm_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "true",
-        "id": "5308",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "true_qc",
         "symbol-partition": "innovation"
     },
     {
@@ -1185,18 +1161,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "eth3l_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "sgb",
-        "id": "5339",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "sgb_usdt",
         "symbol-partition": "innovation"
     },
     {
