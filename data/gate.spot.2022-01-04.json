@@ -9291,6 +9291,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CHICKS",
+        "buy_start": 1641549600,
+        "fee": "0.2",
+        "id": "CHICKS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "XEC3L",
         "buy_start": 0,
         "fee": "0.2",
@@ -10022,14 +10034,14 @@
     {
         "amount_precision": 3,
         "base": "ZIG",
-        "buy_start": 1641297600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ZIG_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -23977,6 +23989,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CHICKS",
+        "buy_start": 1641549600,
+        "fee": "0.2",
+        "id": "CHICKS_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
