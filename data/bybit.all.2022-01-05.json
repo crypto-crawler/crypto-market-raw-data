@@ -54,7 +54,7 @@
         "base_currency": "ADA",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 25,
+            "max_leverage": 50,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -620,6 +620,31 @@
             "tick_size": "0.0005"
         },
         "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "CELOUSDT",
+        "base_currency": "CELO",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3500,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "CELOUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
         "quote_currency": "USDT",
         "status": "Trading",
         "taker_fee": "0.00075"
@@ -1879,7 +1904,7 @@
         "base_currency": "MATIC",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 25,
+            "max_leverage": 50,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -2304,7 +2329,7 @@
         "base_currency": "SOL",
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 25,
+            "max_leverage": 50,
             "min_leverage": 1
         },
         "lot_size_filter": {
@@ -2595,6 +2620,31 @@
             "tick_size": "0.00005"
         },
         "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
+        "alias": "WAVESUSDT",
+        "base_currency": "WAVES",
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "-0.00025",
+        "name": "WAVESUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
         "quote_currency": "USDT",
         "status": "Trading",
         "taker_fee": "0.00075"
