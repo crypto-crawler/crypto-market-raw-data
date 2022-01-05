@@ -481,6 +481,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "nbs",
+        "id": "5249",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "nbs_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "fil",
         "id": "5256",
         "max-order-amt": null,
@@ -889,6 +901,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "true",
+        "id": "5308",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "true_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "kerri",
         "id": "5310",
         "max-order-amt": null,
@@ -1188,18 +1212,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 3,
-        "base-currency": "sgb",
-        "id": "5339",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "sgb_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "aurora",
         "id": "5340",
@@ -1245,6 +1257,126 @@
         "quote-currency": "usdt",
         "state": "suspend",
         "symbol": "sdn_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "bnb3s",
+        "id": "5344",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "bnb3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "bnb3l",
+        "id": "5345",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "bnb3l_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "sol3s",
+        "id": "5346",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "sol3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "sol3l",
+        "id": "5347",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "sol3l_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "ada3l",
+        "id": "5348",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ada3l_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "ada3s",
+        "id": "5349",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ada3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "xrp3l",
+        "id": "5350",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "xrp3l_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "xrp3s",
+        "id": "5351",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "xrp3s_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "luna3l",
+        "id": "5352",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "luna3l_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "luna3s",
+        "id": "5353",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "luna3s_usdt",
         "symbol-partition": "innovation"
     }
 ]
