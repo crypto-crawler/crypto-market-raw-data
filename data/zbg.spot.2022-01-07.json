@@ -288,6 +288,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 4,
+        "base-currency": "520",
+        "id": "5073",
+        "max-order-amt": null,
+        "min-order-amt": "0.1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "520_qc",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 1,
         "base-currency": "bts",
         "id": "5150",
@@ -397,6 +409,18 @@
     },
     {
         "amount-precision": 4,
+        "base-currency": "ksm",
+        "id": "5223",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
         "base-currency": "dot",
         "id": "5235",
         "max-order-amt": null,
@@ -418,18 +442,6 @@
         "state": "online",
         "symbol": "gdfc_qc",
         "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "dot",
-        "id": "5241",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "dot_usdt",
-        "symbol-partition": "main"
     },
     {
         "amount-precision": 4,
@@ -789,6 +801,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "doge_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "dash",
+        "id": "5301",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dash_qc",
         "symbol-partition": "main"
     },
     {
@@ -1173,6 +1197,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "sgb_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "aurora",
+        "id": "5340",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "aurora_usdt",
         "symbol-partition": "innovation"
     },
     {

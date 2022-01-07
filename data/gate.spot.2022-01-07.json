@@ -8154,14 +8154,14 @@
     {
         "amount_precision": 3,
         "base": "GCOIN",
-        "buy_start": 1641553200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GCOIN_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -9340,14 +9340,14 @@
     {
         "amount_precision": 3,
         "base": "CHICKS",
-        "buy_start": 1641549600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CHICKS_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -14403,6 +14403,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ARTEM",
+        "buy_start": 1641902400,
+        "fee": "0.2",
+        "id": "ARTEM_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -20326,6 +20338,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ALPH",
+        "buy_start": 1641974400,
+        "fee": "0.2",
+        "id": "ALPH_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "BOX",
         "buy_start": 0,
         "fee": "0.2",
@@ -24125,14 +24149,14 @@
     {
         "amount_precision": 3,
         "base": "CHICKS",
-        "buy_start": 1641549600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CHICKS_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -25342,6 +25366,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ROCO",
+        "buy_start": 1641787200,
+        "fee": "0.2",
+        "id": "ROCO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
