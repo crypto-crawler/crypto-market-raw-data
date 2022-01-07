@@ -8417,14 +8417,14 @@
     {
         "amount_precision": 3,
         "base": "SLC",
-        "buy_start": 1641560400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SLC_ETH",
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -18661,6 +18661,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CLH",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CLH_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "TONCOIN",
         "buy_start": 0,
         "fee": "0.2",
@@ -21072,14 +21084,14 @@
     {
         "amount_precision": 3,
         "base": "SLC",
-        "buy_start": 1641560400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SLC_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
