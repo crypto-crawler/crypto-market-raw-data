@@ -1274,6 +1274,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SVT",
+        "buy_start": 1642078800,
+        "fee": "0.2",
+        "id": "SVT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "XRP",
         "buy_start": 0,
         "fee": "0.2",
@@ -9039,6 +9051,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "STSOL",
+        "buy_start": 1641542400,
+        "fee": "0.2",
+        "id": "STSOL_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 5,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CEEK",
         "buy_start": 0,
         "fee": "0.2",
@@ -14463,6 +14487,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "STSOL",
+        "buy_start": 1641542400,
+        "fee": "0.2",
+        "id": "STSOL_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -22782,6 +22818,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SVT",
+        "buy_start": 1642078800,
+        "fee": "0.2",
+        "id": "SVT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
