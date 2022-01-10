@@ -9090,6 +9090,22 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "luna",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "ust",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "lunaust",
+        "symbol-partition": "innovation",
+        "tags": "alts",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "lun",
         "limit-order-min-order-amt": 0.001,
         "max-order-value": 1000,
@@ -9665,6 +9681,22 @@
         "symbol": "mirusdt",
         "symbol-partition": "potentials",
         "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "mir",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "ust",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "mirust",
+        "symbol-partition": "potentials",
+        "tags": "alts",
         "value-precision": 8
     },
     {
@@ -12825,7 +12857,7 @@
         "state": "online",
         "symbol": "rtebtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
