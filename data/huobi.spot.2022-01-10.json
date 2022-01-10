@@ -8780,6 +8780,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "looks",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "looksusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "loom",
@@ -16741,6 +16757,22 @@
         "state": "online",
         "symbol": "xvgeth",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "xyo",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "xyousdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
