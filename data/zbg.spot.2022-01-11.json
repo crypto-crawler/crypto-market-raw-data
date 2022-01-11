@@ -254,6 +254,18 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
+        "id": "5008",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "qtum_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -394,6 +406,18 @@
         "state": "online",
         "symbol": "zb_qc",
         "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "ksm",
+        "id": "5223",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 4,
@@ -744,6 +768,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ltc",
+        "id": "5299",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "ltc_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 0,
         "base-currency": "doge",
         "id": "5300",
@@ -813,6 +849,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "xem_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "btm",
+        "id": "5307",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
