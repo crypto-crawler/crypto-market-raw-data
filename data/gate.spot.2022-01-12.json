@@ -5216,6 +5216,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "VOXEL",
+        "buy_start": 1642320000,
+        "fee": "0.2",
+        "id": "VOXEL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "CRV",
         "buy_start": 0,
@@ -22293,6 +22305,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "GFI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GFI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "OAX",
         "buy_start": 0,
         "fee": "0.2",
@@ -25107,14 +25131,14 @@
     {
         "amount_precision": 3,
         "base": "POKT",
-        "buy_start": 1641988800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "POKT_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -28177,14 +28201,14 @@
     {
         "amount_precision": 3,
         "base": "APX",
-        "buy_start": 1641978000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "APX_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -28687,6 +28711,18 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GFI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },

@@ -1366,8 +1366,18 @@
         "instant_and_market_orders": "Disabled",
         "minimum_order": "20.0 USD",
         "name": "AMP/USD",
-        "trading": "Disabled",
+        "trading": "Enabled",
         "url_symbol": "ampusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Amp / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "20.0 EUR",
+        "name": "AMP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "ampeur"
     },
     {
         "base_decimals": 8,
