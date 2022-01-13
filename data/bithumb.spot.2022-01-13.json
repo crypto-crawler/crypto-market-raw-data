@@ -393,7 +393,7 @@
         {
             "fullName": "BitTorrent (NEW)",
             "makerFeeRate": "0.001",
-            "minTxAmt": "1300",
+            "minTxAmt": "1990000",
             "minWithdraw": "1000",
             "name": "BTT",
             "takerFeeRate": "0.001"
@@ -2723,19 +2723,6 @@
         {
             "accuracy": [
                 "5",
-                "2"
-            ],
-            "openPrice": "0.20468",
-            "openTime": 1589944398184,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "XRP-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
                 "6"
             ],
             "openPrice": "0.48265",
@@ -2745,6 +2732,19 @@
                 "multiplierUp": "3"
             },
             "symbol": "DASH-ETH"
+        },
+        {
+            "accuracy": [
+                "5",
+                "2"
+            ],
+            "openPrice": "0.20468",
+            "openTime": 1589944398184,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "XRP-USDT"
         },
         {
             "accuracy": [
@@ -2901,19 +2901,6 @@
                 "multiplierUp": "3"
             },
             "symbol": "ABT-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "0"
-            ],
-            "openPrice": "0.002",
-            "openTime": 1623142800000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "GHD-USDT"
         },
         {
             "accuracy": [
@@ -3463,29 +3450,16 @@
         },
         {
             "accuracy": [
-                "2",
-                "6"
-            ],
-            "openPrice": "100",
-            "openTime": 1590566121289,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "LTCS-USDT"
-        },
-        {
-            "accuracy": [
                 "6",
-                "2"
+                "0"
             ],
-            "openPrice": "0.1",
-            "openTime": 1624528800000,
+            "openPrice": "0.002",
+            "openTime": 1623142800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "GONE-USDT"
+            "symbol": "GHD-USDT"
         },
         {
             "accuracy": [
@@ -4026,38 +4000,25 @@
                 "6"
             ],
             "openPrice": "100",
-            "openTime": 1589964088947,
+            "openTime": 1590566121289,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "XRPS-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
-                "2"
-            ],
-            "openPrice": "0.1",
-            "openTime": 1623834000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "HLD-USDT"
+            "symbol": "LTCS-USDT"
         },
         {
             "accuracy": [
                 "6",
-                "4"
+                "2"
             ],
-            "openPrice": "0.005",
-            "openTime": 1591693200000,
+            "openPrice": "0.1",
+            "openTime": 1624528800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "CGT-BTC"
+            "symbol": "GONE-USDT"
         },
         {
             "accuracy": [
@@ -4246,8 +4207,8 @@
                 "9",
                 "0"
             ],
-            "openPrice": "0.000002562",
-            "openTime": 1642057200000,
+            "openPrice": "0.000002428",
+            "openTime": 1642058294279,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
@@ -4594,42 +4555,42 @@
         },
         {
             "accuracy": [
-                "6",
+                "2",
+                "6"
+            ],
+            "openPrice": "100",
+            "openTime": 1589964088947,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "XRPS-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
                 "2"
             ],
-            "openPrice": "0.25",
-            "openTime": 1622624400000,
+            "openPrice": "0.1",
+            "openTime": 1623834000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "MAI-USDT"
+            "symbol": "HLD-USDT"
         },
         {
             "accuracy": [
-                "8",
-                "1"
+                "6",
+                "4"
             ],
-            "openPrice": "0.00001",
-            "openTime": 1591012800000,
+            "openPrice": "0.005",
+            "openTime": 1591693200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "2KEY-BTC"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "1.27",
-            "openTime": 1625475600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "BANANA-USDT"
+            "symbol": "CGT-BTC"
         },
         {
             "accuracy": [
@@ -5127,16 +5088,42 @@
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "6",
+                "2"
             ],
-            "openPrice": "0.056",
-            "openTime": 1624438800000,
+            "openPrice": "0.25",
+            "openTime": 1622624400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "MVEDA-USDT"
+            "symbol": "MAI-USDT"
+        },
+        {
+            "accuracy": [
+                "8",
+                "1"
+            ],
+            "openPrice": "0.00001",
+            "openTime": 1591012800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "2KEY-BTC"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "1.27",
+            "openTime": 1625475600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BANANA-USDT"
         },
         {
             "accuracy": [
@@ -5621,29 +5608,16 @@
         },
         {
             "accuracy": [
-                "2",
-                "4"
+                "5",
+                "1"
             ],
-            "openPrice": "36",
-            "openTime": 1623315600000,
+            "openPrice": "0.056",
+            "openTime": 1624438800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "VOX-USDT"
-        },
-        {
-            "accuracy": [
-                "2",
-                "6"
-            ],
-            "openPrice": "100",
-            "openTime": 1591254550437,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "BCHS-USDT"
+            "symbol": "MVEDA-USDT"
         },
         {
             "accuracy": [
@@ -6167,29 +6141,29 @@
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "2",
+                "4"
             ],
-            "openPrice": "0.045",
-            "openTime": 1590739200000,
+            "openPrice": "36",
+            "openTime": 1623315600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TMTG-USDT"
+            "symbol": "VOX-USDT"
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "2",
+                "6"
             ],
-            "openPrice": "0.016",
-            "openTime": 1624525200000,
+            "openPrice": "100",
+            "openTime": 1591254550437,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "HYDRO-USDT"
+            "symbol": "BCHS-USDT"
         },
         {
             "accuracy": [
@@ -6726,29 +6700,29 @@
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "5",
+                "1"
             ],
-            "openPrice": "0.4",
-            "openTime": 1590562800000,
+            "openPrice": "0.045",
+            "openTime": 1590739200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "MDM-USDT"
+            "symbol": "TMTG-USDT"
         },
         {
             "accuracy": [
-                "4",
-                "2"
+                "5",
+                "1"
             ],
-            "openPrice": "0.1",
-            "openTime": 1624006800000,
+            "openPrice": "0.016",
+            "openTime": 1624525200000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TYC-USDT"
+            "symbol": "HYDRO-USDT"
         },
         {
             "accuracy": [
@@ -7269,6 +7243,32 @@
                 "multiplierUp": "3"
             },
             "symbol": "TFF-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.4",
+            "openTime": 1590562800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "MDM-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.1",
+            "openTime": 1624006800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "TYC-USDT"
         }
     ]
 }
