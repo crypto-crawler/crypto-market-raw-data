@@ -11197,14 +11197,14 @@
     {
         "amount_precision": 3,
         "base": "SCNSOL",
-        "buy_start": 1642147200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SCNSOL_ETH",
         "min_quote_amount": "0.001",
         "precision": 5,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16780,14 +16780,14 @@
     {
         "amount_precision": 4,
         "base": "SCNSOL",
-        "buy_start": 1642147200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SCNSOL_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -23573,6 +23573,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "UFI",
+        "buy_start": 1642492800,
+        "fee": "0.2",
+        "id": "UFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
