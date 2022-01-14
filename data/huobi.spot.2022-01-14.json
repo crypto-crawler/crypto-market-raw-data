@@ -2744,7 +2744,6 @@
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "btt",
-        "leverage-ratio": 2,
         "limit-order-min-order-amt": 1,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
@@ -2794,7 +2793,6 @@
         "amount-precision": 0,
         "api-trading": "enabled",
         "base-currency": "btt",
-        "leverage-ratio": 3,
         "limit-order-min-order-amt": 1,
         "min-order-amt": 1,
         "min-order-value": 5,
@@ -11098,7 +11096,7 @@
         "price-precision": 4,
         "quote-currency": "usdt",
         "sell-market-min-order-amt": 0.01,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "oceanusdt",
         "symbol-partition": "pioneer",
         "tags": "",
@@ -12074,7 +12072,7 @@
         "state": "online",
         "symbol": "propybtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
