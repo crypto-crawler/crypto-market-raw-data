@@ -3144,14 +3144,14 @@
     {
         "amount_precision": 3,
         "base": "NOS",
-        "buy_start": 1642428000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "NOS_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13111,6 +13111,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "NCT",
+        "buy_start": 1642478400,
+        "fee": "0.2",
+        "id": "NCT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CAPS",
         "buy_start": 0,
         "fee": "0.2",
@@ -14839,14 +14851,14 @@
     {
         "amount_precision": 3,
         "base": "ASTR",
-        "buy_start": 1642424400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ASTR_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21432,14 +21444,14 @@
     {
         "amount_precision": 3,
         "base": "NOS",
-        "buy_start": 1642428000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "NOS_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -22307,14 +22319,14 @@
     {
         "amount_precision": 3,
         "base": "ASTR",
-        "buy_start": 1642424400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ASTR_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -23909,6 +23921,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "NCT",
+        "buy_start": 1642478400,
+        "fee": "0.2",
+        "id": "NCT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DPY",
         "buy_start": 0,
         "fee": "0.2",
@@ -24353,14 +24377,14 @@
     {
         "amount_precision": 3,
         "base": "ASTR",
-        "buy_start": 1642424400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ASTR_BTC",
         "min_quote_amount": "0.0001",
         "precision": 9,
         "quote": "BTC",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
