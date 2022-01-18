@@ -17115,6 +17115,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "KASTA",
+        "buy_start": 1642514400,
+        "fee": "0.2",
+        "id": "KASTA_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ZIL3S",
         "buy_start": 0,
         "fee": "0.2",
@@ -22149,6 +22161,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "SENSO",
+        "buy_start": 1642680000,
+        "fee": "0.2",
+        "id": "SENSO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "BCH",
         "buy_start": 0,
@@ -26589,6 +26613,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SENSO",
+        "buy_start": 1642680000,
+        "fee": "0.2",
+        "id": "SENSO_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
