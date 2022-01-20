@@ -18483,7 +18483,7 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SINGLE_USDT",
@@ -20087,6 +20087,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "TECH",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "TFBX_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "TFBX",
         "vcoinStatus": 1
     },
     {
