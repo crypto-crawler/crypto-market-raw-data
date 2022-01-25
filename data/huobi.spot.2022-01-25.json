@@ -260,6 +260,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "aca",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "acausdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "ach",
@@ -825,7 +841,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "api3btc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -841,7 +857,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "api3eth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -857,7 +873,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "api3usdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -2759,70 +2775,6 @@
     {
         "amount-precision": 2,
         "api-trading": "enabled",
-        "base-currency": "btt",
-        "limit-order-min-order-amt": 1,
-        "min-order-amt": 1,
-        "min-order-value": 0.0001,
-        "price-precision": 12,
-        "quote-currency": "btc",
-        "sell-market-min-order-amt": 1,
-        "state": "offline",
-        "symbol": "bttbtc",
-        "symbol-partition": "innovation",
-        "tags": "",
-        "value-precision": 8
-    },
-    {
-        "amount-precision": 2,
-        "api-trading": "enabled",
-        "base-currency": "btt",
-        "limit-order-min-order-amt": 1,
-        "min-order-amt": 1,
-        "min-order-value": 0.001,
-        "price-precision": 10,
-        "quote-currency": "eth",
-        "sell-market-min-order-amt": 1,
-        "state": "offline",
-        "symbol": "btteth",
-        "symbol-partition": "innovation",
-        "tags": "",
-        "value-precision": 8
-    },
-    {
-        "amount-precision": 4,
-        "api-trading": "enabled",
-        "base-currency": "btt",
-        "limit-order-min-order-amt": 1,
-        "min-order-amt": 1,
-        "min-order-value": 1,
-        "price-precision": 6,
-        "quote-currency": "trx",
-        "sell-market-min-order-amt": 1,
-        "state": "offline",
-        "symbol": "btttrx",
-        "symbol-partition": "innovation",
-        "tags": "alts",
-        "value-precision": 8
-    },
-    {
-        "amount-precision": 0,
-        "api-trading": "enabled",
-        "base-currency": "btt",
-        "limit-order-min-order-amt": 1,
-        "min-order-amt": 1,
-        "min-order-value": 5,
-        "price-precision": 8,
-        "quote-currency": "usdt",
-        "sell-market-min-order-amt": 1,
-        "state": "offline",
-        "symbol": "bttusdt",
-        "symbol-partition": "innovation",
-        "tags": "",
-        "value-precision": 8
-    },
-    {
-        "amount-precision": 2,
-        "api-trading": "enabled",
         "base-currency": "but",
         "limit-order-min-order-amt": 1,
         "min-order-amt": 1,
@@ -3690,7 +3642,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "ctsiusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -7557,7 +7509,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "insurbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -7573,7 +7525,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "insureth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -7589,7 +7541,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "insurusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -9755,7 +9707,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "mirbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -9771,7 +9723,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "mireth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -9787,7 +9739,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "mirusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -9803,7 +9755,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "mirust",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "alts",
         "value-precision": 8
     },
@@ -9979,7 +9931,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "mtabtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -9995,7 +9947,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "mtaeth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -10011,7 +9963,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "mtausdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -10028,7 +9980,7 @@
         "state": "online",
         "symbol": "mtbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -12897,7 +12849,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "rndrbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -12913,7 +12865,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "rndreth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "",
         "value-precision": 8
     },
@@ -12929,7 +12881,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "rndrusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "innovation",
         "tags": "activities",
         "value-precision": 8
     },
