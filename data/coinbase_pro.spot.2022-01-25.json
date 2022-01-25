@@ -2535,11 +2535,11 @@
         "base_increment": "0.001",
         "base_max_size": "8900",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "CTX/EUR",
         "fx_stablecoin": false,
         "id": "CTX-EUR",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -2548,7 +2548,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -2557,7 +2557,7 @@
         "base_increment": "0.001",
         "base_max_size": "8900",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "CTX/USD",
         "fx_stablecoin": false,
         "id": "CTX-USD",
@@ -2570,7 +2570,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -2579,11 +2579,11 @@
         "base_increment": "0.001",
         "base_max_size": "8900",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "CTX/USDT",
         "fx_stablecoin": false,
         "id": "CTX-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -2592,7 +2592,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -2860,12 +2860,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "DIA",
         "base_increment": "0.01",
         "base_max_size": "220000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "DIA/EUR",
         "fx_stablecoin": false,
         "id": "DIA-EUR",
@@ -2878,7 +2878,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -2887,7 +2887,7 @@
         "base_increment": "0.01",
         "base_max_size": "220000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "DIA/USD",
         "fx_stablecoin": false,
         "id": "DIA-USD",
@@ -2900,7 +2900,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -2909,11 +2909,11 @@
         "base_increment": "0.01",
         "base_max_size": "220000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "DIA/USDT",
         "fx_stablecoin": false,
         "id": "DIA-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -2922,7 +2922,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -5588,12 +5588,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "MPL",
         "base_increment": "0.001",
         "base_max_size": "12000",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MPL/EUR",
         "fx_stablecoin": false,
         "id": "MPL-EUR",
@@ -5606,7 +5606,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We\u2019ve started accepting deposits, trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -5615,7 +5615,7 @@
         "base_increment": "0.001",
         "base_max_size": "12000",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MPL/USD",
         "fx_stablecoin": false,
         "id": "MPL-USD",
@@ -5628,16 +5628,16 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We\u2019ve started accepting deposits, trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "MPL",
         "base_increment": "0.001",
         "base_max_size": "12000",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MPL/USDT",
         "fx_stablecoin": false,
         "id": "MPL-USDT",
@@ -5650,7 +5650,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We\u2019ve started accepting deposits, trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -6358,12 +6358,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "PLU",
         "base_increment": "0.01",
         "base_max_size": "37000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "PLU/EUR",
         "fx_stablecoin": false,
         "id": "PLU-EUR",
@@ -6376,7 +6376,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -6385,7 +6385,7 @@
         "base_increment": "0.01",
         "base_max_size": "37000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "PLU/USD",
         "fx_stablecoin": false,
         "id": "PLU-USD",
@@ -6398,16 +6398,16 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "PLU",
         "base_increment": "0.01",
         "base_max_size": "37000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "PLU/USDT",
         "fx_stablecoin": false,
         "id": "PLU-USDT",
@@ -6420,7 +6420,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -8294,12 +8294,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "UNFI",
         "base_increment": "0.01",
         "base_max_size": "28000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UNFI/EUR",
         "fx_stablecoin": false,
         "id": "UNFI-EUR",
@@ -8312,7 +8312,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -8321,7 +8321,7 @@
         "base_increment": "0.01",
         "base_max_size": "28000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UNFI/USD",
         "fx_stablecoin": false,
         "id": "UNFI-USD",
@@ -8334,16 +8334,16 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "UNFI",
         "base_increment": "0.01",
         "base_max_size": "28000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UNFI/USDT",
         "fx_stablecoin": false,
         "id": "UNFI-USDT",
@@ -8356,7 +8356,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
