@@ -125,7 +125,7 @@
         "state": "online",
         "symbol": "aaceth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -1250,6 +1250,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "ats",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "atsusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "auction",
@@ -2102,7 +2118,7 @@
         "state": "online",
         "symbol": "bkbteth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -3691,6 +3707,22 @@
         "state": "online",
         "symbol": "ctxcusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "ctx",
+        "limit-order-min-order-amt": 0.0001,
+        "min-order-amt": 0.0001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.0001,
+        "state": "online",
+        "symbol": "ctxusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
@@ -9980,7 +10012,7 @@
         "state": "online",
         "symbol": "mtbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -15276,7 +15308,7 @@
         "state": "online",
         "symbol": "unbusdt",
         "symbol-partition": "pioneer",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
