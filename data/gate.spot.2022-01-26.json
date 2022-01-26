@@ -6304,7 +6304,7 @@
         "precision": 4,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -8302,7 +8302,7 @@
         "fee": "0.2",
         "id": "SASHIMI_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -11324,7 +11324,7 @@
         "precision": 2,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -14615,7 +14615,7 @@
         "fee": "0.2",
         "id": "SASHIMI_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -16643,7 +16643,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -28801,14 +28801,14 @@
     {
         "amount_precision": 3,
         "base": "AOG",
-        "buy_start": 1643184000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "AOG_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
