@@ -12380,6 +12380,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "RON",
+        "buy_start": 1643335200,
+        "fee": "0.2",
+        "id": "RON_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "YFDAI",
         "buy_start": 0,
@@ -13125,14 +13137,14 @@
     {
         "amount_precision": 2,
         "base": "SPELLFIRE",
-        "buy_start": 1643288400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SPELLFIRE_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21353,7 +21365,7 @@
         "fee": "0.2",
         "id": "HTR_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -27295,6 +27307,18 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "THN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "THN_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
