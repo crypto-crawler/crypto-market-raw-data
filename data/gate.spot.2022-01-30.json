@@ -13278,16 +13278,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 3,
         "base": "STBU",
-        "buy_start": 0,
+        "buy_start": 1643616000,
         "fee": "0.2",
         "id": "STBU_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -14439,6 +14439,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MGG",
+        "buy_start": 1644498000,
+        "fee": "0.2",
+        "id": "MGG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -26244,16 +26256,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 1,
         "base": "STBU",
-        "buy_start": 0,
+        "buy_start": 1643616000,
         "fee": "0.2",
         "id": "STBU_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
