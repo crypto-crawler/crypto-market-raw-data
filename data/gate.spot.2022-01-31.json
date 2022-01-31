@@ -4665,6 +4665,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 5,
+        "base": "MPL",
+        "buy_start": 1643688000,
+        "fee": "0.2",
+        "id": "MPL_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "PLY",
         "buy_start": 0,
@@ -13287,7 +13299,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -26265,7 +26277,7 @@
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -29506,6 +29518,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "PERC",
+        "buy_start": 1643796000,
+        "fee": "0.2",
+        "id": "PERC_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
