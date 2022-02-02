@@ -420,6 +420,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 4,
+        "base-currency": "dot",
+        "id": "5235",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dot_qc",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "dot",
         "id": "5241",
@@ -853,18 +865,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "true",
-        "id": "5308",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "true_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "kerri",
         "id": "5310",
         "max-order-amt": null,
@@ -1188,6 +1188,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 2,
+        "base-currency": "efi",
+        "id": "5341",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "efi_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 0,
         "base-currency": "shib",
         "id": "5342",
@@ -1389,30 +1401,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "cvx_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "xym",
-        "id": "5359",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xym_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "cart",
-        "id": "5360",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "cart_usdt",
         "symbol-partition": "innovation"
     },
     {
