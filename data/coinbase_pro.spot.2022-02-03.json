@@ -1034,12 +1034,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "AVT",
         "base_increment": "0.01",
         "base_max_size": "87000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "AVT/EUR",
         "fx_stablecoin": false,
         "id": "AVT-EUR",
@@ -1052,7 +1052,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -1061,11 +1061,11 @@
         "base_increment": "0.01",
         "base_max_size": "87000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "AVT/USD",
         "fx_stablecoin": false,
         "id": "AVT-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -1074,16 +1074,16 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "AVT",
         "base_increment": "0.01",
         "base_max_size": "87000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "AVT/USDT",
         "fx_stablecoin": false,
         "id": "AVT-USDT",
@@ -1096,7 +1096,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -6688,12 +6688,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "QSP",
         "base_increment": "1",
         "base_max_size": "11000000",
         "base_min_size": "10",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "QSP/EUR",
         "fx_stablecoin": false,
         "id": "QSP-EUR",
@@ -6706,7 +6706,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.00001",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -6715,7 +6715,7 @@
         "base_increment": "1",
         "base_max_size": "11000000",
         "base_min_size": "10",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "QSP/USD",
         "fx_stablecoin": false,
         "id": "QSP-USD",
@@ -6728,16 +6728,16 @@
         "quote_currency": "USD",
         "quote_increment": "0.00001",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "QSP",
         "base_increment": "1",
         "base_max_size": "11000000",
         "base_min_size": "10",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "QSP/USDT",
         "fx_stablecoin": false,
         "id": "QSP-USDT",
@@ -6750,7 +6750,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.00001",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -7309,11 +7309,11 @@
         "base_increment": "0.01",
         "base_max_size": "110000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "RNDR/EUR",
         "fx_stablecoin": false,
         "id": "RNDR-EUR",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -7322,7 +7322,7 @@
         "quote_currency": "EUR",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -7331,7 +7331,7 @@
         "base_increment": "0.01",
         "base_max_size": "110000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "RNDR/USD",
         "fx_stablecoin": false,
         "id": "RNDR-USD",
@@ -7344,7 +7344,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -7353,11 +7353,11 @@
         "base_increment": "0.01",
         "base_max_size": "110000",
         "base_min_size": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "RNDR/USDT",
         "fx_stablecoin": false,
         "id": "RNDR-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -7366,7 +7366,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
