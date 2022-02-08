@@ -5758,7 +5758,7 @@
         "state": "online",
         "symbol": "faireth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -6528,6 +6528,22 @@
         "state": "online",
         "symbol": "glmeth",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "glmr",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "glmrusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
@@ -9740,7 +9756,7 @@
         "state": "online",
         "symbol": "meetbtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -10013,6 +10029,22 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "monousdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "movr",
+        "limit-order-min-order-amt": 0.0001,
+        "min-order-amt": 0.0001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.0001,
+        "state": "online",
+        "symbol": "movrusdt",
         "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
