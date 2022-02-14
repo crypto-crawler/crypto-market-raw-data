@@ -18530,6 +18530,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "RSS3",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RSS3_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "WINGS",
         "buy_start": 0,
@@ -20635,6 +20647,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "SWFTC",
+        "buy_start": 1644919200,
+        "fee": "0.2",
+        "id": "SWFTC_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
