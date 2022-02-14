@@ -10094,6 +10094,7 @@
         "api-trading": "enabled",
         "base-currency": "movr",
         "limit-order-min-order-amt": 0.0001,
+        "max-order-value": 500,
         "min-order-amt": 0.0001,
         "min-order-value": 5,
         "price-precision": 4,
@@ -10102,7 +10103,7 @@
         "state": "online",
         "symbol": "movrusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "highrisk",
         "value-precision": 8
     },
     {
