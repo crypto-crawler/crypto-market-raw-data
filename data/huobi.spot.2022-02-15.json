@@ -2408,7 +2408,7 @@
         "state": "online",
         "symbol": "boxeth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -3269,7 +3269,7 @@
         "state": "online",
         "symbol": "cnneth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -10094,6 +10094,7 @@
         "api-trading": "enabled",
         "base-currency": "movr",
         "limit-order-min-order-amt": 0.0001,
+        "max-order-value": 50000,
         "min-order-amt": 0.0001,
         "min-order-value": 5,
         "price-precision": 4,
