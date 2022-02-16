@@ -254,18 +254,6 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -408,18 +396,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "dot",
-        "id": "5235",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 3,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "dot_qc",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "dot",
         "id": "5241",
@@ -432,15 +408,15 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "uni",
-        "id": "5248",
+        "amount-precision": 2,
+        "base-currency": "nbs",
+        "id": "5249",
         "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 4,
+        "min-order-amt": "0.01",
+        "price-precision": 6,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "uni_usdt",
+        "symbol": "nbs_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1345,6 +1321,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "nu",
+        "id": "5355",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 8,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "nu_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "1inch",
         "id": "5356",
         "max-order-amt": null,
@@ -1353,18 +1341,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "1inch_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "gtc",
-        "id": "5357",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "gtc_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1401,6 +1377,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "cart_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "ilv",
+        "id": "5361",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ilv_usdt",
         "symbol-partition": "innovation"
     },
     {
