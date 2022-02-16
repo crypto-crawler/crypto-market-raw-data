@@ -3667,7 +3667,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -4222,6 +4222,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "DEP",
+        "buy_start": 1645156800,
+        "fee": "0.2",
+        "id": "DEP_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "LON3L",
         "buy_start": 0,
@@ -4674,7 +4686,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -5345,7 +5357,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -6448,7 +6460,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -11146,6 +11158,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DEP",
+        "buy_start": 1645156800,
+        "fee": "0.2",
+        "id": "DEP_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -18240,7 +18264,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -21318,7 +21342,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -27872,7 +27896,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
