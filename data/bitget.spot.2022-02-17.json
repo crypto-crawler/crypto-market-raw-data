@@ -315,15 +315,6 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "ANT",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "ANT_USDT",
-        "tick_size": "3"
-    },
-    {
         "base_asset_precision": "4",
         "base_currency": "UNI",
         "quote_currency": "USDT",
@@ -343,12 +334,12 @@
     },
     {
         "base_asset_precision": "1",
-        "base_currency": "ARPA",
+        "base_currency": "ANT",
         "quote_currency": "USDT",
         "size_increment": "1",
         "status": "online",
-        "symbol": "ARPA_USDT",
-        "tick_size": "5"
+        "symbol": "ANT_USDT",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "4",
@@ -358,6 +349,15 @@
         "status": "online",
         "symbol": "SUSHI_USDT",
         "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "ARPA",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "ARPA_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",
@@ -717,7 +717,7 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "SPAT_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",
