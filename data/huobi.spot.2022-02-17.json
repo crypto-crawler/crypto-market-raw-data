@@ -6600,6 +6600,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "gmee",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "gmeeusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "gmpd",
@@ -13656,6 +13672,22 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "shibusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "sis",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "sisusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
