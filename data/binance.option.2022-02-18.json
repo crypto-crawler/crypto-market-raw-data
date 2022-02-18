@@ -1,0 +1,2110 @@
+[
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2901,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220225-25000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2903,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220225-25000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2905,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220225-30000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2907,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220225-30000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2909,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220225-35000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2911,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220225-35000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2913,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220225-40000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2915,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220225-40000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2917,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220225-45000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2919,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220225-45000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2921,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220225-50000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2923,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220225-50000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2925,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 55000.0,
+        "symbol": "BTC-220225-55000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2927,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 55000.0,
+        "symbol": "BTC-220225-55000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2929,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220225-60000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2931,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220225-60000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2933,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220225-70000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1645776000000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2935,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220225-70000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2993,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 15000.0,
+        "symbol": "BTC-220325-15000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2995,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 15000.0,
+        "symbol": "BTC-220325-15000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2997,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 20000.0,
+        "symbol": "BTC-220325-20000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 2999,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 20000.0,
+        "symbol": "BTC-220325-20000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3001,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220325-25000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3003,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220325-25000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3005,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220325-30000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3007,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220325-30000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3009,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220325-35000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3011,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220325-35000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3013,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220325-40000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3015,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220325-40000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3017,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220325-45000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3019,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220325-45000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3021,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220325-50000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3023,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220325-50000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3025,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 55000.0,
+        "symbol": "BTC-220325-55000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3027,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 55000.0,
+        "symbol": "BTC-220325-55000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3029,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220325-60000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3031,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220325-60000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3033,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220325-70000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3035,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220325-70000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3037,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 80000.0,
+        "symbol": "BTC-220325-80000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1648195200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3039,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 80000.0,
+        "symbol": "BTC-220325-80000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3177,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 20000.0,
+        "symbol": "BTC-220429-20000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3179,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 20000.0,
+        "symbol": "BTC-220429-20000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3181,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220429-25000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3183,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 25000.0,
+        "symbol": "BTC-220429-25000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3185,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220429-30000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3187,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 30000.0,
+        "symbol": "BTC-220429-30000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3189,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220429-35000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3191,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 35000.0,
+        "symbol": "BTC-220429-35000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3193,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220429-40000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3195,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 40000.0,
+        "symbol": "BTC-220429-40000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3197,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220429-45000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3199,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 45000.0,
+        "symbol": "BTC-220429-45000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3201,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220429-50000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3203,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 50000.0,
+        "symbol": "BTC-220429-50000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3205,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220429-60000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3207,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 60000.0,
+        "symbol": "BTC-220429-60000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3209,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220429-70000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3211,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 70000.0,
+        "symbol": "BTC-220429-70000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3213,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "CALL",
+        "strikePrice": 80000.0,
+        "symbol": "BTC-220429-80000-C",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    },
+    {
+        "autoReduceMargin": 0.075,
+        "contractId": 1,
+        "expiryDate": 1651219200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": 0.01
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": 0.0002,
+                "stepSize": 0.0001
+            }
+        ],
+        "id": 3215,
+        "initialMargin": 0.15,
+        "maintenanceMargin": 0.02,
+        "makerFeeRate": 0.0003,
+        "maxQty": 10000.0,
+        "minAutoReduceMargin": 0.05,
+        "minInitialMargin": 0.1,
+        "minMaintenanceMargin": 0.013,
+        "minQty": 0.0002,
+        "priceScale": 2,
+        "quantityScale": 4,
+        "quoteAsset": "USDT",
+        "side": "PUT",
+        "strikePrice": 80000.0,
+        "symbol": "BTC-220429-80000-P",
+        "takerFeeRate": 0.0003,
+        "underlying": "BTCUSDT",
+        "unit": 1
+    }
+]
