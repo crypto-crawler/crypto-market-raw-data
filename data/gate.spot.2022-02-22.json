@@ -1536,6 +1536,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "TAP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "TAP_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "MLT",
         "buy_start": 0,
@@ -4686,7 +4698,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -10509,7 +10521,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -12932,18 +12944,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "SB",
-        "buy_start": 1645610400,
-        "fee": "0.2",
-        "id": "SB_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "sellable"
-    },
-    {
-        "amount_precision": 3,
         "base": "MIMIR",
         "buy_start": 0,
         "fee": "0.2",
@@ -13397,18 +13397,6 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "SB",
-        "buy_start": 1645610400,
-        "fee": "0.2",
-        "id": "SB_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -16165,7 +16153,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -24477,14 +24465,14 @@
     {
         "amount_precision": 2,
         "base": "COVAL",
-        "buy_start": 1645520400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "COVAL_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
