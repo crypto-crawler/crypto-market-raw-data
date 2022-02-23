@@ -444,22 +444,6 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "AFC_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "AFC",
-        "vcoinStatus": 1
-    },
-    {
-        "countDownMark": 1,
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
         "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -1376,7 +1360,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ARES_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "ARES",
         "vcoinStatus": 1
@@ -1611,7 +1595,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ASTRO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "ASTRO",
         "vcoinStatus": 1
@@ -2889,7 +2873,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BETA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "BETA",
         "vcoinStatus": 1
@@ -3581,7 +3565,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BOO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "BOO",
         "vcoinStatus": 1
@@ -5138,6 +5122,22 @@
         "vcoinStatus": 1
     },
     {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "CNAME_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "CNAME",
+        "vcoinStatus": 1
+    },
+    {
         "etf_mark": 0,
         "limited": false,
         "maker_fee_rate": "0.002",
@@ -6073,7 +6073,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CVX_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "CVX",
         "vcoinStatus": 1
@@ -6719,22 +6719,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "DIP",
-        "vcoinStatus": 1
-    },
-    {
-        "countDownMark": 1,
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "DIVER_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "DIVER",
         "vcoinStatus": 1
     },
     {
@@ -8246,7 +8230,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ENS_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "ENS",
         "vcoinStatus": 1
@@ -8477,7 +8461,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ETERNAL_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "ETERNAL",
         "vcoinStatus": 1
@@ -9257,7 +9241,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "FLOKI_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "FLOKI",
         "vcoinStatus": 1
@@ -9496,7 +9480,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FOX_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "FOX",
         "vcoinStatus": 1
@@ -9826,7 +9810,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FWW_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "FWW",
         "vcoinStatus": 1
@@ -10017,7 +10001,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GAS_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "GAS",
         "vcoinStatus": 1
@@ -10100,22 +10084,6 @@
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.002",
         "vcoinName": "GDO",
-        "vcoinStatus": 1
-    },
-    {
-        "countDownMark": 1,
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "GEIST_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "GEIST",
         "vcoinStatus": 1
     },
     {
@@ -10305,7 +10273,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GF_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "GF",
         "vcoinStatus": 1
@@ -10685,7 +10653,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GP_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "GP",
         "vcoinStatus": 1
@@ -10704,22 +10672,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "GRAV",
-        "vcoinStatus": 1
-    },
-    {
-        "countDownMark": 1,
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0.002",
-        "max_amount": "5000000",
-        "min_amount": "5",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "GRO_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002",
-        "vcoinName": "GRO",
         "vcoinStatus": 1
     },
     {
@@ -15122,7 +15074,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MGOD_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "MGOD",
         "vcoinStatus": 1
@@ -16263,7 +16215,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NORA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "NORA",
         "vcoinStatus": 1
@@ -17012,7 +16964,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "OPIUM_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "OPIUM",
         "vcoinStatus": 1
@@ -17299,6 +17251,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "PARAS",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "PATH_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "PATH",
         "vcoinStatus": 1
     },
     {
@@ -18509,6 +18477,22 @@
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
         "min_amount": "5",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "RANKER_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "RANKER",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
         "price_scale": 4,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -18624,7 +18608,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RBN_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "RBN",
         "vcoinStatus": 1
@@ -19001,6 +18985,22 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "RNDR",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "ROAR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.002",
+        "vcoinName": "ROAR",
         "vcoinStatus": 1
     },
     {
@@ -19437,7 +19437,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SAMO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "SAMO",
         "vcoinStatus": 1
@@ -19962,7 +19962,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SGB_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "SGB",
         "vcoinStatus": 1
@@ -21647,7 +21647,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SWP_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "SWP",
         "vcoinStatus": 1
@@ -25252,7 +25252,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XWG_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "vcoinName": "XWG",
         "vcoinStatus": 1

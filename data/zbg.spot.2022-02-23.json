@@ -397,6 +397,18 @@
     },
     {
         "amount-precision": 4,
+        "base-currency": "ksm",
+        "id": "5223",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
         "base-currency": "dot",
         "id": "5235",
         "max-order-amt": null,
@@ -1201,18 +1213,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "sdn",
-        "id": "5343",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "sdn_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "bnb3s",
         "id": "5344",
         "max-order-amt": null,
@@ -1440,15 +1440,15 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "powr",
-        "id": "5365",
+        "amount-precision": 3,
+        "base-currency": "paf",
+        "id": "5364",
         "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "powr_usdt",
+        "symbol": "paf_usdt",
         "symbol-partition": "innovation"
     },
     {
