@@ -6309,14 +6309,14 @@
     {
         "amount_precision": 4,
         "base": "QTC",
-        "buy_start": 1645696800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "QTC_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -9902,6 +9902,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "METAG",
+        "buy_start": 1646046000,
+        "fee": "0.2",
+        "id": "METAG_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ACE",
         "buy_start": 0,
@@ -12787,6 +12799,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "KOK",
+        "buy_start": 1645866000,
+        "fee": "0.2",
+        "id": "KOK_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ATP",
         "buy_start": 0,
@@ -13401,14 +13425,14 @@
     {
         "amount_precision": 5,
         "base": "QTC",
-        "buy_start": 1645696800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "QTC_ETH",
         "min_quote_amount": "0.001",
         "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -15483,6 +15507,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "METAG",
+        "buy_start": 1646046000,
+        "fee": "0.2",
+        "id": "METAG_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 10,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -24857,14 +24893,14 @@
     {
         "amount_precision": 2,
         "base": "RANKER",
-        "buy_start": 1645704000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RANKER_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
