@@ -12459,6 +12459,22 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "pstake",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "pstakeusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "pundix",
         "limit-order-min-order-amt": 0.001,
         "min-order-amt": 0.001,
