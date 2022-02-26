@@ -2063,6 +2063,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 5,
+        "base": "TIMECHRONO",
+        "buy_start": 1646384400,
+        "fee": "0.2",
+        "id": "TIMECHRONO_USDT",
+        "min_quote_amount": "1",
+        "precision": 2,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "VRA",
         "buy_start": 0,
@@ -6962,18 +6974,6 @@
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "KBD",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "KBD_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -28749,6 +28749,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 5,
+        "base": "TIMECHRONO",
+        "buy_start": 1646384400,
+        "fee": "0.2",
+        "id": "TIMECHRONO_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 5,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
