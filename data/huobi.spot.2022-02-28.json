@@ -3891,25 +3891,9 @@
         "value-precision": 8
     },
     {
-        "amount-precision": 2,
-        "api-trading": "enabled",
-        "base-currency": "cvcoin",
-        "limit-order-min-order-amt": 0.1,
-        "min-order-amt": 0.1,
-        "min-order-value": 0.0001,
-        "price-precision": 8,
-        "quote-currency": "btc",
-        "sell-market-min-order-amt": 0.1,
-        "state": "suspend",
-        "symbol": "cvcoinbtc",
-        "symbol-partition": "innovation",
-        "tags": "hadax",
-        "value-precision": 8
-    },
-    {
         "amount-precision": 4,
         "api-trading": "enabled",
-        "base-currency": "cvcoin",
+        "base-currency": "cvnx",
         "limit-order-min-order-amt": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 0.001,
@@ -3968,6 +3952,22 @@
         "symbol": "cvnteth",
         "symbol-partition": "innovation",
         "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "cvnx",
+        "limit-order-min-order-amt": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 0.0001,
+        "price-precision": 8,
+        "quote-currency": "btc",
+        "sell-market-min-order-amt": 0.1,
+        "state": "suspend",
+        "symbol": "cvnxbtc",
+        "symbol-partition": "innovation",
+        "tags": "hadax",
         "value-precision": 8
     },
     {

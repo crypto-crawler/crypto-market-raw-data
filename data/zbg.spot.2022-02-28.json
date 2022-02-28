@@ -828,18 +828,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 1,
-        "base-currency": "xem",
-        "id": "5306",
-        "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xem_qc",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "btm",
         "id": "5307",
@@ -1357,6 +1345,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "nu",
+        "id": "5355",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 8,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "nu_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "1inch",
         "id": "5356",
         "max-order-amt": null,
@@ -1416,6 +1416,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ilv",
+        "id": "5361",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ilv_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "tvk",
         "id": "5362",
@@ -1425,6 +1437,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "tvk_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "alcx",
+        "id": "5363",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "alcx_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1449,18 +1473,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "powr_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "thg",
-        "id": "5366",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "thg_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1495,7 +1507,7 @@
         "min-order-amt": "0.01",
         "price-precision": 4,
         "quote-currency": "usdt",
-        "state": "suspend",
+        "state": "online",
         "symbol": "vgx_usdt",
         "symbol-partition": "innovation"
     },
