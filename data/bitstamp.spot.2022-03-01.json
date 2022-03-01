@@ -1,0 +1,1442 @@
+[
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "BTC/USD",
+        "trading": "Enabled",
+        "url_symbol": "btcusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "BTC/EUR",
+        "trading": "Enabled",
+        "url_symbol": "btceur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "BTC/GBP",
+        "trading": "Enabled",
+        "url_symbol": "btcgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / Paxos Standard",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 PAX",
+        "name": "BTC/PAX",
+        "trading": "Enabled",
+        "url_symbol": "btcpax"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "British Pound / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "GBP/USD",
+        "trading": "Enabled",
+        "url_symbol": "gbpusd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "British Pound / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "GBP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "gbpeur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Euro / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "EUR/USD",
+        "trading": "Enabled",
+        "url_symbol": "eurusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "XRP / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "XRP/USD",
+        "trading": "Enabled",
+        "url_symbol": "xrpusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "XRP / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "XRP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "xrpeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "XRP / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "XRP/BTC",
+        "trading": "Enabled",
+        "url_symbol": "xrpbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "XRP / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "XRP/GBP",
+        "trading": "Enabled",
+        "url_symbol": "xrpgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "XRP / Paxos Standard",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 PAX",
+        "name": "XRP/PAX",
+        "trading": "Enabled",
+        "url_symbol": "xrppax"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Litecoin / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "LTC/BTC",
+        "trading": "Enabled",
+        "url_symbol": "ltcbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Litecoin / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "LTC/USD",
+        "trading": "Enabled",
+        "url_symbol": "ltcusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Litecoin / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "LTC/EUR",
+        "trading": "Enabled",
+        "url_symbol": "ltceur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Litecoin / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "LTC/GBP",
+        "trading": "Enabled",
+        "url_symbol": "ltcgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Ether / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "ETH/BTC",
+        "trading": "Enabled",
+        "url_symbol": "ethbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "ETH/USD",
+        "trading": "Enabled",
+        "url_symbol": "ethusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ETH/EUR",
+        "trading": "Enabled",
+        "url_symbol": "etheur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "ETH/GBP",
+        "trading": "Enabled",
+        "url_symbol": "ethgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / Paxos Standard",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 PAX",
+        "name": "ETH/PAX",
+        "trading": "Enabled",
+        "url_symbol": "ethpax"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin Cash / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "BCH/USD",
+        "trading": "Enabled",
+        "url_symbol": "bchusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin Cash / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "BCH/EUR",
+        "trading": "Enabled",
+        "url_symbol": "bcheur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Bitcoin Cash / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "BCH/BTC",
+        "trading": "Enabled",
+        "url_symbol": "bchbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin Cash / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "BCH/GBP",
+        "trading": "Enabled",
+        "url_symbol": "bchgbp"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Paxos Standard / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "PAX/USD",
+        "trading": "Enabled",
+        "url_symbol": "paxusd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Paxos Standard / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "PAX/EUR",
+        "trading": "Enabled",
+        "url_symbol": "paxeur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Paxos Standard / British Pound",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 GBP",
+        "name": "PAX/GBP",
+        "trading": "Enabled",
+        "url_symbol": "paxgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Stellar Lumens / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "XLM/BTC",
+        "trading": "Enabled",
+        "url_symbol": "xlmbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Stellar Lumens / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "XLM/USD",
+        "trading": "Enabled",
+        "url_symbol": "xlmusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Stellar Lumens / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "XLM/EUR",
+        "trading": "Enabled",
+        "url_symbol": "xlmeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Stellar Lumens / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "XLM/GBP",
+        "trading": "Enabled",
+        "url_symbol": "xlmgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Chainlink / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "LINK/USD",
+        "trading": "Enabled",
+        "url_symbol": "linkusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Chainlink / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "LINK/EUR",
+        "trading": "Enabled",
+        "url_symbol": "linkeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Chainlink / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "LINK/GBP",
+        "trading": "Enabled",
+        "url_symbol": "linkgbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Chainlink / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "LINK/BTC",
+        "trading": "Enabled",
+        "url_symbol": "linkbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Chainlink / Ether",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.002 ETH",
+        "name": "LINK/ETH",
+        "trading": "Enabled",
+        "url_symbol": "linketh"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "OMG Network / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "OMG/USD",
+        "trading": "Enabled",
+        "url_symbol": "omgusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "OMG Network / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "OMG/EUR",
+        "trading": "Enabled",
+        "url_symbol": "omgeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "OMG Network / British Pound",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 GBP",
+        "name": "OMG/GBP",
+        "trading": "Enabled",
+        "url_symbol": "omggbp"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "OMG Network / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "OMG/BTC",
+        "trading": "Enabled",
+        "url_symbol": "omgbtc"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "USD Coin / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "USDC/USD",
+        "trading": "Enabled",
+        "url_symbol": "usdcusd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "USD Coin / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "USDC/EUR",
+        "trading": "Enabled",
+        "url_symbol": "usdceur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / USD Coin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USDC",
+        "name": "BTC/USDC",
+        "trading": "Enabled",
+        "url_symbol": "btcusdc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / USD Coin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USDC",
+        "name": "ETH/USDC",
+        "trading": "Enabled",
+        "url_symbol": "ethusdc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Ethereum 2.0 / Ether",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.002 ETH",
+        "name": "ETH2/ETH",
+        "trading": "Enabled",
+        "url_symbol": "eth2eth"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "AAVE / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "AAVE/USD",
+        "trading": "Enabled",
+        "url_symbol": "aaveusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "AAVE / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "AAVE/EUR",
+        "trading": "Enabled",
+        "url_symbol": "aaveeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "AAVE / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "AAVE/BTC",
+        "trading": "Enabled",
+        "url_symbol": "aavebtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Basic Attention Token / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "BAT/USD",
+        "trading": "Enabled",
+        "url_symbol": "batusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Basic Attention Token / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "BAT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "bateur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Basic Attention Token / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "BAT/BTC",
+        "trading": "Enabled",
+        "url_symbol": "batbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "UMA / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "UMA/USD",
+        "trading": "Enabled",
+        "url_symbol": "umausd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "UMA / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "UMA/EUR",
+        "trading": "Enabled",
+        "url_symbol": "umaeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "UMA / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "UMA/BTC",
+        "trading": "Enabled",
+        "url_symbol": "umabtc"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "DAI / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "DAI/USD",
+        "trading": "Enabled",
+        "url_symbol": "daiusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Kyber Network / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "KNC/USD",
+        "trading": "Enabled",
+        "url_symbol": "kncusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Kyber Network / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "KNC/EUR",
+        "trading": "Enabled",
+        "url_symbol": "knceur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Kyber Network / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "KNC/BTC",
+        "trading": "Enabled",
+        "url_symbol": "kncbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Maker / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "MKR/USD",
+        "trading": "Enabled",
+        "url_symbol": "mkrusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Maker / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "MKR/EUR",
+        "trading": "Enabled",
+        "url_symbol": "mkreur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Maker / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "MKR/BTC",
+        "trading": "Enabled",
+        "url_symbol": "mkrbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "0x / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "ZRX/USD",
+        "trading": "Enabled",
+        "url_symbol": "zrxusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "0x / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ZRX/EUR",
+        "trading": "Enabled",
+        "url_symbol": "zrxeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "0x / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "ZRX/BTC",
+        "trading": "Enabled",
+        "url_symbol": "zrxbtc"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Gemini Dollar / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "GUSD/USD",
+        "trading": "Enabled",
+        "url_symbol": "gusdusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Algorand / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "ALGO/USD",
+        "trading": "Enabled",
+        "url_symbol": "algousd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Algorand / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ALGO/EUR",
+        "trading": "Enabled",
+        "url_symbol": "algoeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Algorand / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "ALGO/BTC",
+        "trading": "Enabled",
+        "url_symbol": "algobtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Audius / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "AUDIO/USD",
+        "trading": "Enabled",
+        "url_symbol": "audiousd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Audius / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "AUDIO/EUR",
+        "trading": "Enabled",
+        "url_symbol": "audioeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Audius / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "AUDIO/BTC",
+        "trading": "Enabled",
+        "url_symbol": "audiobtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Curve / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "CRV/USD",
+        "trading": "Enabled",
+        "url_symbol": "crvusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Curve / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "CRV/EUR",
+        "trading": "Enabled",
+        "url_symbol": "crveur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Curve / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "CRV/BTC",
+        "trading": "Enabled",
+        "url_symbol": "crvbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Synthetix / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "SNX/USD",
+        "trading": "Enabled",
+        "url_symbol": "snxusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Synthetix / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SNX/EUR",
+        "trading": "Enabled",
+        "url_symbol": "snxeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Synthetix / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "SNX/BTC",
+        "trading": "Enabled",
+        "url_symbol": "snxbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Uniswap / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "UNI/USD",
+        "trading": "Enabled",
+        "url_symbol": "uniusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Uniswap / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "UNI/EUR",
+        "trading": "Enabled",
+        "url_symbol": "unieur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Uniswap / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "UNI/BTC",
+        "trading": "Enabled",
+        "url_symbol": "unibtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "yearn.finance / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "YFI/USD",
+        "trading": "Enabled",
+        "url_symbol": "yfiusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "yearn.finance / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "YFI/EUR",
+        "trading": "Enabled",
+        "url_symbol": "yfieur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "yearn.finance / Bitcoin",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "YFI/BTC",
+        "trading": "Enabled",
+        "url_symbol": "yfibtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Compound / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "COMP/USD",
+        "trading": "Enabled",
+        "url_symbol": "compusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Compound / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "COMP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "compeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Compound / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "COMP/BTC",
+        "trading": "Enabled",
+        "url_symbol": "compbtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "The Graph / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "GRT/USD",
+        "trading": "Enabled",
+        "url_symbol": "grtusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "The Graph / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "GRT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "grteur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Tether / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "USDT/USD",
+        "trading": "Enabled",
+        "url_symbol": "usdtusd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Tether / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "USDT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "usdteur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "USD Coin / Tether",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USDT",
+        "name": "USDC/USDT",
+        "trading": "Enabled",
+        "url_symbol": "usdcusdt"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Bitcoin / Tether",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USDT",
+        "name": "BTC/USDT",
+        "trading": "Enabled",
+        "url_symbol": "btcusdt"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 2,
+        "description": "Ether / Tether",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USDT",
+        "name": "ETH/USDT",
+        "trading": "Enabled",
+        "url_symbol": "ethusdt"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "XRP / Tether",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USDT",
+        "name": "XRP/USDT",
+        "trading": "Enabled",
+        "url_symbol": "xrpusdt"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Euro Tether / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "EURT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "eurteur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 5,
+        "description": "Euro Tether / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "EURT/USD",
+        "trading": "Enabled",
+        "url_symbol": "eurtusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Polygon / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "MATIC/USD",
+        "trading": "Enabled",
+        "url_symbol": "maticusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Polygon / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "MATIC/EUR",
+        "trading": "Enabled",
+        "url_symbol": "maticeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "SushiSwap / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "SUSHI/USD",
+        "trading": "Enabled",
+        "url_symbol": "sushiusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "SushiSwap / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SUSHI/EUR",
+        "trading": "Enabled",
+        "url_symbol": "sushieur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Chiliz / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "CHZ/USD",
+        "trading": "Enabled",
+        "url_symbol": "chzusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Chiliz / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "CHZ/EUR",
+        "trading": "Enabled",
+        "url_symbol": "chzeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Enjin Coin / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "ENJ/USD",
+        "trading": "Enabled",
+        "url_symbol": "enjusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Enjin Coin / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ENJ/EUR",
+        "trading": "Enabled",
+        "url_symbol": "enjeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Hedera Hashgraph / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "HBAR/USD",
+        "trading": "Enabled",
+        "url_symbol": "hbarusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Hedera Hashgraph / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "HBAR/EUR",
+        "trading": "Enabled",
+        "url_symbol": "hbareur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Alpha Finance / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "ALPHA/USD",
+        "trading": "Enabled",
+        "url_symbol": "alphausd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Alpha Finance / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ALPHA/EUR",
+        "trading": "Enabled",
+        "url_symbol": "alphaeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Axie Infinity / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "AXS/USD",
+        "trading": "Enabled",
+        "url_symbol": "axsusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Axie Infinity / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "AXS/EUR",
+        "trading": "Enabled",
+        "url_symbol": "axseur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "FTX Token / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "FTT/USD",
+        "trading": "Enabled",
+        "url_symbol": "fttusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "FTX Token / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "FTT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "ftteur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "The Sandbox / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "SAND/USD",
+        "trading": "Enabled",
+        "url_symbol": "sandusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "The Sandbox / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SAND/EUR",
+        "trading": "Enabled",
+        "url_symbol": "sandeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Storj / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "STORJ/USD",
+        "trading": "Enabled",
+        "url_symbol": "storjusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Storj / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "STORJ/EUR",
+        "trading": "Enabled",
+        "url_symbol": "storjeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Cardano / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 USD",
+        "name": "ADA/USD",
+        "trading": "Enabled",
+        "url_symbol": "adausd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Cardano / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "ADA/EUR",
+        "trading": "Enabled",
+        "url_symbol": "adaeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 8,
+        "description": "Cardano / Bitcoin",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "0.0002 BTC",
+        "name": "ADA/BTC",
+        "trading": "Enabled",
+        "url_symbol": "adabtc"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Fetch.ai / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "FET/USD",
+        "trading": "Enabled",
+        "url_symbol": "fetusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Fetch.ai / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "FET/EUR",
+        "trading": "Enabled",
+        "url_symbol": "feteur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Rari Governance Token / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "RGT/USD",
+        "trading": "Enabled",
+        "url_symbol": "rgtusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Rari Governance Token / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "RGT/EUR",
+        "trading": "Enabled",
+        "url_symbol": "rgteur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "SKALE Network / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "SKL/USD",
+        "trading": "Enabled",
+        "url_symbol": "sklusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "SKALE Network / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SKL/EUR",
+        "trading": "Enabled",
+        "url_symbol": "skleur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Celsius Network / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "CEL/USD",
+        "trading": "Enabled",
+        "url_symbol": "celusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Celsius Network / Euro",
+        "instant_and_market_orders": "Enabled",
+        "minimum_order": "10.0 EUR",
+        "name": "CEL/EUR",
+        "trading": "Enabled",
+        "url_symbol": "celeur"
+    },
+    {
+        "base_decimals": 0,
+        "counter_decimals": 5,
+        "description": "Smooth Love Potion / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "SLP/USD",
+        "trading": "Enabled",
+        "url_symbol": "slpusd"
+    },
+    {
+        "base_decimals": 0,
+        "counter_decimals": 5,
+        "description": "Smooth Love Potion / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SLP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "slpeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Swipe / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "SXP/USD",
+        "trading": "Enabled",
+        "url_symbol": "sxpusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Swipe / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SXP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "sxpeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Songbird / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "SGB/USD",
+        "trading": "Enabled",
+        "url_symbol": "sgbusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Songbird / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "SGB/EUR",
+        "trading": "Enabled",
+        "url_symbol": "sgbeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 3,
+        "description": "dYdX / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "DYDX/USD",
+        "trading": "Enabled",
+        "url_symbol": "dydxusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 3,
+        "description": "dYdX / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "DYDX/EUR",
+        "trading": "Enabled",
+        "url_symbol": "dydxeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Fantom / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "FTM/USD",
+        "trading": "Enabled",
+        "url_symbol": "ftmusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Fantom / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "FTM/EUR",
+        "trading": "Enabled",
+        "url_symbol": "ftmeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Amp / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "AMP/USD",
+        "trading": "Enabled",
+        "url_symbol": "ampusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Amp / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "AMP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "ampeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Gala / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "GALA/USD",
+        "trading": "Enabled",
+        "url_symbol": "galausd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 5,
+        "description": "Gala / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "GALA/EUR",
+        "trading": "Enabled",
+        "url_symbol": "galaeur"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 3,
+        "description": "Perpetual Protocol / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 USD",
+        "name": "PERP/USD",
+        "trading": "Enabled",
+        "url_symbol": "perpusd"
+    },
+    {
+        "base_decimals": 8,
+        "counter_decimals": 3,
+        "description": "Perpetual Protocol / Euro",
+        "instant_and_market_orders": "Disabled",
+        "minimum_order": "10.0 EUR",
+        "name": "PERP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "perpeur"
+    }
+]

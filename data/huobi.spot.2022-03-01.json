@@ -2168,7 +2168,7 @@
         "state": "online",
         "symbol": "bkbteth",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -3935,7 +3935,7 @@
         "state": "online",
         "symbol": "cvntbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -3951,7 +3951,7 @@
         "state": "online",
         "symbol": "cvnteth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -7692,7 +7692,7 @@
         "state": "online",
         "symbol": "iiceth",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -9700,7 +9700,7 @@
         "state": "online",
         "symbol": "masseth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -12233,6 +12233,22 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "polc",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "polcusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "pols",
@@ -13428,7 +13444,7 @@
         "state": "online",
         "symbol": "rtebtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -16727,6 +16743,22 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "wiccusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "wild",
+        "limit-order-min-order-amt": 0.001,
+        "min-order-amt": 0.001,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "wildusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
