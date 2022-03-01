@@ -2152,7 +2152,7 @@
         "state": "online",
         "symbol": "bkbtbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -2472,7 +2472,7 @@
         "state": "online",
         "symbol": "boxeth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -3935,7 +3935,7 @@
         "state": "online",
         "symbol": "cvntbtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -6564,6 +6564,22 @@
         "state": "online",
         "symbol": "gaseth",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "gear",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "gearusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
@@ -14463,7 +14479,7 @@
         "state": "online",
         "symbol": "sspbtc",
         "symbol-partition": "innovation",
-        "tags": "st,hadax,abnormalmarket",
+        "tags": "st,hadax",
         "value-precision": 8
     },
     {
@@ -15805,7 +15821,7 @@
         "state": "online",
         "symbol": "umabtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -15821,7 +15837,7 @@
         "state": "online",
         "symbol": "umaeth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -15837,7 +15853,7 @@
         "state": "online",
         "symbol": "umausdt",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -16386,6 +16402,22 @@
         "state": "online",
         "symbol": "vidyusdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "vpad",
+        "limit-order-min-order-amt": 0.01,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "vpadusdt",
+        "symbol-partition": "pioneer",
         "tags": "",
         "value-precision": 8
     },
