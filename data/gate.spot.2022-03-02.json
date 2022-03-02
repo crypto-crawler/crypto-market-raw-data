@@ -6513,14 +6513,14 @@
     {
         "amount_precision": 3,
         "base": "DG",
-        "buy_start": 0,
+        "buy_start": 1646280000,
         "fee": "0.2",
         "id": "DG_ETH",
         "min_quote_amount": "0.001",
-        "precision": 4,
+        "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -11677,14 +11677,14 @@
     {
         "amount_precision": 3,
         "base": "DG",
-        "buy_start": 0,
+        "buy_start": 1646280000,
         "fee": "0.2",
         "id": "DG_USDT",
         "min_quote_amount": "1",
-        "precision": 2,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -16298,6 +16298,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MQL",
+        "buy_start": 1646380800,
+        "fee": "0.2",
+        "id": "MQL_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
