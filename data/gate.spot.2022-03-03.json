@@ -1525,6 +1525,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CRO3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CRO3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FTT",
         "buy_start": 0,
         "fee": "0.2",
@@ -3740,6 +3752,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DOME",
+        "buy_start": 1646478000,
+        "fee": "0.2",
+        "id": "DOME_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -12944,6 +12968,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DELFI",
+        "buy_start": 1646380800,
+        "fee": "0.2",
+        "id": "DELFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "GOFX",
         "buy_start": 0,
         "fee": "0.2",
@@ -13886,6 +13922,18 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CRO3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CRO3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -23422,14 +23470,14 @@
     {
         "amount_precision": 4,
         "base": "LOOT",
-        "buy_start": 1646308800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "LOOT_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -29769,6 +29817,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "FAME",
+        "buy_start": 1646402400,
+        "fee": "0.2",
+        "id": "FAME_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
