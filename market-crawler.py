@@ -28,7 +28,7 @@ EXCHANGE_MARKET_TYPES: Dict[str, List[str]] = {
     "kraken": ["spot"],
     "kucoin": ["contract", "spot"],
     "mxc": ["spot", "swap"],
-    "okex": ["future", "option", "spot", "swap"],
+    "okx": ["SPOT", "MARGIN", "SWAP", "FUTURES", "OPTION"],
     "zbg": ["spot", "swap"],
 }
 

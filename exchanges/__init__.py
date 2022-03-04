@@ -17,7 +17,7 @@ from .huobi import fetch_markets as huobi_fetch_markets
 from .kraken import fetch_markets as kraken_fetch_markets
 from .kucoin import fetch_markets as kucoin_fetch_markets
 from .mxc import fetch_markets as mxc_fetch_markets
-from .okex import fetch_markets as okex_fetch_markets
+from .okx import fetch_markets as okx_fetch_markets
 from .zbg import fetch_markets as zbg_fetch_markets
 
 
@@ -57,8 +57,8 @@ def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List
         return kucoin_fetch_markets(market_type)
     elif exchange == 'mxc':
         return mxc_fetch_markets(market_type)
-    elif exchange == 'okex':
-        return okex_fetch_markets(market_type)
+    elif exchange == 'okx':
+        return okx_fetch_markets(market_type)
     elif exchange == 'zbg':
         return zbg_fetch_markets(market_type)
     else:
