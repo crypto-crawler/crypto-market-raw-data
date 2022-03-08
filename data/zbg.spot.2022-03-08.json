@@ -841,18 +841,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "btm",
-        "id": "5307",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "btm_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "true",
         "id": "5308",
         "max-order-amt": null,
@@ -1068,6 +1056,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ens",
+        "id": "5330",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ens_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "btc3l",
         "id": "5331",
@@ -1113,6 +1113,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "kilt_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "people",
+        "id": "5336",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "people_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1380,15 +1392,15 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "tvk",
-        "id": "5362",
+        "amount-precision": 3,
+        "base-currency": "ilv",
+        "id": "5361",
         "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "tvk_usdt",
+        "symbol": "ilv_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1497,18 +1509,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "looks_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "wtf",
-        "id": "5372",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "wtf_usdt",
         "symbol-partition": "innovation"
     },
     {
