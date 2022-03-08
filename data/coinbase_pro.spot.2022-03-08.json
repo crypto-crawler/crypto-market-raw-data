@@ -4471,7 +4471,7 @@
         "base_increment": "1",
         "base_max_size": "490000",
         "base_min_size": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "GNT/USDC",
         "fx_stablecoin": false,
         "id": "GNT-USDC",
@@ -4483,9 +4483,9 @@
         "post_only": false,
         "quote_currency": "USDC",
         "quote_increment": "0.000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
