@@ -3696,6 +3696,27 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "c0a0",
+        "buy-limit-must-less-than": 1.1,
+        "ca-state": "ca_1",
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "x8z9",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.001,
+        "state": "online",
+        "symbol": "c0a0x8z9",
+        "symbol-partition": "pioneer",
+        "tags": "hidden,hiddenup",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "c98",
         "buy-limit-must-less-than": 1.1,
         "leverage-ratio": 3,
@@ -4415,7 +4436,7 @@
         "state": "online",
         "symbol": "covabtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -13846,7 +13867,7 @@
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 1,
         "min-order-value": 5,
-        "price-precision": 4,
+        "price-precision": 5,
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
@@ -16965,7 +16986,7 @@
         "state": "online",
         "symbol": "rtebtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -18236,7 +18257,7 @@
         "state": "online",
         "symbol": "sspbtc",
         "symbol-partition": "innovation",
-        "tags": "st,hadax,abnormalmarket",
+        "tags": "st,hadax",
         "value-precision": 8
     },
     {
