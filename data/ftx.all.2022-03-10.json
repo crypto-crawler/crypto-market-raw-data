@@ -4494,6 +4494,21 @@
         "underlying": null
     },
     {
+        "baseCurrency": "INDI",
+        "enabled": true,
+        "highLeverageFeeExempt": true,
+        "largeOrderThreshold": 500.0,
+        "minProvideSize": 1.0,
+        "name": "INDI/USD",
+        "postOnly": false,
+        "priceIncrement": 0.0001,
+        "quoteCurrency": "USD",
+        "restricted": false,
+        "sizeIncrement": 1.0,
+        "type": "spot",
+        "underlying": null
+    },
+    {
         "baseCurrency": "INTER",
         "enabled": true,
         "highLeverageFeeExempt": true,
@@ -7464,7 +7479,7 @@
         "largeOrderThreshold": 500.0,
         "minProvideSize": 0.0001,
         "name": "STETH/USD",
-        "postOnly": true,
+        "postOnly": false,
         "priceIncrement": 0.5,
         "quoteCurrency": "USD",
         "restricted": false,

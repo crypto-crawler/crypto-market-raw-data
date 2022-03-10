@@ -9803,6 +9803,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "indi",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "indiusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "inj",
@@ -10425,6 +10445,26 @@
         "symbol": "jstusdt",
         "symbol-partition": "innovation",
         "tags": "activities",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "kai",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "kaiusdt",
+        "symbol-partition": "pioneer",
+        "tags": "",
         "value-precision": 8
     },
     {
