@@ -6390,17 +6390,17 @@
         "state": "online",
         "symbol": "ektbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "ekt",
-        "buy-limit-must-less-than": 1.03,
+        "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.1,
-        "market-buy-order-rate-must-less-than": 0.03,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 0.1,
         "min-order-value": 0.001,
         "price-precision": 10,
@@ -6410,7 +6410,7 @@
         "state": "online",
         "symbol": "ekteth",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -10624,7 +10624,7 @@
         "state": "online",
         "symbol": "kcashbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -10684,7 +10684,7 @@
         "state": "online",
         "symbol": "kcashusdt",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
