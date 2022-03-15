@@ -2548,6 +2548,32 @@
         "taker_fee": "0.00075"
     },
     {
+        "alias": "PAXGUSDT",
+        "base_currency": "PAXG",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20,
+            "min_trading_qty": 0.001,
+            "qty_step": 0.001
+        },
+        "maker_fee": "-0.00025",
+        "name": "PAXGUSDT",
+        "price_filter": {
+            "max_price": "1999998",
+            "min_price": "1",
+            "tick_size": "1"
+        },
+        "price_scale": 0,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.00075"
+    },
+    {
         "alias": "PEOPLEUSDT",
         "base_currency": "PEOPLE",
         "funding_interval": 480,
