@@ -13172,6 +13172,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SB",
+        "buy_start": 1647352800,
+        "fee": "0.2",
+        "id": "SB_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "MIMIR",
         "buy_start": 0,
         "fee": "0.2",
@@ -13649,6 +13661,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SB",
+        "buy_start": 1647352800,
+        "fee": "0.2",
+        "id": "SB_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -20432,6 +20456,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "ZINU",
+        "buy_start": 1647511200,
+        "fee": "0.2",
+        "id": "ZINU_USDT",
+        "min_quote_amount": "1",
+        "precision": 12,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
