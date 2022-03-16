@@ -768,18 +768,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 3,
-        "base-currency": "ltc",
-        "id": "5299",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "ltc_qc",
-        "symbol-partition": "main"
-    },
-    {
         "amount-precision": 0,
         "base-currency": "doge",
         "id": "5300",
@@ -1080,6 +1068,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ens",
+        "id": "5330",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ens_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "btc3l",
         "id": "5331",
@@ -1113,18 +1113,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "btc3s_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "kilt",
-        "id": "5335",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 3,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "kilt_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1513,18 +1501,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "suku",
-        "id": "5370",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "suku_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "looks",
         "id": "5371",
         "max-order-amt": null,
@@ -1533,6 +1509,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "looks_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "wtf",
+        "id": "5372",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "wtf_usdt",
         "symbol-partition": "innovation"
     },
     {
