@@ -6484,7 +6484,19 @@
         "precision": 2,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "AZERO",
+        "buy_start": 1647604800,
+        "fee": "0.2",
+        "id": "AZERO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -14490,6 +14502,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "UBXS",
+        "buy_start": 1647684000,
+        "fee": "0.2",
+        "id": "UBXS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "TOKE",
         "buy_start": 0,
         "fee": "0.2",
@@ -21669,6 +21693,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "APE",
+        "buy_start": 1647520200,
+        "fee": "0.2",
+        "id": "APE_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "KIF",
         "buy_start": 0,
@@ -21678,7 +21714,7 @@
         "precision": 5,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
