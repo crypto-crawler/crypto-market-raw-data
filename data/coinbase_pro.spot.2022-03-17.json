@@ -752,7 +752,7 @@
         "base_currency": "APE",
         "base_increment": "0.01",
         "base_max_size": "63000",
-        "base_min_size": "0.1",
+        "base_min_size": "0.05",
         "cancel_only": true,
         "display_name": "APE/EUR",
         "fx_stablecoin": false,
@@ -770,12 +770,12 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "APE",
         "base_increment": "0.01",
         "base_max_size": "63000",
-        "base_min_size": "0.1",
-        "cancel_only": true,
+        "base_min_size": "0.05",
+        "cancel_only": false,
         "display_name": "APE/USD",
         "fx_stablecoin": false,
         "id": "APE-USD",
@@ -788,7 +788,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.001",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -796,7 +796,7 @@
         "base_currency": "APE",
         "base_increment": "0.01",
         "base_max_size": "63000",
-        "base_min_size": "0.1",
+        "base_min_size": "0.05",
         "cancel_only": true,
         "display_name": "APE/USDT",
         "fx_stablecoin": false,
