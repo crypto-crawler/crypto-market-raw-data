@@ -6489,14 +6489,14 @@
     {
         "amount_precision": 4,
         "base": "AZERO",
-        "buy_start": 1647604800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "AZERO_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -29073,6 +29073,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ORB",
+        "buy_start": 1647860400,
+        "fee": "0.2",
+        "id": "ORB_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
