@@ -1716,6 +1716,32 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "GMTUSDT",
+        "base_currency": "GMT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 35000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "GMTUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "GRTUSDT",
         "base_currency": "GRT",
         "funding_interval": 480,
@@ -2511,6 +2537,32 @@
         },
         "maker_fee": "0.0001",
         "name": "OCEANUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "OGNUSDT",
+        "base_currency": "OGN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 1,
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "OGNUSDT",
         "price_filter": {
             "max_price": "199.9998",
             "min_price": "0.0001",
