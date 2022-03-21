@@ -3823,7 +3823,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -6964,6 +6964,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 5,
+        "base": "CITY",
+        "buy_start": 1647952200,
+        "fee": "0.2",
+        "id": "CITY_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -18723,6 +18735,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 3,
+        "base": "REAP",
+        "buy_start": 1648022400,
+        "fee": "0.2",
+        "id": "REAP_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "STETH",
         "buy_start": 0,
@@ -26338,7 +26362,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -29113,14 +29137,14 @@
     {
         "amount_precision": 2,
         "base": "ORB",
-        "buy_start": 1647860400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ORB_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
