@@ -2311,7 +2311,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -7004,14 +7004,14 @@
     {
         "amount_precision": 5,
         "base": "CITY",
-        "buy_start": 1647952200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CITY_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
