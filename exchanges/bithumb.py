@@ -7,22 +7,22 @@ logging.basicConfig(level=logging.INFO)
 
 
 def fetch_markets(market_type: str) -> List[Dict[str, Any]]:
-    '''Fetch all trading markets from a crypto exchage.'''
-    if market_type == 'spot':
+    """Fetch all trading markets from a crypto exchage."""
+    if market_type == "spot":
         return _fetch_spot_markets()
     else:
-        raise ValueError(f'Unknown market type: {market_type}')
+        raise ValueError(f"Unknown market type: {market_type}")
 
 
 def _fetch_spot_markets() -> Dict[str, Any]:
-    url = 'https://global-openapi.bithumb.pro/openapi/v1/spot/config'
+    url = "https://global-openapi.bithumb.pro/openapi/v1/spot/config"
     resp: Dict[str, Any] = get_json(url)
-    if resp['code'] != "0":
+    if resp["code"] != "0":
         logging.error(f"code : {resp['code']}, msg: {resp['msg']}")
         return {}
-    data = resp['data']
-    for x in data['coinConfig']:
-        del x['withdrawFee']
-        del x['depositStatus']
-        del x['withdrawStatus']
+    data = resp["data"]
+    for x in data["coinConfig"]:
+        del x["withdrawFee"]
+        del x["depositStatus"]
+        del x["withdrawStatus"]
     return data

@@ -22,44 +22,44 @@ from .zbg import fetch_markets as zbg_fetch_markets
 
 
 def fetch_markets(exchange: str, market_type: str) -> Union[Dict[str, Any], List[Any]]:
-    '''Fetch all trading markets from a crypto exchage.'''
-    if exchange == 'binance':
+    """Fetch all trading markets from a crypto exchage."""
+    if exchange == "binance":
         return binance_fetch_markets(market_type)
-    elif exchange == 'bitfinex':
+    elif exchange == "bitfinex":
         return bitfinex_fetch_markets(market_type)
-    elif exchange == 'bitget':
+    elif exchange == "bitget":
         return bitget_fetch_markets(market_type)
-    elif exchange == 'bithumb':
+    elif exchange == "bithumb":
         return bithumb_fetch_markets(market_type)
-    elif exchange == 'bitmex':
+    elif exchange == "bitmex":
         return bitmex_fetch_markets(market_type)
-    elif exchange == 'bitstamp':
+    elif exchange == "bitstamp":
         return bitstamp_fetch_markets(market_type)
-    elif exchange == 'bitz':
+    elif exchange == "bitz":
         return bitz_fetch_markets(market_type)
-    elif exchange == 'bybit':
+    elif exchange == "bybit":
         return bybit_fetch_markets(market_type)
-    elif exchange == 'coinbase_pro':
+    elif exchange == "coinbase_pro":
         return coinbase_pro_fetch_markets(market_type)
-    elif exchange == 'deribit':
+    elif exchange == "deribit":
         return deribit_fetch_markets(market_type)
-    elif exchange == 'dydx':
+    elif exchange == "dydx":
         return dydx_fetch_markets(market_type)
-    elif exchange == 'ftx':
+    elif exchange == "ftx":
         return ftx_fetch_markets(market_type)
-    elif exchange == 'gate':
+    elif exchange == "gate":
         return gate_fetch_markets(market_type)
-    elif exchange == 'huobi':
+    elif exchange == "huobi":
         return huobi_fetch_markets(market_type)
-    elif exchange == 'kraken':
+    elif exchange == "kraken":
         return kraken_fetch_markets(market_type)
-    elif exchange == 'kucoin':
+    elif exchange == "kucoin":
         return kucoin_fetch_markets(market_type)
-    elif exchange == 'mxc':
+    elif exchange == "mxc":
         return mxc_fetch_markets(market_type)
-    elif exchange == 'okx':
+    elif exchange == "okx":
         return okx_fetch_markets(market_type)
-    elif exchange == 'zbg':
+    elif exchange == "zbg":
         return zbg_fetch_markets(market_type)
     else:
         raise ValueError(f"Unknown exchange {exchange}")
