@@ -267,14 +267,14 @@
     {
         "amount_precision": 2,
         "base": "FALCONS",
-        "buy_start": 1648036800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "FALCONS_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -8752,6 +8752,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "DAGX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DAGX_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 9,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 3,
         "base": "GCOIN",
         "buy_start": 0,
@@ -10982,14 +10994,14 @@
     {
         "amount_precision": 3,
         "base": "MV",
-        "buy_start": 1648033200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MV_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -11613,7 +11625,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20780,6 +20792,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DAGX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DAGX_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -30261,6 +30285,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DAGX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "DAGX_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
