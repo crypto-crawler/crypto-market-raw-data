@@ -734,6 +734,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "MAPE",
+        "buy_start": 1648639800,
+        "fee": "0.2",
+        "id": "MAPE_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EGLD",
         "buy_start": 0,
         "fee": "0.2",
@@ -1957,14 +1969,14 @@
     {
         "amount_precision": 3,
         "base": "BORA",
-        "buy_start": 1648105200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BORA_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -5840,6 +5852,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "RATIO",
+        "buy_start": 1648209600,
+        "fee": "0.2",
+        "id": "RATIO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "UMB",
         "buy_start": 0,
@@ -6680,6 +6704,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DAG",
+        "buy_start": 1648116000,
+        "fee": "0.2",
+        "id": "DAG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DOT5L",
         "buy_start": 0,
         "fee": "0.2",
@@ -7156,6 +7192,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DAG",
+        "buy_start": 1648116000,
+        "fee": "0.2",
+        "id": "DAG_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 9,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -8454,14 +8502,14 @@
     {
         "amount_precision": 2,
         "base": "BABI",
-        "buy_start": 1648108800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BABI_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -8750,18 +8798,6 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "DAGX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "DAGX_BTC",
-        "min_quote_amount": "0.0001",
-        "precision": 9,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -10788,6 +10824,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "ANML",
+        "buy_start": 1648562400,
+        "fee": "0.2",
+        "id": "ANML_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "GALA",
         "buy_start": 0,
@@ -10894,6 +10942,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "CTX",
+        "buy_start": 1648110600,
+        "fee": "0.2",
+        "id": "CTX_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -20807,18 +20867,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "DAGX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "DAGX_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "PBTC35A",
         "buy_start": 0,
         "fee": "0.2",
@@ -21473,6 +21521,18 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BORA",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BORA_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -22632,7 +22692,7 @@
     {
         "amount_precision": 2,
         "base": "CELT",
-        "buy_start": 1648116000,
+        "buy_start": 1648117800,
         "fee": "0.2",
         "id": "CELT_USDT",
         "min_quote_amount": "1",
@@ -29148,6 +29208,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DAG",
+        "buy_start": 1648116000,
+        "fee": "0.2",
+        "id": "DAG_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "10SET",
         "buy_start": 0,
         "fee": "0.2",
@@ -30297,18 +30369,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "DAGX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "DAGX_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
