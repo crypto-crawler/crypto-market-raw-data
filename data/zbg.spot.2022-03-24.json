@@ -456,6 +456,18 @@
         "symbol-partition": "main"
     },
     {
+        "amount-precision": 4,
+        "base-currency": "uni",
+        "id": "5248",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "uni_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "nbs",
         "id": "5249",
@@ -1333,18 +1345,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "luna3s",
-        "id": "5353",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 6,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "luna3s_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "imx",
         "id": "5354",
         "max-order-amt": null,
@@ -1428,18 +1428,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "tvk",
-        "id": "5362",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "tvk_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 3,
         "base-currency": "alcx",
         "id": "5363",
@@ -1449,6 +1437,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "alcx_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "paf",
+        "id": "5364",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "paf_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1521,6 +1521,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "suku_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "looks",
+        "id": "5371",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "looks_usdt",
         "symbol-partition": "innovation"
     },
     {
