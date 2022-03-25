@@ -4526,6 +4526,21 @@
         "underlying": null
     },
     {
+        "baseCurrency": null,
+        "enabled": true,
+        "highLeverageFeeExempt": false,
+        "largeOrderThreshold": 500.0,
+        "minProvideSize": 1.0,
+        "name": "GLMR-PERP",
+        "postOnly": false,
+        "priceIncrement": 0.00025,
+        "quoteCurrency": null,
+        "restricted": false,
+        "sizeIncrement": 1.0,
+        "type": "future",
+        "underlying": "GLMR"
+    },
+    {
         "baseCurrency": "GLXY",
         "enabled": true,
         "highLeverageFeeExempt": true,
@@ -6062,6 +6077,21 @@
         "sizeIncrement": 10.0,
         "type": "spot",
         "underlying": null
+    },
+    {
+        "baseCurrency": null,
+        "enabled": true,
+        "highLeverageFeeExempt": false,
+        "largeOrderThreshold": 500.0,
+        "minProvideSize": 0.1,
+        "name": "MOB-PERP",
+        "postOnly": false,
+        "priceIncrement": 0.0005,
+        "quoteCurrency": null,
+        "restricted": false,
+        "sizeIncrement": 0.1,
+        "type": "future",
+        "underlying": "MOB"
     },
     {
         "baseCurrency": "MOB",
@@ -8256,6 +8286,21 @@
         "quoteCurrency": "USD",
         "restricted": false,
         "sizeIncrement": 0.0001,
+        "type": "spot",
+        "underlying": null
+    },
+    {
+        "baseCurrency": "STG",
+        "enabled": true,
+        "highLeverageFeeExempt": true,
+        "largeOrderThreshold": 500.0,
+        "minProvideSize": 1.0,
+        "name": "STG/USD",
+        "postOnly": false,
+        "priceIncrement": 0.00025,
+        "quoteCurrency": "USD",
+        "restricted": false,
+        "sizeIncrement": 1.0,
         "type": "spot",
         "underlying": null
     },
