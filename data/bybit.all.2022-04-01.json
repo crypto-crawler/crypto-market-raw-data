@@ -494,6 +494,32 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "BAKEUSDT",
+        "base_currency": "BAKE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BAKEUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "BANDUSDT",
         "base_currency": "BAND",
         "funding_interval": 480,

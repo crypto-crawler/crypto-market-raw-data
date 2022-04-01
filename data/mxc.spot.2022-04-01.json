@@ -8218,7 +8218,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DEB_USDT",
-        "symbolStatus": 2,
+        "symbolStatus": 1,
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.002",
         "timeZone": "Asia/Singapore",
@@ -15689,7 +15689,7 @@
     {
         "countDownMark": 1,
         "etf_mark": 0,
-        "fullName": "ITAM CUBE",
+        "fullName": "CUBE",
         "limited": false,
         "maker_fee_rate": "0.002",
         "max_amount": "5000000",
@@ -24568,6 +24568,25 @@
         "taker_fee_rate": "0.002",
         "timeZone": "Asia/Singapore",
         "vcoinName": "RICE",
+        "vcoinStatus": 1
+    },
+    {
+        "countDownMark": 1,
+        "etf_mark": 0,
+        "fullName": "holoride",
+        "limited": false,
+        "maker_fee_rate": "0.002",
+        "max_amount": "5000000",
+        "min_amount": "5",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "RIDE_USDT",
+        "symbolStatus": 2,
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.002",
+        "timeZone": "Asia/Singapore",
+        "vcoinName": "RIDE",
         "vcoinStatus": 1
     },
     {
