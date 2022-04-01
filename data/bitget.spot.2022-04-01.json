@@ -1116,15 +1116,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "CTX",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "CTX_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "4",
         "base_currency": "BPRIVA",
         "quote_currency": "USDT",
@@ -1834,6 +1825,33 @@
         "status": "online",
         "symbol": "BNX_USDT",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "OSMO",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "OSMO_USDT",
+        "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "JUNO",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "JUNO_USDT",
+        "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "ZIL",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "ZIL_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",
