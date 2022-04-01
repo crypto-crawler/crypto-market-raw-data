@@ -3550,6 +3550,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "STG",
+        "buy_start": 1648872000,
+        "fee": "0.2",
+        "id": "STG_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "LIME",
         "buy_start": 0,
@@ -12021,6 +12033,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "STG",
+        "buy_start": 1648872000,
+        "fee": "0.2",
+        "id": "STG_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

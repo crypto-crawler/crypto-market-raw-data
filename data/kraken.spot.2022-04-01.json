@@ -2020,6 +2020,194 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "ALCXEUR",
+        "base": "ALCX",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.05",
+        "pair_decimals": 2,
+        "quote": "ZEUR",
+        "wsname": "ALCX/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "ALCXUSD",
+        "base": "ALCX",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.05",
+        "pair_decimals": 2,
+        "quote": "ZUSD",
+        "wsname": "ALCX/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "ALGOETH",
         "base": "ALGO",
         "fee_volume_currency": "ZUSD",
@@ -8048,6 +8236,194 @@
         "pair_decimals": 7,
         "quote": "XXBT",
         "wsname": "BNT/XBT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "BONDEUR",
+        "base": "BOND",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.5",
+        "pair_decimals": 3,
+        "quote": "ZEUR",
+        "wsname": "BOND/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "BONDUSD",
+        "base": "BOND",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.5",
+        "pair_decimals": 3,
+        "quote": "ZUSD",
+        "wsname": "BOND/USD"
     },
     {
         "aclass_base": "currency",
@@ -18522,6 +18898,194 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "JASMYEUR",
+        "base": "JASMY",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "100",
+        "pair_decimals": 5,
+        "quote": "ZEUR",
+        "wsname": "JASMY/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "JASMYUSD",
+        "base": "JASMY",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "100",
+        "pair_decimals": 5,
+        "quote": "ZUSD",
+        "wsname": "JASMY/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "KAREUR",
         "base": "KAR",
         "fee_volume_currency": "ZUSD",
@@ -24370,6 +24934,194 @@
         "pair_decimals": 8,
         "quote": "XXBT",
         "wsname": "MANA/XBT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "MASKEUR",
+        "base": "MASK",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZEUR",
+        "wsname": "MASK/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "MASKUSD",
+        "base": "MASK",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZUSD",
+        "wsname": "MASK/USD"
     },
     {
         "aclass_base": "currency",
@@ -33166,6 +33918,194 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "RNDREUR",
+        "base": "RNDR",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "3",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "wsname": "RNDR/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "RNDRUSD",
+        "base": "RNDR",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "3",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "wsname": "RNDR/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "SANDEUR",
         "base": "SAND",
         "fee_volume_currency": "ZUSD",
@@ -33932,6 +34872,194 @@
         "pair_decimals": 5,
         "quote": "ZEUR",
         "wsname": "SC/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "SCRTEUR",
+        "base": "SCRT",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZEUR",
+        "wsname": "SCRT/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "SCRTUSD",
+        "base": "SCRT",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZUSD",
+        "wsname": "SCRT/USD"
     },
     {
         "aclass_base": "currency",
@@ -35654,6 +36782,194 @@
         "pair_decimals": 7,
         "quote": "XXBT",
         "wsname": "SOL/XBT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "SPELLEUR",
+        "base": "SPELL",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1000",
+        "pair_decimals": 6,
+        "quote": "ZEUR",
+        "wsname": "SPELL/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "SPELLUSD",
+        "base": "SPELL",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1000",
+        "pair_decimals": 6,
+        "quote": "ZUSD",
+        "wsname": "SPELL/USD"
     },
     {
         "aclass_base": "currency",
@@ -37514,6 +38830,194 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "TRIBEEUR",
+        "base": "TRIBE",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "wsname": "TRIBE/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "TRIBEUSD",
+        "base": "TRIBE",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "wsname": "TRIBE/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "TRXETH",
         "base": "TRX",
         "fee_volume_currency": "ZUSD",
@@ -37910,6 +39414,194 @@
         "pair_decimals": 10,
         "quote": "XXBT",
         "wsname": "TRX/XBT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "UMAEUR",
+        "base": "UMA",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZEUR",
+        "wsname": "UMA/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "UMAUSD",
+        "base": "UMA",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.26
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.16
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1",
+        "pair_decimals": 3,
+        "quote": "ZUSD",
+        "wsname": "UMA/USD"
     },
     {
         "aclass_base": "currency",
