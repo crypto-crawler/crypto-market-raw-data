@@ -433,14 +433,26 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "nbs",
-        "id": "5249",
+        "base-currency": "dot",
+        "id": "5241",
         "max-order-amt": null,
         "min-order-amt": "0.01",
-        "price-precision": 6,
+        "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "nbs_usdt",
+        "symbol": "dot_usdt",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "uni",
+        "id": "5248",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "uni_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -841,18 +853,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "true",
-        "id": "5308",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "true_qc",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "kerri",
         "id": "5310",
         "max-order-amt": null,
@@ -1176,18 +1176,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "shib",
-        "id": "5342",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 9,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "shib_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "sdn",
         "id": "5343",
@@ -1465,6 +1453,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "dar",
+        "id": "5368",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "dar_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "vgx",
         "id": "5369",
         "max-order-amt": null,
@@ -1473,6 +1473,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "vgx_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "suku",
+        "id": "5370",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "suku_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1497,30 +1509,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "justice_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "sos",
-        "id": "5374",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 9,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "sos_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "nct",
-        "id": "5375",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 5,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "nct_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1641,18 +1629,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "crf_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "dia",
-        "id": "5386",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 3,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "dia_usdt",
         "symbol-partition": "innovation"
     },
     {
