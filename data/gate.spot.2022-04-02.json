@@ -6669,14 +6669,14 @@
     {
         "amount_precision": 0,
         "base": "MILO",
-        "buy_start": 1648879200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MILO_USDT",
         "min_quote_amount": "1",
         "precision": 12,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -14215,6 +14215,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CAKE3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CAKE3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "TCT",
         "buy_start": 0,
         "fee": "0.2",
@@ -20473,6 +20485,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "ASTR3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ASTR3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EOS5L",
         "buy_start": 0,
         "fee": "0.2",
@@ -20708,6 +20732,18 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BSW3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BSW3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -21113,6 +21149,18 @@
         "id": "PBX_USDT",
         "min_quote_amount": "1",
         "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ASTR3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ASTR3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -22061,6 +22109,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "BSW3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BSW3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -31328,6 +31388,18 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CAKE3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CAKE3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
