@@ -493,6 +493,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "near",
+        "id": "5259",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "near_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "xt",
         "id": "5261",
         "max-order-amt": null,
@@ -768,6 +780,18 @@
         "symbol-partition": "main"
     },
     {
+        "amount-precision": 0,
+        "base-currency": "doge",
+        "id": "5300",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "doge_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 3,
         "base-currency": "dash",
         "id": "5301",
@@ -777,18 +801,6 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "dash_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 0,
-        "base-currency": "xrp",
-        "id": "5302",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xrp_qc",
         "symbol-partition": "main"
     },
     {
@@ -814,18 +826,6 @@
         "state": "online",
         "symbol": "xlm_qc",
         "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 1,
-        "base-currency": "xem",
-        "id": "5306",
-        "max-order-amt": null,
-        "min-order-amt": "0.1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xem_qc",
-        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 2,
@@ -1380,6 +1380,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ilv",
+        "id": "5361",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ilv_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "tvk",
         "id": "5362",
@@ -1389,18 +1401,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "tvk_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "alcx",
-        "id": "5363",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "alcx_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1453,18 +1453,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "dar",
-        "id": "5368",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "dar_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "vgx",
         "id": "5369",
         "max-order-amt": null,
@@ -1513,18 +1501,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "sos",
-        "id": "5374",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 9,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "sos_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "nct",
         "id": "5375",
         "max-order-amt": null,
@@ -1557,6 +1533,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "lqty_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "inv",
+        "id": "5378",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "inv_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1608,18 +1596,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 3,
-        "base-currency": "glmr",
-        "id": "5383",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "glmr_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "avax",
         "id": "5384",
@@ -1629,18 +1605,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "avax_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "crf",
-        "id": "5385",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 6,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "crf_usdt",
         "symbol-partition": "innovation"
     },
     {
