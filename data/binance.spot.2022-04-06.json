@@ -50027,7 +50027,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -50038,7 +50038,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "USDT",
         "quoteAssetPrecision": 8,
@@ -132170,7 +132171,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -132181,7 +132182,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "BUSD",
         "quoteAssetPrecision": 8,
@@ -132237,7 +132239,7 @@
             }
         ],
         "icebergAllowed": true,
-        "isMarginTradingAllowed": false,
+        "isMarginTradingAllowed": true,
         "isSpotTradingAllowed": true,
         "ocoAllowed": true,
         "orderTypes": [
@@ -132248,7 +132250,8 @@
             "TAKE_PROFIT_LIMIT"
         ],
         "permissions": [
-            "SPOT"
+            "SPOT",
+            "MARGIN"
         ],
         "quoteAsset": "USDT",
         "quoteAssetPrecision": 8,
