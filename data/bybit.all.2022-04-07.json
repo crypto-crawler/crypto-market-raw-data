@@ -754,6 +754,32 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "BOBAUSDT",
+        "base_currency": "BOBA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 7000,
+            "min_trading_qty": 0.1,
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BOBAUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "BSVUSDT",
         "base_currency": "BSV",
         "funding_interval": 480,

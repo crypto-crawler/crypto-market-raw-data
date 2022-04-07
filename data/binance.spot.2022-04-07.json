@@ -3249,13 +3249,6 @@
                 "limit": 10
             },
             {
-                "filterType": "TRAILING_DELTA",
-                "maxTrailingAboveDelta": 3000,
-                "maxTrailingBelowDelta": 3000,
-                "minTrailingAboveDelta": 10,
-                "minTrailingBelowDelta": 10
-            },
-            {
                 "filterType": "MAX_NUM_ORDERS",
                 "maxNumOrders": 200
             },
