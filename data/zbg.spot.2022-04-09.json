@@ -254,18 +254,6 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
-        "id": "5008",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "qtum_qc",
-        "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 4,
-        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -429,6 +417,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "ksm_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "dot",
+        "id": "5235",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "dot_qc",
         "symbol-partition": "innovation"
     },
     {
@@ -849,6 +849,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "xem_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "btm",
+        "id": "5307",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "btm_qc",
         "symbol-partition": "innovation"
     },
     {
@@ -1369,6 +1381,18 @@
     },
     {
         "amount-precision": 2,
+        "base-currency": "xym",
+        "id": "5359",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xym_qc",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
         "base-currency": "cart",
         "id": "5360",
         "max-order-amt": null,
@@ -1377,18 +1401,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "cart_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "ilv",
-        "id": "5361",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "ilv_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1413,18 +1425,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "alcx_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "paf",
-        "id": "5364",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 6,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "paf_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1548,6 +1548,30 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 2,
+        "base-currency": "rss3",
+        "id": "5376",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "rss3_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "lqty",
+        "id": "5377",
+        "max-order-amt": null,
+        "min-order-amt": "0.0001",
+        "price-precision": 3,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "lqty_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
         "amount-precision": 3,
         "base-currency": "inv",
         "id": "5378",
@@ -1617,18 +1641,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "glmr_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "avax",
-        "id": "5384",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 2,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "avax_usdt",
         "symbol-partition": "innovation"
     },
     {
