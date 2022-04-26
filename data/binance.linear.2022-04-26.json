@@ -6736,13 +6736,54 @@
         "baseAssetPrecision": 8,
         "contractType": "PERPETUAL",
         "deliveryDate": 4133404800000,
-        "filters": [],
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.0001"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1",
+                "stepSize": "1"
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "1",
+                "stepSize": "1"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "limit": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "limit": 10
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "notional": "5"
+            },
+            {
+                "filterType": "PERCENT_PRICE",
+                "multiplierDecimal": "4",
+                "multiplierDown": "0.9000",
+                "multiplierUp": "1.1000"
+            }
+        ],
         "liquidationFee": "0.005000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
         "marketTakeBound": "0.10",
         "onboardDate": 1614668400000,
-        "orderTypes": [],
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
         "pair": "XEMUSDT",
         "pricePrecision": 4,
         "quantityPrecision": 0,
