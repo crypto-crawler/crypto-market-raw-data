@@ -4810,6 +4810,30 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "GST",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GST_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "KIBA",
+        "buy_start": 1651222800,
+        "fee": "0.2",
+        "id": "KIBA_USDT",
+        "min_quote_amount": "1",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "SNTR",
         "buy_start": 0,
@@ -6628,7 +6652,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -7876,6 +7900,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "REALM",
+        "buy_start": 1651233600,
+        "fee": "0.2",
+        "id": "REALM_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -13459,6 +13495,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "TAKI",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "TAKI_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "DELFI",
         "buy_start": 0,
@@ -14092,7 +14140,7 @@
         "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -22411,6 +22459,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "VTG",
+        "buy_start": 1651215600,
+        "fee": "0.2",
+        "id": "VTG_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
