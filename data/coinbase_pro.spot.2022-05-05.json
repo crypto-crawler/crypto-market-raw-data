@@ -4378,7 +4378,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "GAL",
         "base_increment": "0.001",
         "base_max_size": "170000",
@@ -4387,7 +4387,7 @@
         "display_name": "GAL/USDT",
         "fx_stablecoin": false,
         "id": "GAL-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
