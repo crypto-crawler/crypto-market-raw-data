@@ -2083,11 +2083,12 @@
             "takerFeeRate": "0.001"
         },
         {
-            "fullName": "Stream",
-            "makerFeeRate": 0,
+            "fullName": "Streamcoin (BEP20)",
+            "makerFeeRate": "0.001",
+            "minTxAmt": "3",
             "minWithdraw": "8",
             "name": "STRM",
-            "takerFeeRate": 0
+            "takerFeeRate": "0.001"
         },
         {
             "fullName": "Sushi",
@@ -2973,6 +2974,97 @@
         },
         {
             "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "4.596",
+            "openTime": 1585827194414,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "QNT-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "3",
+            "openTime": 1606899600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "CRU-USDT"
+        },
+        {
+            "accuracy": [
+                "2",
+                "4"
+            ],
+            "openPrice": "31.17",
+            "openTime": 1585827290726,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ZEC-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "1.3",
+            "openTime": 1607673600000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "PURE-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "0.374",
+            "openTime": 1585827530122,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "SXP-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "3.5",
+            "openTime": 1609232400000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "DYP-USDT"
+        },
+        {
+            "accuracy": [
+                "7",
+                "1"
+            ],
+            "openPrice": "0.0008",
+            "openTime": 1585827833018,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "CNB-USDT"
+        },
+        {
+            "accuracy": [
                 "4",
                 "2"
             ],
@@ -3441,94 +3533,94 @@
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "5",
+                "1"
             ],
-            "openPrice": "4.596",
+            "openPrice": "0.05405",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "QNT-USDT"
+            "symbol": "BOA-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "3"
+            ],
+            "openPrice": "0.0491",
+            "openTime": 1585827194414,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "CRO-USDT"
         },
         {
             "accuracy": [
                 "3",
                 "3"
             ],
-            "openPrice": "3",
-            "openTime": 1606899600000,
+            "openPrice": "1.2",
+            "openTime": 1607493600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "CRU-USDT"
+            "symbol": "WOZX-USDT"
         },
         {
             "accuracy": [
-                "2",
-                "4"
+                "5",
+                "2"
             ],
-            "openPrice": "31.17",
-            "openTime": 1585827290726,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "ZEC-USDT"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "1.3",
-            "openTime": 1607673600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "PURE-USDT"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "0.374",
+            "openPrice": "0.01204",
             "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "SXP-USDT"
+            "symbol": "LAMB-USDT"
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "7",
+                "0"
             ],
-            "openPrice": "3.5",
-            "openTime": 1609232400000,
+            "openPrice": "0.0003",
+            "openTime": 1608627600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "DYP-USDT"
+            "symbol": "GL-USDT"
         },
         {
             "accuracy": [
                 "7",
                 "1"
             ],
-            "openPrice": "0.0008",
+            "openPrice": "0.0001649",
             "openTime": 1585827833018,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "CNB-USDT"
+            "symbol": "OPNN-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.7",
+            "openTime": 1610411456000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "AKT-USDT"
         },
         {
             "accuracy": [
@@ -4013,94 +4105,94 @@
         },
         {
             "accuracy": [
-                "5",
-                "1"
+                "3",
+                "3"
             ],
-            "openPrice": "0.05405",
-            "openTime": 1585827194414,
+            "openPrice": "3.5",
+            "openTime": 1605841800000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BOA-USDT"
+            "symbol": "XVS-USDT"
         },
         {
             "accuracy": [
                 "4",
-                "3"
+                "2"
             ],
-            "openPrice": "0.0491",
+            "openPrice": "0.0901",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "CRO-USDT"
+            "symbol": "ABBC-USDT"
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "7",
+                "4"
             ],
-            "openPrice": "1.2",
-            "openTime": 1607493600000,
+            "openPrice": "0.00078",
+            "openTime": 1607072400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "WOZX-USDT"
+            "symbol": "ORAI-BTC"
         },
         {
             "accuracy": [
                 "5",
-                "2"
+                "1"
             ],
-            "openPrice": "0.01204",
+            "openPrice": "0.00397",
             "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "LAMB-USDT"
-        },
-        {
-            "accuracy": [
-                "7",
-                "0"
-            ],
-            "openPrice": "0.0003",
-            "openTime": 1608627600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "GL-USDT"
-        },
-        {
-            "accuracy": [
-                "7",
-                "1"
-            ],
-            "openPrice": "0.0001649",
-            "openTime": 1585827833018,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "OPNN-USDT"
+            "symbol": "FLETA-USDT"
         },
         {
             "accuracy": [
                 "4",
                 "2"
             ],
-            "openPrice": "0.7",
-            "openTime": 1610411456000,
+            "openPrice": "0.23",
+            "openTime": 1608285600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "AKT-USDT"
+            "symbol": "WEST-USDT"
+        },
+        {
+            "accuracy": [
+                "7",
+                "1"
+            ],
+            "openPrice": "0.0019808",
+            "openTime": 1585827833018,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "KAN-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.05",
+            "openTime": 1610010000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "REVV-USDT"
         },
         {
             "accuracy": [
@@ -4494,6 +4586,19 @@
         },
         {
             "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "1.2",
+            "openTime": 1651813200000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "STRM-USDT"
+        },
+        {
+            "accuracy": [
                 "4",
                 "2"
             ],
@@ -4585,94 +4690,94 @@
         },
         {
             "accuracy": [
-                "3",
-                "3"
+                "6",
+                "0"
             ],
-            "openPrice": "3.5",
-            "openTime": 1605841800000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "XVS-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
-                "2"
-            ],
-            "openPrice": "0.0901",
+            "openPrice": "0.003356",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ABBC-USDT"
+            "symbol": "MXC-USDT"
         },
         {
             "accuracy": [
-                "7",
-                "4"
+                "6",
+                "0"
             ],
-            "openPrice": "0.00078",
-            "openTime": 1607072400000,
+            "openPrice": "0.1",
+            "openTime": 1606791600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ORAI-BTC"
+            "symbol": "CLIQ-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "2"
+            ],
+            "openPrice": "0.99996",
+            "openTime": 1585827194414,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "TUSD-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.00397",
+            "openPrice": "0.02",
+            "openTime": 1607590800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "PPAY-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.01501",
             "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "FLETA-USDT"
+            "symbol": "BNA-USDT"
         },
         {
             "accuracy": [
                 "4",
                 "2"
             ],
-            "openPrice": "0.23",
-            "openTime": 1608285600000,
+            "openPrice": "0.25",
+            "openTime": 1609146000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "WEST-USDT"
+            "symbol": "FRONT-USDT"
         },
         {
             "accuracy": [
-                "7",
-                "1"
+                "6",
+                "2"
             ],
-            "openPrice": "0.0019808",
+            "openPrice": "0.00325",
             "openTime": 1585827833018,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "KAN-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.05",
-            "openTime": 1610010000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "REVV-USDT"
+            "symbol": "MIX-USDT"
         },
         {
             "accuracy": [
@@ -5158,93 +5263,80 @@
         {
             "accuracy": [
                 "6",
-                "0"
+                "1"
             ],
-            "openPrice": "0.003356",
+            "openPrice": "0.012169",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "MXC-USDT"
+            "symbol": "TRX-USDT"
         },
         {
             "accuracy": [
-                "6",
-                "0"
+                "4",
+                "3"
             ],
-            "openPrice": "0.1",
-            "openTime": 1606791600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "CLIQ-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "2"
-            ],
-            "openPrice": "0.99996",
+            "openPrice": "0.2054",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TUSD-USDT"
+            "symbol": "VALOR-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.02",
-            "openTime": 1607590800000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "PPAY-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.01501",
+            "openPrice": "0.00117",
             "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BNA-USDT"
+            "symbol": "TUNE-USDT"
+        },
+        {
+            "accuracy": [
+                "8",
+                "1"
+            ],
+            "openPrice": "0.000092",
+            "openTime": 1608282000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ZEFU-ETH"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.00703",
+            "openTime": 1585827833018,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "TRV-USDT"
         },
         {
             "accuracy": [
                 "4",
                 "2"
             ],
-            "openPrice": "0.25",
-            "openTime": 1609146000000,
+            "openPrice": "0.17",
+            "openTime": 1610100000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "FRONT-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "2"
-            ],
-            "openPrice": "0.00325",
-            "openTime": 1585827833018,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "MIX-USDT"
+            "symbol": "ROYA-USDT"
         },
         {
             "accuracy": [
@@ -5665,80 +5757,93 @@
         {
             "accuracy": [
                 "6",
-                "1"
+                "2"
             ],
-            "openPrice": "0.012169",
+            "openPrice": "0.006563",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "TRX-USDT"
+            "symbol": "RNT-USDT"
         },
         {
             "accuracy": [
-                "4",
-                "3"
+                "2",
+                "4"
             ],
-            "openPrice": "0.2054",
-            "openTime": 1585827194414,
+            "openPrice": "16",
+            "openTime": 1607072400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "VALOR-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.00117",
-            "openTime": 1585827530122,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "TUNE-USDT"
-        },
-        {
-            "accuracy": [
-                "8",
-                "1"
-            ],
-            "openPrice": "0.000092",
-            "openTime": 1608282000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "ZEFU-ETH"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.00703",
-            "openTime": 1585827833018,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "TRV-USDT"
+            "symbol": "ORAI-USDT"
         },
         {
             "accuracy": [
                 "4",
                 "2"
             ],
-            "openPrice": "0.17",
-            "openTime": 1610100000000,
+            "openPrice": "0.1109",
+            "openTime": 1585827290726,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ROYA-USDT"
+            "symbol": "ATT-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.06",
+            "openTime": 1608282000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ZEFU-USDT"
+        },
+        {
+            "accuracy": [
+                "4",
+                "2"
+            ],
+            "openPrice": "0.1047",
+            "openTime": 1585827530122,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "PLA-USDT"
+        },
+        {
+            "accuracy": [
+                "3",
+                "3"
+            ],
+            "openPrice": "1",
+            "openTime": 1610002800000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "7UP-USDT"
+        },
+        {
+            "accuracy": [
+                "6",
+                "2"
+            ],
+            "openPrice": "0.004418",
+            "openTime": 1585827833019,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BZNT-USDT"
         },
         {
             "accuracy": [
@@ -6211,93 +6316,106 @@
         {
             "accuracy": [
                 "6",
-                "2"
+                "0"
             ],
-            "openPrice": "0.006563",
+            "openPrice": "0.00118",
             "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "RNT-USDT"
+            "symbol": "AOA-USDT"
         },
         {
             "accuracy": [
                 "2",
                 "4"
             ],
-            "openPrice": "16",
-            "openTime": 1607072400000,
+            "openPrice": "10",
+            "openTime": 1606446000000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ORAI-USDT"
+            "symbol": "ZEN-USDT"
+        },
+        {
+            "accuracy": [
+                "6",
+                "1"
+            ],
+            "openPrice": "0.013629",
+            "openTime": 1585827194414,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "CHR-USDT"
+        },
+        {
+            "accuracy": [
+                "6",
+                "4"
+            ],
+            "openPrice": "0.0028",
+            "openTime": 1607594400000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "BTCV-BTC"
         },
         {
             "accuracy": [
                 "4",
-                "2"
+                "4"
             ],
-            "openPrice": "0.1109",
-            "openTime": 1585827290726,
+            "openPrice": "5.793",
+            "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ATT-USDT"
+            "symbol": "BHD-USDT"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.06",
-            "openTime": 1608282000000,
+            "openPrice": "0.045",
+            "openTime": 1608627600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "ZEFU-USDT"
+            "symbol": "BGC-USDT"
         },
         {
             "accuracy": [
                 "4",
                 "2"
             ],
-            "openPrice": "0.1047",
-            "openTime": 1585827530122,
+            "openPrice": "0.206",
+            "openTime": 1585827833018,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "PLA-USDT"
-        },
-        {
-            "accuracy": [
-                "3",
-                "3"
-            ],
-            "openPrice": "1",
-            "openTime": 1610002800000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "7UP-USDT"
+            "symbol": "KOK-USDT"
         },
         {
             "accuracy": [
                 "6",
-                "2"
+                "0"
             ],
-            "openPrice": "0.004418",
-            "openTime": 1585827833019,
+            "openPrice": "0.003",
+            "openTime": 1610960400000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BZNT-USDT"
+            "symbol": "FEY-USDT"
         },
         {
             "accuracy": [
@@ -6769,107 +6887,81 @@
         },
         {
             "accuracy": [
-                "6",
-                "0"
-            ],
-            "openPrice": "0.00118",
-            "openTime": 1585827194414,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "AOA-USDT"
-        },
-        {
-            "accuracy": [
-                "2",
-                "4"
-            ],
-            "openPrice": "10",
-            "openTime": 1606446000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "ZEN-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "1"
-            ],
-            "openPrice": "0.013629",
-            "openTime": 1585827194414,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "CHR-USDT"
-        },
-        {
-            "accuracy": [
-                "6",
-                "4"
-            ],
-            "openPrice": "0.0028",
-            "openTime": 1607594400000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "BTCV-BTC"
-        },
-        {
-            "accuracy": [
                 "4",
-                "4"
+                "6"
             ],
-            "openPrice": "5.793",
-            "openTime": 1585827530122,
+            "openPrice": "2.5",
+            "openTime": 1606377600000,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BHD-USDT"
+            "symbol": "TOM-ETH"
         },
         {
             "accuracy": [
                 "5",
                 "1"
             ],
-            "openPrice": "0.045",
-            "openTime": 1608627600000,
+            "openPrice": "0.00774",
+            "openTime": 1585827194414,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "BGC-USDT"
+            "symbol": "OGO-USDT"
         },
         {
             "accuracy": [
-                "4",
+                "5",
                 "2"
             ],
-            "openPrice": "0.206",
-            "openTime": 1585827833018,
+            "openPrice": "0.1599",
+            "openTime": 1585827530122,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "KOK-USDT"
+            "symbol": "MCH-USDT"
+        },
+        {
+            "accuracy": [
+                "9",
+                "1"
+            ],
+            "openPrice": "0.000002",
+            "openTime": 1608282000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "ZEFU-BTC"
         },
         {
             "accuracy": [
                 "6",
                 "0"
             ],
-            "openPrice": "0.003",
-            "openTime": 1610960400000,
+            "openPrice": "0.001334",
+            "openTime": 1585827833018,
             "percentPrice": {
                 "multiplierDown": "0.4",
                 "multiplierUp": "3"
             },
-            "symbol": "FEY-USDT"
+            "symbol": "MBL-USDT"
+        },
+        {
+            "accuracy": [
+                "5",
+                "1"
+            ],
+            "openPrice": "0.02",
+            "openTime": 1610010000000,
+            "percentPrice": {
+                "multiplierDown": "0.4",
+                "multiplierUp": "3"
+            },
+            "symbol": "AME-USDT"
         },
         {
             "accuracy": [
@@ -7338,84 +7430,6 @@
                 "multiplierUp": "3"
             },
             "symbol": "EM-USDT"
-        },
-        {
-            "accuracy": [
-                "4",
-                "6"
-            ],
-            "openPrice": "2.5",
-            "openTime": 1606377600000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "TOM-ETH"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.00774",
-            "openTime": 1585827194414,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "OGO-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "2"
-            ],
-            "openPrice": "0.1599",
-            "openTime": 1585827530122,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "MCH-USDT"
-        },
-        {
-            "accuracy": [
-                "9",
-                "1"
-            ],
-            "openPrice": "0.000002",
-            "openTime": 1608282000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "ZEFU-BTC"
-        },
-        {
-            "accuracy": [
-                "6",
-                "0"
-            ],
-            "openPrice": "0.001334",
-            "openTime": 1585827833018,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "MBL-USDT"
-        },
-        {
-            "accuracy": [
-                "5",
-                "1"
-            ],
-            "openPrice": "0.02",
-            "openTime": 1610010000000,
-            "percentPrice": {
-                "multiplierDown": "0.4",
-                "multiplierUp": "3"
-            },
-            "symbol": "AME-USDT"
         }
     ]
 }
