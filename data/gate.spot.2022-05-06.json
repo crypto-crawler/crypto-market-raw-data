@@ -3976,7 +3976,7 @@
         "fee": "0.2",
         "id": "FIL_USDT",
         "min_quote_amount": "1",
-        "precision": 2,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -6194,7 +6194,7 @@
         "fee": "0.2",
         "id": "FIL_BTC",
         "min_quote_amount": "0.0001",
-        "precision": 6,
+        "precision": 7,
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -9349,6 +9349,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "FCD",
+        "buy_start": 1652360400,
+        "fee": "0.2",
+        "id": "FCD_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -15323,7 +15335,7 @@
         "fee": "0.2",
         "id": "FIL_ETH",
         "min_quote_amount": "0.001",
-        "precision": 5,
+        "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -20494,6 +20506,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "WNDR",
+        "buy_start": 1652097600,
+        "fee": "0.2",
+        "id": "WNDR_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
