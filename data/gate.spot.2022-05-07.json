@@ -11017,18 +11017,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "UNCX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "UNCX_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 4,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "GLMR3L",
         "buy_start": 0,
         "fee": "0.2",
@@ -13041,6 +13029,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "GST3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GST3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "RCN",
         "buy_start": 0,
         "fee": "0.2",
@@ -14378,6 +14378,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GAL3L",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GAL3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -18799,6 +18811,18 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "MINI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GST3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GST3S_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
@@ -28866,6 +28890,18 @@
         "id": "KLAY3L_USDT",
         "min_quote_amount": "1",
         "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GAL3S",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "GAL3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
