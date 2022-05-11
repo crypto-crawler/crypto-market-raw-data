@@ -5960,10 +5960,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 4000,
+        "riskBaseVol": 20000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 4000,
+        "riskIncrVol": 20000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -8639,8 +8639,7 @@
         "displayNameEn": "TONCOIN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "OKEX",
-            "MEXC"
+            "OKEX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
