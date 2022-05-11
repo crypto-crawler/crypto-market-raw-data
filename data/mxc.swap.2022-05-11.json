@@ -5927,10 +5927,10 @@
     },
     {
         "amountScale": 4,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "baseCoin": "LUNA",
         "baseCoinName": "LUNA",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-defi"
         ],
@@ -5941,6 +5941,7 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -8955,7 +8956,7 @@
         "conceptPlate": [],
         "contractSize": 10,
         "displayName": "UST_USDT\u6c38\u7eed",
-        "displayNameEn": "UST_USDT SWAP",
+        "displayNameEn": "UST_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
@@ -8970,7 +8971,7 @@
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0.0002,
         "maxLeverage": 20,
-        "maxVol": 150000,
+        "maxVol": 100000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -8979,10 +8980,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 30000,
+        "riskBaseVol": 20000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 30000,
+        "riskIncrVol": 20000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
