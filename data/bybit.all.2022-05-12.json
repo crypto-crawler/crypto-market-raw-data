@@ -1,0 +1,4943 @@
+[
+    {
+        "alias": "10000NFTUSDT",
+        "base_currency": "10000NFT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "1250000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "10000NFTUSDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "1000BTTUSDT",
+        "base_currency": "1000BTT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000000,
+            "min_trading_qty": 100,
+            "post_only_max_trading_qty": "25000000",
+            "qty_step": 100
+        },
+        "maker_fee": "0.0001",
+        "name": "1000BTTUSDT",
+        "price_filter": {
+            "max_price": "1.999998",
+            "min_price": "0.000001",
+            "tick_size": "0.000001"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "1000XECUSDT",
+        "base_currency": "1000XEC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 120000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "600000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "1000XECUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "1INCHUSDT",
+        "base_currency": "1INCH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "1INCHUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "AAVEUSDT",
+        "base_currency": "AAVE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "2500",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "AAVEUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ACHUSDT",
+        "base_currency": "ACH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 720000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "3600000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "ACHUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ADAUSD",
+        "base_currency": "ADA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 150000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ADAUSD",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ADAUSDT",
+        "base_currency": "ADA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 240000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1200000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ADAUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "AGLDUSDT",
+        "base_currency": "AGLD",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "AGLDUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ALGOUSDT",
+        "base_currency": "ALGO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ALGOUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ALICEUSDT",
+        "base_currency": "ALICE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ALICEUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ALPHAUSDT",
+        "base_currency": "ALPHA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ALPHAUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ANCUSDT",
+        "base_currency": "ANC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ANCUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ANKRUSDT",
+        "base_currency": "ANKR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "2500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ANKRUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ANTUSDT",
+        "base_currency": "ANT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "5000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ANTUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "APEUSDT",
+        "base_currency": "APE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "APEUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "API3USDT",
+        "base_currency": "API3",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "API3USDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ARPAUSDT",
+        "base_currency": "ARPA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "1000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "ARPAUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ARUSDT",
+        "base_currency": "AR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "2000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ARUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ASTRUSDT",
+        "base_currency": "ASTR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 80000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "400000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ASTRUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ATOMUSDT",
+        "base_currency": "ATOM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ATOMUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "AUDIOUSDT",
+        "base_currency": "AUDIO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "AUDIOUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "AVAXUSDT",
+        "base_currency": "AVAX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2500,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "12500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "AVAXUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "AXSUSDT",
+        "base_currency": "AXS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "AXSUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BAKEUSDT",
+        "base_currency": "BAKE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BAKEUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BALUSDT",
+        "base_currency": "BAL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 750,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "3750",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "BALUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BANDUSDT",
+        "base_currency": "BAND",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 6000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "30000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BANDUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BATUSDT",
+        "base_currency": "BAT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 80000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "400000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BATUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BCHUSDT",
+        "base_currency": "BCH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "3000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "BCHUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BICOUSDT",
+        "base_currency": "BICO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 700,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "3500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BICOUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BITUSD",
+        "base_currency": "BIT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BITUSD",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BITUSDT",
+        "base_currency": "BIT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "500000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BITUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BNBUSDT",
+        "base_currency": "BNB",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1500,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "7500",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "BNBUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BNXUSDT",
+        "base_currency": "BNX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 360,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1800",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "BNXUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BOBAUSDT",
+        "base_currency": "BOBA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 7000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "35000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "BOBAUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BSVUSDT",
+        "base_currency": "BSV",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1250",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "BSVUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BSWUSDT",
+        "base_currency": "BSW",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 24000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "120000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BSWUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BTCUSD",
+        "base_currency": "BTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BTCUSD",
+        "price_filter": {
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BTCUSD0624",
+        "base_currency": "BTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BTCUSDM22",
+        "price_filter": {
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BTCUSDT",
+        "base_currency": "BTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100,
+            "min_trading_qty": 0.001,
+            "post_only_max_trading_qty": "500",
+            "qty_step": 0.001
+        },
+        "maker_fee": "0.0001",
+        "name": "BTCUSDT",
+        "price_filter": {
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "BTCUSD0930",
+        "base_currency": "BTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BTCUSDU22",
+        "price_filter": {
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "C98USDT",
+        "base_currency": "C98",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 12000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "60000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "C98USDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CELOUSDT",
+        "base_currency": "CELO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3500,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "17500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "CELOUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CELRUSDT",
+        "base_currency": "CELR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "2500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "CELRUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CHRUSDT",
+        "base_currency": "CHR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 36000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "180000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "CHRUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CHZUSDT",
+        "base_currency": "CHZ",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 300000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "CHZUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CKBUSDT",
+        "base_currency": "CKB",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1500000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "7500000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "CKBUSDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "COMPUSDT",
+        "base_currency": "COMP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "500",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "COMPUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "COTIUSDT",
+        "base_currency": "COTI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 60000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "300000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "COTIUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CREAMUSDT",
+        "base_currency": "CREAM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1250",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "CREAMUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CROUSDT",
+        "base_currency": "CRO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 70000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "350000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "CROUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CRVUSDT",
+        "base_currency": "CRV",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 30000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "150000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "CRVUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CTKUSDT",
+        "base_currency": "CTK",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 12000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "60000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "CTKUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CTSIUSDT",
+        "base_currency": "CTSI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 50000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "250000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "CTSIUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CVCUSDT",
+        "base_currency": "CVC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 70000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "350000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "CVCUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "CVXUSDT",
+        "base_currency": "CVX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1200,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "6000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "CVXUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DARUSDT",
+        "base_currency": "DAR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "DARUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DASHUSDT",
+        "base_currency": "DASH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1250",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "DASHUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DENTUSDT",
+        "base_currency": "DENT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000000,
+            "min_trading_qty": 100,
+            "post_only_max_trading_qty": "50000000",
+            "qty_step": 100
+        },
+        "maker_fee": "0.0001",
+        "name": "DENTUSDT",
+        "price_filter": {
+            "max_price": "1.999998",
+            "min_price": "0.000001",
+            "tick_size": "0.000001"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DGBUSDT",
+        "base_currency": "DGB",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 300000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "1500000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "DGBUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DODOUSDT",
+        "base_currency": "DODO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 80000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "400000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "DODOUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DOGEUSDT",
+        "base_currency": "DOGE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "DOGEUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DOTUSD",
+        "base_currency": "DOT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "2500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "DOTUSD",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DOTUSDT",
+        "base_currency": "DOT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "DOTUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DUSKUSDT",
+        "base_currency": "DUSK",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "DUSKUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "DYDXUSDT",
+        "base_currency": "DYDX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "DYDXUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "EGLDUSDT",
+        "base_currency": "EGLD",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1250",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "EGLDUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ENJUSDT",
+        "base_currency": "ENJ",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ENJUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ENSUSDT",
+        "base_currency": "ENS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "3000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ENSUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "EOSUSD",
+        "base_currency": "EOS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "EOSUSD",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "EOSUSDT",
+        "base_currency": "EOS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 50000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "250000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "EOSUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETCUSDT",
+        "base_currency": "ETC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ETCUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETHUSD",
+        "base_currency": "ETH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ETHUSD",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETHUSD0624",
+        "base_currency": "ETH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ETHUSDM22",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETHUSDT",
+        "base_currency": "ETH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "5000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "ETHUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETHUSD0930",
+        "base_currency": "ETH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ETHUSDU22",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FILUSDT",
+        "base_currency": "FIL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "FILUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FITFIUSDT",
+        "base_currency": "FITFI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 45000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "225000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "FITFIUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FLMUSDT",
+        "base_currency": "FLM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 70000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "350000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "FLMUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FLOWUSDT",
+        "base_currency": "FLOW",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "FLOWUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FTMUSDT",
+        "base_currency": "FTM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 80000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "400000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "FTMUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FTTUSDT",
+        "base_currency": "FTT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 900,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "4500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "FTTUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "FXSUSDT",
+        "base_currency": "FXS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 700,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "3500",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "FXSUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GALAUSDT",
+        "base_currency": "GALA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 450000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "2250000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "GALAUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GALUSDT",
+        "base_currency": "GAL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1500,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "7500",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "GALUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GLMRUSDT",
+        "base_currency": "GLMR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 8000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "40000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "GLMRUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GMTUSDT",
+        "base_currency": "GMT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 35000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "175000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "GMTUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GRTUSDT",
+        "base_currency": "GRT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 60000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "300000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "GRTUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GSTUSDT",
+        "base_currency": "GST",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2200,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "11000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "GSTUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "GTCUSDT",
+        "base_currency": "GTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "5000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "GTCUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "HBARUSDT",
+        "base_currency": "HBAR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "HBARUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "HNTUSDT",
+        "base_currency": "HNT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 420,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "2100",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "HNTUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "HOTUSDT",
+        "base_currency": "HOT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000000,
+            "min_trading_qty": 100,
+            "post_only_max_trading_qty": "25000000",
+            "qty_step": 100
+        },
+        "maker_fee": "0.0001",
+        "name": "HOTUSDT",
+        "price_filter": {
+            "max_price": "1.999998",
+            "min_price": "0.000001",
+            "tick_size": "0.000001"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ICPUSDT",
+        "base_currency": "ICP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ICPUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ICXUSDT",
+        "base_currency": "ICX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ICXUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ILVUSDT",
+        "base_currency": "ILV",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 30,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "150",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "ILVUSDT",
+        "price_filter": {
+            "max_price": "199999.8",
+            "min_price": "0.1",
+            "tick_size": "0.1"
+        },
+        "price_scale": 1,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "IMXUSDT",
+        "base_currency": "IMX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "3000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "IMXUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "IOSTUSDT",
+        "base_currency": "IOST",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "IOSTUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "IOTAUSDT",
+        "base_currency": "IOTA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 50000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "250000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "IOTAUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "IOTXUSDT",
+        "base_currency": "IOTX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "3000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "IOTXUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "JASMYUSDT",
+        "base_currency": "JASMY",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 30000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "150000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "JASMYUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "JSTUSDT",
+        "base_currency": "JST",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 300000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "1500000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "JSTUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "KAVAUSDT",
+        "base_currency": "KAVA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1200,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "6000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "KAVAUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "KDAUSDT",
+        "base_currency": "KDA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "KDAUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "KLAYUSDT",
+        "base_currency": "KLAY",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 8000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "40000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "KLAYUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "KNCUSDT",
+        "base_currency": "KNC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "100000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "KNCUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "KSMUSDT",
+        "base_currency": "KSM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "1000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "KSMUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LINAUSDT",
+        "base_currency": "LINA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1600000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "8000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "LINAUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LINKUSDT",
+        "base_currency": "LINK",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LINKUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LITUSDT",
+        "base_currency": "LIT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "2000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LITUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LOOKSUSDT",
+        "base_currency": "LOOKS",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 6000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "30000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LOOKSUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LPTUSDT",
+        "base_currency": "LPT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "5000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LPTUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LRCUSDT",
+        "base_currency": "LRC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 60000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "300000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LRCUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LTCUSD",
+        "base_currency": "LTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 150000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "LTCUSD",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LTCUSDT",
+        "base_currency": "LTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LTCUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LUNAUSD",
+        "base_currency": "LUNA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 150000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "LUNAUSD",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "LUNAUSDT",
+        "base_currency": "LUNA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "LUNAUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MANAUSD",
+        "base_currency": "MANA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "MANAUSD",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MANAUSDT",
+        "base_currency": "MANA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "100000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "MANAUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MASKUSDT",
+        "base_currency": "MASK",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "MASKUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MATICUSDT",
+        "base_currency": "MATIC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 70000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "350000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "MATICUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MINAUSDT",
+        "base_currency": "MINA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 7500,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "37500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "MINAUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MKRUSDT",
+        "base_currency": "MKR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20,
+            "min_trading_qty": 0.001,
+            "post_only_max_trading_qty": "100",
+            "qty_step": 0.001
+        },
+        "maker_fee": "0.0001",
+        "name": "MKRUSDT",
+        "price_filter": {
+            "max_price": "999999",
+            "min_price": "0.5",
+            "tick_size": "0.5"
+        },
+        "price_scale": 1,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "MTLUSDT",
+        "base_currency": "MTL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 8000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "40000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "MTLUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "NEARUSDT",
+        "base_currency": "NEAR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "NEARUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "NEOUSDT",
+        "base_currency": "NEO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "5000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "NEOUSDT",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "OCEANUSDT",
+        "base_currency": "OCEAN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "OCEANUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "OGNUSDT",
+        "base_currency": "OGN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "OGNUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "OMGUSDT",
+        "base_currency": "OMG",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 8000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "40000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "OMGUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ONEUSDT",
+        "base_currency": "ONE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "2000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ONEUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "PAXGUSDT",
+        "base_currency": "PAXG",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20,
+            "min_trading_qty": 0.001,
+            "post_only_max_trading_qty": "100",
+            "qty_step": 0.001
+        },
+        "maker_fee": "0.0001",
+        "name": "PAXGUSDT",
+        "price_filter": {
+            "max_price": "1999998",
+            "min_price": "1",
+            "tick_size": "1"
+        },
+        "price_scale": 0,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "PEOPLEUSDT",
+        "base_currency": "PEOPLE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 100000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "PEOPLEUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "QTUMUSDT",
+        "base_currency": "QTUM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 6000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "30000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "QTUMUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RAYUSDT",
+        "base_currency": "RAY",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 7000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "35000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "RAYUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "REEFUSDT",
+        "base_currency": "REEF",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "10000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "REEFUSDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RENUSDT",
+        "base_currency": "REN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 50000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "250000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "RENUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "REQUSDT",
+        "base_currency": "REQ",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "REQUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RNDRUSDT",
+        "base_currency": "RNDR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "10000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "RNDRUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ROSEUSDT",
+        "base_currency": "ROSE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ROSEUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RSRUSDT",
+        "base_currency": "RSR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "2000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "RSRUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RSS3USDT",
+        "base_currency": "RSS3",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "RSS3USDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RUNEUSDT",
+        "base_currency": "RUNE",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "RUNEUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "RVNUSDT",
+        "base_currency": "RVN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 80000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "400000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "RVNUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SANDUSDT",
+        "base_currency": "SAND",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 90000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "450000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "SANDUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SCRTUSDT",
+        "base_currency": "SCRT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 7000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "35000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SCRTUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SCUSDT",
+        "base_currency": "SC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 140000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "700000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "SCUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SFPUSDT",
+        "base_currency": "SFP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 50000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "250000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SFPUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SHIB1000USDT",
+        "base_currency": "SHIB1000",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "15000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "SHIB1000USDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SKLUSDT",
+        "base_currency": "SKL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "SKLUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SLPUSDT",
+        "base_currency": "SLP",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "2000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "SLPUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SNXUSDT",
+        "base_currency": "SNX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 2500,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "12500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SNXUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SOLUSD",
+        "base_currency": "SOL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 150000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "SOLUSD",
+        "price_filter": {
+            "max_price": "19999.98",
+            "min_price": "0.01",
+            "tick_size": "0.01"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SOLUSDT",
+        "base_currency": "SOL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SOLUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SPELLUSDT",
+        "base_currency": "SPELL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1800000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "9000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "SPELLUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SRMUSDT",
+        "base_currency": "SRM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 6000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "30000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SRMUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "STMXUSDT",
+        "base_currency": "STMX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "2500000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "STMXUSDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "STORJUSDT",
+        "base_currency": "STORJ",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 40000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "200000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "STORJUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "STXUSDT",
+        "base_currency": "STX",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 5000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "25000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "STXUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SUNUSDT",
+        "base_currency": "SUN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 800000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "4000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "SUNUSDT",
+        "price_filter": {
+            "max_price": "9.99999",
+            "min_price": "0.000005",
+            "tick_size": "0.000005"
+        },
+        "price_scale": 6,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SUSHIUSDT",
+        "base_currency": "SUSHI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SUSHIUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "SXPUSDT",
+        "base_currency": "SXP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 24000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "120000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "SXPUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "THETAUSDT",
+        "base_currency": "THETA",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "THETAUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "TLMUSDT",
+        "base_currency": "TLM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 300000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1500000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "TLMUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "TOMOUSDT",
+        "base_currency": "TOMO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 26000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "130000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "TOMOUSDT",
+        "price_filter": {
+            "max_price": "999.999",
+            "min_price": "0.0005",
+            "tick_size": "0.0005"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "TRXUSDT",
+        "base_currency": "TRX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "TRXUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "UNIUSDT",
+        "base_currency": "UNI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "UNIUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "USTUSDT",
+        "base_currency": "UST",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 15000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "75000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "USTUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "VETUSDT",
+        "base_currency": "VET",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1150000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "VETUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "WAVESUSDT",
+        "base_currency": "WAVES",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "3000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "WAVESUSDT",
+        "price_filter": {
+            "max_price": "9999.99",
+            "min_price": "0.005",
+            "tick_size": "0.005"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "WOOUSDT",
+        "base_currency": "WOO",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "WOOUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XCNUSDT",
+        "base_currency": "XCN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 10000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "50000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "XCNUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XEMUSDT",
+        "base_currency": "XEM",
+        "funding_interval": 60,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 250000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1250000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "XEMUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XLMUSDT",
+        "base_currency": "XLM",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 350000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1750000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "XLMUSDT",
+        "price_filter": {
+            "max_price": "99.9999",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XMRUSDT",
+        "base_currency": "XMR",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 160,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "800",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "XMRUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XRPUSD",
+        "base_currency": "XRP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "XRPUSD",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XRPUSDT",
+        "base_currency": "XRP",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "XRPUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "XTZUSDT",
+        "base_currency": "XTZ",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "100000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "XTZUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "YFIUSDT",
+        "base_currency": "YFI",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1.5,
+            "min_trading_qty": 0.0001,
+            "post_only_max_trading_qty": "7.5",
+            "qty_step": 0.0001
+        },
+        "maker_fee": "0.0001",
+        "name": "YFIUSDT",
+        "price_filter": {
+            "max_price": "9999990",
+            "min_price": "5",
+            "tick_size": "5"
+        },
+        "price_scale": 0,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "YGGUSDT",
+        "base_currency": "YGG",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 3000,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "15000",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "YGGUSDT",
+        "price_filter": {
+            "max_price": "1999.998",
+            "min_price": "0.001",
+            "tick_size": "0.001"
+        },
+        "price_scale": 3,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ZECUSDT",
+        "base_currency": "ZEC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 400,
+            "min_trading_qty": 0.01,
+            "post_only_max_trading_qty": "2000",
+            "qty_step": 0.01
+        },
+        "maker_fee": "0.0001",
+        "name": "ZECUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ZENUSDT",
+        "base_currency": "ZEN",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 500,
+            "min_trading_qty": 0.1,
+            "post_only_max_trading_qty": "2500",
+            "qty_step": 0.1
+        },
+        "maker_fee": "0.0001",
+        "name": "ZENUSDT",
+        "price_filter": {
+            "max_price": "99999.9",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ZILUSDT",
+        "base_currency": "ZIL",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 300000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "1500000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "ZILUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ZRXUSDT",
+        "base_currency": "ZRX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 12,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 20000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "100000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ZRXUSDT",
+        "price_filter": {
+            "max_price": "199.9998",
+            "min_price": "0.0001",
+            "tick_size": "0.0001"
+        },
+        "price_scale": 4,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    }
+]
