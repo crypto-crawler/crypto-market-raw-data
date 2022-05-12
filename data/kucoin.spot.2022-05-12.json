@@ -4931,10 +4931,10 @@
         "market": "BTC",
         "minFunds": "0.000001",
         "name": "LUNA-BTC",
-        "priceIncrement": "0.00000001",
+        "priceIncrement": "0.0000000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "BTC",
-        "quoteIncrement": "0.00000001",
+        "quoteIncrement": "0.0000000001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.000001",
         "symbol": "LUNA-BTC"
@@ -22532,6 +22532,25 @@
         "quoteMaxSize": "9999999",
         "quoteMinSize": "0.1",
         "symbol": "DFA-USDT"
+    },
+    {
+        "baseCurrency": "KYL",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "10",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "KYL-USDT",
+        "priceIncrement": "0.00001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.00001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "KYL-USDT"
     },
     {
         "baseCurrency": "FCD",

@@ -3105,33 +3105,6 @@
         "taker_fee": "0.0006"
     },
     {
-        "alias": "LUNAUSD",
-        "base_currency": "LUNA",
-        "funding_interval": 480,
-        "leverage_filter": {
-            "leverage_step": "0.01",
-            "max_leverage": 50,
-            "min_leverage": 1
-        },
-        "lot_size_filter": {
-            "max_trading_qty": 150000,
-            "min_trading_qty": 1,
-            "post_only_max_trading_qty": "750000",
-            "qty_step": 1
-        },
-        "maker_fee": "0.0001",
-        "name": "LUNAUSD",
-        "price_filter": {
-            "max_price": "1999.998",
-            "min_price": "0.001",
-            "tick_size": "0.001"
-        },
-        "price_scale": 3,
-        "quote_currency": "USD",
-        "status": "Trading",
-        "taker_fee": "0.0006"
-    },
-    {
         "alias": "LUNAUSDT",
         "base_currency": "LUNA",
         "funding_interval": 480,
