@@ -548,6 +548,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "adp",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 5,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "adpusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "adx",
@@ -1776,7 +1796,7 @@
         "state": "online",
         "symbol": "auctioneth",
         "symbol-partition": "potentials",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -1836,7 +1856,7 @@
         "state": "online",
         "symbol": "aurorausdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -2000,7 +2020,7 @@
         "state": "online",
         "symbol": "babydogeusdt",
         "symbol-partition": "pioneer",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -2080,7 +2100,7 @@
         "state": "online",
         "symbol": "bagsusdt",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -4613,7 +4633,7 @@
         "state": "online",
         "symbol": "cnnsusdt",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -6650,7 +6670,7 @@
         "state": "online",
         "symbol": "efiusdt",
         "symbol-partition": "pioneer",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -8484,7 +8504,7 @@
         "state": "online",
         "symbol": "frontusdt",
         "symbol-partition": "potentials",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9835,7 +9855,7 @@
         "state": "online",
         "symbol": "hcusdt",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -11772,7 +11792,7 @@
         "state": "online",
         "symbol": "lbausdt",
         "symbol-partition": "innovation",
-        "tags": "st,highrisk",
+        "tags": "st,highrisk,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -12722,17 +12742,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.001,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.03,
+        "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.001,
         "min-order-value": 5,
         "price-precision": 4,
         "quote-currency": "ust",
-        "sell-limit-must-greater-than": 0.97,
+        "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "lunaust",
         "symbol-partition": "innovation",
-        "tags": "alts,abnormalmarket",
+        "tags": "alts",
         "value-precision": 8
     },
     {
@@ -14834,7 +14854,7 @@
         "state": "online",
         "symbol": "nexousdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -16269,7 +16289,7 @@
         "state": "online",
         "symbol": "pearlusdt",
         "symbol-partition": "potentials",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -17583,7 +17603,7 @@
         "state": "online",
         "symbol": "reefusdt",
         "symbol-partition": "potentials",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -17784,7 +17804,7 @@
         "state": "online",
         "symbol": "revvusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -18065,7 +18085,7 @@
         "state": "online",
         "symbol": "rsrhusd",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -18975,7 +18995,7 @@
         "state": "online",
         "symbol": "snsusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -19155,7 +19175,7 @@
         "state": "online",
         "symbol": "socusdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -19317,7 +19337,7 @@
         "state": "online",
         "symbol": "spausdt",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -19579,7 +19599,7 @@
         "state": "online",
         "symbol": "starlyusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -20406,6 +20426,26 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "thetausdt",
         "symbol-partition": "innovation",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "tinc",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 5,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "tincusdt",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -21769,7 +21809,7 @@
         "state": "online",
         "symbol": "uuuusdt",
         "symbol-partition": "innovation",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -24535,7 +24575,7 @@
         "state": "online",
         "symbol": "zkpusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
