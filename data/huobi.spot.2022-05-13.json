@@ -2561,7 +2561,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "bcvbtc",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -2581,7 +2581,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "bcveth",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -3305,7 +3305,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "boxbtc",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -3325,7 +3325,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "boxeth",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -9472,7 +9472,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "gtcbtc",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -9492,7 +9492,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "gtceth",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -12680,17 +12680,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.1,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 0.0001,
         "price-precision": 8,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.95,
+        "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "lunabtc",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -12721,18 +12721,18 @@
         "leverage-ratio": 5,
         "limit-order-min-order-amt": 0.1,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 5,
         "price-precision": 8,
         "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.95,
+        "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "super-margin-leverage-ratio": 3,
         "symbol": "lunausdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket,activities",
+        "tags": "activities",
         "value-precision": 8
     },
     {
@@ -12742,17 +12742,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.001,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.03,
         "min-order-amt": 0.001,
         "min-order-value": 5,
         "price-precision": 5,
         "quote-currency": "ust",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.97,
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "lunaust",
         "symbol-partition": "innovation",
-        "tags": "alts",
+        "tags": "alts,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -13096,7 +13096,7 @@
         "state": "online",
         "symbol": "massusdt",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -13540,7 +13540,7 @@
         "state": "online",
         "symbol": "mireth",
         "symbol-partition": "innovation",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -14653,7 +14653,7 @@
         "state": "online",
         "symbol": "nestbtc",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -14673,7 +14673,7 @@
         "state": "online",
         "symbol": "nesteth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -16892,7 +16892,7 @@
         "state": "online",
         "symbol": "propyeth",
         "symbol-partition": "innovation",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -19819,7 +19819,7 @@
         "state": "online",
         "symbol": "storeusdt",
         "symbol-partition": "pioneer",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -20767,7 +20767,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "tosbtc",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -20787,7 +20787,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "toseth",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -21191,7 +21191,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "ucbtc",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -21211,7 +21211,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "uceth",
-        "symbol-partition": "innovation",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
