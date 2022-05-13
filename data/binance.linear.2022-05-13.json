@@ -11376,5 +11376,77 @@
         "triggerProtect": "0.0500",
         "underlyingSubType": [],
         "underlyingType": "COIN"
+    },
+    {
+        "baseAsset": "AVAX",
+        "baseAssetPrecision": 8,
+        "contractType": "PERPETUAL",
+        "deliveryDate": 4133404800000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.001000"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.1",
+                "stepSize": "0.1"
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.1",
+                "stepSize": "0.1"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "limit": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "limit": 10
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "notional": "5"
+            },
+            {
+                "filterType": "PERCENT_PRICE",
+                "multiplierDecimal": "4",
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500"
+            }
+        ],
+        "liquidationFee": "0.007500",
+        "maintMarginPercent": "2.5000",
+        "marginAsset": "BUSD",
+        "marketTakeBound": "0.05",
+        "onboardDate": 1652425200000,
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "pair": "AVAXBUSD",
+        "pricePrecision": 6,
+        "quantityPrecision": 1,
+        "quoteAsset": "BUSD",
+        "quotePrecision": 8,
+        "requiredMarginPercent": "5.0000",
+        "settlePlan": 0,
+        "status": "TRADING",
+        "symbol": "AVAXBUSD",
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "triggerProtect": "0.0500",
+        "underlyingSubType": [],
+        "underlyingType": "COIN"
     }
 ]
