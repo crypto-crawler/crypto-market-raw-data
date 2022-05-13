@@ -3237,13 +3237,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "LUNA",
         "buy_start": 0,
         "fee": "0.2",
         "id": "LUNA_USDT",
         "min_quote_amount": "1",
-        "precision": 10,
+        "precision": 9,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -6751,7 +6751,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 0,
         "base": "LUNA",
         "buy_start": 0,
         "fee": "0.2",
@@ -7188,7 +7188,7 @@
         "fee": "0.2",
         "id": "CVP_ETH",
         "min_quote_amount": "0.001",
-        "precision": 6,
+        "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -14556,7 +14556,7 @@
         "fee": "0.2",
         "id": "CVP_USDT",
         "min_quote_amount": "1",
-        "precision": 3,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"

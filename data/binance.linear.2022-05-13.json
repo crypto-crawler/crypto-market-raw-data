@@ -10725,7 +10725,7 @@
         "baseAsset": "ANC",
         "baseAssetPrecision": 8,
         "contractType": "PERPETUAL",
-        "deliveryDate": 4133404800000,
+        "deliveryDate": 1652414400000,
         "filters": [
             {
                 "filterType": "PRICE_FILTER",
@@ -10780,8 +10780,8 @@
         "quoteAsset": "USDT",
         "quotePrecision": 8,
         "requiredMarginPercent": "5.0000",
-        "settlePlan": 0,
-        "status": "TRADING",
+        "settlePlan": 1652414400000,
+        "status": "SETTLING",
         "symbol": "ANCUSDT",
         "timeInForce": [
             "GTC",
@@ -11522,78 +11522,6 @@
             "GTX"
         ],
         "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "LUNA",
-        "baseAssetPrecision": 8,
-        "contractType": "PERPETUAL",
-        "deliveryDate": 1652405400000,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.0000001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 10
-            },
-            {
-                "filterType": "MIN_NOTIONAL",
-                "notional": "5"
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.6000",
-                "multiplierUp": "1.4000"
-            }
-        ],
-        "liquidationFee": "0.030000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "BUSD",
-        "marketTakeBound": "0.40",
-        "onboardDate": 1652338800000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "LUNABUSD",
-        "pricePrecision": 7,
-        "quantityPrecision": 0,
-        "quoteAsset": "BUSD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "20.0000",
-        "settlePlan": 0,
-        "status": "TRADING",
-        "symbol": "LUNABUSD",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.4000",
         "underlyingSubType": [],
         "underlyingType": "COIN"
     }
