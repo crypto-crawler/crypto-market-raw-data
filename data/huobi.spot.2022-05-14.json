@@ -2562,7 +2562,7 @@
         "state": "online",
         "symbol": "bcvbtc",
         "symbol-partition": "main",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -6690,7 +6690,7 @@
         "state": "online",
         "symbol": "egccbtc",
         "symbol-partition": "innovation",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -12717,10 +12717,10 @@
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "luna",
-        "buy-limit-must-less-than": 1.03,
+        "buy-limit-must-less-than": 1.1,
         "leverage-ratio": 5,
         "limit-order-min-order-amt": 0.1,
-        "market-buy-order-rate-must-less-than": 0.03,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 1,
@@ -12732,7 +12732,7 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "lunausdt",
         "symbol-partition": "innovation",
-        "tags": "activities,abnormalmarket",
+        "tags": "activities",
         "value-precision": 8
     },
     {
@@ -21729,7 +21729,7 @@
         "state": "online",
         "symbol": "ustusdt",
         "symbol-partition": "pioneer",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
