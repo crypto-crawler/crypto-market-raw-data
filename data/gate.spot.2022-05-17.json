@@ -9042,14 +9042,14 @@
     {
         "amount_precision": 0,
         "base": "EPX",
-        "buy_start": 1652774400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "EPX_ETH",
         "min_quote_amount": "0.001",
         "precision": 10,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13696,7 +13696,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -20435,7 +20435,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -25114,14 +25114,14 @@
     {
         "amount_precision": 3,
         "base": "EPX",
-        "buy_start": 1652774400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "EPX_USDT",
         "min_quote_amount": "1",
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
