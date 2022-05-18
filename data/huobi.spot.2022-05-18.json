@@ -3648,6 +3648,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 5,
+        "api-trading": "enabled",
+        "base-currency": "btc",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1e-05,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1e-05,
+        "min-order-value": 65,
+        "price-precision": 2,
+        "quote-currency": "rub",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1e-05,
+        "state": "online",
+        "symbol": "btcrub",
+        "symbol-partition": "main",
+        "tags": "fiat",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 6,
         "api-trading": "enabled",
         "base-currency": "btc",
@@ -11405,6 +11425,26 @@
         "symbol": "kcashusdt",
         "symbol-partition": "main",
         "tags": "hadax",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "klay",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 1,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "klayusdt",
+        "symbol-partition": "main",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -21772,6 +21812,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 1,
+        "api-trading": "enabled",
+        "base-currency": "usdt",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 65,
+        "price-precision": 2,
+        "quote-currency": "rub",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "usdtrub",
+        "symbol-partition": "main",
+        "tags": "fiat",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "usdt",
@@ -23986,7 +24046,7 @@
         "state": "online",
         "symbol": "yamusdt",
         "symbol-partition": "potentials",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -24146,7 +24206,7 @@
         "state": "online",
         "symbol": "yeeusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
