@@ -6106,7 +6106,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "dhtbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -6126,7 +6126,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "dhteth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -6146,7 +6146,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "dhtusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -8039,7 +8039,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "fildabtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -8059,7 +8059,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "fildaeth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -8079,7 +8079,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "fildausdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -16347,7 +16347,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "offline",
         "symbol": "pearlbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -16367,7 +16367,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "offline",
         "symbol": "pearleth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -16387,7 +16387,7 @@
         "sell-market-min-order-amt": 0.0001,
         "state": "online",
         "symbol": "pearlusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -18736,6 +18736,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "sfund",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.001,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.001,
+        "min-order-value": 1,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.001,
+        "state": "pre-online",
+        "symbol": "sfundusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "she",
@@ -19877,7 +19897,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "stnbtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -19897,7 +19917,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "stneth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -19917,7 +19937,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "stnusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -24065,7 +24085,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "offline",
         "symbol": "yambtc",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -24085,7 +24105,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "offline",
         "symbol": "yameth",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -24105,7 +24125,7 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "yamusdt",
-        "symbol-partition": "potentials",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -24764,17 +24784,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
         "price-precision": 12,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.95,
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "zjltbtc",
         "symbol-partition": "main",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
