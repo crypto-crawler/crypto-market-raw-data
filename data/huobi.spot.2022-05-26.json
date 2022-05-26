@@ -3643,7 +3643,7 @@
         "state": "online",
         "symbol": "btcbrl",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -3663,7 +3663,7 @@
         "state": "online",
         "symbol": "btceur",
         "symbol-partition": "default",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -3683,7 +3683,7 @@
         "state": "online",
         "symbol": "btcgbp",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -3724,7 +3724,7 @@
         "state": "online",
         "symbol": "btcrub",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -3744,7 +3744,7 @@
         "state": "online",
         "symbol": "btctry",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -3764,7 +3764,7 @@
         "state": "online",
         "symbol": "btcuah",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -7963,7 +7963,7 @@
         "state": "online",
         "symbol": "eurusdt",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -9051,7 +9051,7 @@
         "state": "online",
         "symbol": "gbpusdt",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -19875,7 +19875,7 @@
         "quote-currency": "btc",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.0001,
-        "state": "online",
+        "state": "suspend",
         "symbol": "stakebtc",
         "symbol-partition": "main",
         "tags": "",
@@ -19915,7 +19915,7 @@
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.0001,
-        "state": "online",
+        "state": "suspend",
         "symbol": "stakeusdt",
         "symbol-partition": "main",
         "tags": "",
@@ -22048,7 +22048,7 @@
         "state": "online",
         "symbol": "usdtbrl",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -22088,7 +22088,7 @@
         "state": "online",
         "symbol": "usdtrub",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -22108,7 +22108,7 @@
         "state": "online",
         "symbol": "usdttry",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
@@ -22128,7 +22128,7 @@
         "state": "online",
         "symbol": "usdtuah",
         "symbol-partition": "main",
-        "tags": "fiat",
+        "tags": "griddisabled,fiat",
         "value-precision": 8
     },
     {
