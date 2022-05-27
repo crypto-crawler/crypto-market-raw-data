@@ -9509,7 +9509,7 @@
         "base_increment": "0.01",
         "base_max_size": "390000",
         "base_min_size": "0.96",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UST/EUR",
         "fx_stablecoin": true,
         "id": "UST-EUR",
@@ -9521,9 +9521,9 @@
         "post_only": false,
         "quote_currency": "EUR",
         "quote_increment": "0.00001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9531,7 +9531,7 @@
         "base_increment": "0.01",
         "base_max_size": "3800000",
         "base_min_size": "0.99",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UST/USD",
         "fx_stablecoin": true,
         "id": "UST-USD",
@@ -9543,9 +9543,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.00001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9553,7 +9553,7 @@
         "base_increment": "0.01",
         "base_max_size": "880000",
         "base_min_size": "0.99",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UST/USDT",
         "fx_stablecoin": true,
         "id": "UST-USDT",
@@ -9565,9 +9565,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.00001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9795,7 +9795,7 @@
         "base_increment": "0.001",
         "base_max_size": "1500000000",
         "base_min_size": "0.02",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "WLUNA/EUR",
         "fx_stablecoin": false,
         "id": "WLUNA-EUR",
@@ -9807,9 +9807,9 @@
         "post_only": false,
         "quote_currency": "EUR",
         "quote_increment": "0.00000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9817,7 +9817,7 @@
         "base_increment": "0.001",
         "base_max_size": "1500000000",
         "base_min_size": "0.02",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "WLUNA/GBP",
         "fx_stablecoin": false,
         "id": "WLUNA-GBP",
@@ -9829,9 +9829,9 @@
         "post_only": false,
         "quote_currency": "GBP",
         "quote_increment": "0.00000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9839,7 +9839,7 @@
         "base_increment": "0.001",
         "base_max_size": "1500000000",
         "base_min_size": "0.021",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "WLUNA/USD",
         "fx_stablecoin": false,
         "id": "WLUNA-USD",
@@ -9851,9 +9851,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.00000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9861,7 +9861,7 @@
         "base_increment": "0.001",
         "base_max_size": "1500000000",
         "base_min_size": "0.021",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "WLUNA/USDT",
         "fx_stablecoin": false,
         "id": "WLUNA-USDT",
@@ -9873,9 +9873,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.00000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
