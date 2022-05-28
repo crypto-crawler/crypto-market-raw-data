@@ -3249,16 +3249,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 3,
         "base": "LUNA",
-        "buy_start": 1653728400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "LUNA_USDT",
         "min_quote_amount": "1",
-        "precision": 8,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -6763,16 +6763,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 3,
         "base": "LUNA",
-        "buy_start": 1653728400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "LUNA_ETH",
         "min_quote_amount": "0.001",
-        "precision": 11,
+        "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
