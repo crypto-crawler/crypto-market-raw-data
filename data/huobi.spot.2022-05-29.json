@@ -13097,9 +13097,9 @@
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "lunc",
-        "buy-limit-must-less-than": 1.1,
+        "buy-limit-must-less-than": 1.03,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.1,
+        "market-buy-order-rate-must-less-than": 0.03,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 1,
         "min-order-value": 1,
@@ -13111,7 +13111,7 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "luncusdt",
         "symbol-partition": "main",
-        "tags": "activities",
+        "tags": "activities,abnormalmarket",
         "value-precision": 8
     },
     {
