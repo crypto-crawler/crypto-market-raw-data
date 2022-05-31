@@ -10515,6 +10515,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "OP",
+        "buy_start": 1654048800,
+        "fee": "0.2",
+        "id": "OP_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 7,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FORTH",
         "buy_start": 0,
         "fee": "0.2",
@@ -13373,7 +13385,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -15411,6 +15423,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "OP",
+        "buy_start": 1654048800,
+        "fee": "0.2",
+        "id": "OP_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
