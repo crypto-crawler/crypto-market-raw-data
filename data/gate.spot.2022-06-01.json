@@ -21863,18 +21863,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "EXRD",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "EXRD_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "ILV",
         "buy_start": 0,
         "fee": "0.2",
@@ -29520,18 +29508,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "EXRD",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "EXRD_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "HC",
         "buy_start": 0,
         "fee": "0.2",
@@ -29937,6 +29913,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XRD",
+        "buy_start": 1654142400,
+        "fee": "0.2",
+        "id": "XRD_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
