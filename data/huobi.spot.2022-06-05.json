@@ -1332,7 +1332,7 @@
         "state": "online",
         "symbol": "apnusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -9371,7 +9371,7 @@
         "state": "online",
         "symbol": "gearusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -9942,13 +9942,13 @@
         "base-currency": "gtc",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.03,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
         "price-precision": 10,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.97,
+        "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "gtcbtc",
@@ -23331,7 +23331,7 @@
         "state": "online",
         "symbol": "warusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
