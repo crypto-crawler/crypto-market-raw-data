@@ -1804,7 +1804,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "BIT",
         "base_increment": "0.01",
         "base_max_size": "490000",
@@ -1813,7 +1813,7 @@
         "display_name": "BIT/USD",
         "fx_stablecoin": false,
         "id": "BIT-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -1826,7 +1826,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "BIT",
         "base_increment": "0.01",
         "base_max_size": "490000",
@@ -1835,7 +1835,7 @@
         "display_name": "BIT/USDT",
         "fx_stablecoin": false,
         "id": "BIT-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -2222,7 +2222,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "C98",
         "base_increment": "0.01",
         "base_max_size": "420000",
@@ -2231,7 +2231,7 @@
         "display_name": "C98/USD",
         "fx_stablecoin": false,
         "id": "C98-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -2244,7 +2244,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "C98",
         "base_increment": "0.01",
         "base_max_size": "420000",
@@ -2253,7 +2253,7 @@
         "display_name": "C98/USDT",
         "fx_stablecoin": false,
         "id": "C98-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
