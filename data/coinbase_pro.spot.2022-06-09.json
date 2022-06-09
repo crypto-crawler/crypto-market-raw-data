@@ -2090,6 +2090,28 @@
         "trading_disabled": false
     },
     {
+        "auction_mode": true,
+        "base_currency": "BTC",
+        "base_increment": "0.00000001",
+        "base_max_size": "1500",
+        "base_min_size": "0.000016",
+        "cancel_only": false,
+        "display_name": "BTCAUCTION/USD",
+        "fx_stablecoin": false,
+        "id": "BTCAUCTION-USD",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_market_funds": "20000000",
+        "max_slippage_percentage": "0.02000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USD",
+        "quote_increment": "0.01",
+        "status": "online",
+        "status_message": "",
+        "trading_disabled": false
+    },
+    {
         "auction_mode": false,
         "base_currency": "BTRST",
         "base_increment": "0.01",
@@ -5082,7 +5104,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "INDEX",
         "base_increment": "0.001",
         "base_max_size": "22000",
@@ -5091,7 +5113,7 @@
         "display_name": "INDEX/USD",
         "fx_stablecoin": false,
         "id": "INDEX-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -5104,7 +5126,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "INDEX",
         "base_increment": "0.001",
         "base_max_size": "22000",
@@ -5113,7 +5135,7 @@
         "display_name": "INDEX/USDT",
         "fx_stablecoin": false,
         "id": "INDEX-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -9834,7 +9856,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "WAMPL",
         "base_increment": "0.001",
         "base_max_size": "25000",
@@ -9843,7 +9865,7 @@
         "display_name": "WAMPL/USD",
         "fx_stablecoin": false,
         "id": "WAMPL-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -9856,7 +9878,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "WAMPL",
         "base_increment": "0.001",
         "base_max_size": "25000",
@@ -9865,7 +9887,7 @@
         "display_name": "WAMPL/USDT",
         "fx_stablecoin": false,
         "id": "WAMPL-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
