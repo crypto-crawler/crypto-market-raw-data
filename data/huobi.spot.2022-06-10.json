@@ -11318,7 +11318,7 @@
         "state": "online",
         "symbol": "ioibtc",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -22616,9 +22616,9 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "unb",
-        "buy-limit-must-less-than": 1.05,
+        "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.1,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 1,
