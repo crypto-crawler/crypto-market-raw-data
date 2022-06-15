@@ -2637,6 +2637,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "QRDO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "QRDO_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 9,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "THN",
         "buy_start": 0,
@@ -16635,6 +16647,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "LUNCH",
+        "buy_start": 1655287200,
+        "fee": "0.2",
+        "id": "LUNCH_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
