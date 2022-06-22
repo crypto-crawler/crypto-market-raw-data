@@ -528,7 +528,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "ALEPH",
         "base_increment": "0.1",
         "base_max_size": "960000",
@@ -537,35 +537,13 @@
         "display_name": "ALEPH/USD",
         "fx_stablecoin": false,
         "id": "ALEPH-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
         "post_only": false,
         "quote_currency": "USD",
-        "quote_increment": "0.0001",
-        "status": "online",
-        "status_message": "",
-        "trading_disabled": false
-    },
-    {
-        "auction_mode": true,
-        "base_currency": "ALEPH",
-        "base_increment": "0.1",
-        "base_max_size": "960000",
-        "base_min_size": "1",
-        "cancel_only": false,
-        "display_name": "ALEPH/USDT",
-        "fx_stablecoin": false,
-        "id": "ALEPH-USDT",
-        "limit_only": false,
-        "margin_enabled": false,
-        "max_market_funds": "250000",
-        "max_slippage_percentage": "0.03000000",
-        "min_market_funds": "1",
-        "post_only": false,
-        "quote_currency": "USDT",
         "quote_increment": "0.0001",
         "status": "online",
         "status_message": "",
@@ -3718,7 +3696,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DYP",
         "base_increment": "0.1",
         "base_max_size": "2600000",
@@ -3740,7 +3718,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DYP",
         "base_increment": "0.1",
         "base_max_size": "2600000",
@@ -3749,7 +3727,7 @@
         "display_name": "DYP/USDT",
         "fx_stablecoin": false,
         "id": "DYP-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -3762,7 +3740,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "ELA",
         "base_increment": "0.01",
         "base_max_size": "140000",
@@ -3771,7 +3749,7 @@
         "display_name": "ELA/USD",
         "fx_stablecoin": false,
         "id": "ELA-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -3784,7 +3762,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "ELA",
         "base_increment": "0.01",
         "base_max_size": "140000",
@@ -3793,7 +3771,7 @@
         "display_name": "ELA/USDT",
         "fx_stablecoin": false,
         "id": "ELA-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -5258,7 +5236,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "HOPR",
         "base_increment": "0.1",
         "base_max_size": "1300000",
@@ -5267,7 +5245,7 @@
         "display_name": "HOPR/USD",
         "fx_stablecoin": false,
         "id": "HOPR-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -5280,7 +5258,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "HOPR",
         "base_increment": "0.1",
         "base_max_size": "1300000",
@@ -5289,7 +5267,7 @@
         "display_name": "HOPR/USDT",
         "fx_stablecoin": false,
         "id": "HOPR-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -6534,7 +6512,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "MATH",
         "base_increment": "0.1",
         "base_max_size": "1800000",
@@ -6543,7 +6521,7 @@
         "display_name": "MATH/USD",
         "fx_stablecoin": false,
         "id": "MATH-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -6556,7 +6534,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "MATH",
         "base_increment": "0.1",
         "base_max_size": "1800000",
@@ -6565,7 +6543,7 @@
         "display_name": "MATH/USDT",
         "fx_stablecoin": false,
         "id": "MATH-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -8052,7 +8030,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "PRQ",
         "base_increment": "0.1",
         "base_max_size": "640000",
@@ -8061,7 +8039,7 @@
         "display_name": "PRQ/USD",
         "fx_stablecoin": false,
         "id": "PRQ-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -8074,7 +8052,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "PRQ",
         "base_increment": "0.1",
         "base_max_size": "640000",
@@ -8083,7 +8061,7 @@
         "display_name": "PRQ/USDT",
         "fx_stablecoin": false,
         "id": "PRQ-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
