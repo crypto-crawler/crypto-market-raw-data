@@ -2676,7 +2676,7 @@
         "quote-currency": "usdc",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.001,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "bchusdc",
         "symbol-partition": "main",
         "tags": "",
@@ -4769,7 +4769,7 @@
         "quote-currency": "usdc",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "chzusdc",
         "symbol-partition": "main",
         "tags": "",
@@ -15179,7 +15179,7 @@
         "state": "online",
         "symbol": "muskbtc",
         "symbol-partition": "main",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
