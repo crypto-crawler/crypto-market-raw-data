@@ -2156,6 +2156,28 @@
         "trading_disabled": false
     },
     {
+        "auction_mode": true,
+        "base_currency": "BTC",
+        "base_increment": "0.00000001",
+        "base_max_size": "1500",
+        "base_min_size": "0.000016",
+        "cancel_only": false,
+        "display_name": "BTCAUCTION/USD",
+        "fx_stablecoin": false,
+        "id": "BTCAUCTION-USD",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_market_funds": "20000000",
+        "max_slippage_percentage": "0.02000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USD",
+        "quote_increment": "0.01",
+        "status": "online",
+        "status_message": "",
+        "trading_disabled": false
+    },
+    {
         "auction_mode": false,
         "base_currency": "BTRST",
         "base_increment": "0.01",
@@ -3278,7 +3300,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DEXT",
         "base_increment": "0.1",
         "base_max_size": "1600000",
@@ -3287,7 +3309,7 @@
         "display_name": "DEXT/USD",
         "fx_stablecoin": false,
         "id": "DEXT-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -3652,7 +3674,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DREP",
         "base_increment": "0.01",
         "base_max_size": "340000",
@@ -3661,7 +3683,7 @@
         "display_name": "DREP/USD",
         "fx_stablecoin": false,
         "id": "DREP-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -3674,7 +3696,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DREP",
         "base_increment": "0.01",
         "base_max_size": "340000",
@@ -3683,7 +3705,7 @@
         "display_name": "DREP/USDT",
         "fx_stablecoin": false,
         "id": "DREP-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -5610,7 +5632,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "JUP",
         "base_increment": "1",
         "base_max_size": "26000000",
@@ -5619,7 +5641,7 @@
         "display_name": "JUP/USD",
         "fx_stablecoin": false,
         "id": "JUP-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "100000",
         "max_slippage_percentage": "0.03000000",
@@ -7018,7 +7040,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "MUSE",
         "base_increment": "0.001",
         "base_max_size": "49000",
@@ -7027,7 +7049,7 @@
         "display_name": "MUSE/USD",
         "fx_stablecoin": false,
         "id": "MUSE-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -9729,11 +9751,11 @@
         "base_increment": "0.001",
         "base_max_size": "8700",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "TIME/USD",
         "fx_stablecoin": false,
         "id": "TIME-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -9742,7 +9764,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -9751,11 +9773,11 @@
         "base_increment": "0.001",
         "base_max_size": "8700",
         "base_min_size": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "TIME/USDT",
         "fx_stablecoin": false,
         "id": "TIME-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_market_funds": "250000",
         "max_slippage_percentage": "0.03000000",
@@ -9764,7 +9786,7 @@
         "quote_currency": "USDT",
         "quote_increment": "0.01",
         "status": "online",
-        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
