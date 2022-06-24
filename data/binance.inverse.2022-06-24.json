@@ -75,76 +75,6 @@
         "baseAsset": "BTC",
         "baseAssetPrecision": 8,
         "contractSize": 100,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.1"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "BTC",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "BTCUSD",
-        "pricePrecision": 1,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "BTCUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "BTC",
-        "baseAssetPrecision": 8,
-        "contractSize": 100,
         "contractStatus": "TRADING",
         "contractType": "CURRENT_QUARTER",
         "deliveryDate": 1664524800000,
@@ -351,76 +281,6 @@
         "underlyingSubType": [
             "Layer-1"
         ],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "ETH",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.01"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "ETH",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "ETHUSD",
-        "pricePrecision": 2,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "ETHUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
         "underlyingType": "COIN"
     },
     {
@@ -2436,496 +2296,6 @@
         "underlyingType": "COIN"
     },
     {
-        "baseAsset": "ADA",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.00001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "ADA",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "ADAUSD",
-        "pricePrecision": 5,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "ADAUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "LINK",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "LINK",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "LINKUSD",
-        "pricePrecision": 3,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "LINKUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "BCH",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.01"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "BCH",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "BCHUSD",
-        "pricePrecision": 2,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "BCHUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "DOT",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "DOT",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "DOTUSD",
-        "pricePrecision": 3,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "DOTUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "XRP",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.0001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "XRP",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "XRPUSD",
-        "pricePrecision": 4,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "XRPUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "LTC",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.01"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "LTC",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "LTCUSD",
-        "pricePrecision": 2,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "LTCUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "BNB",
-        "baseAssetPrecision": 8,
-        "contractSize": 10,
-        "contractStatus": "DELIVERING",
-        "contractType": "CURRENT_QUARTER DELIVERING",
-        "deliveryDate": 1656057600000,
-        "equalQtyPrecision": 4,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.001"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "1",
-                "stepSize": "1"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 100
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "BNB",
-        "marketTakeBound": "0.05",
-        "maxMoveOrderLimit": 10000,
-        "onboardDate": 1640937600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "BNBUSD",
-        "pricePrecision": 3,
-        "quantityPrecision": 0,
-        "quoteAsset": "USD",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "symbol": "BNBUSD_220624",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
         "baseAsset": "CRV",
         "baseAssetPrecision": 8,
         "contractSize": 10,
@@ -4351,8 +3721,8 @@
         "baseAsset": "ADA",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4421,8 +3791,8 @@
         "baseAsset": "LINK",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4491,8 +3861,8 @@
         "baseAsset": "BCH",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4561,8 +3931,8 @@
         "baseAsset": "DOT",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4631,8 +4001,8 @@
         "baseAsset": "XRP",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4701,8 +4071,8 @@
         "baseAsset": "LTC",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
@@ -4771,8 +4141,8 @@
         "baseAsset": "BNB",
         "baseAssetPrecision": 8,
         "contractSize": 10,
-        "contractStatus": "PENDING_TRADING",
-        "contractType": "",
+        "contractStatus": "TRADING",
+        "contractType": "NEXT_QUARTER",
         "deliveryDate": 1672387200000,
         "equalQtyPrecision": 4,
         "filters": [
