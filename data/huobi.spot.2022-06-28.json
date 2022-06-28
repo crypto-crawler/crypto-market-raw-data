@@ -10311,7 +10311,7 @@
         "state": "online",
         "symbol": "gscbtc",
         "symbol-partition": "main",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -23672,9 +23672,9 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "value",
-        "buy-limit-must-less-than": 1.05,
+        "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.001,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.001,
         "min-order-value": 1,
@@ -23685,7 +23685,7 @@
         "state": "online",
         "symbol": "valueusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
