@@ -9096,6 +9096,26 @@
         "min-order-amt": 0.1,
         "min-order-value": 1,
         "price-precision": 4,
+        "quote-currency": "usdc",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "flzusdc",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "flz",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 1,
+        "price-precision": 4,
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.1,
@@ -14715,7 +14735,7 @@
         "state": "online",
         "symbol": "mexbtc",
         "symbol-partition": "st",
-        "tags": "st,hadax",
+        "tags": "griddisabled,st,hadax",
         "value-precision": 8
     },
     {
@@ -15258,7 +15278,7 @@
         "state": "online",
         "symbol": "mtlbtc",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "griddisabled,st",
         "value-precision": 8
     },
     {
@@ -15700,7 +15720,7 @@
         "state": "online",
         "symbol": "ncashbtc",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "griddisabled,st",
         "value-precision": 8
     },
     {
@@ -15742,7 +15762,7 @@
         "state": "online",
         "symbol": "nccbtc",
         "symbol-partition": "st",
-        "tags": "st,hadax",
+        "tags": "griddisabled,st,hadax",
         "value-precision": 8
     },
     {
@@ -17564,7 +17584,7 @@
         "state": "online",
         "symbol": "pcbtc",
         "symbol-partition": "st",
-        "tags": "st,hadax",
+        "tags": "griddisabled,st,hadax",
         "value-precision": 8
     },
     {
@@ -18549,7 +18569,7 @@
         "state": "online",
         "symbol": "qspbtc",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "griddisabled,st",
         "value-precision": 8
     },
     {
@@ -18856,7 +18876,7 @@
         "state": "online",
         "symbol": "rcnbtc",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "griddisabled,st",
         "value-precision": 8
     },
     {
@@ -21074,7 +21094,7 @@
         "state": "online",
         "symbol": "sspbtc",
         "symbol-partition": "st",
-        "tags": "st,hadax",
+        "tags": "griddisabled,st,hadax",
         "value-precision": 8
     },
     {
@@ -22644,7 +22664,7 @@
         "state": "online",
         "symbol": "triobtc",
         "symbol-partition": "main",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
