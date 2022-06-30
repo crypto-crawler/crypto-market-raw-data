@@ -3385,7 +3385,7 @@
         "state": "online",
         "symbol": "boringusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -12646,6 +12646,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "koi",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.1,
+        "min-order-value": 1,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "koiusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 3,
         "api-trading": "enabled",
         "base-currency": "ksm",
@@ -14714,7 +14734,7 @@
         "state": "online",
         "symbol": "meetbtc",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
