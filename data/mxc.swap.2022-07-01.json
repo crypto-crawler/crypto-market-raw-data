@@ -679,7 +679,7 @@
             "MEXC"
         ],
         "initialMarginRate": 0.05,
-        "isHidden": true,
+        "isHidden": false,
         "isHot": false,
         "isNew": false,
         "maintenanceMarginRate": 0.02,
@@ -689,7 +689,7 @@
             200,
             50
         ],
-        "maxVol": 20000000,
+        "maxVol": 15000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -698,10 +698,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1,
+        "riskBaseVol": 3000000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 1,
+        "riskIncrVol": 3000000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -1757,6 +1757,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.008,
@@ -3100,6 +3101,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -3269,6 +3271,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.01,
@@ -7256,6 +7259,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
