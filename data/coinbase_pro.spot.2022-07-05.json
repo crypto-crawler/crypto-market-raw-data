@@ -855,14 +855,14 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "AST",
         "base_increment": "0.1",
         "cancel_only": false,
         "display_name": "AST/USD",
         "fx_stablecoin": false,
         "id": "AST-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.10000000",
         "min_market_funds": "1",
