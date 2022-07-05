@@ -4676,13 +4676,13 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "maintenanceMarginRate": 0.02,
+        "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
-        "maxLeverage": 20,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -4697,8 +4697,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 20000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
         "riskIncrVol": 20000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
@@ -6669,13 +6669,13 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "maintenanceMarginRate": 0.02,
+        "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
-        "maxLeverage": 20,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -6690,8 +6690,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 5000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
         "riskIncrVol": 5000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
