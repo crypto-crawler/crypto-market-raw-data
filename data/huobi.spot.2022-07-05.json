@@ -9739,12 +9739,12 @@
         "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.03,
+        "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.01,
         "min-order-value": 1,
         "price-precision": 6,
         "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.97,
+        "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "gariusdt",
@@ -18288,7 +18288,7 @@
         "state": "online",
         "symbol": "portalbtc",
         "symbol-partition": "main",
-        "tags": "hadax",
+        "tags": "hadax,abnormalmarket",
         "value-precision": 8
     },
     {
