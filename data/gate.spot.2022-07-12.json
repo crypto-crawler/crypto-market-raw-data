@@ -17703,11 +17703,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "MPH",
+        "amount_precision": 3,
+        "base": "YOP",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "MPH_ETH",
+        "id": "YOP_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -17715,11 +17715,11 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "YOP",
+        "amount_precision": 2,
+        "base": "MPH",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "YOP_ETH",
+        "id": "MPH_ETH",
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
@@ -23743,6 +23743,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "OGV",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "OGV_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
