@@ -5607,7 +5607,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "STEPN",
         "baseCoinName": "STEPN",
         "bidLimitPriceRate": 0.2,
@@ -5616,6 +5616,8 @@
             "mc-trade-zone-nft"
         ],
         "contractSize": 1,
+        "deliveryPriceTrend": 3,
+        "deliveryTime": 1658912400357,
         "displayName": "STEPN_USDT\u6c38\u7eed",
         "displayNameEn": "STEPN_USDT PERPETUAL",
         "futureType": 1,
