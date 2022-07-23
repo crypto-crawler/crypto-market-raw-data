@@ -768,18 +768,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 3,
-        "base-currency": "dash",
-        "id": "5301",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "dash_qc",
-        "symbol-partition": "main"
-    },
-    {
         "amount-precision": 0,
         "base-currency": "xrp",
         "id": "5302",
@@ -1201,18 +1189,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "looks",
-        "id": "5371",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "looks_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "sos",
         "id": "5374",
         "max-order-amt": null,
@@ -1224,15 +1200,15 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "lqty",
-        "id": "5377",
+        "amount-precision": 2,
+        "base-currency": "rss3",
+        "id": "5376",
         "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 3,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "lqty_usdt",
+        "symbol": "rss3_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1273,14 +1249,14 @@
     },
     {
         "amount-precision": 3,
-        "base-currency": "dia",
-        "id": "5386",
+        "base-currency": "crf",
+        "id": "5385",
         "max-order-amt": null,
         "min-order-amt": "0.001",
-        "price-precision": 3,
+        "price-precision": 6,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "dia_usdt",
+        "symbol": "crf_usdt",
         "symbol-partition": "innovation"
     },
     {
@@ -1353,6 +1329,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "sch_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "gotg",
+        "id": "5394",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "gotg_usdt",
         "symbol-partition": "innovation"
     },
     {
