@@ -18690,7 +18690,7 @@
         "state": "online",
         "symbol": "portalbtc",
         "symbol-partition": "main",
-        "tags": "hadax,abnormalmarket",
+        "tags": "hadax",
         "value-precision": 8
     },
     {
@@ -22549,17 +22549,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.001,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 0.001,
         "min-order-value": 1,
         "price-precision": 4,
         "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.95,
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "swrvusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
