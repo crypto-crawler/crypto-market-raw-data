@@ -18544,14 +18544,14 @@
     {
         "amount_precision": 4,
         "base": "ATEAM",
-        "buy_start": 1658743200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ATEAM_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -26440,7 +26440,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
