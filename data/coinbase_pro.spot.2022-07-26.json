@@ -6346,14 +6346,14 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "NEST",
         "base_increment": "1",
         "cancel_only": false,
         "display_name": "NEST/USD",
         "fx_stablecoin": false,
         "id": "NEST-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
@@ -6365,14 +6365,14 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "NEST",
         "base_increment": "1",
         "cancel_only": false,
         "display_name": "NEST/USDT",
         "fx_stablecoin": false,
         "id": "NEST-USDT",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
