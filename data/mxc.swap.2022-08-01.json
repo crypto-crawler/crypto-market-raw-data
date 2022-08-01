@@ -914,7 +914,7 @@
             200,
             50
         ],
-        "maxVol": 30000,
+        "maxVol": 100000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4346,7 +4346,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
