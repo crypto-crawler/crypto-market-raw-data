@@ -732,18 +732,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "xrp",
-        "id": "5302",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "xrp_qc",
-        "symbol-partition": "main"
-    },
-    {
         "amount-precision": 1,
         "base-currency": "trx",
         "id": "5303",
@@ -1056,18 +1044,6 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "gtc",
-        "id": "5357",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "gtc_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 3,
         "base-currency": "cvx",
         "id": "5358",
@@ -1093,38 +1069,26 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "powr",
-        "id": "5365",
+        "base-currency": "sos",
+        "id": "5374",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 9,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "sos_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "ape",
+        "id": "5381",
         "max-order-amt": null,
         "min-order-amt": "0.01",
         "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "powr_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "bnx",
-        "id": "5367",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "bnx_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 3,
-        "base-currency": "aca",
-        "id": "5382",
-        "max-order-amt": null,
-        "min-order-amt": "0.001",
-        "price-precision": 2,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "aca_usdt",
+        "symbol": "ape_usdt",
         "symbol-partition": "innovation"
     },
     {
