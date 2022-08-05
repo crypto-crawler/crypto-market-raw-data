@@ -242,6 +242,18 @@
     {
         "amount-precision": 4,
         "base-currency": "qtum",
+        "id": "5008",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "qtum_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 4,
+        "base-currency": "qtum",
         "id": "5009",
         "max-order-amt": null,
         "min-order-amt": "0.01",
@@ -370,6 +382,18 @@
         "state": "online",
         "symbol": "dot_qc",
         "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "dot",
+        "id": "5241",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "dot_usdt",
+        "symbol-partition": "main"
     },
     {
         "amount-precision": 4,
@@ -985,18 +1009,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "imx",
-        "id": "5354",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "imx_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "cart",
         "id": "5360",
         "max-order-amt": null,
@@ -1020,15 +1032,15 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 2,
-        "base-currency": "ape",
-        "id": "5381",
+        "amount-precision": 3,
+        "base-currency": "crf",
+        "id": "5385",
         "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "ape_usdt",
+        "symbol": "crf_usdt",
         "symbol-partition": "innovation"
     },
     {
