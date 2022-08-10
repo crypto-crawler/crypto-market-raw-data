@@ -684,15 +684,15 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "doge",
-        "id": "5300",
+        "amount-precision": 3,
+        "base-currency": "ltc",
+        "id": "5299",
         "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 6,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
         "quote-currency": "qc",
         "state": "online",
-        "symbol": "doge_qc",
+        "symbol": "ltc_qc",
         "symbol-partition": "main"
     },
     {
@@ -730,18 +730,6 @@
         "state": "online",
         "symbol": "trx_qc",
         "symbol-partition": "main"
-    },
-    {
-        "amount-precision": 2,
-        "base-currency": "btm",
-        "id": "5307",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "btm_qc",
-        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 2,
@@ -985,18 +973,6 @@
     },
     {
         "amount-precision": 2,
-        "base-currency": "cart",
-        "id": "5360",
-        "max-order-amt": null,
-        "min-order-amt": "0.01",
-        "price-precision": 4,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "cart_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 2,
         "base-currency": "ape",
         "id": "5381",
         "max-order-amt": null,
@@ -1005,6 +981,18 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "ape_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 3,
+        "base-currency": "crf",
+        "id": "5385",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "crf_usdt",
         "symbol-partition": "innovation"
     },
     {
