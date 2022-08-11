@@ -531,15 +531,6 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "AURA",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "AURA_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "0",
         "base_currency": "KEEP",
         "quote_currency": "USDT",
@@ -547,6 +538,15 @@
         "status": "online",
         "symbol": "KEEP_USDT",
         "tick_size": "0"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "HUB",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "HUB_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "4",
