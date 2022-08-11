@@ -111,16 +111,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 5,
-        "description": "XRP / Paxos Standard",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "10.00000 PAX",
-        "name": "XRP/PAX",
-        "trading": "Disabled",
-        "url_symbol": "xrppax"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 8,
         "description": "Litecoin / Bitcoin",
         "instant_and_market_orders": "Enabled",
@@ -240,16 +230,6 @@
         "url_symbol": "bchbtc"
     },
     {
-        "base_decimals": 8,
-        "counter_decimals": 2,
-        "description": "Bitcoin Cash / British Pound",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "10.00 GBP",
-        "name": "BCH/GBP",
-        "trading": "Disabled",
-        "url_symbol": "bchgbp"
-    },
-    {
         "base_decimals": 5,
         "counter_decimals": 5,
         "description": "Paxos Standard / U.S. dollar",
@@ -258,26 +238,6 @@
         "name": "PAX/USD",
         "trading": "Enabled",
         "url_symbol": "paxusd"
-    },
-    {
-        "base_decimals": 5,
-        "counter_decimals": 5,
-        "description": "Paxos Standard / Euro",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "10.00000 EUR",
-        "name": "PAX/EUR",
-        "trading": "Disabled",
-        "url_symbol": "paxeur"
-    },
-    {
-        "base_decimals": 5,
-        "counter_decimals": 5,
-        "description": "Paxos Standard / British Pound",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "10.00000 GBP",
-        "name": "PAX/GBP",
-        "trading": "Disabled",
-        "url_symbol": "paxgbp"
     },
     {
         "base_decimals": 8,
@@ -358,16 +318,6 @@
         "name": "LINK/BTC",
         "trading": "Enabled",
         "url_symbol": "linkbtc"
-    },
-    {
-        "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Chainlink / Ether",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00200000 ETH",
-        "name": "LINK/ETH",
-        "trading": "Disabled",
-        "url_symbol": "linketh"
     },
     {
         "base_decimals": 8,
@@ -511,16 +461,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Basic Attention Token / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "BAT/BTC",
-        "trading": "Disabled",
-        "url_symbol": "batbtc"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 2,
         "description": "UMA / U.S. dollar",
         "instant_and_market_orders": "Enabled",
@@ -538,16 +478,6 @@
         "name": "UMA/EUR",
         "trading": "Enabled",
         "url_symbol": "umaeur"
-    },
-    {
-        "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "UMA / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "UMA/BTC",
-        "trading": "Disabled",
-        "url_symbol": "umabtc"
     },
     {
         "base_decimals": 5,
@@ -581,16 +511,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Kyber Network / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "KNC/BTC",
-        "trading": "Disabled",
-        "url_symbol": "kncbtc"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 2,
         "description": "Maker / U.S. dollar",
         "instant_and_market_orders": "Enabled",
@@ -611,16 +531,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Maker / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "MKR/BTC",
-        "trading": "Disabled",
-        "url_symbol": "mkrbtc"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 5,
         "description": "0x / U.S. dollar",
         "instant_and_market_orders": "Enabled",
@@ -638,16 +548,6 @@
         "name": "ZRX/EUR",
         "trading": "Enabled",
         "url_symbol": "zrxeur"
-    },
-    {
-        "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "0x / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "ZRX/BTC",
-        "trading": "Disabled",
-        "url_symbol": "zrxbtc"
     },
     {
         "base_decimals": 5,
@@ -741,16 +641,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Curve / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "CRV/BTC",
-        "trading": "Disabled",
-        "url_symbol": "crvbtc"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 5,
         "description": "Synthetix / U.S. dollar",
         "instant_and_market_orders": "Enabled",
@@ -768,16 +658,6 @@
         "name": "SNX/EUR",
         "trading": "Enabled",
         "url_symbol": "snxeur"
-    },
-    {
-        "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Synthetix / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "SNX/BTC",
-        "trading": "Disabled",
-        "url_symbol": "snxbtc"
     },
     {
         "base_decimals": 8,
@@ -831,16 +711,6 @@
     },
     {
         "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "yearn.finance / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "YFI/BTC",
-        "trading": "Disabled",
-        "url_symbol": "yfibtc"
-    },
-    {
-        "base_decimals": 8,
         "counter_decimals": 2,
         "description": "Compound / U.S. dollar",
         "instant_and_market_orders": "Enabled",
@@ -858,16 +728,6 @@
         "name": "COMP/EUR",
         "trading": "Enabled",
         "url_symbol": "compeur"
-    },
-    {
-        "base_decimals": 8,
-        "counter_decimals": 8,
-        "description": "Compound / Bitcoin",
-        "instant_and_market_orders": "Disabled",
-        "minimum_order": "0.00020000 BTC",
-        "name": "COMP/BTC",
-        "trading": "Disabled",
-        "url_symbol": "compbtc"
     },
     {
         "base_decimals": 8,
