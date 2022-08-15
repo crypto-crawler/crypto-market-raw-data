@@ -3810,7 +3810,9 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
             "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -3832,8 +3834,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 2,
+        "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 5000000,
