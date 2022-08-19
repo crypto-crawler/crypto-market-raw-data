@@ -2491,6 +2491,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BDX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BDX_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "LTO",
         "buy_start": 0,
@@ -3361,18 +3373,6 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "KON",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "KON_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16368,10 +16368,10 @@
         "fee": "0.2",
         "id": "KON_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -16708,6 +16708,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BVT",
+        "buy_start": 1661256000,
+        "fee": "0.2",
+        "id": "BVT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
