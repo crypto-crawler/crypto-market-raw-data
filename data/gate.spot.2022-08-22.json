@@ -53,7 +53,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "OMG_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -1110,7 +1110,7 @@
         "fee": "0.2",
         "id": "LTC_TRY",
         "min_base_amount": "0.003",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -2915,7 +2915,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "BTT_TRY",
-        "precision": 4,
+        "precision": 7,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -3478,7 +3478,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "MANA_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -4652,7 +4652,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "WBTC_TRY",
-        "precision": 4,
+        "precision": 0,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -5071,7 +5071,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "ENJ_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -5333,6 +5333,18 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "FIS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CHO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CHO_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
@@ -8566,7 +8578,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "ADA_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -10386,7 +10398,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "BAT_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -10852,7 +10864,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "AAVE_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -12181,7 +12193,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "DAI_TRY",
-        "precision": 4,
+        "precision": 3,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -14536,7 +14548,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "BNB_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -15733,7 +15745,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "ALGO_TRY",
-        "precision": 4,
+        "precision": 3,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -17027,7 +17039,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "FTT_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -17279,7 +17291,7 @@
         "fee": "0.2",
         "id": "ETH_TRY",
         "min_base_amount": "0.001",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -18294,7 +18306,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "EOS_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -21158,7 +21170,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "LINK_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -24014,12 +24026,12 @@
         "trade_status": "untradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "GST",
         "buy_start": 0,
         "fee": "0.2",
         "id": "GST_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -25085,7 +25097,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "UNI_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -26068,7 +26080,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "AXS_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -29573,7 +29585,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "SAND_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -29979,7 +29991,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "NEO_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -31843,12 +31855,12 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 0,
         "base": "SHIB",
         "buy_start": 0,
         "fee": "0.2",
         "id": "SHIB_TRY",
-        "precision": 4,
+        "precision": 8,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -32471,7 +32483,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "AVAX_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -32518,7 +32530,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "SOL_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -32973,7 +32985,7 @@
         "buy_start": 0,
         "fee": "0.2",
         "id": "1INCH_TRY",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
