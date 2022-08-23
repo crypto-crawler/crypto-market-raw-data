@@ -1081,6 +1081,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "LTC",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LTC_TRY",
+        "min_base_amount": "0.003",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "LOKA",
         "buy_start": 0,
         "fee": "0.2",
@@ -1102,18 +1114,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "LTC",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "LTC_TRY",
-        "min_base_amount": "0.003",
-        "precision": 2,
-        "quote": "TRY",
-        "sell_start": 0,
-        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -3306,24 +3306,24 @@
     },
     {
         "amount_precision": 3,
-        "base": "XMARK",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "XMARK_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "SAKE",
         "buy_start": 0,
         "fee": "0.2",
         "id": "SAKE_USDT",
         "min_quote_amount": "1",
         "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XMARK",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XMARK_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -3462,6 +3462,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "MANA",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "MANA_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ALPACA",
         "buy_start": 0,
         "fee": "0.2",
@@ -3469,17 +3480,6 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "MANA",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "MANA_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -3810,6 +3810,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "XRP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XRP_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "XOR",
         "buy_start": 0,
         "fee": "0.2",
@@ -3829,17 +3840,6 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "XRP",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "XRP_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -4612,6 +4612,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "WBTC",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "WBTC_TRY",
+        "precision": 0,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "TULIP",
         "buy_start": 0,
         "fee": "0.2",
@@ -4643,17 +4654,6 @@
         "min_quote_amount": "0.001",
         "precision": 9,
         "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "WBTC",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "WBTC_TRY",
-        "precision": 0,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -10237,18 +10237,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "RLY",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "RLY_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 2,
         "base": "INK",
         "buy_start": 0,
@@ -10257,6 +10245,18 @@
         "min_quote_amount": "0.0001",
         "precision": 9,
         "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "RLY",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RLY_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -10382,6 +10382,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "BAT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "BAT_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "EWT",
         "buy_start": 0,
         "fee": "0.2",
@@ -10389,17 +10400,6 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "BAT",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "BAT_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -10848,6 +10848,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "AAVE",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AAVE_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "APT",
         "buy_start": 0,
         "fee": "0.2",
@@ -10855,17 +10866,6 @@
         "min_quote_amount": "1",
         "precision": 7,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "AAVE",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "AAVE_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -14245,6 +14245,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "AMP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AMP_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CYS",
         "buy_start": 0,
         "fee": "0.2",
@@ -14252,17 +14263,6 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "AMP",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "AMP_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -16724,14 +16724,14 @@
     {
         "amount_precision": 2,
         "base": "BVT",
-        "buy_start": 1661256000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BVT_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -17022,6 +17022,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "FTT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "FTT_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "EGLD3S",
         "buy_start": 0,
@@ -17030,17 +17041,6 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "FTT",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "FTT_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -17501,6 +17501,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "SXP",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SXP_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "GALA3L",
         "buy_start": 0,
         "fee": "0.2",
@@ -17508,17 +17519,6 @@
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "SXP",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "SXP_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -18278,6 +18278,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "EOS",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "EOS_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "NOIA",
         "buy_start": 0,
         "fee": "0.2",
@@ -18297,17 +18308,6 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "EOS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "EOS_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -19008,6 +19008,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "XTZ",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XTZ_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "NUX",
         "buy_start": 0,
         "fee": "0.2",
@@ -19015,17 +19026,6 @@
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "XTZ",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "XTZ_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -21141,6 +21141,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "LINK",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LINK_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "GRIN",
         "buy_start": 0,
@@ -21161,17 +21172,6 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "LINK",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "LINK_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -30011,6 +30011,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "NEO",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "NEO_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "INK",
         "buy_start": 0,
         "fee": "0.2",
@@ -30018,17 +30029,6 @@
         "min_quote_amount": "1",
         "precision": 8,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "NEO",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "NEO_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -31089,6 +31089,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "CHZ",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CHZ_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 4,
         "base": "NEO",
         "buy_start": 0,
@@ -31097,17 +31108,6 @@
         "min_quote_amount": "1",
         "precision": 2,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "CHZ",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "CHZ_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -31749,6 +31749,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "WAVES",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "WAVES_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DFL",
         "buy_start": 0,
         "fee": "0.2",
@@ -31756,17 +31767,6 @@
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "WAVES",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "WAVES_TRY",
-        "precision": 4,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -32503,6 +32503,17 @@
     },
     {
         "amount_precision": 3,
+        "base": "AVAX",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "AVAX_TRY",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DODO",
         "buy_start": 0,
         "fee": "0.2",
@@ -32510,17 +32521,6 @@
         "min_quote_amount": "0.001",
         "precision": 6,
         "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "AVAX",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "AVAX_TRY",
-        "precision": 2,
-        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
