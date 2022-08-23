@@ -657,13 +657,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "3",
         "base_currency": "PORTO",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "3",
         "status": "online",
         "symbol": "PORTO_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -675,13 +675,13 @@
         "tick_size": "10"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "3",
         "base_currency": "LAZIO",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "3",
         "status": "online",
         "symbol": "LAZIO_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",
@@ -691,6 +691,15 @@
         "status": "online",
         "symbol": "LTC_ETH",
         "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "SANTOS",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "SANTOS_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "3",
@@ -2061,15 +2070,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
-        "base_currency": "HOP",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "HOP_USDT",
-        "tick_size": "0"
-    },
-    {
         "base_asset_precision": "4",
         "base_currency": "ENS",
         "quote_currency": "USDT",
@@ -3103,15 +3103,6 @@
         "status": "online",
         "symbol": "FIL_ETH",
         "tick_size": "6"
-    },
-    {
-        "base_asset_precision": "0",
-        "base_currency": "DEGO",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "DEGO_USDT",
-        "tick_size": "0"
     },
     {
         "base_asset_precision": "4",
