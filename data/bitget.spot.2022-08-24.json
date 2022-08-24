@@ -558,6 +558,15 @@
         "tick_size": "7"
     },
     {
+        "base_asset_precision": "3",
+        "base_currency": "STC",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "STC_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "BGB",
         "quote_currency": "BTC",
@@ -568,11 +577,11 @@
     },
     {
         "base_asset_precision": "3",
-        "base_currency": "STC",
+        "base_currency": "PSG",
         "quote_currency": "USDT",
         "size_increment": "3",
         "status": "online",
-        "symbol": "STC_USDT",
+        "symbol": "PSG_USDT",
         "tick_size": "5"
     },
     {
@@ -582,15 +591,6 @@
         "size_increment": "0",
         "status": "online",
         "symbol": "TRYB_USDT",
-        "tick_size": "5"
-    },
-    {
-        "base_asset_precision": "3",
-        "base_currency": "PSG",
-        "quote_currency": "USDT",
-        "size_increment": "3",
-        "status": "online",
-        "symbol": "PSG_USDT",
         "tick_size": "5"
     },
     {
@@ -612,15 +612,6 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
-        "base_currency": "TUSD",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "TUSD_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "3",
         "base_currency": "BAR",
         "quote_currency": "USDT",
@@ -630,6 +621,15 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "TUSD",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "TUSD_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "TRX",
         "quote_currency": "ETH",
@@ -637,6 +637,15 @@
         "status": "online",
         "symbol": "TRX_ETH",
         "tick_size": "8"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "PORTO",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "PORTO_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "1",
@@ -649,11 +658,11 @@
     },
     {
         "base_asset_precision": "3",
-        "base_currency": "PORTO",
+        "base_currency": "LAZIO",
         "quote_currency": "USDT",
         "size_increment": "3",
         "status": "online",
-        "symbol": "PORTO_USDT",
+        "symbol": "LAZIO_USDT",
         "tick_size": "4"
     },
     {
@@ -664,15 +673,6 @@
         "status": "online",
         "symbol": "BTT_USDT",
         "tick_size": "10"
-    },
-    {
-        "base_asset_precision": "3",
-        "base_currency": "LAZIO",
-        "quote_currency": "USDT",
-        "size_increment": "3",
-        "status": "online",
-        "symbol": "LAZIO_USDT",
-        "tick_size": "4"
     },
     {
         "base_asset_precision": "4",
@@ -702,15 +702,6 @@
         "tick_size": "9"
     },
     {
-        "base_asset_precision": "0",
-        "base_currency": "GLM",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "GLM_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "CITY",
         "quote_currency": "USDT",
@@ -721,11 +712,11 @@
     },
     {
         "base_asset_precision": "0",
-        "base_currency": "NYM",
+        "base_currency": "GLM",
         "quote_currency": "USDT",
         "size_increment": "0",
         "status": "online",
-        "symbol": "NYM_USDT",
+        "symbol": "GLM_USDT",
         "tick_size": "4"
     },
     {
@@ -738,6 +729,15 @@
         "tick_size": "3"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "NYM",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "NYM_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "3",
         "base_currency": "SOS",
         "quote_currency": "USDT",
@@ -747,15 +747,6 @@
         "tick_size": "10"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "MMETA",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "MMETA_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "ATM",
         "quote_currency": "USDT",
@@ -763,6 +754,15 @@
         "status": "online",
         "symbol": "ATM_USDT",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "MMETA",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "MMETA_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "4",
@@ -792,15 +792,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
-        "base_currency": "ELT",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "ELT_USDT",
-        "tick_size": "5"
-    },
-    {
         "base_asset_precision": "3",
         "base_currency": "POR",
         "quote_currency": "USDT",
@@ -808,6 +799,15 @@
         "status": "online",
         "symbol": "POR_USDT",
         "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "0",
+        "base_currency": "ELT",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "ELT_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
