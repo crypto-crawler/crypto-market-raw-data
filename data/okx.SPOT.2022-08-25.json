@@ -26,7 +26,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.1",
-        "uly": ""
+        "uly": "BTC-USDT"
     },
     {
         "alias": "",
@@ -55,7 +55,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "ETH-USDT"
     },
     {
         "alias": "",
@@ -84,7 +84,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "OKB-USDT"
     },
     {
         "alias": "",
@@ -142,7 +142,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "LTC-USDT"
     },
     {
         "alias": "",
@@ -171,7 +171,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "DOT-USDT"
     },
     {
         "alias": "",
@@ -200,36 +200,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "CHZ",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "CHZ-USDT",
-        "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1614754800000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999",
-        "maxLmtSz": "999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999",
-        "maxTwapSz": "999999999999",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.00001",
-        "uly": ""
+        "uly": "DOGE-USDT"
     },
     {
         "alias": "",
@@ -258,7 +229,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "ETC-USDT"
     },
     {
         "alias": "",
@@ -287,7 +258,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "FIL-USDT"
+    },
+    {
+        "alias": "",
+        "baseCcy": "CHZ",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "CHZ-USDT",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1614754800000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999",
+        "maxLmtSz": "999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999",
+        "maxTwapSz": "999999999999",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.00001",
+        "uly": "CHZ-USDT"
     },
     {
         "alias": "",
@@ -316,21 +316,50 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "EOS-USDT"
     },
     {
         "alias": "",
-        "baseCcy": "OP",
+        "baseCcy": "TORN",
         "category": "1",
         "ctMult": "",
         "ctType": "",
         "ctVal": "",
         "ctValCcy": "",
         "expTime": "",
-        "instId": "OP-USDT",
+        "instId": "TORN-USDT",
         "instType": "SPOT",
         "lever": "5",
-        "listTime": "1654017130000",
+        "listTime": "1613707213000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999",
+        "maxLmtSz": "999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999",
+        "maxTwapSz": "999999999999",
+        "minSz": "0.01",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.01",
+        "uly": "TORN-USDT"
+    },
+    {
+        "alias": "",
+        "baseCcy": "STC",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "STC-USDT",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1661149481000",
         "lotSz": "0.0001",
         "maxIcebergSz": "99999999999999",
         "maxLmtSz": "99999999999999",
@@ -338,13 +367,13 @@
         "maxStopSz": "1000000",
         "maxTriggerSz": "99999999999999",
         "maxTwapSz": "99999999999999",
-        "minSz": "1",
+        "minSz": "0.1",
         "optType": "",
         "quoteCcy": "USDT",
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -374,7 +403,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "1INCH-USDT"
     },
     {
         "alias": "",
@@ -403,7 +432,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "AAVE-USDT"
     },
     {
         "alias": "",
@@ -490,7 +519,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "ADA-USDT"
     },
     {
         "alias": "",
@@ -548,7 +577,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "AGLD-USDT"
     },
     {
         "alias": "",
@@ -577,7 +606,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000000001",
-        "uly": ""
+        "uly": "AKITA-USDT"
     },
     {
         "alias": "",
@@ -635,7 +664,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ALGO-USDT"
     },
     {
         "alias": "",
@@ -664,7 +693,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ALPHA-USDT"
     },
     {
         "alias": "",
@@ -722,7 +751,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "ANT-USDT"
     },
     {
         "alias": "",
@@ -780,7 +809,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "APE-USDT"
     },
     {
         "alias": "",
@@ -838,7 +867,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "API3-USDT"
     },
     {
         "alias": "",
@@ -983,7 +1012,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ASTR-USDT"
     },
     {
         "alias": "",
@@ -1012,7 +1041,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "ATOM-USDT"
     },
     {
         "alias": "",
@@ -1070,7 +1099,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "AVAX-USDT"
     },
     {
         "alias": "",
@@ -1099,7 +1128,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "AXS-USDT"
     },
     {
         "alias": "",
@@ -1157,7 +1186,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000000001",
-        "uly": ""
+        "uly": "BABYDOGE-USDT"
     },
     {
         "alias": "",
@@ -1186,7 +1215,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "BADGER-USDT"
     },
     {
         "alias": "",
@@ -1215,7 +1244,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "BAL-USDT"
     },
     {
         "alias": "",
@@ -1244,7 +1273,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "BAND-USDT"
     },
     {
         "alias": "",
@@ -1273,7 +1302,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "BAT-USDT"
     },
     {
         "alias": "",
@@ -1331,7 +1360,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "BCH-USDT"
     },
     {
         "alias": "",
@@ -1418,7 +1447,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "BICO-USDT"
     },
     {
         "alias": "",
@@ -1476,7 +1505,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "BNT-USDT"
     },
     {
         "alias": "",
@@ -1592,7 +1621,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "BSV-USDT"
     },
     {
         "alias": "",
@@ -1650,7 +1679,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "BTM-USDT"
     },
     {
         "alias": "",
@@ -1679,7 +1708,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "BTT-USDT"
     },
     {
         "alias": "",
@@ -1708,7 +1737,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "BZZ-USDT"
     },
     {
         "alias": "",
@@ -1737,7 +1766,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "CELO-USDT"
     },
     {
         "alias": "",
@@ -1766,7 +1795,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "CEL-USDT"
     },
     {
         "alias": "",
@@ -1795,7 +1824,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "CELR-USDT"
     },
     {
         "alias": "",
@@ -1882,7 +1911,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "CFX-USDT"
     },
     {
         "alias": "",
@@ -1998,7 +2027,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "CLV-USDT"
     },
     {
         "alias": "",
@@ -2085,7 +2114,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "COMP-USDT"
     },
     {
         "alias": "",
@@ -2114,7 +2143,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "CONV-USDT"
     },
     {
         "alias": "",
@@ -2172,7 +2201,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "CQT-USDT"
     },
     {
         "alias": "",
@@ -2201,7 +2230,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "CRO-USDT"
     },
     {
         "alias": "",
@@ -2230,7 +2259,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "CRV-USDT"
     },
     {
         "alias": "",
@@ -2259,7 +2288,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "CSPR-USDT"
     },
     {
         "alias": "",
@@ -2346,7 +2375,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "CVC-USDT"
     },
     {
         "alias": "",
@@ -2520,7 +2549,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "DASH-USDT"
     },
     {
         "alias": "",
@@ -2781,7 +2810,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "DOME-USDT"
     },
     {
         "alias": "",
@@ -2810,7 +2839,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "DORA-USDT"
     },
     {
         "alias": "",
@@ -2868,7 +2897,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "DYDX-USDT"
     },
     {
         "alias": "",
@@ -2955,7 +2984,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "EFI-USDT"
     },
     {
         "alias": "",
@@ -2984,7 +3013,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "EGLD-USDT"
     },
     {
         "alias": "",
@@ -3042,7 +3071,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ELF-USDT"
     },
     {
         "alias": "",
@@ -3158,7 +3187,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ENJ-USDT"
     },
     {
         "alias": "",
@@ -3187,7 +3216,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "ENS-USDT"
     },
     {
         "alias": "",
@@ -3332,7 +3361,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "FITFI-USDT"
     },
     {
         "alias": "",
@@ -3361,7 +3390,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "FLM-USDT"
     },
     {
         "alias": "",
@@ -3390,7 +3419,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "FLOW-USDT"
     },
     {
         "alias": "",
@@ -3535,7 +3564,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "FTM-USDT"
     },
     {
         "alias": "",
@@ -3564,7 +3593,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "GALA-USDT"
     },
     {
         "alias": "",
@@ -3767,7 +3796,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "GLMR-USDT"
     },
     {
         "alias": "",
@@ -3825,7 +3854,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "GMT-USDT"
     },
     {
         "alias": "",
@@ -3854,7 +3883,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "GODS-USDT"
     },
     {
         "alias": "",
@@ -3912,7 +3941,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "GRT-USDT"
     },
     {
         "alias": "",
@@ -3999,7 +4028,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "HBAR-USDT"
     },
     {
         "alias": "",
@@ -4028,7 +4057,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "HC-USDT"
     },
     {
         "alias": "",
@@ -4144,7 +4173,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "ICP-USDT"
     },
     {
         "alias": "",
@@ -4231,7 +4260,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "IMX-USDT"
     },
     {
         "alias": "",
@@ -4318,7 +4347,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "IOST-USDT"
     },
     {
         "alias": "",
@@ -4347,7 +4376,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "IOTA-USDT"
     },
     {
         "alias": "",
@@ -4463,7 +4492,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "JST-USDT"
     },
     {
         "alias": "",
@@ -4521,7 +4550,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "KAR-USDT"
     },
     {
         "alias": "",
@@ -4637,7 +4666,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000000001",
-        "uly": ""
+        "uly": "KISHU-USDT"
     },
     {
         "alias": "",
@@ -4695,7 +4724,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "KNC-USDT"
     },
     {
         "alias": "",
@@ -4811,7 +4840,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "KSM-USDT"
     },
     {
         "alias": "",
@@ -4840,7 +4869,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "LAMB-USDT"
     },
     {
         "alias": "",
@@ -4869,7 +4898,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "LAT-USDT"
     },
     {
         "alias": "",
@@ -5043,7 +5072,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "LINK-USDT"
     },
     {
         "alias": "",
@@ -5101,7 +5130,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "LON-USDT"
     },
     {
         "alias": "",
@@ -5159,7 +5188,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "LOOKS-USDT"
     },
     {
         "alias": "",
@@ -5188,7 +5217,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "LPT-USDT"
     },
     {
         "alias": "",
@@ -5217,7 +5246,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "LRC-USDT"
     },
     {
         "alias": "",
@@ -5304,7 +5333,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "LUNA-USDT"
     },
     {
         "alias": "",
@@ -5362,7 +5391,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "MANA-USDT"
     },
     {
         "alias": "",
@@ -5391,7 +5420,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "MASK-USDT"
     },
     {
         "alias": "",
@@ -5420,7 +5449,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "MATIC-USDT"
     },
     {
         "alias": "",
@@ -5623,7 +5652,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "MINA-USDT"
     },
     {
         "alias": "",
@@ -5710,7 +5739,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.1",
-        "uly": ""
+        "uly": "MKR-USDT"
     },
     {
         "alias": "",
@@ -5942,7 +5971,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "NAS-USDT"
     },
     {
         "alias": "",
@@ -5971,7 +6000,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "NEAR-USDT"
     },
     {
         "alias": "",
@@ -6000,7 +6029,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "NEO-USDT"
     },
     {
         "alias": "",
@@ -6029,7 +6058,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000000001",
-        "uly": ""
+        "uly": "NFT-USDT"
     },
     {
         "alias": "",
@@ -6116,7 +6145,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "NYM-USDT"
     },
     {
         "alias": "",
@@ -6174,7 +6203,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "OMG-USDT"
     },
     {
         "alias": "",
@@ -6261,7 +6290,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ONT-USDT"
+    },
+    {
+        "alias": "",
+        "baseCcy": "OP",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "OP-USDT",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1654017130000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999",
+        "maxTwapSz": "99999999999999",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0001",
+        "uly": "OP-USDT"
     },
     {
         "alias": "",
@@ -6464,7 +6522,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "PEOPLE-USDT"
     },
     {
         "alias": "",
@@ -6493,7 +6551,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "PERP-USDT"
     },
     {
         "alias": "",
@@ -6870,7 +6928,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "QTUM-USDT"
     },
     {
         "alias": "",
@@ -6957,7 +7015,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "REN-USDT"
     },
     {
         "alias": "",
@@ -7189,7 +7247,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "RSR-USDT"
     },
     {
         "alias": "",
@@ -7218,7 +7276,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "RSS3-USDT"
     },
     {
         "alias": "",
@@ -7247,7 +7305,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "RVN-USDT"
     },
     {
         "alias": "",
@@ -7334,7 +7392,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "SAND-USDT"
     },
     {
         "alias": "",
@@ -7363,7 +7421,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "SC-USDT"
     },
     {
         "alias": "",
@@ -7450,7 +7508,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "SHIB-USDT"
     },
     {
         "alias": "",
@@ -7508,7 +7566,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "SKL-USDT"
     },
     {
         "alias": "",
@@ -7537,7 +7595,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "SLP-USDT"
     },
     {
         "alias": "",
@@ -7566,7 +7624,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "SNT-USDT"
     },
     {
         "alias": "",
@@ -7595,7 +7653,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "SNX-USDT"
     },
     {
         "alias": "",
@@ -7653,7 +7711,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "SOL-USDT"
     },
     {
         "alias": "",
@@ -7682,7 +7740,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "SOS-USDT"
     },
     {
         "alias": "",
@@ -7740,7 +7798,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "SRM-USDT"
     },
     {
         "alias": "",
@@ -7769,36 +7827,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "STC",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "STC-USDT",
-        "instType": "SPOT",
-        "lever": "",
-        "listTime": "1661149481000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999",
-        "maxTwapSz": "99999999999999",
-        "minSz": "0.1",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
-        "uly": ""
+        "uly": "STARL-USDT"
     },
     {
         "alias": "",
@@ -7827,7 +7856,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "STORJ-USDT"
     },
     {
         "alias": "",
@@ -7943,7 +7972,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "SUSHI-USDT"
     },
     {
         "alias": "",
@@ -8001,7 +8030,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "SWRV-USDT"
     },
     {
         "alias": "",
@@ -8146,7 +8175,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "THETA-USDT"
     },
     {
         "alias": "",
@@ -8233,35 +8262,6 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "TORN",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "TORN-USDT",
-        "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1613707213000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999",
-        "maxLmtSz": "999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999",
-        "maxTwapSz": "999999999999",
-        "minSz": "0.01",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.01",
         "uly": ""
     },
     {
@@ -8378,7 +8378,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "TRB-USDT"
     },
     {
         "alias": "",
@@ -8436,7 +8436,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "TRX-USDT"
     },
     {
         "alias": "",
@@ -8523,7 +8523,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "UMA-USDT"
     },
     {
         "alias": "",
@@ -8552,7 +8552,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "UMEE-USDT"
     },
     {
         "alias": "",
@@ -8581,7 +8581,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "UNI-USDT"
     },
     {
         "alias": "",
@@ -8610,7 +8610,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "USDC-USDT"
     },
     {
         "alias": "",
@@ -8813,7 +8813,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "VSYS-USDT"
     },
     {
         "alias": "",
@@ -8842,7 +8842,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "WAVES-USDT"
     },
     {
         "alias": "",
@@ -9045,7 +9045,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "WNCG-USDT"
     },
     {
         "alias": "",
@@ -9074,7 +9074,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "WNXM-USDT"
     },
     {
         "alias": "",
@@ -9219,7 +9219,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "XCH-USDT"
     },
     {
         "alias": "",
@@ -9277,7 +9277,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "XEM-USDT"
     },
     {
         "alias": "",
@@ -9335,7 +9335,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "XLM-USDT"
     },
     {
         "alias": "",
@@ -9364,7 +9364,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "XMR-USDT"
     },
     {
         "alias": "",
@@ -9451,7 +9451,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "XRP-USDT"
     },
     {
         "alias": "",
@@ -9480,7 +9480,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
+        "uly": "XTZ-USDT"
     },
     {
         "alias": "",
@@ -9538,7 +9538,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "1",
-        "uly": ""
+        "uly": "YFI-USDT"
     },
     {
         "alias": "",
@@ -9567,7 +9567,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.1",
-        "uly": ""
+        "uly": "YFII-USDT"
     },
     {
         "alias": "",
@@ -9596,7 +9596,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "YGG-USDT"
     },
     {
         "alias": "",
@@ -9712,7 +9712,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "ZEC-USDT"
     },
     {
         "alias": "",
@@ -9741,7 +9741,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
-        "uly": ""
+        "uly": "ZEN-USDT"
     },
     {
         "alias": "",
@@ -9770,7 +9770,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "ZIL-USDT"
     },
     {
         "alias": "",
@@ -9828,7 +9828,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "ZRX-USDT"
     },
     {
         "alias": "",
@@ -9944,7 +9944,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "ETH-BTC"
     },
     {
         "alias": "",
@@ -10093,35 +10093,6 @@
     },
     {
         "alias": "",
-        "baseCcy": "CHZ",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "CHZ-USDC",
-        "instType": "SPOT",
-        "lever": "",
-        "listTime": "1655787830000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999",
-        "maxTwapSz": "99999999999999",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "USDC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.00001",
-        "uly": ""
-    },
-    {
-        "alias": "",
         "baseCcy": "ETC",
         "category": "1",
         "ctMult": "",
@@ -10180,6 +10151,35 @@
     },
     {
         "alias": "",
+        "baseCcy": "CHZ",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "CHZ-USDC",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1655787830000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999",
+        "maxTwapSz": "99999999999999",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "USDC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.00001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "EOS",
         "category": "1",
         "ctMult": "",
@@ -10209,17 +10209,17 @@
     },
     {
         "alias": "",
-        "baseCcy": "OP",
+        "baseCcy": "TORN",
         "category": "1",
         "ctMult": "",
         "ctType": "",
         "ctVal": "",
         "ctValCcy": "",
         "expTime": "",
-        "instId": "OP-USDC",
+        "instId": "TORN-USDC",
         "instType": "SPOT",
         "lever": "",
-        "listTime": "1654017130000",
+        "listTime": "1660023578000",
         "lotSz": "0.0001",
         "maxIcebergSz": "99999999999999",
         "maxLmtSz": "99999999999999",
@@ -10227,13 +10227,42 @@
         "maxStopSz": "1000000",
         "maxTriggerSz": "99999999999999",
         "maxTwapSz": "99999999999999",
-        "minSz": "1",
+        "minSz": "0.01",
         "optType": "",
         "quoteCcy": "USDC",
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.01",
+        "uly": ""
+    },
+    {
+        "alias": "",
+        "baseCcy": "STC",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "STC-USDC",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1661149481000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999",
+        "maxTwapSz": "99999999999999",
+        "minSz": "0.1",
+        "optType": "",
+        "quoteCcy": "USDC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -12326,6 +12355,35 @@
     },
     {
         "alias": "",
+        "baseCcy": "OP",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "OP-USDC",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1654017130000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999",
+        "maxTwapSz": "99999999999999",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "USDC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "PEOPLE",
         "category": "1",
         "ctMult": "",
@@ -12732,35 +12790,6 @@
     },
     {
         "alias": "",
-        "baseCcy": "STC",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "STC-USDC",
-        "instType": "SPOT",
-        "lever": "",
-        "listTime": "1661149481000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999",
-        "maxTwapSz": "99999999999999",
-        "minSz": "0.1",
-        "optType": "",
-        "quoteCcy": "USDC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
-        "uly": ""
-    },
-    {
-        "alias": "",
         "baseCcy": "STORJ",
         "category": "1",
         "ctMult": "",
@@ -12931,35 +12960,6 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "TORN",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "TORN-USDC",
-        "instType": "SPOT",
-        "lever": "",
-        "listTime": "1660023578000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999",
-        "maxTwapSz": "99999999999999",
-        "minSz": "0.01",
-        "optType": "",
-        "quoteCcy": "USDC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.01",
         "uly": ""
     },
     {
@@ -13685,7 +13685,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "OKB-BTC"
     },
     {
         "alias": "",
@@ -13743,7 +13743,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "LTC-BTC"
     },
     {
         "alias": "",
@@ -13772,7 +13772,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "DOT-BTC"
     },
     {
         "alias": "",
@@ -13801,36 +13801,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "CHZ",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instId": "CHZ-BTC",
-        "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1614754800000",
-        "lotSz": "1",
-        "maxIcebergSz": "9999999999999999",
-        "maxLmtSz": "9999999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "9999999999999999",
-        "maxTwapSz": "9999999999999999",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "BTC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "DOGE-BTC"
     },
     {
         "alias": "",
@@ -13859,7 +13830,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "ETC-BTC"
     },
     {
         "alias": "",
@@ -13888,7 +13859,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "FIL-BTC"
+    },
+    {
+        "alias": "",
+        "baseCcy": "CHZ",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instId": "CHZ-BTC",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1614754800000",
+        "lotSz": "1",
+        "maxIcebergSz": "9999999999999999",
+        "maxLmtSz": "9999999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "9999999999999999",
+        "maxTwapSz": "9999999999999999",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "BTC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.000000001",
+        "uly": "CHZ-BTC"
     },
     {
         "alias": "",
@@ -13917,7 +13917,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "EOS-BTC"
     },
     {
         "alias": "",
@@ -13946,7 +13946,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "AAVE-BTC"
     },
     {
         "alias": "",
@@ -13975,7 +13975,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "ADA-BTC"
     },
     {
         "alias": "",
@@ -14004,7 +14004,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "ALGO-BTC"
     },
     {
         "alias": "",
@@ -14062,7 +14062,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "ANT-BTC"
     },
     {
         "alias": "",
@@ -14091,7 +14091,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "ATOM-BTC"
     },
     {
         "alias": "",
@@ -14120,7 +14120,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "AVAX-BTC"
     },
     {
         "alias": "",
@@ -14149,7 +14149,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "BADGER-BTC"
     },
     {
         "alias": "",
@@ -14178,7 +14178,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "BAT-BTC"
     },
     {
         "alias": "",
@@ -14236,7 +14236,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "BCH-BTC"
     },
     {
         "alias": "",
@@ -14265,7 +14265,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "BNT-BTC"
     },
     {
         "alias": "",
@@ -14294,7 +14294,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "BSV-BTC"
     },
     {
         "alias": "",
@@ -14352,7 +14352,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "BTM-BTC"
     },
     {
         "alias": "",
@@ -14439,7 +14439,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "COMP-BTC"
     },
     {
         "alias": "",
@@ -14497,7 +14497,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "CRO-BTC"
     },
     {
         "alias": "",
@@ -14526,7 +14526,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "CRV-BTC"
     },
     {
         "alias": "",
@@ -14584,7 +14584,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "CVC-BTC"
     },
     {
         "alias": "",
@@ -14613,7 +14613,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "DASH-BTC"
     },
     {
         "alias": "",
@@ -14700,7 +14700,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "EGLD-BTC"
     },
     {
         "alias": "",
@@ -14729,7 +14729,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "ELF-BTC"
     },
     {
         "alias": "",
@@ -14758,7 +14758,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "ENJ-BTC"
     },
     {
         "alias": "",
@@ -14845,7 +14845,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "GRT-BTC"
     },
     {
         "alias": "",
@@ -14903,7 +14903,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "HBAR-BTC"
     },
     {
         "alias": "",
@@ -14932,7 +14932,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "HC-BTC"
     },
     {
         "alias": "",
@@ -14961,7 +14961,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "ICP-BTC"
     },
     {
         "alias": "",
@@ -15048,7 +15048,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "IOST-BTC"
     },
     {
         "alias": "",
@@ -15077,7 +15077,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "IOTA-BTC"
     },
     {
         "alias": "",
@@ -15135,7 +15135,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "KNC-BTC"
     },
     {
         "alias": "",
@@ -15164,7 +15164,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
-        "uly": ""
+        "uly": "KSM-BTC"
     },
     {
         "alias": "",
@@ -15193,7 +15193,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "LINK-BTC"
     },
     {
         "alias": "",
@@ -15222,7 +15222,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "LRC-BTC"
     },
     {
         "alias": "",
@@ -15280,7 +15280,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "MANA-BTC"
     },
     {
         "alias": "",
@@ -15338,7 +15338,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
+        "uly": "MKR-BTC"
     },
     {
         "alias": "",
@@ -15367,7 +15367,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "NAS-BTC"
     },
     {
         "alias": "",
@@ -15396,7 +15396,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "NEAR-BTC"
     },
     {
         "alias": "",
@@ -15425,7 +15425,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "NEO-BTC"
     },
     {
         "alias": "",
@@ -15483,7 +15483,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "OMG-BTC"
     },
     {
         "alias": "",
@@ -15512,7 +15512,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "ONT-BTC"
     },
     {
         "alias": "",
@@ -15570,7 +15570,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "QTUM-BTC"
     },
     {
         "alias": "",
@@ -15599,7 +15599,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "REN-BTC"
     },
     {
         "alias": "",
@@ -15628,7 +15628,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "RSR-BTC"
     },
     {
         "alias": "",
@@ -15657,7 +15657,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "RVN-BTC"
     },
     {
         "alias": "",
@@ -15715,7 +15715,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "SNT-BTC"
     },
     {
         "alias": "",
@@ -15744,7 +15744,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "SOL-BTC"
     },
     {
         "alias": "",
@@ -15773,7 +15773,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "SRM-BTC"
     },
     {
         "alias": "",
@@ -15860,7 +15860,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "THETA-BTC"
     },
     {
         "alias": "",
@@ -15918,7 +15918,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "TRX-BTC"
     },
     {
         "alias": "",
@@ -15947,7 +15947,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
-        "uly": ""
+        "uly": "UNI-BTC"
     },
     {
         "alias": "",
@@ -15976,7 +15976,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000000001",
-        "uly": ""
+        "uly": "VSYS-BTC"
     },
     {
         "alias": "",
@@ -16005,7 +16005,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "WAVES-BTC"
     },
     {
         "alias": "",
@@ -16092,7 +16092,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "XCH-BTC"
     },
     {
         "alias": "",
@@ -16121,7 +16121,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "XEM-BTC"
     },
     {
         "alias": "",
@@ -16150,7 +16150,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "XLM-BTC"
     },
     {
         "alias": "",
@@ -16179,7 +16179,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "XMR-BTC"
     },
     {
         "alias": "",
@@ -16208,7 +16208,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "XRP-BTC"
     },
     {
         "alias": "",
@@ -16237,7 +16237,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "XTZ-BTC"
     },
     {
         "alias": "",
@@ -16324,7 +16324,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
+        "uly": "ZEC-BTC"
     },
     {
         "alias": "",
@@ -16382,7 +16382,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000000001",
-        "uly": ""
+        "uly": "ZIL-BTC"
     },
     {
         "alias": "",
@@ -16411,7 +16411,7 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00000001",
-        "uly": ""
+        "uly": "ZRX-BTC"
     },
     {
         "alias": "",
