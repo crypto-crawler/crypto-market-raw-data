@@ -3545,7 +3545,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.0500",
+        "triggerProtect": "0.1000",
         "underlyingSubType": [
             "DEX"
         ],
@@ -9539,7 +9539,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1500",
+        "triggerProtect": "0.0500",
         "underlyingSubType": [
             "Layer-1"
         ],
@@ -9580,14 +9580,14 @@
             {
                 "filterType": "PERCENT_PRICE",
                 "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
+                "multiplierDown": "0.9000",
+                "multiplierUp": "1.1000"
             }
         ],
         "liquidationFee": "0.010000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
-        "marketTakeBound": "0.05",
+        "marketTakeBound": "0.10",
         "onboardDate": 1632812400000,
         "orderTypes": [
             "LIMIT",
@@ -9613,7 +9613,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1500",
+        "triggerProtect": "0.1000",
         "underlyingSubType": [
             "Storage"
         ],
@@ -9876,14 +9876,14 @@
             {
                 "filterType": "PERCENT_PRICE",
                 "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
+                "multiplierDown": "0.9000",
+                "multiplierUp": "1.1000"
             }
         ],
         "liquidationFee": "0.010000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
-        "marketTakeBound": "0.05",
+        "marketTakeBound": "0.10",
         "onboardDate": 1636527600000,
         "orderTypes": [
             "LIMIT",
@@ -9909,7 +9909,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1500",
+        "triggerProtect": "0.1000",
         "underlyingSubType": [
             "Infrastructure"
         ],
@@ -9950,14 +9950,14 @@
             {
                 "filterType": "PERCENT_PRICE",
                 "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
+                "multiplierDown": "0.9000",
+                "multiplierUp": "1.1000"
             }
         ],
         "liquidationFee": "0.010000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
-        "marketTakeBound": "0.05",
+        "marketTakeBound": "0.10",
         "onboardDate": 1638169200000,
         "orderTypes": [
             "LIMIT",
@@ -9983,7 +9983,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1500",
+        "triggerProtect": "0.1000",
         "underlyingSubType": [
             "DAO"
         ],
