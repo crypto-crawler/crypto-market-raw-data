@@ -6460,10 +6460,10 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "MXC",
         "base_increment": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MXC/USD",
         "fx_stablecoin": false,
         "id": "MXC-USD",
@@ -6475,7 +6475,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.00001",
         "status": "online",
-        "status_message": "We\u2019ve started accepting deposits, trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -6533,6 +6533,44 @@
         "quote_increment": "0.00001",
         "status": "online",
         "status_message": "",
+        "trading_disabled": false
+    },
+    {
+        "auction_mode": false,
+        "base_currency": "NEAR",
+        "base_increment": "0.001",
+        "cancel_only": true,
+        "display_name": "NEAR/USD",
+        "fx_stablecoin": false,
+        "id": "NEAR-USD",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_slippage_percentage": "0.03000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USD",
+        "quote_increment": "0.001",
+        "status": "online",
+        "status_message": "We are now accepting deposits. Trading will begin shortly.",
+        "trading_disabled": false
+    },
+    {
+        "auction_mode": false,
+        "base_currency": "NEAR",
+        "base_increment": "0.001",
+        "cancel_only": true,
+        "display_name": "NEAR/USDT",
+        "fx_stablecoin": false,
+        "id": "NEAR-USDT",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_slippage_percentage": "0.03000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USDT",
+        "quote_increment": "0.001",
+        "status": "online",
+        "status_message": "We are now accepting deposits. Trading will begin shortly.",
         "trading_disabled": false
     },
     {
