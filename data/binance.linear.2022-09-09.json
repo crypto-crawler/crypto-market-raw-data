@@ -13686,7 +13686,7 @@
     {
         "baseAsset": "1000LUNC",
         "baseAssetPrecision": 8,
-        "contractType": "",
+        "contractType": "PERPETUAL",
         "deliveryDate": 4133404800000,
         "filters": [
             {
@@ -13722,7 +13722,7 @@
                 "multiplierUp": "1.1000"
             }
         ],
-        "liquidationFee": "0.010000",
+        "liquidationFee": "0.015000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
         "marketTakeBound": "0.10",
@@ -13743,7 +13743,7 @@
         "quotePrecision": 8,
         "requiredMarginPercent": "5.0000",
         "settlePlan": 0,
-        "status": "PENDING_TRADING",
+        "status": "TRADING",
         "symbol": "1000LUNCUSDT",
         "timeInForce": [
             "GTC",
