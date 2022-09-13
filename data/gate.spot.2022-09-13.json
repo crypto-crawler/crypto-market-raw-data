@@ -6646,16 +6646,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "SWEAT",
-        "buy_start": 1663057800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SWEAT_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -7414,14 +7414,14 @@
     {
         "amount_precision": 3,
         "base": "SCCP",
-        "buy_start": 1663063200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SCCP_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13991,6 +13991,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "MOON",
+        "buy_start": 1663074000,
+        "fee": "0.2",
+        "id": "MOON_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -28880,7 +28892,7 @@
         "fee": "0.2",
         "id": "VOLT_USDT",
         "min_quote_amount": "1",
-        "precision": 10,
+        "precision": 12,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -33737,14 +33749,14 @@
     {
         "amount_precision": 2,
         "base": "B3X",
-        "buy_start": 1663070400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "B3X_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
