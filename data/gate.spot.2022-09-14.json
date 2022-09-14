@@ -21489,6 +21489,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "LGX",
+        "buy_start": 1663639200,
+        "fee": "0.2",
+        "id": "LGX_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "LINK",
         "buy_start": 0,
@@ -24853,6 +24865,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "PORTX",
+        "buy_start": 1663678800,
+        "fee": "0.2",
+        "id": "PORTX_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
