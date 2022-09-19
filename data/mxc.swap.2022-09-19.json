@@ -77,7 +77,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -134,7 +135,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -544,7 +546,8 @@
             "BINANCE",
             "HUOBI",
             "OKEX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -898,7 +901,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": true,
@@ -956,7 +960,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "FTX"
+            "FTX",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -1360,7 +1365,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "HUOBI"
+            "HUOBI",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -1647,7 +1653,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2114,7 +2121,8 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -2519,7 +2527,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -3210,7 +3219,8 @@
         "futureType": 1,
         "indexOrigin": [
             "OKEX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -3974,7 +3984,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4502,7 +4513,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6658,7 +6670,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -7934,7 +7947,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8283,7 +8297,8 @@
             "BINANCE",
             "HUOBI",
             "OKEX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -8455,7 +8470,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -8514,7 +8530,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "OKEX"
+            "OKEX",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8687,7 +8704,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8966,66 +8984,6 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
-        "automaticDelivery": 1,
-        "baseCoin": "TORN",
-        "baseCoinName": "TORN",
-        "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "contractSize": 0.01,
-        "deliveryPriceTrend": 3,
-        "deliveryTime": 1663578000253,
-        "displayName": "TORN_USDT\u6c38\u7eed",
-        "displayNameEn": "TORN_USDT PERPETUAL",
-        "futureType": 1,
-        "indexOrigin": [
-            "BINANCE",
-            "GATEIO",
-            "OKEX",
-            "MEXC"
-        ],
-        "initialMarginRate": 0.02,
-        "isHidden": true,
-        "isHot": false,
-        "isNew": false,
-        "maintenanceMarginRate": 0.01,
-        "makerFeeRate": 0.0002,
-        "marketOrderMaxLevel": 15,
-        "marketOrderPriceLimitRate1": 0.2,
-        "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
-        "maxNumOrders": [
-            200,
-            50
-        ],
-        "maxVol": 5000000,
-        "minLeverage": 1,
-        "minVol": 1,
-        "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
-        "priceScale": 2,
-        "priceUnit": 0.01,
-        "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
-        "riskBaseVol": 1,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
-        "riskIncrVol": 1,
-        "riskLevelLimit": 1,
-        "riskLimitType": "BY_VOLUME",
-        "settleCoin": "USDT",
-        "showAppraisalCountdown": 0,
-        "state": 0,
-        "symbol": "TORN_USDT",
-        "takerFeeRate": 0.0006,
-        "triggerProtect": 0.1,
-        "volScale": 0,
-        "volUnit": 1
-    },
-    {
-        "amountScale": 4,
-        "apiAllowed": false,
-        "appraisal": 0,
         "askLimitPriceRate": 0.3,
         "automaticDelivery": 0,
         "baseCoin": "TRB",
@@ -9275,7 +9233,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -9562,7 +9521,8 @@
         "indexOrigin": [
             "HUOBI",
             "OKEX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
