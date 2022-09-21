@@ -105,12 +105,17 @@
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00JVMLP377",
         "lastTradingTime": "2022-09-30T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
@@ -135,7 +140,7 @@
                 "maintenanceMargin": 0.15
             }
         ],
-        "maxPositionSize": 15000000.0,
+        "maxPositionSize": 15000000,
         "openingDate": "2022-02-25T16:00:06.000Z",
         "postOnly": false,
         "retailMarginLevels": [
@@ -156,12 +161,17 @@
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00JVMLPS25",
         "lastTradingTime": "2022-12-30T16:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
@@ -186,7 +196,7 @@
                 "maintenanceMargin": 0.15
             }
         ],
-        "maxPositionSize": 15000000.0,
+        "maxPositionSize": 15000000,
         "openingDate": "2022-05-27T15:00:06.000Z",
         "postOnly": false,
         "retailMarginLevels": [
@@ -207,12 +217,17 @@
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00KJ4Z9304",
         "lastTradingTime": "2023-03-31T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
@@ -237,7 +252,7 @@
                 "maintenanceMargin": 0.15
             }
         ],
-        "maxPositionSize": 15000000.0,
+        "maxPositionSize": 15000000,
         "openingDate": "2022-08-26T15:00:05.000Z",
         "postOnly": false,
         "retailMarginLevels": [
@@ -897,7 +912,7 @@
         "maxPositionSize": 1600000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2022-09-21T12:59:35.792Z",
-        "postOnly": true,
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.1,
@@ -1247,7 +1262,7 @@
         "maxPositionSize": 500000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2022-09-21T12:59:33.244Z",
-        "postOnly": true,
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.1,
@@ -1297,7 +1312,7 @@
         "maxPositionSize": 2400000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2022-09-21T12:59:31.003Z",
-        "postOnly": true,
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.1,
@@ -2109,9 +2124,14 @@
         "impactMidSize": 0.05,
         "marginLevels": [
             {
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.1,
@@ -2134,15 +2154,20 @@
                 "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 8000.0,
+        "maxPositionSize": 8000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2022-03-22T13:18:45.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.1,
@@ -3337,7 +3362,7 @@
         "maxPositionSize": 17000000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2022-09-21T12:59:28.244Z",
-        "postOnly": true,
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.1,
@@ -4653,11 +4678,16 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "fundingRateCoefficient": 8,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YH022",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
@@ -4692,7 +4722,7 @@
                 "maintenanceMargin": 0.2
             }
         ],
-        "maxPositionSize": 45000000.0,
+        "maxPositionSize": 45000000,
         "maxRelativeFundingRate": 0.001,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "postOnly": false,
