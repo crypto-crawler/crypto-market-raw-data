@@ -14046,13 +14046,15 @@
             "GTX"
         ],
         "triggerProtect": "0.1000",
-        "underlyingSubType": [],
+        "underlyingSubType": [
+            "Layer-2"
+        ],
         "underlyingType": "COIN"
     },
     {
         "baseAsset": "CVX",
         "baseAssetPrecision": 8,
-        "contractType": "",
+        "contractType": "PERPETUAL",
         "deliveryDate": 4133404800000,
         "filters": [
             {
@@ -14109,7 +14111,7 @@
         "quotePrecision": 8,
         "requiredMarginPercent": "5.0000",
         "settlePlan": 0,
-        "status": "PENDING_TRADING",
+        "status": "TRADING",
         "symbol": "CVXUSDT",
         "timeInForce": [
             "GTC",
@@ -14118,6 +14120,152 @@
             "GTX"
         ],
         "triggerProtect": "0.1000",
+        "underlyingSubType": [
+            "DeFi"
+        ],
+        "underlyingType": "COIN"
+    },
+    {
+        "baseAsset": "BTC",
+        "baseAssetPrecision": 8,
+        "contractType": "",
+        "deliveryDate": 1672387200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.1"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.001",
+                "stepSize": "0.001"
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.001",
+                "stepSize": "0.001"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "limit": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "limit": 10
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "notional": "5"
+            },
+            {
+                "filterType": "PERCENT_PRICE",
+                "multiplierDecimal": "4",
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500"
+            }
+        ],
+        "liquidationFee": "0.010000",
+        "maintMarginPercent": "2.5000",
+        "marginAsset": "USDT",
+        "marketTakeBound": "0.05",
+        "onboardDate": 1663747200000,
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "pair": "BTCUSDT",
+        "pricePrecision": 1,
+        "quantityPrecision": 3,
+        "quoteAsset": "USDT",
+        "quotePrecision": 8,
+        "requiredMarginPercent": "5.0000",
+        "settlePlan": 0,
+        "status": "PENDING_TRADING",
+        "symbol": "BTCUSDT_221230",
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "triggerProtect": "0.0500",
+        "underlyingSubType": [],
+        "underlyingType": "COIN"
+    },
+    {
+        "baseAsset": "ETH",
+        "baseAssetPrecision": 8,
+        "contractType": "",
+        "deliveryDate": 1672387200000,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.01"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.001",
+                "stepSize": "0.001"
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.001",
+                "stepSize": "0.001"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "limit": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "limit": 10
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "notional": "5"
+            },
+            {
+                "filterType": "PERCENT_PRICE",
+                "multiplierDecimal": "4",
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500"
+            }
+        ],
+        "liquidationFee": "0.010000",
+        "maintMarginPercent": "2.5000",
+        "marginAsset": "USDT",
+        "marketTakeBound": "0.05",
+        "onboardDate": 1663747200000,
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "pair": "ETHUSDT",
+        "pricePrecision": 2,
+        "quantityPrecision": 3,
+        "quoteAsset": "USDT",
+        "quotePrecision": 8,
+        "requiredMarginPercent": "5.0000",
+        "settlePlan": 0,
+        "status": "PENDING_TRADING",
+        "symbol": "ETHUSDT_221230",
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "triggerProtect": "0.0500",
         "underlyingSubType": [],
         "underlyingType": "COIN"
     }

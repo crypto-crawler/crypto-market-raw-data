@@ -697,6 +697,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "DFI",
+        "buy_start": 1664186400,
+        "fee": "0.2",
+        "id": "DFI_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "DIS",
         "buy_start": 0,
         "fee": "0.2",
@@ -22226,7 +22238,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
