@@ -238,7 +238,7 @@
         "state": "online",
         "symbol": "aavehusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -561,7 +561,7 @@
         "state": "online",
         "symbol": "adahusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -1025,7 +1025,7 @@
         "state": "online",
         "symbol": "algohusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -2835,7 +2835,7 @@
         "state": "online",
         "symbol": "bchhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -2886,13 +2886,13 @@
         "base-currency": "bcv",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
         "price-precision": 12,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.95,
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "bcvbtc",
@@ -4078,7 +4078,7 @@
         "state": "online",
         "symbol": "btchusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -4432,13 +4432,13 @@
         "base-currency": "but",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
         "price-precision": 12,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.95,
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "butbtc",
@@ -5651,7 +5651,7 @@
         "state": "online",
         "symbol": "crvhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -7096,7 +7096,7 @@
         "state": "online",
         "symbol": "dogehusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -7293,7 +7293,7 @@
         "state": "online",
         "symbol": "dothusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -8298,7 +8298,7 @@
         "state": "online",
         "symbol": "eoshusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -8501,7 +8501,7 @@
         "state": "online",
         "symbol": "etchusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -8686,7 +8686,7 @@
         "state": "online",
         "symbol": "ethhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -9205,7 +9205,7 @@
         "state": "online",
         "symbol": "filhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -10246,12 +10246,12 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.05,
         "min-order-amt": 1,
         "min-order-value": 0.0001,
         "price-precision": 12,
         "quote-currency": "btc",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.95,
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "getbtc",
@@ -11640,7 +11640,7 @@
         "state": "online",
         "symbol": "hthusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -13868,7 +13868,7 @@
         "state": "online",
         "symbol": "linkhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -14448,7 +14448,7 @@
         "state": "online",
         "symbol": "ltchusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -17994,7 +17994,7 @@
         "state": "online",
         "symbol": "omghusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -22114,6 +22114,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "soul",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 1,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "online",
+        "symbol": "soulusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "spa",
@@ -23477,7 +23497,7 @@
         "state": "online",
         "symbol": "thetahusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -24183,7 +24203,7 @@
         "state": "online",
         "symbol": "trxhusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -24740,7 +24760,7 @@
         "state": "online",
         "symbol": "unihusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -24822,7 +24842,7 @@
         "state": "online",
         "symbol": "usdchusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -24942,7 +24962,7 @@
         "state": "online",
         "symbol": "usdthusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
@@ -27272,7 +27292,7 @@
         "state": "online",
         "symbol": "xrphusd",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "crypto",
         "value-precision": 8
     },
     {
