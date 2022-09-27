@@ -204,6 +204,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "GHNY",
+        "buy_start": 1664542800,
+        "fee": "0.2",
+        "id": "GHNY_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "FTT",
         "buy_start": 0,
@@ -727,6 +739,18 @@
         "id": "FET_USDT",
         "min_quote_amount": "1",
         "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ARG",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "ARG_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -3540,6 +3564,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "WAXL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "WAXL_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -7179,6 +7215,18 @@
         "id": "KIF_USDT",
         "min_quote_amount": "1",
         "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PSL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "PSL_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -27459,7 +27507,7 @@
         "fee": "0.2",
         "id": "CTI_USDT",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -28534,7 +28582,7 @@
         "fee": "0.2",
         "id": "CTI_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
