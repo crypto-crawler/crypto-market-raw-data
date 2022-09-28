@@ -6454,6 +6454,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "METALDR",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "METALDR_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "SWINGBY",
         "buy_start": 0,
@@ -6716,6 +6728,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NVIR",
+        "buy_start": 1664848800,
+        "fee": "0.2",
+        "id": "NVIR_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -8033,6 +8057,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ELA",
+        "buy_start": 1664521200,
+        "fee": "0.2",
+        "id": "ELA_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -15402,7 +15438,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -18241,6 +18277,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ATOZ",
+        "buy_start": 1665558000,
+        "fee": "0.2",
+        "id": "ATOZ_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -21382,6 +21430,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "NEBL",
+        "buy_start": 1664424000,
+        "fee": "0.2",
+        "id": "NEBL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "HOPR",
         "buy_start": 0,
         "fee": "0.2",
@@ -22513,6 +22573,18 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "LN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LN_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -33827,6 +33899,18 @@
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "LN_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 6,
+        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
     },
