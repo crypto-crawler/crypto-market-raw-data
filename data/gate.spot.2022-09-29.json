@@ -4611,6 +4611,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "SN",
+        "buy_start": 1664614800,
+        "fee": "0.2",
+        "id": "SN_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "NFT",
         "buy_start": 0,
@@ -21215,6 +21227,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "METAL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "METAL_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "WXT",
         "buy_start": 0,
         "fee": "0.2",
@@ -31758,6 +31782,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PUMLX",
+        "buy_start": 1665144000,
+        "fee": "0.2",
+        "id": "PUMLX_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

@@ -2283,7 +2283,7 @@
             "OKEX",
             "MEXC"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -2292,7 +2292,7 @@
         "marketOrderMaxLevel": 30,
         "marketOrderPriceLimitRate1": 0.1,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -3566,7 +3566,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
@@ -4208,7 +4208,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
