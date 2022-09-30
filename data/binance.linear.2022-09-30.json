@@ -8988,14 +8988,14 @@
             {
                 "filterType": "PERCENT_PRICE",
                 "multiplierDecimal": "4",
-                "multiplierDown": "0.9000",
-                "multiplierUp": "1.1000"
+                "multiplierDown": "0.8800",
+                "multiplierUp": "1.1200"
             }
         ],
         "liquidationFee": "0.025000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
-        "marketTakeBound": "0.10",
+        "marketTakeBound": "0.12",
         "onboardDate": 1630306800000,
         "orderTypes": [
             "LIMIT",
@@ -9021,7 +9021,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1000",
+        "triggerProtect": "0.1200",
         "underlyingSubType": [
             "Privacy"
         ],
@@ -12210,150 +12210,6 @@
         "underlyingType": "COIN"
     },
     {
-        "baseAsset": "BTC",
-        "baseAssetPrecision": 8,
-        "contractType": "CURRENT_QUARTER",
-        "deliveryDate": 1664524800000,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.1"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "0.001",
-                "stepSize": "0.001"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "0.001",
-                "stepSize": "0.001"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 10
-            },
-            {
-                "filterType": "MIN_NOTIONAL",
-                "notional": "5"
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.010000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "USDT",
-        "marketTakeBound": "0.05",
-        "onboardDate": 1655452800000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "BTCUSDT",
-        "pricePrecision": 1,
-        "quantityPrecision": 3,
-        "quoteAsset": "USDT",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "settlePlan": 1664524800000,
-        "status": "TRADING",
-        "symbol": "BTCUSDT_220930",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
-        "baseAsset": "ETH",
-        "baseAssetPrecision": 8,
-        "contractType": "CURRENT_QUARTER",
-        "deliveryDate": 1664524800000,
-        "filters": [
-            {
-                "filterType": "PRICE_FILTER",
-                "tickSize": "0.01"
-            },
-            {
-                "filterType": "LOT_SIZE",
-                "minQty": "0.001",
-                "stepSize": "0.001"
-            },
-            {
-                "filterType": "MARKET_LOT_SIZE",
-                "minQty": "0.001",
-                "stepSize": "0.001"
-            },
-            {
-                "filterType": "MAX_NUM_ORDERS",
-                "limit": 200
-            },
-            {
-                "filterType": "MAX_NUM_ALGO_ORDERS",
-                "limit": 10
-            },
-            {
-                "filterType": "MIN_NOTIONAL",
-                "notional": "5"
-            },
-            {
-                "filterType": "PERCENT_PRICE",
-                "multiplierDecimal": "4",
-                "multiplierDown": "0.9500",
-                "multiplierUp": "1.0500"
-            }
-        ],
-        "liquidationFee": "0.015000",
-        "maintMarginPercent": "2.5000",
-        "marginAsset": "USDT",
-        "marketTakeBound": "0.05",
-        "onboardDate": 1647849600000,
-        "orderTypes": [
-            "LIMIT",
-            "MARKET",
-            "STOP",
-            "STOP_MARKET",
-            "TAKE_PROFIT",
-            "TAKE_PROFIT_MARKET",
-            "TRAILING_STOP_MARKET"
-        ],
-        "pair": "ETHUSDT",
-        "pricePrecision": 2,
-        "quantityPrecision": 3,
-        "quoteAsset": "USDT",
-        "quotePrecision": 8,
-        "requiredMarginPercent": "5.0000",
-        "settlePlan": 1664524800000,
-        "status": "TRADING",
-        "symbol": "ETHUSDT_220930",
-        "timeInForce": [
-            "GTC",
-            "IOC",
-            "FOK",
-            "GTX"
-        ],
-        "triggerProtect": "0.0500",
-        "underlyingSubType": [],
-        "underlyingType": "COIN"
-    },
-    {
         "baseAsset": "WAVES",
         "baseAssetPrecision": 8,
         "contractType": "PERPETUAL",
@@ -12793,7 +12649,7 @@
         ],
         "triggerProtect": "0.0500",
         "underlyingSubType": [
-            "DeFi"
+            "BUSD"
         ],
         "underlyingType": "COIN"
     },
@@ -13163,7 +13019,7 @@
         ],
         "triggerProtect": "0.1000",
         "underlyingSubType": [
-            "Layer-2"
+            "BUSD"
         ],
         "underlyingType": "COIN"
     },
@@ -13900,7 +13756,9 @@
             "GTX"
         ],
         "triggerProtect": "0.1000",
-        "underlyingSubType": [],
+        "underlyingSubType": [
+            "Infrastructure"
+        ],
         "underlyingType": "COIN"
     },
     {
@@ -14054,7 +13912,7 @@
     {
         "baseAsset": "BTC",
         "baseAssetPrecision": 8,
-        "contractType": "NEXT_QUARTER",
+        "contractType": "CURRENT_QUARTER",
         "deliveryDate": 1672387200000,
         "filters": [
             {
@@ -14126,7 +13984,7 @@
     {
         "baseAsset": "ETH",
         "baseAssetPrecision": 8,
-        "contractType": "NEXT_QUARTER",
+        "contractType": "CURRENT_QUARTER",
         "deliveryDate": 1672387200000,
         "filters": [
             {
