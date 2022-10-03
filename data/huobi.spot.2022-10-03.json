@@ -703,7 +703,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "aebtc",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -723,7 +723,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "offline",
         "symbol": "aeeth",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -763,7 +763,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "offline",
         "symbol": "aeusdt",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -1628,7 +1628,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "arknusdt",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -4783,7 +4783,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "chatbtc",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -4803,7 +4803,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "offline",
         "symbol": "chateth",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -5143,7 +5143,7 @@
         "sell-market-min-order-amt": 100,
         "state": "online",
         "symbol": "cnnbtc",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -5163,7 +5163,7 @@
         "sell-market-min-order-amt": 100,
         "state": "offline",
         "symbol": "cnneth",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -10295,7 +10295,7 @@
         "sell-market-min-order-amt": 0.01,
         "state": "online",
         "symbol": "gearusdt",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "",
         "value-precision": 8
     },
@@ -10736,7 +10736,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "grsbtc",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -10756,7 +10756,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "offline",
         "symbol": "grseth",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -11922,7 +11922,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "idtbtc",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -11942,7 +11942,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "idteth",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -13246,6 +13246,26 @@
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "kokusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "kripto",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 1,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "online",
+        "symbol": "kriptousdt",
         "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
@@ -15898,7 +15918,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "monfterbtc",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "",
         "value-precision": 8
     },
@@ -15918,7 +15938,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "monftereth",
-        "symbol-partition": "main",
+        "symbol-partition": "st",
         "tags": "",
         "value-precision": 8
     },
@@ -16360,7 +16380,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "muskbtc",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -16380,7 +16400,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "musketh",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "hadax",
         "value-precision": 8
     },
@@ -16723,7 +16743,7 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "nccbtc",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "griddisabled,st,hadax",
         "value-precision": 8
     },
@@ -16744,7 +16764,7 @@
         "sell-market-min-order-amt": 1,
         "state": "offline",
         "symbol": "ncceth",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "st,hadax",
         "value-precision": 8
     },
@@ -19726,7 +19746,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "qashbtc",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
@@ -19746,7 +19766,7 @@
         "sell-market-min-order-amt": 0.1,
         "state": "offline",
         "symbol": "qasheth",
-        "symbol-partition": "st",
+        "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
     },
