@@ -4523,10 +4523,10 @@
         ],
         "contractSize": 1,
         "depthStepList": [
-            1e-05,
             0.0001,
             0.001,
-            0.01
+            0.01,
+            0.1
         ],
         "displayName": "FTM_USDT\u6c38\u7eed",
         "displayNameEn": "FTM_USDT PERPETUAL",
@@ -4555,8 +4555,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2500000,
@@ -4849,10 +4849,10 @@
         ],
         "contractSize": 10,
         "depthStepList": [
-            1e-05,
             0.0001,
             0.001,
-            0.01
+            0.01,
+            0.1
         ],
         "displayName": "GMT_USDT\u6c38\u7eed",
         "displayNameEn": "GMT_USDT PERPETUAL",
@@ -4883,8 +4883,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 15000,
@@ -5934,10 +5934,10 @@
         ],
         "contractSize": 0.1,
         "depthStepList": [
-            0.0001,
             0.001,
             0.01,
-            0.1
+            0.1,
+            1
         ],
         "displayName": "KNC_USDT\u6c38\u7eed",
         "displayNameEn": "KNC_USDT PERPETUAL",
@@ -5966,8 +5966,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3500000,
@@ -6521,10 +6521,10 @@
         ],
         "contractSize": 0.01,
         "depthStepList": [
-            0.001,
             0.01,
             0.1,
-            1
+            1,
+            10
         ],
         "displayName": "LTC_USDT\u6c38\u7eed",
         "displayNameEn": "LTC_USDT PERPETUAL",
@@ -6554,8 +6554,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 2,
+        "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 350000,
@@ -8642,10 +8642,10 @@
         ],
         "contractSize": 1,
         "depthStepList": [
-            1e-05,
             0.0001,
             0.001,
-            0.01
+            0.01,
+            0.1
         ],
         "displayName": "SAND_USDT\u6c38\u7eed",
         "displayNameEn": "SAND_USDT PERPETUAL",
@@ -8674,8 +8674,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 550000,
@@ -10180,10 +10180,10 @@
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
-            0.0001,
             0.001,
             0.01,
-            0.1
+            0.1,
+            1
         ],
         "displayName": "WAVES_USDT\u6c38\u7eed",
         "displayNameEn": "WAVES_USDT PERPETUAL",
@@ -10212,8 +10212,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1150000,
