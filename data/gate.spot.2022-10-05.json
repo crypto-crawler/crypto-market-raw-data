@@ -8851,7 +8851,7 @@
     {
         "amount_precision": 3,
         "base": "SNFT1",
-        "buy_start": 1665403200,
+        "buy_start": 1665404100,
         "fee": "0.2",
         "id": "SNFT1_USDT",
         "min_quote_amount": "1",
@@ -18721,6 +18721,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "HAO",
+        "buy_start": 1665403200,
+        "fee": "0.2",
+        "id": "HAO_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 9,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "MASK3S",
         "buy_start": 0,
@@ -25598,6 +25610,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "HAO",
+        "buy_start": 1665403200,
+        "fee": "0.2",
+        "id": "HAO_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 9,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "XVG",
         "buy_start": 0,
         "fee": "0.2",
@@ -30524,6 +30548,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "HAO",
+        "buy_start": 1665403200,
+        "fee": "0.2",
+        "id": "HAO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
