@@ -4503,6 +4503,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "RFT",
+        "buy_start": 1665576000,
+        "fee": "0.2",
+        "id": "RFT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "ORAO",
         "buy_start": 0,
@@ -21300,14 +21312,14 @@
     {
         "amount_precision": 3,
         "base": "METAL",
-        "buy_start": 1665046800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "METAL_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -25808,6 +25820,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "FDC",
+        "buy_start": 1665136800,
+        "fee": "0.2",
+        "id": "FDC_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
