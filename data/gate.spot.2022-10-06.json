@@ -18411,6 +18411,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "FPFT",
+        "buy_start": 1665489600,
+        "fee": "0.2",
+        "id": "FPFT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "XDEFI",
         "buy_start": 0,
@@ -25498,6 +25510,17 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DHX",
+        "buy_start": 0,
+        "fee": "0.0",
+        "id": "DHX_USD",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
