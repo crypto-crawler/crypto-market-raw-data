@@ -1995,6 +1995,25 @@
         "trading_disabled": false
     },
     {
+        "auction_mode": true,
+        "base_currency": "BTC",
+        "base_increment": "0.00000001",
+        "cancel_only": false,
+        "display_name": "BTCAUCTION/USD",
+        "fx_stablecoin": false,
+        "id": "BTCAUCTION-USD",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_slippage_percentage": "0.02000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USD",
+        "quote_increment": "0.01",
+        "status": "online",
+        "status_message": "",
+        "trading_disabled": false
+    },
+    {
         "auction_mode": false,
         "base_currency": "BTRST",
         "base_increment": "0.01",
@@ -7334,7 +7353,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "PNG",
         "base_increment": "1",
         "cancel_only": false,
