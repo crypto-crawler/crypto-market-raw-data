@@ -3,11 +3,11 @@
         "auction_mode": false,
         "base_currency": "00",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "00/USD",
         "fx_stablecoin": false,
         "id": "00-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
@@ -15,7 +15,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.0001",
         "status": "online",
-        "status_message": "We\u2019ve started accepting deposits, trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
