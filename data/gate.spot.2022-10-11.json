@@ -10250,18 +10250,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "00",
-        "buy_start": 1665547200,
-        "fee": "0.2",
-        "id": "00_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "sellable"
-    },
-    {
-        "amount_precision": 3,
         "base": "XED",
         "buy_start": 0,
         "fee": "0.2",
@@ -25045,6 +25033,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ZEROZERO",
+        "buy_start": 1665547200,
+        "fee": "0.2",
+        "id": "ZEROZERO_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
