@@ -6023,6 +6023,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "MCL",
+        "buy_start": 1666008000,
+        "fee": "0.2",
+        "id": "MCL_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ATA",
         "buy_start": 0,
         "fee": "0.2",
@@ -13813,6 +13825,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KICKS",
+        "buy_start": 1666087200,
+        "fee": "0.2",
+        "id": "KICKS_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -25900,7 +25924,7 @@
         "fee": "0.2",
         "id": "FDC_USDT",
         "min_quote_amount": "1",
-        "precision": 8,
+        "precision": 11,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
