@@ -9819,6 +9819,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "XPLA",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "XPLA_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 0,
         "base": "CATGIRL",
         "buy_start": 0,
@@ -11275,7 +11287,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -25689,7 +25701,7 @@
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
