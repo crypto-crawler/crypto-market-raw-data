@@ -15382,13 +15382,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "SB",
         "buy_start": 0,
         "fee": "0.2",
         "id": "SB_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -20543,14 +20543,14 @@
     {
         "amount_precision": 2,
         "base": "SRG",
-        "buy_start": 1666101600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SRG_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -25690,6 +25690,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "APT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "APT_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -32823,6 +32835,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "APT",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "APT_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 8,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
