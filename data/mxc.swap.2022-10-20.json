@@ -4087,6 +4087,9 @@
         "displayNameEn": "ETHW_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "GATEIO",
+            "HUOBI",
+            "OKEX",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -7288,7 +7291,7 @@
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
         "riskIncrVol": 30000,
-        "riskLevelLimit": 5,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
