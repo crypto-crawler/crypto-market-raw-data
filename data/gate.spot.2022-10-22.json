@@ -6070,6 +6070,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "WBT",
+        "buy_start": 1666692000,
+        "fee": "0.2",
+        "id": "WBT_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "CGG",
         "buy_start": 0,
@@ -8656,6 +8668,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KAP",
+        "buy_start": 1667397600,
+        "fee": "0.2",
+        "id": "KAP_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
