@@ -4575,7 +4575,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "MXC",
         "buy_start": 0,
         "fee": "0.2",
@@ -6072,14 +6072,14 @@
     {
         "amount_precision": 4,
         "base": "WBT",
-        "buy_start": 1666692000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "WBT_USDT",
         "min_quote_amount": "1",
         "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -14579,6 +14579,18 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ITA",
+        "buy_start": 1666872000,
+        "fee": "0.2",
+        "id": "ITA_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -25466,6 +25478,17 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "MXC",
+        "buy_start": 0,
+        "fee": "0.0",
+        "id": "MXC_USD",
+        "precision": 6,
+        "quote": "USD",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "NFTB",
         "buy_start": 0,
@@ -30311,13 +30334,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "MXC",
         "buy_start": 0,
         "fee": "0.2",
         "id": "MXC_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -34491,7 +34514,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "MXC",
         "buy_start": 0,
         "fee": "0.2",
