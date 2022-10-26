@@ -836,6 +836,25 @@
         "trading_disabled": false
     },
     {
+        "auction_mode": true,
+        "base_currency": "APT",
+        "base_increment": "0.001",
+        "cancel_only": false,
+        "display_name": "APT/USDT",
+        "fx_stablecoin": false,
+        "id": "APT-USDT",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_slippage_percentage": "0.03000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USDT",
+        "quote_increment": "0.01",
+        "status": "online",
+        "status_message": "",
+        "trading_disabled": false
+    },
+    {
         "auction_mode": false,
         "base_currency": "ARPA",
         "base_increment": "0.1",
