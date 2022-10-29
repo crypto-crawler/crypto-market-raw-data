@@ -2887,6 +2887,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "OSMO",
+        "buy_start": 1667102400,
+        "fee": "0.2",
+        "id": "OSMO_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "HOTCROSS",
         "buy_start": 0,
         "fee": "0.2",
