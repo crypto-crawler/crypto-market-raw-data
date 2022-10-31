@@ -420,6 +420,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "HFT",
+        "buy_start": 1667826000,
+        "fee": "0.2",
+        "id": "HFT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "FIN",
         "buy_start": 0,
@@ -11149,14 +11161,14 @@
     {
         "amount_precision": 2,
         "base": "CATHEON",
-        "buy_start": 1667221200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "CATHEON_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
