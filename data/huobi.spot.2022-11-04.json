@@ -744,7 +744,7 @@
         "state": "online",
         "symbol": "aegisusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -2641,7 +2641,7 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "bandusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -4646,7 +4646,7 @@
         "state": "online",
         "symbol": "bxenusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -10338,28 +10338,6 @@
         "symbol": "fxusdt",
         "symbol-partition": "main",
         "tags": "",
-        "value-precision": 8
-    },
-    {
-        "amount-precision": 2,
-        "api-trading": "enabled",
-        "base-currency": "gala",
-        "buy-limit-must-less-than": 1.1,
-        "leverage-ratio": 3,
-        "limit-order-min-order-amt": 0.01,
-        "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
-        "min-order-amt": 0.01,
-        "min-order-value": 1,
-        "price-precision": 6,
-        "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.9,
-        "sell-market-min-order-amt": 0.01,
-        "state": "online",
-        "super-margin-leverage-ratio": 3,
-        "symbol": "galausdt",
-        "symbol-partition": "main",
-        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -19317,6 +19295,27 @@
     {
         "amount-precision": 2,
         "api-trading": "enabled",
+        "base-currency": "pgala",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.03,
+        "min-order-amt": 1,
+        "min-order-value": 1,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.97,
+        "sell-market-min-order-amt": 1,
+        "state": "suspend",
+        "super-margin-leverage-ratio": 3,
+        "symbol": "pgalausdt",
+        "symbol-partition": "main",
+        "tags": "abnormalmarket",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
         "base-currency": "pha",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
@@ -25111,7 +25110,7 @@
         "state": "online",
         "symbol": "ugasbtc",
         "symbol-partition": "st",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -27577,7 +27576,7 @@
         "state": "online",
         "symbol": "xenusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
