@@ -6634,7 +6634,7 @@
         "auction_mode": false,
         "base_currency": "MUSD",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MUSD/USD",
         "fx_stablecoin": true,
         "id": "MUSD-USD",
@@ -6645,9 +6645,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -8173,7 +8173,7 @@
         "auction_mode": false,
         "base_currency": "RGT",
         "base_increment": "0.001",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "RGT/USD",
         "fx_stablecoin": false,
         "id": "RGT-USD",
@@ -8184,9 +8184,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.01",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9427,7 +9427,7 @@
         "auction_mode": false,
         "base_currency": "TRIBE",
         "base_increment": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "TRIBE/USD",
         "fx_stablecoin": false,
         "id": "TRIBE-USD",
@@ -9438,9 +9438,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -9693,7 +9693,7 @@
         "auction_mode": false,
         "base_currency": "UPI",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UPI/USD",
         "fx_stablecoin": false,
         "id": "UPI-USD",
@@ -9704,15 +9704,15 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.00001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
         "base_currency": "UPI",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "UPI/USDT",
         "fx_stablecoin": false,
         "id": "UPI-USDT",
@@ -9723,9 +9723,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.00001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
