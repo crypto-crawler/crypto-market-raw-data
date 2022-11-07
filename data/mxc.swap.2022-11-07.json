@@ -3521,7 +3521,7 @@
             200,
             50
         ],
-        "maxVol": 500,
+        "maxVol": 600,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -3530,10 +3530,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 500,
+        "riskBaseVol": 600,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 500,
+        "riskIncrVol": 600,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -3584,7 +3584,7 @@
             200,
             50
         ],
-        "maxVol": 65000,
+        "maxVol": 80000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -3593,10 +3593,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 65000,
+        "riskBaseVol": 80000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 65000,
+        "riskIncrVol": 80000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -9826,8 +9826,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC",
-            "BITGET"
+            "OKEX",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -10918,7 +10918,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "OKEX",
             "MEXC"
         ],
