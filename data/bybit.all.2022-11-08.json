@@ -2381,13 +2381,13 @@
         "funding_interval": 480,
         "leverage_filter": {
             "leverage_step": "0.01",
-            "max_leverage": 25,
+            "max_leverage": 14,
             "min_leverage": 1
         },
         "lot_size_filter": {
-            "max_trading_qty": 1200,
+            "max_trading_qty": 800,
             "min_trading_qty": 0.1,
-            "post_only_max_trading_qty": "6000.0",
+            "post_only_max_trading_qty": "4000.0",
             "qty_step": 0.1
         },
         "maker_fee": "0.0001",
