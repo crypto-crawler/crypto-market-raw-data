@@ -4300,18 +4300,13 @@
         "category": "Layer 1",
         "contractSize": 1,
         "contractValueTradePrecision": 2,
-        "fundingRateCoefficient": 24,
+        "fundingRateCoefficient": 12,
         "impactMidSize": 1.25,
         "marginLevels": [
             {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.3,
@@ -4330,14 +4325,9 @@
         "postOnly": false,
         "retailMarginLevels": [
             {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.3,
