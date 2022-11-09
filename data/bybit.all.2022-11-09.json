@@ -4356,9 +4356,9 @@
             "min_leverage": 1
         },
         "lot_size_filter": {
-            "max_trading_qty": 100000,
+            "max_trading_qty": 10000,
             "min_trading_qty": 1,
-            "post_only_max_trading_qty": "500000",
+            "post_only_max_trading_qty": "50000",
             "qty_step": 1
         },
         "maker_fee": "0.0001",
@@ -4383,9 +4383,9 @@
             "min_leverage": 1
         },
         "lot_size_filter": {
-            "max_trading_qty": 15000,
+            "max_trading_qty": 5000,
             "min_trading_qty": 0.1,
-            "post_only_max_trading_qty": "75000.0",
+            "post_only_max_trading_qty": "25000.0",
             "qty_step": 0.1
         },
         "maker_fee": "0.0001",
