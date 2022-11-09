@@ -3265,7 +3265,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -11414,7 +11414,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16167,7 +16167,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "FEAR",
         "buy_start": 0,
         "fee": "0.2",
@@ -27893,18 +27893,6 @@
         "id": "SXP_USD",
         "precision": 5,
         "quote": "USD",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "FEAR",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "FEAR_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
