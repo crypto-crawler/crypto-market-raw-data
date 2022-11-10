@@ -1256,7 +1256,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "FTX",
+            "GATEIO",
+            "HUOBI",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -2281,7 +2282,6 @@
             "BITSTAMP",
             "COINBASE",
             "BITFINEX",
-            "FTX",
             "KRAKEN",
             "BITTREX"
         ],
@@ -3251,8 +3251,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "OKEX",
-            "FTX"
+            "OKEX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -3380,7 +3379,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -4286,7 +4286,6 @@
             "BITSTAMP",
             "COINBASE",
             "BITFINEX",
-            "FTX",
             "KRAKEN",
             "BITTREX"
         ],
@@ -4852,11 +4851,11 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "FTT",
         "baseCoinName": "FTT",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
@@ -4869,7 +4868,7 @@
         "displayNameEn": "FTT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
+            "GATEIO",
             "HUOBI",
             "MEXC"
         ],
@@ -4887,19 +4886,19 @@
             200,
             50
         ],
-        "maxVol": 800000,
+        "maxVol": 1000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.2,
+        "priceCoefficientVariation": 0.22,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 800000,
+        "riskBaseVol": 1000000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 800000,
+        "riskIncrVol": 1000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -5512,9 +5511,9 @@
         "displayNameEn": "HNT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
-            "FTX"
+            "BITGET",
+            "BYBIT"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -8419,7 +8418,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "HUOBI"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8675,6 +8675,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -9552,11 +9553,11 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.5,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "SOL",
         "baseCoinName": "SOL",
-        "bidLimitPriceRate": 0.5,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
@@ -9587,19 +9588,19 @@
             200,
             50
         ],
-        "maxVol": 120000,
+        "maxVol": 150000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.19,
+        "priceCoefficientVariation": 0.16,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 120000,
+        "riskBaseVol": 150000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 120000,
+        "riskIncrVol": 150000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -9615,11 +9616,11 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "SRM",
         "baseCoinName": "SRM",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-defi"
         ],
@@ -9657,7 +9658,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.13,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -9763,7 +9764,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -10600,6 +10602,8 @@
         "displayNameEn": "VINU_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "GATEIO",
+            "HUOBI",
             "MEXC",
             "BYBIT"
         ],
@@ -10986,7 +10990,6 @@
             "BITFINEX",
             "GATEIO",
             "OKEX",
-            "FTX",
             "KRAKEN"
         ],
         "initialMarginRate": 0.02,
