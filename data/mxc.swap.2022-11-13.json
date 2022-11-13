@@ -2864,7 +2864,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0.0002,
@@ -3759,13 +3759,14 @@
         "displayNameEn": "DYDX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BINANCE",
             "OKEX",
             "MEXC",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0.0002,
@@ -4884,7 +4885,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.15,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -9304,8 +9305,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -9624,7 +9625,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKEX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -10798,7 +10800,7 @@
             200,
             50
         ],
-        "maxVol": 2000000,
+        "maxVol": 1800000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10807,10 +10809,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1200000,
+        "riskBaseVol": 1800000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 1200000,
+        "riskIncrVol": 1800000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
