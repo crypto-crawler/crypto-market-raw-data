@@ -10424,6 +10424,26 @@
         "api-trading": "enabled",
         "base-currency": "ftt",
         "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 1,
+        "price-precision": 4,
+        "quote-currency": "usdd",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "pre-online",
+        "symbol": "fttusdd",
+        "symbol-partition": "main",
+        "tags": "zerofee",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "ftt",
+        "buy-limit-must-less-than": 1.1,
         "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
@@ -23275,7 +23295,7 @@
         "state": "online",
         "symbol": "srmbtc",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -23295,7 +23315,7 @@
         "state": "online",
         "symbol": "srmusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {

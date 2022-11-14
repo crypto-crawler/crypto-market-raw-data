@@ -13870,14 +13870,14 @@
             {
                 "filterType": "PERCENT_PRICE",
                 "multiplierDecimal": "4",
-                "multiplierDown": "0.9000",
-                "multiplierUp": "1.1000"
+                "multiplierDown": "0.8800",
+                "multiplierUp": "1.1200"
             }
         ],
         "liquidationFee": "0.025000",
         "maintMarginPercent": "2.5000",
         "marginAsset": "USDT",
-        "marketTakeBound": "0.10",
+        "marketTakeBound": "0.12",
         "onboardDate": 1663743600000,
         "orderTypes": [
             "LIMIT",
@@ -13903,7 +13903,7 @@
             "FOK",
             "GTX"
         ],
-        "triggerProtect": "0.1000",
+        "triggerProtect": "0.1200",
         "underlyingSubType": [
             "DeFi"
         ],
