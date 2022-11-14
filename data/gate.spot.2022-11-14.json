@@ -17784,17 +17784,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "FTT",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "FTT_TRY",
-        "precision": 2,
-        "quote": "TRY",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 2,
         "base": "EGLD3S",
         "buy_start": 0,
@@ -23272,6 +23261,17 @@
         "min_quote_amount": "1",
         "precision": 8,
         "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "USD",
+        "buy_start": 0,
+        "fee": "0.0",
+        "id": "USD_TRY",
+        "precision": 4,
+        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
