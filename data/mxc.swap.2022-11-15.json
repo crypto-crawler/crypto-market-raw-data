@@ -3043,10 +3043,10 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            1e-05,
             0.0001,
             0.001,
-            0.01
+            0.01,
+            0.1
         ],
         "displayName": "CRO_USDT\u6c38\u7eed",
         "displayNameEn": "CRO_USDT PERPETUAL",
@@ -3075,8 +3075,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 55000,
