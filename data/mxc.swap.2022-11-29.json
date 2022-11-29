@@ -3297,10 +3297,10 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            1e-05,
             0.0001,
             0.001,
-            0.01
+            0.01,
+            0.1
         ],
         "displayName": "CVC_USDT\u6c38\u7eed",
         "displayNameEn": "CVC_USDT PERPETUAL",
@@ -3330,8 +3330,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3200000,
