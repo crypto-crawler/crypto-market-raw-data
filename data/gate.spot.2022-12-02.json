@@ -6211,14 +6211,14 @@
     {
         "amount_precision": 1,
         "base": "FNCY",
-        "buy_start": 1669972500,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "FNCY_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13956,14 +13956,14 @@
     {
         "amount_precision": 1,
         "base": "GOV",
-        "buy_start": 1669971600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GOV_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -16186,6 +16186,18 @@
         "id": "WICC_USDT",
         "min_quote_amount": "1",
         "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "HOOK",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "HOOK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -25528,7 +25540,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
