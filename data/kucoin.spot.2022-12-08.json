@@ -24128,5 +24128,43 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "HICLONEX-USDT"
+    },
+    {
+        "baseCurrency": "PRIMAL",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "100",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "PRIMAL-USDT",
+        "priceIncrement": "0.0000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "PRIMAL-USDT"
+    },
+    {
+        "baseCurrency": "PRIMAL",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "100",
+        "enableTrading": false,
+        "feeCurrency": "USDC",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "PRIMAL-USDC",
+        "priceIncrement": "0.0000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDC",
+        "quoteIncrement": "0.0000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "PRIMAL-USDC"
     }
 ]
