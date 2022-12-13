@@ -2183,7 +2183,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 500000,
+        "limitMaxVol": 3200,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -2194,7 +2194,7 @@
             200,
             50
         ],
-        "maxVol": 300000,
+        "maxVol": 3200,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -2516,7 +2516,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 500000,
+        "limitMaxVol": 20000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 30,
@@ -2527,7 +2527,7 @@
             200,
             50
         ],
-        "maxVol": 200000,
+        "maxVol": 20000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -7334,17 +7334,16 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001",
             "0.001",
             "0.01",
-            "0.1"
+            "0.1",
+            "1"
         ],
         "displayName": "MAGIC_USDT",
         "displayNameEn": "MAGIC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "OKEX",
             "MEXC",
             "BYBIT"
         ],
@@ -7368,8 +7367,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 300,
@@ -7609,7 +7608,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -7810,7 +7808,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 500000,
+        "limitMaxVol": 35000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -7821,7 +7819,7 @@
             200,
             50
         ],
-        "maxVol": 500000,
+        "maxVol": 35000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
