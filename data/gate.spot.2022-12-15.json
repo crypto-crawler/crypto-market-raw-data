@@ -3268,16 +3268,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 0,
         "base": "RBC",
         "buy_start": 0,
         "fee": "0.2",
         "id": "RBC_ETH",
         "min_quote_amount": "0.001",
-        "precision": 7,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -11477,7 +11477,7 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "RBC",
         "buy_start": 0,
         "fee": "0.2",
@@ -11486,7 +11486,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -22630,6 +22630,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CTG",
+        "buy_start": 1671703200,
+        "fee": "0.2",
+        "id": "CTG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -34752,13 +34764,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "LN",
         "buy_start": 0,
         "fee": "0.2",
         "id": "LN_BTC",
         "min_quote_amount": "0.0001",
-        "precision": 6,
+        "precision": 7,
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
