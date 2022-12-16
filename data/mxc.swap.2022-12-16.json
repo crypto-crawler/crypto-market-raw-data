@@ -1856,6 +1856,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -2121,7 +2122,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 20000,
+        "limitMaxVol": 165000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -2132,7 +2133,7 @@
             200,
             50
         ],
-        "maxVol": 20000,
+        "maxVol": 165000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -2141,10 +2142,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 20000,
+        "riskBaseVol": 165000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 20000,
+        "riskIncrVol": 165000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -11109,10 +11110,10 @@
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
+            "0.0001",
             "0.001",
             "0.01",
-            "0.1",
-            "1"
+            "0.1"
         ],
         "displayName": "WAVES_USDT\u6c38\u7eed",
         "displayNameEn": "WAVES_USDT PERPETUAL",
@@ -11141,8 +11142,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 250000,
