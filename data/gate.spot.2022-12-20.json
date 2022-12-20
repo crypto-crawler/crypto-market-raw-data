@@ -7034,7 +7034,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -13081,13 +13081,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "ITSB",
         "buy_start": 0,
         "fee": "0.2",
         "id": "ITSB_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -18058,18 +18058,6 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "ITSB",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "ITSB_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
