@@ -2242,6 +2242,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "OKEX",
             "MEXC"
         ],
@@ -3807,7 +3808,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4138,7 +4140,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 450000,
         "maintenanceMarginRate": 0.005,
@@ -4528,7 +4530,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -5773,6 +5776,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -7216,7 +7220,8 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7351,7 +7356,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 200000,
         "maintenanceMarginRate": 0.004,
@@ -7410,7 +7415,11 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
+            "HUOBI",
+            "OKEX",
             "MEXC",
+            "BITGET",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
