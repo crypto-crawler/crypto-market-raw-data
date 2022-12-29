@@ -15837,7 +15837,7 @@
         "state": "online",
         "symbol": "massusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -16219,7 +16219,7 @@
         "state": "online",
         "symbol": "mdsusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -19954,6 +19954,26 @@
         "symbol": "phxbtc",
         "symbol-partition": "st",
         "tags": "st",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "pi",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 10,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "piusdt",
+        "symbol-partition": "main",
+        "tags": "",
         "value-precision": 8
     },
     {
