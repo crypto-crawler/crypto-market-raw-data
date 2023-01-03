@@ -117,7 +117,7 @@
         "state": "online",
         "symbol": "1solusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -3583,6 +3583,26 @@
         "sell-market-min-order-amt": 0.001,
         "state": "online",
         "symbol": "bobausdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "bonk",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 10,
+        "quote-currency": "usdd",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "pre-online",
+        "symbol": "bonkusdd",
         "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
