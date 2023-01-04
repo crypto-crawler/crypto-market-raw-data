@@ -4612,7 +4612,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 600000,
         "maintenanceMarginRate": 0.004,
@@ -8037,8 +8037,7 @@
             "OKEX",
             "MEXC",
             "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10033,7 +10032,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 800000,
         "maintenanceMarginRate": 0.01,
@@ -11159,6 +11158,7 @@
         "displayNameEn": "VINU_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "GATEIO",
             "HUOBI",
             "MEXC",
             "BITGET",
