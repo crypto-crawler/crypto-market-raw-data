@@ -2193,7 +2193,7 @@
     },
     {
         "amountScale": 4,
-        "apiAllowed": true,
+        "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
@@ -2214,8 +2214,7 @@
         "indexOrigin": [
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2961,7 +2960,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 7000000,
         "maintenanceMarginRate": 0.004,
@@ -3977,7 +3976,7 @@
     },
     {
         "amountScale": 4,
-        "apiAllowed": true,
+        "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
@@ -5623,7 +5622,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "MEXC",
             "BITGET",
             "BYBIT"
@@ -6679,7 +6677,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "MEXC",
             "KUCOIN",
             "BITGET"
@@ -6957,7 +6954,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 450000,
         "maintenanceMarginRate": 0.01,
