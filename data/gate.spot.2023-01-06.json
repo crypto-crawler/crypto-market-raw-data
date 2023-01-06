@@ -9307,7 +9307,7 @@
         "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -15628,6 +15628,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "IAZUKI",
+        "buy_start": 1673254800,
+        "fee": "0.2",
+        "id": "IAZUKI_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "NBP",
         "buy_start": 0,
@@ -21865,7 +21877,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
