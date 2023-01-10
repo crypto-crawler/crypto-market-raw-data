@@ -24,7 +24,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "OKEX",
             "MEXC"
         ],
@@ -3540,9 +3539,8 @@
         "displayNameEn": "CVC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
-            "GATEIO",
-            "OKEX"
+            "OKEX",
+            "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5215,7 +5213,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 1300,
         "maintenanceMarginRate": 0.02,
@@ -9880,7 +9878,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 100000000,
         "maintenanceMarginRate": 0.004,
