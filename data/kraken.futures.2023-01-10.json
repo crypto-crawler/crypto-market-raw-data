@@ -2598,6 +2598,57 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "ffb5403d-e82e-4ef0-8792-86a0471f526a",
         "fundingRateCoefficient": 24,
+        "impactMidSize": 2500.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 100000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 750000.0
+            }
+        ],
+        "maxPositionSize": 5000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2023-01-10T12:14:12.000Z",
+        "postOnly": false,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 100000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 750000.0
+            }
+        ],
+        "symbol": "pf_flrusd",
+        "tags": [],
+        "tickSize": 1e-06,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "Layer 1",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "ffb5403d-e82e-4ef0-8792-86a0471f526a",
+        "fundingRateCoefficient": 24,
         "impactMidSize": 600.0,
         "marginLevels": [
             {
