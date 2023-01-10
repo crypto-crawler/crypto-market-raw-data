@@ -132,13 +132,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 2,
         "base": "MAHA",
         "buy_start": 0,
         "fee": "0.2",
         "id": "MAHA_ETH",
         "min_quote_amount": "0.001",
-        "precision": 6,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -6353,13 +6353,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 2,
         "base": "MAHA",
         "buy_start": 0,
         "fee": "0.2",
         "id": "MAHA_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -7141,6 +7141,18 @@
         "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "AMKT",
+        "buy_start": 1673532000,
+        "fee": "0.2",
+        "id": "AMKT_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -12515,7 +12527,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -22711,6 +22723,18 @@
         "id": "INTER_USDT",
         "min_quote_amount": "1",
         "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "RPL",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "RPL_USDT",
+        "min_quote_amount": "1",
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
