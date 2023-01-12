@@ -2021,6 +2021,26 @@
         "api-trading": "enabled",
         "base-currency": "atom",
         "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.01,
+        "min-order-value": 10,
+        "price-precision": 4,
+        "quote-currency": "usdd",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "atomusdd",
+        "symbol-partition": "main",
+        "tags": "zerofee",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 3,
+        "api-trading": "enabled",
+        "base-currency": "atom",
+        "buy-limit-must-less-than": 1.1,
         "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
@@ -2296,6 +2316,26 @@
         "symbol": "avaxusdc",
         "symbol-partition": "main",
         "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "avax",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.001,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 0.001,
+        "min-order-value": 10,
+        "price-precision": 4,
+        "quote-currency": "usdd",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.001,
+        "state": "pre-online",
+        "symbol": "avaxusdd",
+        "symbol-partition": "main",
+        "tags": "zerofee",
         "value-precision": 8
     },
     {
@@ -10254,7 +10294,7 @@
         "state": "online",
         "symbol": "foxusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -27678,7 +27718,7 @@
         "state": "online",
         "symbol": "wildusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
