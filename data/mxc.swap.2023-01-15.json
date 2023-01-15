@@ -492,8 +492,7 @@
         "indexOrigin": [
             "GATEIO",
             "OKEX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5145,7 +5144,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 6000000,
+        "limitMaxVol": 4500000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -5156,7 +5155,7 @@
             200,
             50
         ],
-        "maxVol": 6000000,
+        "maxVol": 4500000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -5165,10 +5164,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6000000,
+        "riskBaseVol": 4500000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 6000000,
+        "riskIncrVol": 4500000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
