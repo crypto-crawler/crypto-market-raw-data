@@ -5506,6 +5506,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "TRG",
+        "buy_start": 1673879400,
+        "fee": "0.2",
+        "id": "TRG_USDT",
+        "min_quote_amount": "1",
+        "precision": 11,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "EPK",
         "buy_start": 0,
@@ -21293,14 +21305,14 @@
     {
         "amount_precision": 2,
         "base": "TOMI",
-        "buy_start": 1673863200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "TOMI_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -27338,14 +27350,14 @@
     {
         "amount_precision": 3,
         "base": "ITRUMP",
-        "buy_start": 1673859600,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ITRUMP_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
