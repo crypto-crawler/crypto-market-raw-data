@@ -312,16 +312,16 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "uni",
-        "id": "5248",
+        "amount-precision": 2,
+        "base-currency": "dot",
+        "id": "5241",
         "max-order-amt": null,
-        "min-order-amt": "0.0001",
+        "min-order-amt": "0.01",
         "price-precision": 4,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "uni_usdt",
-        "symbol-partition": "innovation"
+        "symbol": "dot_usdt",
+        "symbol-partition": "main"
     },
     {
         "amount-precision": 2,
@@ -334,6 +334,18 @@
         "state": "online",
         "symbol": "fil_usdt",
         "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "near",
+        "id": "5259",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "near_usdt",
+        "symbol-partition": "innovation"
     },
     {
         "amount-precision": 4,
@@ -564,6 +576,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 3,
+        "base-currency": "ltc",
+        "id": "5299",
+        "max-order-amt": null,
+        "min-order-amt": "0.001",
+        "price-precision": 2,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "ltc_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 2,
         "base-currency": "kerri",
         "id": "5310",
@@ -756,15 +780,27 @@
         "symbol-partition": "innovation"
     },
     {
-        "amount-precision": 0,
-        "base-currency": "shib",
-        "id": "5342",
+        "amount-precision": 3,
+        "base-currency": "people",
+        "id": "5336",
         "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 9,
+        "min-order-amt": "0.001",
+        "price-precision": 6,
         "quote-currency": "usdt",
         "state": "online",
-        "symbol": "shib_usdt",
+        "symbol": "people_usdt",
+        "symbol-partition": "innovation"
+    },
+    {
+        "amount-precision": 2,
+        "base-currency": "ape",
+        "id": "5381",
+        "max-order-amt": null,
+        "min-order-amt": "0.01",
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "state": "online",
+        "symbol": "ape_usdt",
         "symbol-partition": "innovation"
     },
     {
