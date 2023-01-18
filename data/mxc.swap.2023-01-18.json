@@ -426,6 +426,9 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
+            "OKEX",
+            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -3529,6 +3532,8 @@
         "displayNameEn": "CVC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "GATEIO",
+            "HUOBI",
             "OKEX",
             "BITGET"
         ],
@@ -5473,7 +5478,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2200000,
+        "limitMaxVol": 1600000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -5484,7 +5489,7 @@
             200,
             50
         ],
-        "maxVol": 2200000,
+        "maxVol": 1600000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -5493,10 +5498,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2200000,
+        "riskBaseVol": 1600000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 2200000,
+        "riskIncrVol": 1600000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -8789,7 +8794,6 @@
         "displayNameEn": "PEOPLE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKEX",
@@ -10246,6 +10250,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
