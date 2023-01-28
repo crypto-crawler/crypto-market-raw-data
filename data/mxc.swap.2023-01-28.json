@@ -490,7 +490,8 @@
         "displayNameEn": "ALT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2537,7 +2538,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -3796,7 +3796,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 1100000,
         "maintenanceMarginRate": 0.01,
@@ -4186,7 +4186,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 120000,
         "maintenanceMarginRate": 0.004,
@@ -5255,10 +5255,8 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
             "OKEX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10432,7 +10430,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 360000,
         "maintenanceMarginRate": 0.004,
@@ -11828,7 +11826,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 450000,
         "maintenanceMarginRate": 0.005,
