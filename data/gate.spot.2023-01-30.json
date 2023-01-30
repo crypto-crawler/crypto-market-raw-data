@@ -12938,6 +12938,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "JAM",
+        "buy_start": 1675342800,
+        "fee": "0.2",
+        "id": "JAM_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "FUSE",
         "buy_start": 0,
@@ -16177,6 +16189,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GNS",
+        "buy_start": 1675166400,
+        "fee": "0.2",
+        "id": "GNS_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
