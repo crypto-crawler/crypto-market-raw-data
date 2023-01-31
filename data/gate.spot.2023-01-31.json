@@ -7492,6 +7492,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SMART",
+        "buy_start": 1676368800,
+        "fee": "0.2",
+        "id": "SMART_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "LAVA",
         "buy_start": 0,
         "fee": "0.2",
@@ -16193,14 +16205,14 @@
     {
         "amount_precision": 3,
         "base": "GNS",
-        "buy_start": 1675166400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GNS_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -16835,6 +16847,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SQUAD",
+        "buy_start": 1675429200,
+        "fee": "0.2",
+        "id": "SQUAD_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
