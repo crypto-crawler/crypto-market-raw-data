@@ -2864,9 +2864,10 @@
         "displayNameEn": "CFX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BINANCE",
             "GATEIO",
             "OKEX",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -4844,7 +4845,6 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
             "OKEX",
             "MEXC"
         ],
@@ -5525,7 +5525,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1100000,
+        "limitMaxVol": 820000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 30,
@@ -5536,7 +5536,7 @@
             200,
             50
         ],
-        "maxVol": 1100000,
+        "maxVol": 820000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -5545,10 +5545,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1100000,
+        "riskBaseVol": 820000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 1100000,
+        "riskIncrVol": 820000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -5582,9 +5582,10 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
             "MEXC",
-            "KUCOIN"
+            "KUCOIN",
+            "BITGET",
+            "BYBIT"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -7973,8 +7974,7 @@
             "OKEX",
             "MEXC",
             "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12423,7 +12423,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 500000,
+        "limitMaxVol": 380000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -12434,7 +12434,7 @@
             200,
             50
         ],
-        "maxVol": 500000,
+        "maxVol": 380000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -12443,10 +12443,10 @@
         "priceUnit": 0.1,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 500000,
+        "riskBaseVol": 380000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 500000,
+        "riskIncrVol": 380000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
