@@ -2326,10 +2326,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "TRX",
+        "base": "XLM",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "TRX_TRY",
+        "id": "XLM_TRY",
         "precision": 4,
         "quote": "TRY",
         "sell_start": 0,
@@ -2337,10 +2337,10 @@
     },
     {
         "amount_precision": 3,
-        "base": "XLM",
+        "base": "TRX",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "XLM_TRY",
+        "id": "TRX_TRY",
         "precision": 4,
         "quote": "TRY",
         "sell_start": 0,
@@ -17558,14 +17558,14 @@
     {
         "amount_precision": 2,
         "base": "GRV",
-        "buy_start": 1675314000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "GRV_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -17802,7 +17802,7 @@
         "fee": "0.2",
         "id": "DOGGO_USDT",
         "min_quote_amount": "1",
-        "precision": 10,
+        "precision": 12,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -19956,6 +19956,18 @@
         "id": "NYZO_USDT",
         "min_quote_amount": "1",
         "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CORE",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "CORE_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -25698,13 +25710,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 0,
         "base": "POP",
         "buy_start": 0,
         "fee": "0.2",
         "id": "POP_USDT",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 10,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
