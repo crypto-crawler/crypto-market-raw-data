@@ -300,18 +300,6 @@
         "symbol-partition": "main"
     },
     {
-        "amount-precision": 4,
-        "base-currency": "dot",
-        "id": "5235",
-        "max-order-amt": null,
-        "min-order-amt": "0.0001",
-        "price-precision": 3,
-        "quote-currency": "qc",
-        "state": "online",
-        "symbol": "dot_qc",
-        "symbol-partition": "innovation"
-    },
-    {
         "amount-precision": 2,
         "base-currency": "dot",
         "id": "5241",
@@ -576,6 +564,18 @@
         "symbol-partition": "innovation"
     },
     {
+        "amount-precision": 0,
+        "base-currency": "doge",
+        "id": "5300",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 6,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "doge_qc",
+        "symbol-partition": "main"
+    },
+    {
         "amount-precision": 3,
         "base-currency": "dash",
         "id": "5301",
@@ -585,6 +585,18 @@
         "quote-currency": "qc",
         "state": "online",
         "symbol": "dash_qc",
+        "symbol-partition": "main"
+    },
+    {
+        "amount-precision": 0,
+        "base-currency": "xrp",
+        "id": "5302",
+        "max-order-amt": null,
+        "min-order-amt": "1",
+        "price-precision": 4,
+        "quote-currency": "qc",
+        "state": "online",
+        "symbol": "xrp_qc",
         "symbol-partition": "main"
     },
     {
@@ -777,18 +789,6 @@
         "quote-currency": "usdt",
         "state": "online",
         "symbol": "nabox_usdt",
-        "symbol-partition": "innovation"
-    },
-    {
-        "amount-precision": 0,
-        "base-currency": "shib",
-        "id": "5342",
-        "max-order-amt": null,
-        "min-order-amt": "1",
-        "price-precision": 9,
-        "quote-currency": "usdt",
-        "state": "online",
-        "symbol": "shib_usdt",
         "symbol-partition": "innovation"
     },
     {
