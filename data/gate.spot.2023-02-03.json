@@ -23400,6 +23400,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SNM",
+        "buy_start": 1675674000,
+        "fee": "0.2",
+        "id": "SNM_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "MDS",
         "buy_start": 0,
         "fee": "0.2",
@@ -32911,12 +32923,12 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "VINU",
         "buy_start": 0,
         "fee": "0.2",
         "id": "VINU_TRY",
-        "precision": 4,
+        "precision": 10,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
