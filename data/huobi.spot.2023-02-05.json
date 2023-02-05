@@ -8209,7 +8209,7 @@
         "state": "online",
         "symbol": "elabtc",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -8269,7 +8269,7 @@
         "state": "online",
         "symbol": "elausdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -10569,7 +10569,7 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "fud",
-        "buy-limit-must-less-than": 1.1,
+        "buy-limit-must-less-than": 1.5,
         "limit-order-min-order-amt": 0.1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -10577,7 +10577,7 @@
         "min-order-value": 10,
         "price-precision": 4,
         "quote-currency": "usdd",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.5,
         "sell-market-min-order-amt": 0.1,
         "state": "online",
         "symbol": "fudusdd",
