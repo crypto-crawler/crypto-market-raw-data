@@ -9739,10 +9739,10 @@
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
+            "0.0000001",
             "0.000001",
             "0.00001",
-            "0.0001",
-            "0.001"
+            "0.0001"
         ],
         "displayName": "RACA_USDT\u6c38\u7eed",
         "displayNameEn": "RACA_USDT PERPETUAL",
@@ -9775,8 +9775,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 15000,
