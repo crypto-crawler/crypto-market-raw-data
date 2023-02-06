@@ -3793,7 +3793,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -8710,7 +8710,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -14502,18 +14502,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "POLY",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "POLY_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -20414,18 +20402,6 @@
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "POLY",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "POLY_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -35419,18 +35395,6 @@
         "id": "ALPHR_USDT",
         "min_quote_amount": "1",
         "precision": 7,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "GTO",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GTO_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
