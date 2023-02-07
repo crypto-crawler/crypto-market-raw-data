@@ -6132,7 +6132,7 @@
         "state": "ENABLED",
         "symbol": "CLEV_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -6477,7 +6477,7 @@
         "state": "ENABLED",
         "symbol": "CORE_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 3,
@@ -12567,7 +12567,7 @@
         "state": "ENABLED",
         "symbol": "GRAIL_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -14097,7 +14097,7 @@
         "state": "ENABLED",
         "symbol": "IMGNAI_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -14862,7 +14862,7 @@
         "state": "ENABLED",
         "symbol": "JPEG_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 3,
@@ -17067,7 +17067,7 @@
         "state": "ENABLED",
         "symbol": "LYRA_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -22632,7 +22632,7 @@
         "state": "ENABLED",
         "symbol": "PSI_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -23412,7 +23412,7 @@
         "state": "ENABLED",
         "symbol": "RDNT_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,
@@ -23981,6 +23981,21 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ROL_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "RON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
@@ -29077,6 +29092,21 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "VELA_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -30087,7 +30117,7 @@
         "state": "ENABLED",
         "symbol": "WOOF_USDT",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.002"
+        "taker_fee_rate": "0.001"
     },
     {
         "etf_mark": 0,

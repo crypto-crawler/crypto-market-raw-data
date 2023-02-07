@@ -4573,7 +4573,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 240000,
         "maintenanceMarginRate": 0.005,
@@ -9023,12 +9023,11 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 750000,
         "maintenanceMarginRate": 0.01,
@@ -11469,7 +11468,6 @@
         "displayNameEn": "TON_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "HUOBI",
             "OKEX",
             "MEXC",
             "KUCOIN"
