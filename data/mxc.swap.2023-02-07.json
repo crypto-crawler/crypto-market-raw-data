@@ -4573,7 +4573,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 240000,
         "maintenanceMarginRate": 0.005,
@@ -6889,7 +6889,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "OKEX",
             "MEXC",
             "KUCOIN",
@@ -8699,7 +8698,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 100000,
         "maintenanceMarginRate": 0.01,
@@ -10939,8 +10938,7 @@
             "BINANCE",
             "GATEIO",
             "OKEX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
