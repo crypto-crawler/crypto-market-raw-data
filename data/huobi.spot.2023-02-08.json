@@ -5598,7 +5598,7 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "core",
-        "buy-limit-must-less-than": 1.1,
+        "buy-limit-must-less-than": 1.3,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -5606,9 +5606,9 @@
         "min-order-value": 10,
         "price-precision": 6,
         "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.7,
         "sell-market-min-order-amt": 1,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "coreusdt",
         "symbol-partition": "main",
         "tags": "",
@@ -25271,7 +25271,7 @@
         "state": "online",
         "symbol": "tokeusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -25532,7 +25532,7 @@
         "state": "online",
         "symbol": "tracusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
