@@ -2423,10 +2423,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 115000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 115000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -4691,8 +4691,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO",
-            "BITGET"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4713,7 +4712,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.15,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
