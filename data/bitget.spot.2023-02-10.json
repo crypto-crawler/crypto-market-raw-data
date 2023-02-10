@@ -283,7 +283,7 @@
         "base_currency": "JONES",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "gray",
+        "status": "online",
         "symbol": "JONES_USDT",
         "tick_size": "2"
     },
@@ -301,7 +301,7 @@
         "base_currency": "BFR",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BFR_USDT",
         "tick_size": "4"
     },
@@ -319,7 +319,7 @@
         "base_currency": "THENA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "THENA_USDT",
         "tick_size": "4"
     },
@@ -367,6 +367,15 @@
         "status": "online",
         "symbol": "IQ_USDT",
         "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "CHESS",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "CHESS_USDT",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "0",
@@ -1309,7 +1318,7 @@
         "base_currency": "VISION",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "gray",
         "symbol": "VISION_USDT",
         "tick_size": "6"
     },
