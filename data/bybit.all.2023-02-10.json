@@ -2565,6 +2565,33 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "GFTUSDT",
+        "base_currency": "GFT",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 200000,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "1000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "GFTUSDT",
+        "price_filter": {
+            "max_price": "99.99990",
+            "min_price": "0.00005",
+            "tick_size": "0.00005"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "GLMRUSDT",
         "base_currency": "GLMR",
         "funding_interval": 480,

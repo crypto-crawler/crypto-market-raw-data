@@ -3332,14 +3332,14 @@
     {
         "amount_precision": 2,
         "base": "BBC",
-        "buy_start": 1676030400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "BBC_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 5,
@@ -11693,6 +11693,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "FNZ",
+        "buy_start": 1676289600,
+        "fee": "0.2",
+        "id": "FNZ_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "FODL",
         "buy_start": 0,
@@ -19165,14 +19177,14 @@
     {
         "amount_precision": 2,
         "base": "MDAO",
-        "buy_start": 1676023200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MDAO_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -32827,6 +32839,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "WALV",
+        "buy_start": 1676440800,
+        "fee": "0.2",
+        "id": "WALV_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

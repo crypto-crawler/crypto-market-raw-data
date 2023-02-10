@@ -352,7 +352,6 @@
         "displayNameEn": "AGLD_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -1005,10 +1004,10 @@
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
-            "0.0001",
             "0.001",
             "0.01",
-            "0.1"
+            "0.1",
+            "1"
         ],
         "displayName": "APT_USDT\u6c38\u7eed",
         "displayNameEn": "APT_USDT PERPETUAL",
@@ -1039,8 +1038,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 320000,
@@ -2377,12 +2376,14 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "BNX",
         "baseCoinName": "BNX",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 0.01,
+        "deliveryPriceTrend": 3,
+        "deliveryTime": 1676084400814,
         "depthStepList": [
             "0.01",
             "0.1",
@@ -4691,7 +4692,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -9265,10 +9265,10 @@
         ],
         "contractSize": 1,
         "depthStepList": [
-            "0.00001",
             "0.0001",
             "0.001",
-            "0.01"
+            "0.01",
+            "0.1"
         ],
         "displayName": "OCEAN_USDT\u6c38\u7eed",
         "displayNameEn": "OCEAN_USDT PERPETUAL",
@@ -9299,8 +9299,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 600000,
