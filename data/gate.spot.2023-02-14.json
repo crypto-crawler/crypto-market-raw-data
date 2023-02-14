@@ -11695,7 +11695,7 @@
     {
         "amount_precision": 2,
         "base": "FNZ",
-        "buy_start": 1676376000,
+        "buy_start": 1676462400,
         "fee": "0.2",
         "id": "FNZ_USDT",
         "min_quote_amount": "1",
@@ -13941,6 +13941,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "HAM",
+        "buy_start": 1676883600,
+        "fee": "0.2",
+        "id": "HAM_USDT",
+        "min_quote_amount": "1",
+        "precision": 13,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -28105,14 +28117,14 @@
     {
         "amount_precision": 3,
         "base": "SMART",
-        "buy_start": 1676368800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "SMART_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
