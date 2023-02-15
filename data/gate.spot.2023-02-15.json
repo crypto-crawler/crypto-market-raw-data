@@ -416,6 +416,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "ACS",
+        "buy_start": 1676480400,
+        "fee": "0.2",
+        "id": "ACS_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ACX",
         "buy_start": 0,
@@ -11181,14 +11193,14 @@
     {
         "amount_precision": 2,
         "base": "FER",
-        "buy_start": 1676448000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "FER_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -15044,6 +15056,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "IGU",
+        "buy_start": 1676635200,
+        "fee": "0.2",
+        "id": "IGU_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "IHC",
         "buy_start": 0,
@@ -16385,6 +16409,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KING",
+        "buy_start": 1676628000,
+        "fee": "0.2",
+        "id": "KING_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -24125,14 +24161,14 @@
     {
         "amount_precision": 3,
         "base": "POLYX",
-        "buy_start": 1676437200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "POLYX_USDT",
         "min_quote_amount": "1",
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -32879,14 +32915,14 @@
     {
         "amount_precision": 2,
         "base": "WALV",
-        "buy_start": 1676440800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "WALV_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
