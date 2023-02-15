@@ -292,6 +292,21 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
+        "price_scale": 7,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "ACS_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -1121,6 +1136,21 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AME_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "AMG_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
@@ -22016,7 +22046,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PIB_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
     {

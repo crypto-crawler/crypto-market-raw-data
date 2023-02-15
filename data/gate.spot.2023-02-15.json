@@ -691,6 +691,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "AGLA",
+        "buy_start": 1677056400,
+        "fee": "0.2",
+        "id": "AGLA_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "AGLD",
         "buy_start": 0,
@@ -4944,6 +4956,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BS",
+        "buy_start": 1677330000,
+        "fee": "0.2",
+        "id": "BS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -11707,14 +11731,14 @@
     {
         "amount_precision": 2,
         "base": "FNZ",
-        "buy_start": 1676462400,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "FNZ_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -32959,6 +32983,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "WAS",
+        "buy_start": 1676872800,
+        "fee": "0.2",
+        "id": "WAS_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
