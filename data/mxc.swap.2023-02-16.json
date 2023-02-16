@@ -1678,8 +1678,7 @@
         "indexOrigin": [
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -3318,7 +3317,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 575000,
         "maintenanceMarginRate": 0.01,
@@ -4551,7 +4550,6 @@
         "displayNameEn": "DENT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "BITGET"
         ],
@@ -4691,7 +4689,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 110000,
         "maintenanceMarginRate": 0.004,
@@ -9799,7 +9797,6 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "HUOBI",
             "OKX",
             "MEXC"
         ],
@@ -11045,7 +11042,6 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "HUOBI",
             "OKX",
             "MEXC",
             "BITGET"
