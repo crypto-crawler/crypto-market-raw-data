@@ -1744,7 +1744,6 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -3383,7 +3382,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 160000,
         "maintenanceMarginRate": 0.01,
@@ -4300,8 +4299,7 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -5892,7 +5890,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 5500,
         "maintenanceMarginRate": 0.01,
