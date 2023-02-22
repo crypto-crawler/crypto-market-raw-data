@@ -155,7 +155,11 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC"
+            "HUOBI",
+            "MEXC",
+            "KUCOIN",
+            "BITGET",
+            "BYBIT"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -813,7 +817,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -823,7 +827,7 @@
         "marketOrderMaxLevel": 15,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -2263,17 +2267,17 @@
             "MEXC",
             "BITGET"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 330000,
-        "maintenanceMarginRate": 0.02,
+        "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -2288,8 +2292,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 330000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
         "riskIncrVol": 330000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -3377,7 +3381,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -3387,7 +3391,7 @@
         "marketOrderMaxLevel": 15,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -5888,7 +5892,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 5500,
         "maintenanceMarginRate": 0.01,
@@ -8101,14 +8105,14 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "LINA",
         "baseCoinName": "LINA",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-defi",
-            "mc-trade-zone-bsc"
+            "mc-trade-zone-bsc",
+            "mc-trade-zone-defi"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -8126,7 +8130,7 @@
             "MEXC",
             "BITGET"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -8136,7 +8140,7 @@
         "marketOrderMaxLevel": 15,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -11373,7 +11377,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 360000,
         "maintenanceMarginRate": 0.004,
@@ -11758,7 +11762,10 @@
         "displayNameEn": "STX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BINANCE",
             "GATEIO",
+            "OKX",
+            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
@@ -12141,11 +12148,11 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "TRB",
         "baseCoinName": "TRB",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
@@ -12166,7 +12173,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 200000,
+        "limitMaxVol": 150000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 15,
@@ -12177,7 +12184,7 @@
             200,
             50
         ],
-        "maxVol": 200000,
+        "maxVol": 150000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -12186,10 +12193,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 200000,
+        "riskBaseVol": 150000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 200000,
+        "riskIncrVol": 150000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
