@@ -4463,7 +4463,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -11137,7 +11137,7 @@
         "fee": "0.2",
         "id": "FEG_USDT",
         "min_quote_amount": "1",
-        "precision": 13,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -24567,6 +24567,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "PSI",
+        "buy_start": 1677492000,
+        "fee": "0.2",
+        "id": "PSI_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "PSL",
         "buy_start": 0,
@@ -29164,7 +29176,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -29176,7 +29188,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
