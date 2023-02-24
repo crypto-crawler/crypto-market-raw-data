@@ -945,13 +945,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "4",
         "base_currency": "LYRA",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "4",
         "status": "online",
         "symbol": "LYRA_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "3",
@@ -1017,6 +1017,15 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "COLLAB",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "COLLAB_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "1",
         "base_currency": "OLE",
         "quote_currency": "USDT",
@@ -1032,6 +1041,15 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "PYR_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "OPX",
+        "quote_currency": "USDT",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "OPX_USDT",
         "tick_size": "4"
     },
     {
@@ -1075,9 +1093,9 @@
         "base_currency": "BNX",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "BNX_USDT",
-        "tick_size": "2"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "3",
@@ -3640,7 +3658,7 @@
         "base_currency": "HOP",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "HOP_USDT",
         "tick_size": "6"
     },

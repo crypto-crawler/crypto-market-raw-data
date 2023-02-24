@@ -2135,6 +2135,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ASTO",
+        "buy_start": 1677646800,
+        "fee": "0.2",
+        "id": "ASTO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ASTR3L",
         "buy_start": 0,
@@ -20515,7 +20527,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -23223,6 +23235,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "PAW",
+        "buy_start": 1677312000,
+        "fee": "0.2",
+        "id": "PAW_USDT",
+        "min_quote_amount": "1",
+        "precision": 13,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
