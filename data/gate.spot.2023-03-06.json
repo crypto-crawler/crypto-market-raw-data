@@ -21428,25 +21428,25 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 0,
         "base": "NFTY",
         "buy_start": 0,
         "fee": "0.2",
         "id": "NFTY_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 12,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "NFTY",
         "buy_start": 0,
         "fee": "0.2",
         "id": "NFTY_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -31060,10 +31060,10 @@
     },
     {
         "amount_precision": 2,
-        "base": "TON",
+        "base": "TONC",
         "buy_start": 0,
         "fee": "0.2",
-        "id": "TON_USDT",
+        "id": "TONC_USDT",
         "min_quote_amount": "1",
         "precision": 5,
         "quote": "USDT",
