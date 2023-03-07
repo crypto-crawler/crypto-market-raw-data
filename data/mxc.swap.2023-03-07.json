@@ -224,7 +224,6 @@
         "displayNameEn": "ACS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -688,9 +687,7 @@
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
-            "0.001",
-            "0.01",
-            "0.1"
+            "0.001"
         ],
         "displayName": "ALT_USDT\u6c38\u7eed",
         "displayNameEn": "ALT_USDT PERPETUAL",
@@ -4280,9 +4277,7 @@
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
-            "0.001",
-            "0.01",
-            "0.1"
+            "0.001"
         ],
         "displayName": "CVC_USDT\u6c38\u7eed",
         "displayNameEn": "CVC_USDT PERPETUAL",
@@ -6958,9 +6953,7 @@
         "contractSize": 1,
         "depthStepList": [
             "0.001",
-            "0.01",
-            "0.1",
-            "1"
+            "0.01"
         ],
         "displayName": "HIGH_USDT\u6c38\u7eed",
         "displayNameEn": "HIGH_USDT PERPETUAL",
@@ -10120,10 +10113,10 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
+            "0.0001",
             "0.001",
             "0.01",
-            "0.1",
-            "1"
+            "0.1"
         ],
         "displayName": "PERP_USDT\u6c38\u7eed",
         "displayNameEn": "PERP_USDT PERPETUAL",
@@ -10154,8 +10147,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1450,
