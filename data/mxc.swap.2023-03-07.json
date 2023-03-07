@@ -224,7 +224,10 @@
         "displayNameEn": "ACS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN",
+            "BYBIT"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -245,7 +248,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.15,
+        "priceCoefficientVariation": 0.1,
         "priceScale": 6,
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
