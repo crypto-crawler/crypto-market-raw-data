@@ -11495,8 +11495,7 @@
         "indexOrigin": [
             "BINANCE",
             "MEXC",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11832,7 +11831,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 50000,
+        "limitMaxVol": 120000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -11843,7 +11842,7 @@
             200,
             50
         ],
-        "maxVol": 50000,
+        "maxVol": 120000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -11852,10 +11851,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 50000,
+        "riskBaseVol": 120000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 50000,
+        "riskIncrVol": 120000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
