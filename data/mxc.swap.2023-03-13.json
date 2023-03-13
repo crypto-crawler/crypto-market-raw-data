@@ -9385,7 +9385,6 @@
         "displayNameEn": "NEO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC"
@@ -12606,10 +12605,10 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
+            "0.00001",
             "0.0001",
             "0.001",
-            "0.01",
-            "0.1"
+            "0.01"
         ],
         "displayName": "USDC_USDT\u6c38\u7eed",
         "displayNameEn": "USDC_USDT PERPETUAL",
@@ -12640,8 +12639,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2200,
