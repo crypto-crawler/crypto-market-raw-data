@@ -2363,7 +2363,7 @@
         "auction_mode": false,
         "base_currency": "BUSD",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "BUSD/USD",
         "fx_stablecoin": true,
         "high_bid_limit_percentage": "0.03000000",
@@ -2375,9 +2375,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
