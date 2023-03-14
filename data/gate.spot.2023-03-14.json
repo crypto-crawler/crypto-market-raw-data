@@ -2470,13 +2470,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "ATOZ",
         "buy_start": 0,
         "fee": "0.2",
         "id": "ATOZ_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -26380,6 +26380,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "RJV",
+        "buy_start": 1678975200,
+        "fee": "0.2",
+        "id": "RJV_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "RLC",
         "buy_start": 0,
@@ -28639,6 +28651,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SOMM",
+        "buy_start": 1679061600,
+        "fee": "0.2",
+        "id": "SOMM_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
