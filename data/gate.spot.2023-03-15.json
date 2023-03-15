@@ -9766,6 +9766,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "DZOO",
+        "buy_start": 1678960800,
+        "fee": "0.2",
+        "id": "DZOO_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ECOX",
         "buy_start": 0,
@@ -30613,6 +30625,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TEM",
+        "buy_start": 1679220000,
+        "fee": "0.2",
+        "id": "TEM_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
