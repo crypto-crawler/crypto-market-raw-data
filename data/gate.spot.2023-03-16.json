@@ -9768,14 +9768,14 @@
     {
         "amount_precision": 1,
         "base": "DZOO",
-        "buy_start": 1678960800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DZOO_USDT",
         "min_quote_amount": "1",
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -20518,28 +20518,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
-        "base": "MPI",
-        "buy_start": 1678960800,
-        "fee": "0.2",
-        "id": "MPI_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 10,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "sellable"
-    },
-    {
         "amount_precision": 1,
         "base": "MPI",
-        "buy_start": 1678960800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "MPI_USDT",
         "min_quote_amount": "1",
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21115,6 +21103,18 @@
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NBLU",
+        "buy_start": 1679623200,
+        "fee": "0.2",
+        "id": "NBLU_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -25913,6 +25913,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "REELT",
+        "buy_start": 1679560200,
+        "fee": "0.2",
+        "id": "REELT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "REF",
         "buy_start": 0,
@@ -26394,14 +26406,14 @@
     {
         "amount_precision": 2,
         "base": "RJV",
-        "buy_start": 1678968000,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "RJV_USDT",
         "min_quote_amount": "1",
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
