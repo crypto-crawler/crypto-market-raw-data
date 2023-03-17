@@ -1323,6 +1323,33 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "BTCUSD0929",
+        "base_currency": "BTC",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 100,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000.0,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "BTCUSDU23",
+        "price_filter": {
+            "max_price": "999999.00",
+            "min_price": "0.50",
+            "tick_size": "0.50"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "BUSDUSDT",
         "base_currency": "BUSD",
         "funding_interval": 480,
@@ -2426,6 +2453,33 @@
         },
         "price_scale": 2,
         "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
+        "alias": "ETHUSD0929",
+        "base_currency": "ETH",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 50,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 1000000.0,
+            "min_trading_qty": 1,
+            "post_only_max_trading_qty": "5000000",
+            "qty_step": 1
+        },
+        "maker_fee": "0.0001",
+        "name": "ETHUSDU23",
+        "price_filter": {
+            "max_price": "99999.90",
+            "min_price": "0.05",
+            "tick_size": "0.05"
+        },
+        "price_scale": 2,
+        "quote_currency": "USD",
         "status": "Trading",
         "taker_fee": "0.0006"
     },

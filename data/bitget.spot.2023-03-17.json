@@ -2110,9 +2110,9 @@
         "base_currency": "TEM",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "TEM_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -2193,6 +2193,15 @@
         "size_increment": "3",
         "status": "online",
         "symbol": "HFT_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "LSD",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "LSD_USDT",
         "tick_size": "4"
     },
     {
