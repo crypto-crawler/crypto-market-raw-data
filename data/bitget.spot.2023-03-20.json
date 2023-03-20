@@ -958,7 +958,7 @@
         "base_currency": "LUFFY",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "LUFFY_USDT",
         "tick_size": "12"
     },
@@ -2088,6 +2088,15 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "TEM",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "TEM_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "3",
         "base_currency": "FLUX",
         "quote_currency": "USDT",
@@ -2104,15 +2113,6 @@
         "status": "online",
         "symbol": "REEF_USDT",
         "tick_size": "7"
-    },
-    {
-        "base_asset_precision": "0",
-        "base_currency": "TEM",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "TEM_USDT",
-        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -2134,6 +2134,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "SETF1001",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "offline",
+        "symbol": "SETF1001_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "VRA",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -2148,15 +2157,6 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "RAD_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
-        "base_currency": "SETF1001",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "offline",
-        "symbol": "SETF1001_USDT",
         "tick_size": "4"
     },
     {
@@ -2179,6 +2179,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "LSD",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "LSD_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "MOONEY",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -2197,21 +2206,21 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "LSD",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "LSD_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "AFC",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "online",
         "symbol": "AFC_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "0",
+        "base_currency": "OATH",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "online",
+        "symbol": "OATH_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "2",
@@ -2230,15 +2239,6 @@
         "status": "online",
         "symbol": "USDT_BRL",
         "tick_size": "3"
-    },
-    {
-        "base_asset_precision": "0",
-        "base_currency": "OATH",
-        "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "online",
-        "symbol": "OATH_USDT",
-        "tick_size": "6"
     },
     {
         "base_asset_precision": "4",
