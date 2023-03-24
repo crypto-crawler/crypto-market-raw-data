@@ -92,6 +92,7 @@
         "indexOrigin": [
             "BINANCE",
             "MEXC",
+            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -2693,7 +2694,9 @@
         "displayNameEn": "BNX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE"
+            "BINANCE",
+            "GATEIO",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -3494,7 +3497,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 650000,
         "maintenanceMarginRate": 0.004,
@@ -4224,8 +4227,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -4809,7 +4814,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -5144,7 +5150,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -5409,6 +5418,7 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
+            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.0133,
@@ -7951,7 +7961,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "OKX"
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -9107,7 +9118,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 1400000,
         "maintenanceMarginRate": 0.004,
@@ -9439,8 +9450,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
+            "GATEIO",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10443,7 +10456,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN",
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11981,9 +11997,10 @@
         "displayNameEn": "SRM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
-            "OKX"
+            "OKX",
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
