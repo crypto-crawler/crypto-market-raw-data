@@ -6091,7 +6091,6 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.00001",
             "0.0001",
             "0.001"
         ],
@@ -6124,8 +6123,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 700000,
@@ -9096,7 +9095,6 @@
         "baseCoinName": "LTC",
         "bidLimitPriceRate": 0.1,
         "conceptPlate": [
-            "mc-trade-zone-grey",
             "mc-trade-zone-pow"
         ],
         "contractSize": 0.01,
@@ -9120,7 +9118,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1400000,
+        "limitMaxVol": 1000000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -9131,7 +9129,7 @@
             200,
             50
         ],
-        "maxVol": 1400000,
+        "maxVol": 1000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -9140,10 +9138,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1400000,
+        "riskBaseVol": 1000000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 1400000,
+        "riskIncrVol": 1000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
