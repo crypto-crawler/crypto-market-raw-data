@@ -1824,6 +1824,41 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "ARB3L",
+        "buy_start": 1582704000,
+        "fee": "0.2",
+        "id": "ARB3L_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1582704000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ARB3S",
+        "buy_start": 1582704000,
+        "fee": "0.2",
+        "id": "ARB3S_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1582704000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ARB",
+        "buy_start": 1679577600,
+        "fee": "0.2",
+        "id": "ARB_TRY",
+        "precision": 5,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "ARB",
         "buy_start": 1679577600,
@@ -15144,6 +15179,17 @@
         "base": "ID",
         "buy_start": 1679486400,
         "fee": "0.2",
+        "id": "ID_TRY",
+        "precision": 5,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ID",
+        "buy_start": 1679486400,
+        "fee": "0.2",
         "id": "ID_USDT",
         "min_quote_amount": "1",
         "precision": 6,
@@ -19628,7 +19674,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -19761,6 +19807,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "MGKL",
+        "buy_start": 1680012000,
+        "fee": "0.2",
+        "id": "MGKL_USDT",
+        "min_quote_amount": "1",
+        "precision": 11,
+        "quote": "USDT",
+        "sell_start": 1608782400,
+        "trade_status": "buyable"
     },
     {
         "amount_precision": 3,
@@ -23856,7 +23914,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "buyable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
