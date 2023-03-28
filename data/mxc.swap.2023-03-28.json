@@ -92,7 +92,6 @@
         "indexOrigin": [
             "BINANCE",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -160,7 +159,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -227,7 +225,6 @@
         "indexOrigin": [
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.02,
@@ -296,7 +293,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -363,8 +359,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -478,6 +473,71 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "AKRO",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "AKRO",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.000001",
+            "0.00001"
+        ],
+        "displayName": "AKRO_USDT\u6c38\u7eed",
+        "displayNameEn": "AKRO_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "MEXC",
+            "BITGET"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 23500000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 23500000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 4700000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 4700000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "AKRO_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
         "askLimitPriceRate": 0.3,
         "automaticDelivery": 0,
         "baseCoin": "ALGO",
@@ -499,7 +559,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.005,
@@ -569,7 +628,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -698,8 +756,7 @@
         "displayNameEn": "ALT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -764,8 +821,7 @@
         "indexOrigin": [
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -832,7 +888,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -971,7 +1026,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -1041,8 +1095,7 @@
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -1175,7 +1228,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -1378,8 +1430,7 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -1445,8 +1496,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO",
-            "KUCOIN"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -1646,7 +1696,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -1785,7 +1834,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -1850,8 +1898,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2114,7 +2161,6 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.01,
@@ -2418,6 +2464,73 @@
         "showAppraisalCountdown": 0,
         "state": 0,
         "symbol": "BEL_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "BICO",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "BICO",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.001"
+        ],
+        "displayName": "BICO_USDT\u6c38\u7eed",
+        "displayNameEn": "BICO_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "HUOBI",
+            "OKX",
+            "MEXC",
+            "BITGET",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 85000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 85000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 17000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 17000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "BICO_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
@@ -2762,6 +2875,70 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "BOBA",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "BOBA",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.00001",
+            "0.0001"
+        ],
+        "displayName": "BOBA_USDT\u6c38\u7eed",
+        "displayNameEn": "BOBA_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "GATEIO",
+            "MEXC",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 45000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 45000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 9000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 9000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "BOBA_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "BONE",
         "baseCoinIconUrl": "",
         "baseCoinName": "BONE",
@@ -2911,6 +3088,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC"
         ],
@@ -3052,9 +3230,10 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
+            "BITGET",
             "BYBIT"
         ],
         "initialMarginRate": 0.005,
@@ -3250,7 +3429,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -3317,7 +3495,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -3582,7 +3759,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -3722,7 +3898,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -3788,8 +3963,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -3854,7 +4028,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -4121,8 +4294,7 @@
         "displayNameEn": "CREAM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "KUCOIN"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4188,7 +4360,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -4257,8 +4428,7 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -4324,7 +4494,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -4454,7 +4623,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -4586,8 +4754,7 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4652,7 +4819,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -4784,8 +4950,7 @@
         "indexOrigin": [
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -4849,8 +5014,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4978,7 +5142,6 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
@@ -5044,7 +5207,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -5113,7 +5275,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -5253,7 +5414,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -5521,7 +5681,6 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.0133,
@@ -5590,7 +5749,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -5655,9 +5813,10 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
+            "BITGET",
             "BYBIT"
         ],
         "initialMarginRate": 0.0133,
@@ -5862,7 +6021,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -6002,9 +6160,10 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
+            "BITGET",
             "BYBIT"
         ],
         "initialMarginRate": 0.005,
@@ -6342,7 +6501,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -6413,8 +6571,7 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -6479,7 +6636,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
@@ -6614,7 +6770,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -6680,7 +6835,6 @@
         "indexOrigin": [
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -6748,7 +6902,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -6948,8 +7101,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -7015,7 +7167,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -7085,8 +7236,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "OKX",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -7222,7 +7372,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 4500,
         "maintenanceMarginRate": 0.004,
@@ -7286,7 +7436,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -7353,7 +7502,6 @@
         "indexOrigin": [
             "BINANCE",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.008,
@@ -7422,7 +7570,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.0133,
@@ -7471,6 +7618,73 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "HFT",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "HFT",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.0001",
+            "0.001",
+            "0.01"
+        ],
+        "displayName": "HFT_USDT\u6c38\u7eed",
+        "displayNameEn": "HFT_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "MEXC",
+            "BITGET",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 8500,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 8500,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1700,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1700,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "HFT_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "HIGH",
         "baseCoinIconUrl": "",
         "baseCoinName": "HIGH",
@@ -7488,7 +7702,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -7755,8 +7968,7 @@
         "indexOrigin": [
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7886,7 +8098,6 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
@@ -7952,7 +8163,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -8021,7 +8231,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -8093,7 +8302,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -8160,7 +8368,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.01,
@@ -8291,8 +8498,7 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "OKX",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8425,7 +8631,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -8626,7 +8831,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 1500,
         "maintenanceMarginRate": 0.02,
@@ -8689,7 +8894,6 @@
         "indexOrigin": [
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -8738,6 +8942,71 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "KDA",
+        "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230328155215687zOIosqISOnmONG.png",
+        "baseCoinName": "KDA",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.0001"
+        ],
+        "displayName": "KDA_USDT\u6c38\u7eed",
+        "displayNameEn": "KDA_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "OKX",
+            "BITGET",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 50000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 50000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 10000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 10000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "KDA_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "KLAY",
         "baseCoinIconUrl": "",
         "baseCoinName": "KLAY",
@@ -8757,7 +9026,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -8827,7 +9095,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -9105,7 +9372,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.005,
@@ -9174,7 +9440,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -9243,7 +9508,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -9311,7 +9575,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -9377,7 +9640,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -9648,7 +9910,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -9718,7 +9979,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -9790,7 +10050,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -9929,7 +10188,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -10133,7 +10391,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.008,
@@ -10268,7 +10525,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -10403,7 +10659,6 @@
             "BINANCE",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -10540,7 +10795,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -10808,7 +11062,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -10875,7 +11128,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -10943,7 +11195,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -11209,7 +11460,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -11343,7 +11593,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -11478,7 +11727,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -11546,7 +11794,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -11615,7 +11862,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -11684,7 +11930,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -11753,7 +11998,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -11820,7 +12064,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -11955,8 +12198,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -12093,7 +12335,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -12143,6 +12384,72 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "SC",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "SC",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.000001",
+            "0.00001"
+        ],
+        "displayName": "SC_USDT\u6c38\u7eed",
+        "displayNameEn": "SC_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "OKX",
+            "MEXC",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 13500000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 13500000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 2700000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 2700000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "SC_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "SFP",
         "baseCoinIconUrl": "",
         "baseCoinName": "SFP",
@@ -12161,7 +12468,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.01,
@@ -12340,6 +12646,72 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "SLP",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "SLP",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.00001"
+        ],
+        "displayName": "SLP_USDT\u6c38\u7eed",
+        "displayNameEn": "SLP_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "GATEIO",
+            "OKX",
+            "MEXC",
+            "BITGET",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 11500000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 11500000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 2300000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 2300000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "SLP_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
         "askLimitPriceRate": 0.3,
         "automaticDelivery": 0,
         "baseCoin": "SNX",
@@ -12362,7 +12734,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -12433,7 +12804,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -12637,7 +13007,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -12704,7 +13073,6 @@
         "indexOrigin": [
             "BINANCE",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -12903,8 +13271,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "OKX",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12973,7 +13340,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -13039,7 +13405,6 @@
         "indexOrigin": [
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -13108,7 +13473,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.0133,
@@ -13176,7 +13540,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -13247,7 +13610,6 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.02,
@@ -13313,7 +13675,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -13444,7 +13805,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.05,
@@ -13512,7 +13872,6 @@
             "GATEIO",
             "HUOBI",
             "OKX",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -13577,7 +13936,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.005,
@@ -13643,8 +14001,10 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
+            "BITGET",
             "BYBIT"
         ],
         "initialMarginRate": 0.0133,
@@ -13711,7 +14071,6 @@
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -13850,7 +14209,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -14051,8 +14409,7 @@
         "indexOrigin": [
             "HUOBI",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -14120,7 +14477,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -14188,8 +14544,7 @@
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -14319,8 +14674,7 @@
         "indexOrigin": [
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14388,7 +14742,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -14460,7 +14813,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -14527,7 +14879,6 @@
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
@@ -14593,7 +14944,6 @@
             "GATEIO",
             "HUOBI",
             "OKX",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -14663,7 +15013,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.005,
@@ -14779,7 +15128,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "XNO",
-        "baseCoinIconUrl": "",
+        "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230328155234894uXsnMYBe0mxrvy.png",
         "baseCoinName": "XNO",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
@@ -14793,8 +15142,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "OKX",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14930,7 +15278,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
@@ -15206,7 +15553,6 @@
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET"
         ],
         "initialMarginRate": 0.02,
@@ -15343,7 +15689,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BYBIT"
         ],
         "initialMarginRate": 0.02,
@@ -15410,7 +15755,6 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
             "BITGET",
             "BYBIT"
         ],
