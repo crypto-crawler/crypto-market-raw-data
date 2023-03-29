@@ -283,10 +283,10 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.00001",
             "0.0001",
             "0.001",
-            "0.01"
+            "0.01",
+            "0.1"
         ],
         "displayName": "ADA_USDT\u6c38\u7eed",
         "displayNameEn": "ADA_USDT PERPETUAL",
@@ -320,8 +320,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3000000,
@@ -1979,8 +1979,8 @@
         "displayNameEn": "BABYDOGE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC",
-            "BITGET"
+            "OKX",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5428,10 +5428,10 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.000001",
             "0.00001",
             "0.0001",
-            "0.001"
+            "0.001",
+            "0.01"
         ],
         "displayName": "DOGE_USDT\u6c38\u7eed",
         "displayNameEn": "DOGE_USDT PERPETUAL",
@@ -5465,8 +5465,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 110000,
@@ -10230,9 +10230,9 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
+            "0.0001",
             "0.001",
-            "0.01",
-            "0.1"
+            "0.01"
         ],
         "displayName": "LUNA_USDT\u6c38\u7eed",
         "displayNameEn": "LUNA_USDT PERPETUAL",
@@ -10263,8 +10263,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 150000,
@@ -10296,9 +10296,9 @@
         "conceptPlate": [],
         "contractSize": 10000,
         "depthStepList": [
+            "0.00000001",
             "0.0000001",
-            "0.000001",
-            "0.00001"
+            "0.000001"
         ],
         "displayName": "LUNC_USDT\u6c38\u7eed",
         "displayNameEn": "LUNC_USDT PERPETUAL",
@@ -10331,8 +10331,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 7,
-        "priceUnit": 1e-07,
+        "priceScale": 8,
+        "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 200000,
@@ -11933,7 +11933,6 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO",
             "MEXC",
             "BITGET",
             "BYBIT"
@@ -13072,10 +13071,10 @@
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
-            "0.000000001",
             "0.00000001",
             "0.0000001",
-            "0.000001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "SHIB_USDT\u6c38\u7eed",
         "displayNameEn": "SHIB_USDT PERPETUAL",
@@ -13106,8 +13105,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 9,
-        "priceUnit": 1e-09,
+        "priceScale": 8,
+        "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 80000000,
@@ -14027,7 +14026,6 @@
         "displayNameEn": "SXP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "MEXC",
             "KUCOIN",
@@ -16059,7 +16057,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 2100000,
+        "limitMaxVol": 1750000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -16070,7 +16068,7 @@
             200,
             50
         ],
-        "maxVol": 2100000,
+        "maxVol": 1750000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -16079,10 +16077,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2100000,
+        "riskBaseVol": 1750000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 2100000,
+        "riskIncrVol": 1750000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
