@@ -834,7 +834,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 7500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -5778,8 +5778,7 @@
         "indexOrigin": [
             "GATEIO",
             "MEXC",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9009,6 +9008,7 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
+            "0.0001",
             "0.001"
         ],
         "displayName": "JOE_USDT\u6c38\u7eed",
@@ -9041,8 +9041,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 7500,
@@ -9139,10 +9139,9 @@
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
-            "0.000001",
-            "0.00001",
             "0.0001",
-            "0.001"
+            "0.001",
+            "0.01"
         ],
         "displayName": "KAS_USDT\u6c38\u7eed",
         "displayNameEn": "KAS_USDT PERPETUAL",
@@ -9150,7 +9149,7 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -9160,7 +9159,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -9169,9 +9168,9 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 300,
@@ -9186,7 +9185,7 @@
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 10000,
-        "triggerProtect": 0.05,
+        "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
     },
@@ -9692,7 +9691,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 10000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -12738,8 +12737,7 @@
             "GATEIO",
             "OKX",
             "MEXC",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
