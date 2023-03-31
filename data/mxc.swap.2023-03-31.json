@@ -1166,7 +1166,6 @@
         "displayNameEn": "API3_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -2047,7 +2046,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 8500,
         "maintenanceMarginRate": 0.01,
@@ -8612,8 +8611,7 @@
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9884,8 +9882,7 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10849,7 +10846,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 480000,
         "maintenanceMarginRate": 0.004,
@@ -13198,7 +13195,6 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
             "OKX",
             "MEXC",
             "BITGET",
@@ -14492,7 +14488,7 @@
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
-        "marketOrderPriceLimitRate2": 0,
+        "marketOrderPriceLimitRate2": 0.005,
         "maxLeverage": 20,
         "maxNumOrders": [
             200,
