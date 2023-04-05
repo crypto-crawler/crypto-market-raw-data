@@ -12629,6 +12629,7 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
+            "0.0001",
             "0.001"
         ],
         "displayName": "RDNT_USDT\u6c38\u7eed",
@@ -12660,8 +12661,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 600,
@@ -12906,7 +12907,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 2500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -16402,8 +16403,6 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI",
-            "MEXC",
             "BITGET"
         ],
         "initialMarginRate": 0.05,
