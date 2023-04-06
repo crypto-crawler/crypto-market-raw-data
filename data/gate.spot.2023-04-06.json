@@ -21103,6 +21103,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "MYRIA",
+        "buy_start": 1680765300,
+        "fee": "0.2",
+        "id": "MYRIA_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "NAFT",
         "buy_start": 1627444800,
@@ -24979,7 +24991,7 @@
         "fee": "0.2",
         "id": "PSL_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1597636800,
         "trade_status": "tradable"
@@ -27477,6 +27489,18 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SCT",
+        "buy_start": 1681117200,
+        "fee": "0.2",
+        "id": "SCT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1608782400,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
