@@ -11697,6 +11697,30 @@
         "base": "FLOKI",
         "buy_start": 1631781000,
         "fee": "0.2",
+        "id": "FLOKI_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 14,
+        "quote": "BTC",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "FLOKI",
+        "buy_start": 1631781000,
+        "fee": "0.2",
+        "id": "FLOKI_ETH",
+        "min_quote_amount": "0.001",
+        "precision": 13,
+        "quote": "ETH",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "FLOKI",
+        "buy_start": 1631781000,
+        "fee": "0.2",
         "id": "FLOKI_USDT",
         "min_quote_amount": "1",
         "precision": 10,
@@ -18441,7 +18465,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
