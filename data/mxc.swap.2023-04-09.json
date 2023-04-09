@@ -7326,7 +7326,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 50000,
         "maintenanceMarginRate": 0.02,
@@ -10820,7 +10820,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 150000,
         "maintenanceMarginRate": 0.004,
@@ -15174,7 +15174,12 @@
         "displayNameEn": "SXP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE"
+            "BINANCE",
+            "GATEIO",
+            "HUOBI",
+            "MEXC",
+            "KUCOIN",
+            "BITGET"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -15780,8 +15785,7 @@
             "GATEIO",
             "MEXC",
             "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
