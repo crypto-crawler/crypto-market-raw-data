@@ -3152,7 +3152,7 @@
         "state": "online",
         "symbol": "betheth",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "zerofee",
         "value-precision": 8
     },
     {
@@ -3172,7 +3172,7 @@
         "state": "online",
         "symbol": "bethusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "zerofee",
         "value-precision": 8
     },
     {
@@ -17634,6 +17634,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "musk",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 8,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "online",
+        "symbol": "muskusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "mu",
@@ -22050,6 +22070,26 @@
         "symbol": "rndrusdt",
         "symbol-partition": "main",
         "tags": "activities",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "rock",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 8,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "online",
+        "symbol": "rockusdt",
+        "symbol-partition": "main",
+        "tags": "",
         "value-precision": 8
     },
     {
