@@ -1015,7 +1015,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ANT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -1155,6 +1157,7 @@
         "baseCoinName": "API3",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-defi"
         ],
         "contractSize": 1,
@@ -1424,6 +1427,7 @@
         "baseCoinName": "AR",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-storage"
         ],
         "contractSize": 0.1,
@@ -1759,6 +1763,7 @@
         "baseCoinName": "AUDIO",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-nft"
         ],
         "contractSize": 1,
@@ -2291,7 +2296,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F202303241138292654Zdh94yfX4avDx.png",
         "baseCoinName": "BAND",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.0001",
@@ -2308,17 +2315,17 @@
             "KUCOIN",
             "BITGET"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 1500000,
-        "maintenanceMarginRate": 0.005,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.3,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -2327,14 +2334,14 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.05,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1500000,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 1500000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -2344,7 +2351,7 @@
         "symbol": "BAND_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
-        "triggerProtect": 0.1,
+        "triggerProtect": 0.05,
         "volScale": 0,
         "volUnit": 1
     },
@@ -2359,7 +2366,7 @@
         "baseCoinName": "BAT",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-grey",
+            "mc-trade-zone-web3",
             "mc-trade-zone-defi"
         ],
         "contractSize": 1,
@@ -2496,7 +2503,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "BDP",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.001",
@@ -2575,17 +2584,17 @@
             "BITGET",
             "BYBIT"
         ],
-        "initialMarginRate": 0.0133,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
         "limitMaxVol": 480000,
-        "maintenanceMarginRate": 0.007,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 75,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -2594,14 +2603,14 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.05,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 480000,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 480000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -2611,7 +2620,7 @@
         "symbol": "BEL_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
-        "triggerProtect": 0.1,
+        "triggerProtect": 0.05,
         "volScale": 0,
         "volUnit": 1
     },
@@ -3164,7 +3173,6 @@
         "displayNameEn": "BONK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
             "MEXC",
             "BITGET",
             "BYBIT"
@@ -3959,7 +3967,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "CFX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -4012,6 +4022,70 @@
         "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.05,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "CGPT",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "CGPT",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.001"
+        ],
+        "displayName": "CGPT_USDT\u6c38\u7eed",
+        "displayNameEn": "CGPT_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "GATEIO",
+            "MEXC",
+            "BITGET",
+            "BYBIT"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 6000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 6000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1200,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1200,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "CGPT_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
     },
@@ -4090,7 +4164,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230324130720118QOtzzuEaKOoQKm.png",
         "baseCoinName": "CHR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -4296,7 +4372,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "CKB",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1000,
         "depthStepList": [
             "0.000001",
@@ -4830,7 +4908,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "CSPR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.00001",
@@ -5094,7 +5174,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230324113351149dWhvXevJXQEZSL.png",
         "baseCoinName": "CVC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -5878,6 +5960,7 @@
         "baseCoinName": "DOT",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-dot"
         ],
         "contractSize": 0.1,
@@ -6283,7 +6366,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ENS",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -6439,7 +6524,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 6500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -6834,7 +6919,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "FET",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -6901,8 +6988,8 @@
         "baseCoinName": "FIL",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-grey",
-            "mc-trade-zone-storage"
+            "mc-trade-zone-storage",
+            "mc-trade-zone-web3"
         ],
         "contractSize": 0.01,
         "depthStepList": [
@@ -7126,7 +7213,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 8000,
+        "limitMaxVol": 8650,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -7137,7 +7224,7 @@
             200,
             50
         ],
-        "maxVol": 8000,
+        "maxVol": 8650,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -7146,10 +7233,10 @@
         "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 8000,
+        "riskBaseVol": 8650,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 8000,
+        "riskIncrVol": 8650,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -7308,7 +7395,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230329150357565FfVRdS6BkWMTL7.png",
         "baseCoinName": "FLUX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -7841,7 +7930,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "GLMR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.001",
@@ -7999,7 +8090,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2500,
+        "limitMaxVol": 3800,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -8010,7 +8101,7 @@
             200,
             50
         ],
-        "maxVol": 2500,
+        "maxVol": 3800,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -8019,10 +8110,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2500,
+        "riskBaseVol": 3800,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 2500,
+        "riskIncrVol": 3800,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -8245,7 +8336,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "GRT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.00001",
@@ -8335,7 +8428,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 4600000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -8382,7 +8475,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "GTC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -8650,7 +8745,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230324113600886nBwewbIv3vrDC5.png",
         "baseCoinName": "HNT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -8917,7 +9014,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ICP",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.01,
         "depthStepList": [
             "0.001",
@@ -9254,7 +9353,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "INJ",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -9847,7 +9948,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230328155215687zOIosqISOnmONG.png",
         "baseCoinName": "KDA",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001"
@@ -10196,13 +10299,12 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 3400,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -10451,7 +10553,7 @@
         "baseCoinName": "LINK",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-grey",
+            "mc-trade-zone-web3",
             "mc-trade-zone-defi",
             "mc-trade-zone-dot"
         ],
@@ -10524,6 +10626,7 @@
         "baseCoinName": "LIT",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-privity"
         ],
         "contractSize": 0.1,
@@ -10723,11 +10826,75 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "LOOP",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "LOOP",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.001"
+        ],
+        "displayName": "LOOP_USDT\u6c38\u7eed",
+        "displayNameEn": "LOOP_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "GATEIO",
+            "MEXC"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 5500,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 5500,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.1,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1100,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1100,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "LOOP_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "LPT",
         "baseCoinIconUrl": "",
         "baseCoinName": "LPT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -10861,7 +11028,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "LRC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -11275,7 +11444,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "MASK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -11947,7 +12118,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "NKN",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.00001",
@@ -11962,17 +12135,17 @@
             "MEXC",
             "BITGET"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 640000,
-        "maintenanceMarginRate": 0.01,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -11981,14 +12154,14 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.05,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 640000,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 640000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -11998,7 +12171,7 @@
         "symbol": "NKN_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
-        "triggerProtect": 0.1,
+        "triggerProtect": 0.05,
         "volScale": 0,
         "volUnit": 1
     },
@@ -12013,6 +12186,7 @@
         "baseCoinName": "OCEAN",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-storage"
         ],
         "contractSize": 1,
@@ -12166,7 +12340,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 29000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -12409,7 +12583,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ONT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -12746,7 +12922,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "PHB",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -13075,7 +13253,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "RAD",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -13143,9 +13323,9 @@
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
-            "0.0001",
             "0.001",
-            "0.01"
+            "0.01",
+            "0.1"
         ],
         "displayName": "RAY_USDT\u6c38\u7eed",
         "displayNameEn": "RAY_USDT PERPETUAL",
@@ -13177,8 +13357,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 450000,
@@ -13225,7 +13405,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 3000,
+        "limitMaxVol": 6000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -13236,7 +13416,7 @@
             200,
             50
         ],
-        "maxVol": 3000,
+        "maxVol": 6000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -13245,10 +13425,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 600,
+        "riskBaseVol": 1200,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 600,
+        "riskIncrVol": 1200,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -13271,7 +13451,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "REEF",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.000001",
@@ -13533,7 +13715,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "RLC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -13601,7 +13785,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "RNDR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -14208,7 +14394,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "SC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.000001",
@@ -14557,8 +14745,7 @@
             "OKX",
             "MEXC",
             "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -14742,12 +14929,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "SRM",
         "baseCoinIconUrl": "",
         "baseCoinName": "SRM",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-defi"
         ],
@@ -14770,7 +14957,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 770000,
+        "limitMaxVol": 1730000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -14781,7 +14968,7 @@
             200,
             50
         ],
-        "maxVol": 770000,
+        "maxVol": 1730000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -14790,10 +14977,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 770000,
+        "riskBaseVol": 1730000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 770000,
+        "riskIncrVol": 1730000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -15016,6 +15203,7 @@
         "baseCoinName": "STORJ",
         "bidLimitPriceRate": 0.3,
         "conceptPlate": [
+            "mc-trade-zone-web3",
             "mc-trade-zone-storage"
         ],
         "contractSize": 1,
@@ -15083,7 +15271,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "STX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -15553,6 +15743,7 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-metaverse",
+            "mc-trade-zone-web3",
             "mc-trade-zone-nft"
         ],
         "contractSize": 1,
@@ -15819,7 +16010,9 @@
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F202303241306292573BbJw0MCcuQzOc.png",
         "baseCoinName": "TRB",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.01",
@@ -16917,7 +17110,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 7000,
+        "limitMaxVol": 8500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -16928,7 +17121,7 @@
             200,
             50
         ],
-        "maxVol": 7000,
+        "maxVol": 8500,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -16937,10 +17130,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1400,
+        "riskBaseVol": 1700,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 1400,
+        "riskIncrVol": 1700,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -18043,7 +18236,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ZEN",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-web3"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
