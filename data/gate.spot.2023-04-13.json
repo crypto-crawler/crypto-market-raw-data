@@ -607,6 +607,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "AD",
+        "buy_start": 1682069400,
+        "fee": "0.2",
+        "id": "AD_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "AERGO",
         "buy_start": 1614938400,
@@ -23631,6 +23643,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "PANDO",
+        "buy_start": 1681977600,
+        "fee": "0.2",
+        "id": "PANDO_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "PARA",
         "buy_start": 1622001600,
@@ -36188,5 +36212,17 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZZZ",
+        "buy_start": 1681905600,
+        "fee": "0.2",
+        "id": "ZZZ_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     }
 ]
