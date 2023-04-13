@@ -7927,17 +7927,17 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
         "limitMaxVol": 130000,
-        "maintenanceMarginRate": 0.01,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -7946,14 +7946,14 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.05,
         "priceScale": 2,
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 32500,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 32500,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
@@ -7963,7 +7963,7 @@
         "symbol": "FTT_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
-        "triggerProtect": 0.1,
+        "triggerProtect": 0.05,
         "volScale": 0,
         "volUnit": 1
     },
@@ -9073,8 +9073,7 @@
         "indexOrigin": [
             "GATEIO",
             "OKX",
-            "BITGET",
-            "BYBIT"
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -11020,7 +11019,6 @@
         "indexOrigin": [
             "BINANCE",
             "GATEIO",
-            "HUOBI",
             "KUCOIN",
             "BITGET"
         ],
