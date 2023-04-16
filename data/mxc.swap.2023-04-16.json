@@ -5358,7 +5358,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 1600000,
         "maintenanceMarginRate": 0.02,
@@ -7337,7 +7337,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "GATEIO",
+            "OKX",
+            "MEXC",
+            "BITGET"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -15746,7 +15749,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 980000,
         "maintenanceMarginRate": 0.004,
