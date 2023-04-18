@@ -3460,7 +3460,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "DIMO",
         "base_increment": "0.1",
         "cancel_only": false,
@@ -3468,7 +3468,7 @@
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
         "id": "DIMO-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
@@ -10480,7 +10480,7 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "TVK",
         "base_increment": "1",
         "cancel_only": false,
@@ -10488,7 +10488,7 @@
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
         "id": "TVK-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
