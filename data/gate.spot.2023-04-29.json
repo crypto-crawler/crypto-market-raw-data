@@ -10124,6 +10124,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "EDU",
+        "buy_start": 1682778600,
+        "fee": "0.2",
+        "id": "EDU_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "EFI",
         "buy_start": 1628082000,
@@ -13725,7 +13737,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
