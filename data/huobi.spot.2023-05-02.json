@@ -10149,6 +10149,7 @@
         "api-trading": "enabled",
         "base-currency": "floki",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -17309,7 +17310,7 @@
         "state": "online",
         "symbol": "monousdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -20265,6 +20266,7 @@
         "api-trading": "enabled",
         "base-currency": "pepe",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
