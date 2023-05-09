@@ -21594,6 +21594,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "NALS",
+        "buy_start": 1683684000,
+        "fee": "0.2",
+        "id": "NALS_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "NANO",
         "buy_start": 1525406400,
         "fee": "0.2",
@@ -30756,6 +30768,18 @@
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SUIP",
+        "buy_start": 1683806400,
+        "fee": "0.2",
+        "id": "SUIP_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
