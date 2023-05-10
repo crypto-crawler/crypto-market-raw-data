@@ -3830,6 +3830,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "BDX",
+        "buy_start": 1660788000,
+        "fee": "0.2",
+        "id": "BDX_BTC",
+        "min_quote_amount": "0.0001",
+        "precision": 11,
+        "quote": "BTC",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "BDX",
         "buy_start": 1660788000,
@@ -5156,7 +5168,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -6294,7 +6306,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -9750,7 +9762,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -16623,6 +16635,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "KARATE",
+        "buy_start": 1683892800,
+        "fee": "0.2",
+        "id": "KARATE_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "KART",
         "buy_start": 1636682400,
@@ -22432,6 +22456,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "NOOT",
+        "buy_start": 1683774000,
+        "fee": "0.2",
+        "id": "NOOT_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "NORD",
         "buy_start": 1610524800,
@@ -25152,7 +25188,7 @@
     {
         "amount_precision": 0,
         "base": "POOH",
-        "buy_start": 1683720000,
+        "buy_start": 1683721800,
         "fee": "0.2",
         "id": "POOH_USDT",
         "min_quote_amount": "1",
@@ -30832,7 +30868,7 @@
     {
         "amount_precision": 2,
         "base": "SUIP",
-        "buy_start": 1683806400,
+        "buy_start": 1683802800,
         "fee": "0.2",
         "id": "SUIP_USDT",
         "min_quote_amount": "1",

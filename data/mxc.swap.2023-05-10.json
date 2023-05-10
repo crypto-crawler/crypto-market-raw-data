@@ -21,10 +21,10 @@
         "displayNameEn": "1000BONK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "MEXC",
             "BITGET",
-            "BYBIT"
+            "BYBIT",
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -85,12 +85,12 @@
         "displayNameEn": "1000BTT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -151,14 +151,14 @@
         "displayNameEn": "1000PAW_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "BITGET"
+            "BITGET",
+            "GATEIO"
         ],
         "initialMarginRate": 0.1,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2400,
+        "limitMaxVol": 6000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -169,7 +169,7 @@
             200,
             50
         ],
-        "maxVol": 2400,
+        "maxVol": 6000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -178,10 +178,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 600,
+        "riskBaseVol": 1500,
         "riskIncrImr": 0.02,
         "riskIncrMmr": 0.02,
-        "riskIncrVol": 600,
+        "riskIncrVol": 1500,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -213,12 +213,12 @@
         "displayNameEn": "1000SOS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -351,10 +351,10 @@
         "displayNameEn": "AAVE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -417,12 +417,12 @@
         "displayNameEn": "ACH_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -486,10 +486,10 @@
         "displayNameEn": "ACS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -553,13 +553,13 @@
         "displayNameEn": "ADA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -689,11 +689,11 @@
         "displayNameEn": "AGLD_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -759,11 +759,11 @@
         "displayNameEn": "AIDOGE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -830,7 +830,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 9200,
+        "limitMaxVol": 38000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -841,7 +841,7 @@
             200,
             50
         ],
-        "maxVol": 9200,
+        "maxVol": 38000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -850,10 +850,10 @@
         "priceUnit": 1e-11,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2300,
+        "riskBaseVol": 9500,
         "riskIncrImr": 0.02,
         "riskIncrMmr": 0.02,
-        "riskIncrVol": 2300,
+        "riskIncrVol": 9500,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -886,11 +886,11 @@
         "displayNameEn": "AKRO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -953,12 +953,12 @@
         "displayNameEn": "ALGO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -1024,11 +1024,11 @@
         "displayNameEn": "ALICE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -1091,10 +1091,10 @@
         "displayNameEn": "ALPHA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "COINBASE",
             "GATEIO",
-            "OKX",
-            "BITGET"
+            "OKX"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -1156,10 +1156,10 @@
         "displayNameEn": "ALPINE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -1372,7 +1372,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
@@ -1414,13 +1414,13 @@
         "displayNameEn": "ANKR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -1484,10 +1484,10 @@
         "displayNameEn": "ANT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -1553,14 +1553,14 @@
         "displayNameEn": "APE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -1693,10 +1693,10 @@
         "displayNameEn": "APT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -1764,7 +1764,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2000,
+        "limitMaxVol": 6000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -1775,7 +1775,7 @@
             200,
             50
         ],
-        "maxVol": 2000,
+        "maxVol": 6000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -1784,10 +1784,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 500,
+        "riskBaseVol": 1500,
         "riskIncrImr": 0.02,
         "riskIncrMmr": 0.02,
-        "riskIncrVol": 500,
+        "riskIncrVol": 1500,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -1822,13 +1822,13 @@
         "displayNameEn": "ARB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -2021,12 +2021,12 @@
         "displayNameEn": "AR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -2222,10 +2222,10 @@
         "displayNameEn": "ATOM_USD PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITTREX",
             "COINBASE",
             "BINANCE",
-            "KRAKEN",
-            "BITTREX"
+            "KRAKEN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2289,10 +2289,10 @@
         "displayNameEn": "ATOM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -2358,10 +2358,10 @@
         "displayNameEn": "AUDIO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "HUOBI",
-            "BITGET"
+            "HUOBI"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -2495,13 +2495,13 @@
         "displayNameEn": "AXS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -2630,10 +2630,10 @@
         "displayNameEn": "BABYDOGE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2697,11 +2697,11 @@
         "displayNameEn": "BADGER_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2764,10 +2764,10 @@
         "displayNameEn": "BAKE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2832,11 +2832,11 @@
         "displayNameEn": "BAL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2901,11 +2901,11 @@
         "displayNameEn": "BAND_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -2971,10 +2971,10 @@
         "displayNameEn": "BAT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "OKX",
-            "BITGET"
+            "OKX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -3170,11 +3170,11 @@
         "displayNameEn": "BEL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -3235,14 +3235,14 @@
         "displayNameEn": "BICO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -3305,9 +3305,9 @@
         "displayNameEn": "BIT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "GATEIO",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -3371,11 +3371,11 @@
         "displayNameEn": "BLUR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -3440,10 +3440,10 @@
         "displayNameEn": "BLZ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -3507,10 +3507,10 @@
         "displayNameEn": "BNB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -3639,10 +3639,10 @@
         "displayNameEn": "BNX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -3663,7 +3663,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -3703,11 +3703,10 @@
         "displayNameEn": "BOBA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "GATEIO",
-            "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -3728,7 +3727,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -3964,11 +3963,11 @@
         "displayNameEn": "BSW_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4106,14 +4105,14 @@
         "displayNameEn": "BTC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -4175,10 +4174,10 @@
         "displayNameEn": "BUSD_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4240,10 +4239,10 @@
         "displayNameEn": "C98_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -4305,12 +4304,12 @@
         "displayNameEn": "CAKE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4497,11 +4496,11 @@
         "displayNameEn": "CEEK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -4563,13 +4562,13 @@
         "displayNameEn": "CELO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -4700,11 +4699,11 @@
         "displayNameEn": "CEL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -4896,10 +4895,10 @@
         "displayNameEn": "CHESS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4963,10 +4962,10 @@
         "displayNameEn": "CHR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5099,14 +5098,14 @@
         "displayNameEn": "CHZ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -5362,11 +5361,11 @@
         "displayNameEn": "COCOS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -5432,10 +5431,10 @@
         "displayNameEn": "COMP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5498,12 +5497,12 @@
         "displayNameEn": "CORE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -5569,10 +5568,10 @@
         "displayNameEn": "COTI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -5700,11 +5699,11 @@
         "displayNameEn": "CRO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -5839,10 +5838,10 @@
         "displayNameEn": "CSPR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -6038,10 +6037,10 @@
         "displayNameEn": "CTSI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6236,11 +6235,11 @@
         "displayNameEn": "DAR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -6559,9 +6558,9 @@
         "displayNameEn": "DENT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
-            "BITGET"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6623,10 +6622,10 @@
         "displayNameEn": "DGB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6751,11 +6750,11 @@
         "displayNameEn": "DODO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6821,13 +6820,13 @@
         "displayNameEn": "DOGE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -6889,9 +6888,9 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -6912,7 +6911,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
@@ -6958,10 +6957,10 @@
         "displayNameEn": "DOT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7027,11 +7026,11 @@
         "displayNameEn": "DUSK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -7096,10 +7095,10 @@
         "displayNameEn": "DYDX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -7224,10 +7223,10 @@
         "displayNameEn": "EDU_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -7359,10 +7358,10 @@
         "displayNameEn": "ENJ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -7427,13 +7426,13 @@
         "displayNameEn": "ENS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -7495,14 +7494,14 @@
         "displayNameEn": "EOS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -7697,11 +7696,11 @@
         "displayNameEn": "ETC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7764,13 +7763,13 @@
         "displayNameEn": "ETHW_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -7906,14 +7905,14 @@
         "displayNameEn": "ETH_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7978,10 +7977,10 @@
         "displayNameEn": "FET_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -8043,11 +8042,11 @@
         "displayNameEn": "FIDA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8114,13 +8113,13 @@
         "displayNameEn": "FIL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -8182,10 +8181,10 @@
         "displayNameEn": "FITFI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8249,11 +8248,11 @@
         "displayNameEn": "FLM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -8382,10 +8381,10 @@
         "displayNameEn": "FLOKI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -8517,11 +8516,11 @@
         "displayNameEn": "FLR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8586,10 +8585,10 @@
         "displayNameEn": "FLUX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8719,13 +8718,13 @@
         "displayNameEn": "FTM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -8787,11 +8786,11 @@
         "displayNameEn": "FTT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -8856,10 +8855,10 @@
         "displayNameEn": "FXS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -8925,12 +8924,12 @@
         "displayNameEn": "GALA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -8993,10 +8992,10 @@
         "displayNameEn": "GAL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9124,13 +9123,13 @@
         "displayNameEn": "GLMR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9264,11 +9263,11 @@
         "displayNameEn": "GMX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -9334,12 +9333,12 @@
         "displayNameEn": "GNS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9401,11 +9400,11 @@
         "displayNameEn": "GODS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9467,10 +9466,10 @@
         "displayNameEn": "GPT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "MEXC",
             "BITGET",
-            "BYBIT"
+            "BYBIT",
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -9537,13 +9536,13 @@
         "displayNameEn": "GRT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -9606,11 +9605,11 @@
         "displayNameEn": "GST_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9675,10 +9674,10 @@
         "displayNameEn": "GTC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -9803,13 +9802,13 @@
         "displayNameEn": "HBAR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -9872,11 +9871,11 @@
         "displayNameEn": "HFT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10002,11 +10001,11 @@
         "displayNameEn": "HIGH_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10071,11 +10070,11 @@
         "displayNameEn": "HNT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -10138,10 +10137,10 @@
         "displayNameEn": "HOOK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10206,11 +10205,11 @@
         "displayNameEn": "HOT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -10405,12 +10404,12 @@
         "displayNameEn": "ICX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10472,11 +10471,11 @@
         "displayNameEn": "IDEX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10497,7 +10496,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
@@ -10538,11 +10537,11 @@
         "displayNameEn": "ID_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10605,12 +10604,12 @@
         "displayNameEn": "ILV_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -10677,12 +10676,12 @@
         "displayNameEn": "IMX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -10747,10 +10746,10 @@
         "displayNameEn": "INJ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -10943,10 +10942,10 @@
         "displayNameEn": "IOTX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11010,12 +11009,12 @@
         "displayNameEn": "JASMY_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11079,11 +11078,11 @@
         "displayNameEn": "JOE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11276,12 +11275,12 @@
         "displayNameEn": "KAVA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11344,12 +11343,12 @@
         "displayNameEn": "KDA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11412,9 +11411,9 @@
         "displayNameEn": "KEY_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
-            "BITGET"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11477,12 +11476,12 @@
         "displayNameEn": "KLAY_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11548,12 +11547,12 @@
         "displayNameEn": "KNC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -11683,10 +11682,10 @@
         "displayNameEn": "LAZIO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11752,12 +11751,12 @@
         "displayNameEn": "LDO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11819,10 +11818,10 @@
         "displayNameEn": "LEVER_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11887,10 +11886,10 @@
         "displayNameEn": "LINA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -11958,13 +11957,13 @@
         "displayNameEn": "LINK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12030,11 +12029,11 @@
         "displayNameEn": "LIT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -12096,10 +12095,10 @@
         "displayNameEn": "LOKA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -12164,10 +12163,10 @@
         "displayNameEn": "LOOKS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -12294,12 +12293,12 @@
         "displayNameEn": "LPT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -12361,11 +12360,11 @@
         "displayNameEn": "LQTY_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12501,11 +12500,11 @@
         "displayNameEn": "LTC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12634,11 +12633,11 @@
         "displayNameEn": "LUNC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12704,14 +12703,14 @@
         "displayNameEn": "MAGIC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12777,13 +12776,13 @@
         "displayNameEn": "MANA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12848,11 +12847,11 @@
         "displayNameEn": "MASK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -12918,13 +12917,13 @@
         "displayNameEn": "MATIC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12987,10 +12986,10 @@
         "displayNameEn": "MDT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "OKX",
-            "BITGET"
+            "OKX"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -13053,12 +13052,12 @@
         "displayNameEn": "MINA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -13124,10 +13123,10 @@
         "displayNameEn": "MKR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13252,11 +13251,11 @@
         "displayNameEn": "MTL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -13319,9 +13318,9 @@
         "displayNameEn": "MX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "HUOBI",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -13386,12 +13385,12 @@
         "displayNameEn": "NEAR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13454,12 +13453,12 @@
         "displayNameEn": "NEO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -13585,12 +13584,12 @@
         "displayNameEn": "NKN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13652,9 +13651,9 @@
         "displayNameEn": "OAX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
-            "BITGET"
+            "GATEIO"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -13720,10 +13719,10 @@
         "displayNameEn": "OCEAN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13850,11 +13849,11 @@
         "displayNameEn": "OGN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -13915,11 +13914,11 @@
         "displayNameEn": "OG_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14179,10 +14178,10 @@
         "displayNameEn": "ONT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -14246,14 +14245,14 @@
         "displayNameEn": "OP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -14379,12 +14378,12 @@
         "displayNameEn": "OSMO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": true,
@@ -14445,11 +14444,11 @@
         "displayNameEn": "PAXG_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14512,11 +14511,11 @@
         "displayNameEn": "PEOPLE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14579,12 +14578,12 @@
         "displayNameEn": "PEPE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -14650,10 +14649,10 @@
         "displayNameEn": "PERP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "OKX",
-            "BYBIT"
+            "OKX"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -14717,11 +14716,11 @@
         "displayNameEn": "PHB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14782,9 +14781,9 @@
         "displayNameEn": "POGAI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -14912,11 +14911,11 @@
         "displayNameEn": "PSG_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14978,10 +14977,10 @@
         "displayNameEn": "QNT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
-            "MEXC",
             "BITGET",
-            "BYBIT"
+            "BYBIT",
+            "BINANCE",
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -15110,12 +15109,12 @@
         "displayNameEn": "RACA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -15179,10 +15178,10 @@
         "displayNameEn": "RAD_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -15245,11 +15244,11 @@
         "displayNameEn": "RAY_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -15313,12 +15312,12 @@
         "displayNameEn": "RDNT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "COINBASE",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -15383,11 +15382,11 @@
         "displayNameEn": "REEF_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -15513,13 +15512,13 @@
         "displayNameEn": "REN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -15773,12 +15772,12 @@
         "displayNameEn": "RLC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -15844,11 +15843,11 @@
         "displayNameEn": "RNDR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -15912,11 +15911,11 @@
         "displayNameEn": "ROSE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -15978,11 +15977,11 @@
         "displayNameEn": "RPL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16047,11 +16046,11 @@
         "displayNameEn": "RSR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -16114,11 +16113,11 @@
         "displayNameEn": "RSS3_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16181,12 +16180,12 @@
         "displayNameEn": "RUNE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -16318,14 +16317,14 @@
         "displayNameEn": "SAND_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -16454,11 +16453,11 @@
         "displayNameEn": "SC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16521,11 +16520,11 @@
         "displayNameEn": "SFP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -16652,10 +16651,10 @@
         "displayNameEn": "SHIB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -16781,13 +16780,13 @@
         "displayNameEn": "SLP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16852,11 +16851,11 @@
         "displayNameEn": "SNX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -16920,14 +16919,14 @@
         "displayNameEn": "SOL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -16992,11 +16991,11 @@
         "displayNameEn": "SPELL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -17064,7 +17063,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2600,
+        "limitMaxVol": 8000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -17075,7 +17074,7 @@
             200,
             50
         ],
-        "maxVol": 2600,
+        "maxVol": 8000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -17084,10 +17083,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 650,
+        "riskBaseVol": 2000,
         "riskIncrImr": 0.02,
         "riskIncrMmr": 0.02,
-        "riskIncrVol": 650,
+        "riskIncrVol": 2000,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -17123,10 +17122,10 @@
         "displayNameEn": "SRM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -17188,13 +17187,13 @@
         "displayNameEn": "SSV_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17260,12 +17259,12 @@
         "displayNameEn": "STG_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17327,9 +17326,9 @@
         "displayNameEn": "STMX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
-            "BITGET"
+            "GATEIO"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -17395,10 +17394,10 @@
         "displayNameEn": "STORJ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -17529,13 +17528,13 @@
         "displayNameEn": "SUI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -17596,14 +17595,14 @@
         "displayNameEn": "SUN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17665,10 +17664,10 @@
         "displayNameEn": "SUPER_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17733,14 +17732,14 @@
         "displayNameEn": "SUSHI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -17804,11 +17803,11 @@
         "displayNameEn": "SWEAT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": true,
@@ -18009,11 +18008,11 @@
         "displayNameEn": "THETA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -18075,11 +18074,11 @@
         "displayNameEn": "TLM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18206,11 +18205,11 @@
         "displayNameEn": "TON_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18275,12 +18274,12 @@
         "displayNameEn": "TRB_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -18341,11 +18340,11 @@
         "displayNameEn": "TRU_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -18408,14 +18407,14 @@
         "displayNameEn": "TRX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -18478,9 +18477,9 @@
         "displayNameEn": "TURBO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.1,
         "isHidden": false,
@@ -18543,11 +18542,11 @@
         "displayNameEn": "TWT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18609,12 +18608,12 @@
         "displayNameEn": "T_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18679,11 +18678,11 @@
         "displayNameEn": "UMA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -18746,10 +18745,10 @@
         "displayNameEn": "UNFI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18815,10 +18814,10 @@
         "displayNameEn": "UNI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BYBIT"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -18882,12 +18881,12 @@
         "displayNameEn": "USDC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -18951,12 +18950,12 @@
         "displayNameEn": "USTC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -19085,10 +19084,10 @@
         "displayNameEn": "VGX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19203,7 +19202,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "VMPX",
-        "baseCoinIconUrl": "",
+        "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230510123641619zxnYk7ce8FfTub.png",
         "baseCoinName": "VMPX",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
@@ -19303,7 +19302,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.1,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 6,
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
@@ -19346,13 +19345,13 @@
         "displayNameEn": "WAVES_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -19414,12 +19413,12 @@
         "displayNameEn": "WAXP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19482,10 +19481,10 @@
         "displayNameEn": "WEMIX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "MEXC",
             "BITGET",
-            "BYBIT"
+            "BYBIT",
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19547,12 +19546,12 @@
         "displayNameEn": "WIN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19616,9 +19615,9 @@
         "displayNameEn": "WOJA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -19685,13 +19684,13 @@
         "displayNameEn": "WOO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -19818,11 +19817,11 @@
         "displayNameEn": "XCN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "HUOBI",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19884,12 +19883,12 @@
         "displayNameEn": "XEC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19951,12 +19950,12 @@
         "displayNameEn": "XEM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -20017,10 +20016,10 @@
         "displayNameEn": "XEN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
             "HUOBI",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.1,
         "isHidden": false,
@@ -20084,12 +20083,12 @@
         "displayNameEn": "XLM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -20413,14 +20412,14 @@
         "displayNameEn": "XRP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -20616,11 +20615,11 @@
         "displayNameEn": "YFII_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -20686,10 +20685,10 @@
         "displayNameEn": "YFI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -20755,12 +20754,12 @@
         "displayNameEn": "YGG_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -20894,12 +20893,12 @@
         "displayNameEn": "ZEN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -20962,12 +20961,12 @@
         "displayNameEn": "ZIL_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "OKX",
             "MEXC",
-            "KUCOIN",
-            "BITGET",
-            "BYBIT"
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -21092,10 +21091,10 @@
         "displayNameEn": "ZRX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "BITGET"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,

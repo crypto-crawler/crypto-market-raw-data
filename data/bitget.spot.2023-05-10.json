@@ -697,7 +697,7 @@
         "base_currency": "THENA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "offline",
         "symbol": "THENA_USDT",
         "tick_size": "4"
     },
@@ -787,7 +787,7 @@
         "base_currency": "PEEPO",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "PEEPO_USDT",
         "tick_size": "8"
     },
@@ -808,6 +808,15 @@
         "status": "online",
         "symbol": "KEY_USDT",
         "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "LITT",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "LITT_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "2",
