@@ -23921,6 +23921,17 @@
         "base": "ORDI",
         "buy_start": 1683511200,
         "fee": "0.2",
+        "id": "ORDI_TRY",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ORDI",
+        "buy_start": 1683511200,
+        "fee": "0.2",
         "id": "ORDI_USDT",
         "min_quote_amount": "1",
         "precision": 4,
@@ -25195,7 +25206,7 @@
         "precision": 12,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,

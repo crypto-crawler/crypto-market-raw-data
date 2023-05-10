@@ -789,7 +789,7 @@
         "size_increment": "0",
         "status": "online",
         "symbol": "PEEPO_USDT",
-        "tick_size": "8"
+        "tick_size": "10"
     },
     {
         "base_asset_precision": "1",
@@ -814,7 +814,7 @@
         "base_currency": "LITT",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "LITT_USDT",
         "tick_size": "4"
     },
@@ -844,6 +844,15 @@
         "status": "online",
         "symbol": "ETHF_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "ORDI",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "online",
+        "symbol": "ORDI_USDT",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "0",
