@@ -1955,6 +1955,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "ARBI",
+        "buy_start": 1683896400,
+        "fee": "0.2",
+        "id": "ARBI_USDT",
+        "min_quote_amount": "1",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ARB",
         "buy_start": 1679577600,
@@ -17607,6 +17619,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "LADYS",
+        "buy_start": 1683795600,
+        "fee": "0.2",
+        "id": "LADYS_USDT",
+        "min_quote_amount": "1",
+        "precision": 11,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "LAMB",
         "buy_start": 1559622900,
@@ -24834,7 +24858,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -30039,6 +30063,18 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 0,
+        "base": "SPONGE",
+        "buy_start": 1683885600,
+        "fee": "0.2",
+        "id": "SPONGE_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "SPO",
         "buy_start": 1630728000,
@@ -30886,7 +30922,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -32382,6 +32418,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TRAC",
+        "buy_start": 1683860400,
+        "fee": "0.2",
+        "id": "TRAC_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
