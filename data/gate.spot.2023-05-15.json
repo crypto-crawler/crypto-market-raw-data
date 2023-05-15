@@ -18504,6 +18504,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "LMWR",
+        "buy_start": 1684238400,
+        "fee": "0.2",
+        "id": "LMWR_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "LM",
         "buy_start": 1678932000,
         "fee": "0.2",
@@ -30926,6 +30938,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "SUIA",
+        "buy_start": 1684224000,
+        "fee": "0.2",
+        "id": "SUIA_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "SUIP",
         "buy_start": 1683802800,
         "fee": "0.2",
@@ -32811,7 +32835,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
