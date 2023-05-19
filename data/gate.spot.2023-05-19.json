@@ -4262,6 +4262,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BISO",
+        "buy_start": 1684670400,
+        "fee": "0.2",
+        "id": "BISO_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "BITCI",
         "buy_start": 1663928100,
@@ -7216,18 +7228,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "CPHR",
-        "buy_start": 1632801600,
-        "fee": "0.2",
-        "id": "CPHR_USDT",
-        "min_quote_amount": "1",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
