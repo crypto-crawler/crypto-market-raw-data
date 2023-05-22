@@ -1147,7 +1147,7 @@
         "base_currency": "RFD",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "RFD_USDT",
         "tick_size": "8"
     },
@@ -1177,6 +1177,15 @@
         "status": "online",
         "symbol": "MIR_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "PIZA",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "PIZA_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
