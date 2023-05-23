@@ -3240,6 +3240,33 @@
         "taker_fee": "0.0006"
     },
     {
+        "alias": "IDEXUSDT",
+        "base_currency": "IDEX",
+        "funding_interval": 480,
+        "leverage_filter": {
+            "leverage_step": "0.01",
+            "max_leverage": 25,
+            "min_leverage": 1
+        },
+        "lot_size_filter": {
+            "max_trading_qty": 600000,
+            "min_trading_qty": 10,
+            "post_only_max_trading_qty": "3000000",
+            "qty_step": 10
+        },
+        "maker_fee": "0.0001",
+        "name": "IDEXUSDT",
+        "price_filter": {
+            "max_price": "19.99998",
+            "min_price": "0.00001",
+            "tick_size": "0.00001"
+        },
+        "price_scale": 5,
+        "quote_currency": "USDT",
+        "status": "Trading",
+        "taker_fee": "0.0006"
+    },
+    {
         "alias": "IDUSDT",
         "base_currency": "ID",
         "funding_interval": 480,
