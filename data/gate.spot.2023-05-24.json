@@ -130,6 +130,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "4TOKEN",
+        "buy_start": 1685260800,
+        "fee": "0.2",
+        "id": "4TOKEN_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "88MPH",
         "buy_start": 1607666400,
@@ -34271,7 +34283,7 @@
         "precision": 11,
         "quote": "USDT",
         "sell_start": 1568694900,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
