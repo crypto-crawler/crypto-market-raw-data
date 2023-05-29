@@ -26460,6 +26460,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "QWAN",
+        "buy_start": 1685541600,
+        "fee": "0.2",
+        "id": "QWAN_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "RACA3L",
         "buy_start": 1582704000,
@@ -34902,7 +34914,7 @@
         "fee": "0.2",
         "id": "WISTA_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "sellable"
