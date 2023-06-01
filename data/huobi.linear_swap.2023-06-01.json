@@ -466,6 +466,21 @@
     },
     {
         "business_type": "swap",
+        "contract_code": "LINA-USDT",
+        "contract_size": 10.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20230601",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "LINA-USDT",
+        "price_tick": 1e-05,
+        "support_margin_mode": "all",
+        "symbol": "LINA",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
         "contract_code": "SOL-USDT",
         "contract_size": 1.0,
         "contract_status": 1,
@@ -792,21 +807,6 @@
         "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "HT",
-        "trade_partition": "USDT"
-    },
-    {
-        "business_type": "swap",
-        "contract_code": "ANKR-USDT",
-        "contract_size": 10.0,
-        "contract_status": 3,
-        "contract_type": "swap",
-        "create_date": "20230308",
-        "delivery_date": "",
-        "delivery_time": "",
-        "pair": "ANKR-USDT",
-        "price_tick": 1e-05,
-        "support_margin_mode": "all",
-        "symbol": "ANKR",
         "trade_partition": "USDT"
     },
     {

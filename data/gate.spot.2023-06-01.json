@@ -4250,6 +4250,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BIOP",
+        "buy_start": 1686211200,
+        "fee": "0.2",
+        "id": "BIOP_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BIRD",
         "buy_start": 1611892800,
@@ -18644,7 +18656,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
