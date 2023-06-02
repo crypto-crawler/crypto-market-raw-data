@@ -25577,7 +25577,7 @@
         "baseCurrency": "LAI",
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
-        "baseMinSize": "10",
+        "baseMinSize": "1000000",
         "enableTrading": false,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
@@ -25591,5 +25591,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "LAI-USDT"
+    },
+    {
+        "baseCurrency": "VOLT",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1000000",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "VOLT-USDT",
+        "priceIncrement": "0.0000000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0000000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "VOLT-USDT"
     }
 ]
