@@ -9251,7 +9251,6 @@
         "displayNameEn": "GST_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET",
             "BYBIT",
             "GATEIO",
             "MEXC",
@@ -13734,8 +13733,8 @@
         "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "OMG_USDT\u6c38\u7eed",
         "displayNameEn": "OMG_USDT PERPETUAL",
@@ -13767,8 +13766,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2700000,
@@ -16015,10 +16014,10 @@
         "displayNameEn": "SCRT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17411,8 +17410,8 @@
         ],
         "contractSize": 0.1,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "SUSHI_USDT\u6c38\u7eed",
         "displayNameEn": "SUSHI_USDT PERPETUAL",
@@ -17447,8 +17446,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2200000,
