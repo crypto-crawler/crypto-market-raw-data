@@ -1157,8 +1157,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BINANCE",
             "GATEIO",
-            "OKX"
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -1322,7 +1324,7 @@
         "state": 0,
         "symbol": "ALT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 10334,
+        "threshold": 10591,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -1689,6 +1691,7 @@
         "displayNameEn": "API3_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -1859,7 +1862,7 @@
         "state": 0,
         "symbol": "ARBGPT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 12884,
+        "threshold": 13386,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -1888,6 +1891,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -2735,7 +2739,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 136546,
+        "threshold": 135474,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -3278,7 +3282,7 @@
         "state": 0,
         "symbol": "BDP_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 40535,
+        "threshold": 14112,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4000,7 +4004,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 130650,
+        "threshold": 132914,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4657,7 +4661,7 @@
         "state": 0,
         "symbol": "CAW_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 12803,
+        "threshold": 12522,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5122,7 +5126,7 @@
         "state": 0,
         "symbol": "CGPT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 10572,
+        "threshold": 10351,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6456,7 +6460,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 10462,
+        "threshold": 10642,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6645,7 +6649,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 137644,
+        "threshold": 129926,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -7055,7 +7059,7 @@
         "state": 0,
         "symbol": "DZOO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 11041,
+        "threshold": 10848,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8140,7 +8144,7 @@
         "state": 0,
         "symbol": "FLOKICEO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 34572,
+        "threshold": 34170,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8169,9 +8173,13 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
+            "BINANCE",
             "GATEIO",
+            "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -8305,6 +8313,7 @@
         "indexOrigin": [
             "BYBIT",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -8844,6 +8853,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC"
         ],
@@ -9123,6 +9133,7 @@
             "BYBIT",
             "BINANCE",
             "GATEIO",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -10194,6 +10205,7 @@
         "indexOrigin": [
             "BITGET",
             "GATEIO",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -10836,7 +10848,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 118188,
+        "threshold": 114168,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -11602,7 +11614,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 32000000,
         "maintenanceMarginRate": 0.004,
@@ -11973,7 +11985,7 @@
         "state": 0,
         "symbol": "LOOP_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 11619,
+        "threshold": 12081,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12350,7 +12362,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 500000,
         "maintenanceMarginRate": 0.004,
@@ -13265,7 +13277,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 55610,
+        "threshold": 55409,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14594,7 +14606,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 12294,
+        "threshold": 12596,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15320,7 +15332,7 @@
         "state": 0,
         "symbol": "RIO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33768,
+        "threshold": 35175,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15427,7 +15439,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 185000,
         "maintenanceMarginRate": 0.004,
@@ -16194,7 +16206,7 @@
         "state": 0,
         "symbol": "SHIBAI_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 44997,
+        "threshold": 46846,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -17235,7 +17247,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 500000,
         "maintenanceMarginRate": 0.004,
@@ -17500,7 +17512,12 @@
         "displayNameEn": "SXP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE"
+            "BITGET",
+            "BINANCE",
+            "GATEIO",
+            "HUOBI",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -17901,6 +17918,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BYBIT",
+            "GATEIO",
             "HUOBI",
             "OKX",
             "MEXC",
@@ -18976,6 +18994,8 @@
         "displayNameEn": "VRA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -19288,7 +19308,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 45104,
+        "threshold": 50543,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19585,6 +19605,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "BINANCE",
             "GATEIO",
             "HUOBI",
             "OKX",
@@ -19689,7 +19710,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 15865,
+        "threshold": 15544,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20760,7 +20781,7 @@
         "state": 0,
         "symbol": "ZZZ_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 11952,
+        "threshold": 10666,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
