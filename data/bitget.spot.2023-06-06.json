@@ -1405,6 +1405,15 @@
     },
     {
         "base_asset_precision": "0",
+        "base_currency": "AIBB",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "AIBB_USDT",
+        "tick_size": "12"
+    },
+    {
+        "base_asset_precision": "0",
         "base_currency": "TROVE",
         "quote_currency": "USDT",
         "size_increment": "0",
@@ -1498,7 +1507,7 @@
         "base_currency": "LYRA",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "online",
+        "status": "offline",
         "symbol": "LYRA_USDT",
         "tick_size": "5"
     },
@@ -1570,7 +1579,7 @@
         "base_currency": "COLLAB",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "online",
+        "status": "offline",
         "symbol": "COLLAB_USDT",
         "tick_size": "6"
     },
@@ -1597,7 +1606,7 @@
         "base_currency": "OPX",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "online",
+        "status": "offline",
         "symbol": "OPX_USDT",
         "tick_size": "4"
     },
