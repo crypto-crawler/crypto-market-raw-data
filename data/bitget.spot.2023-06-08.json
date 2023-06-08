@@ -1333,6 +1333,15 @@
     },
     {
         "base_asset_precision": "1",
+        "base_currency": "INU",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "INU_USDT",
+        "tick_size": "11"
+    },
+    {
+        "base_asset_precision": "1",
         "base_currency": "FITFI",
         "quote_currency": "USDC",
         "size_increment": "1",
@@ -1348,15 +1357,6 @@
         "status": "offline",
         "symbol": "MFT_USDT",
         "tick_size": "6"
-    },
-    {
-        "base_asset_precision": "1",
-        "base_currency": "INU",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "INU_USDT",
-        "tick_size": "11"
     },
     {
         "base_asset_precision": "1",
@@ -3669,7 +3669,7 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "MANA_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",

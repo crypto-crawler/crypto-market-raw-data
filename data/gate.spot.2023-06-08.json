@@ -10321,6 +10321,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "EEG",
+        "buy_start": 1686276000,
+        "fee": "0.2",
+        "id": "EEG_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "EFI",
         "buy_start": 1628082000,
@@ -11678,6 +11690,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "FERC",
+        "buy_start": 1686225600,
+        "fee": "0.2",
+        "id": "FERC_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
         "base": "FER",
         "buy_start": 1676448000,
         "fee": "0.2",
@@ -12847,7 +12871,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -12859,7 +12883,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
