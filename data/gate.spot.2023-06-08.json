@@ -7014,6 +7014,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "COMBO",
+        "buy_start": 1686294000,
+        "fee": "0.2",
+        "id": "COMBO_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 3,
         "base": "COMP3L",
         "buy_start": 1603252800,
@@ -24498,13 +24510,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "PBX",
         "buy_start": 1639036800,
         "fee": "0.2",
         "id": "PBX_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
