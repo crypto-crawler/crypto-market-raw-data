@@ -1387,6 +1387,21 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "AMC_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
         "price_scale": 14,
         "quantity_scale": 0,
         "state": "ENABLED",
@@ -3026,7 +3041,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AZY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -14831,7 +14846,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JOY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -15971,21 +15986,6 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "LAI_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "5000000.000000000000000000",
-        "max_amount_market": "500000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "LAMBO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
@@ -21042,6 +21042,21 @@
         "state": "ENABLED",
         "symbol": "OMNOM_USDT",
         "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "OMN_USDT",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -27502,21 +27517,6 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "STN_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "5000000.000000000000000000",
-        "max_amount_market": "500000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
@@ -27716,7 +27716,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SUKU_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -29572,7 +29572,7 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ULX_USDT",
