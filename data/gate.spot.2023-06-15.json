@@ -2509,28 +2509,16 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "ATD",
-        "buy_start": 1616580000,
-        "fee": "0.2",
-        "id": "ATD_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "ATD",
         "buy_start": 1616580000,
         "fee": "0.2",
         "id": "ATD_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 4,
