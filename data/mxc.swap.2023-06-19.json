@@ -23,7 +23,7 @@
         "initialMarginRate": 0.1,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 900000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
@@ -145,7 +145,7 @@
         "initialMarginRate": 0.1,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.05,
         "makerFeeRate": 0,
@@ -206,7 +206,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 16000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -1512,7 +1512,7 @@
         "state": 0,
         "symbol": "ALT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 72360,
+        "threshold": 0,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -1604,8 +1604,7 @@
         "indexOrigin": [
             "GATEIO",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2865,7 +2864,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 122074,
+        "threshold": 119394,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -3407,7 +3406,7 @@
         "state": 0,
         "symbol": "BDP_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16781,
+        "threshold": 16519,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4129,7 +4128,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 128733,
+        "threshold": 125075,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4788,7 +4787,7 @@
         "state": 0,
         "symbol": "CAW_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 62712,
+        "threshold": 61506,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5253,7 +5252,7 @@
         "state": 0,
         "symbol": "CGPT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 47134,
+        "threshold": 51858,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6589,7 +6588,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 14170,
+        "threshold": 13808,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6778,7 +6777,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 76969,
+        "threshold": 80400,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8211,7 +8210,7 @@
         "state": 0,
         "symbol": "FLOKICEO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 67536,
+        "threshold": 61506,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10313,7 +10312,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 120278,
+        "threshold": 104654,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10919,7 +10918,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 155172,
+        "threshold": 159996,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12056,7 +12055,7 @@
         "state": 0,
         "symbol": "LOOP_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 29989,
+        "threshold": 30230,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13348,7 +13347,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 59576,
+        "threshold": 92996,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14679,7 +14678,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 13674,
+        "threshold": 13979,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15407,7 +15406,7 @@
         "state": 0,
         "symbol": "RIO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 48240,
+        "threshold": 12261,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -16280,7 +16279,7 @@
         "state": 0,
         "symbol": "SHIBAI_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 85063,
+        "threshold": 65338,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19321,7 +19320,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 216577,
+        "threshold": 208872,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19723,7 +19722,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 111220,
+        "threshold": 100500,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20796,7 +20795,7 @@
         "state": 0,
         "symbol": "ZZZ_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 52997,
+        "threshold": 10740,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
