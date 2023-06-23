@@ -1849,12 +1849,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.4,
+        "askLimitPriceRate": 0.45,
         "automaticDelivery": 0,
         "baseCoin": "ANC",
         "baseCoinIconUrl": "",
         "baseCoinName": "ANC",
-        "bidLimitPriceRate": 0.4,
+        "bidLimitPriceRate": 0.45,
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
@@ -1878,7 +1878,7 @@
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
-        "marketOrderPriceLimitRate1": 0.4,
+        "marketOrderPriceLimitRate1": 0.45,
         "marketOrderPriceLimitRate2": 0.005,
         "maxLeverage": 50,
         "maxNumOrders": [
@@ -1889,7 +1889,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.4,
+        "priceCoefficientVariation": 0.45,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
@@ -17810,9 +17810,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "BYBIT",
             "GATEIO",
-            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
