@@ -3525,30 +3525,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
-        "base": "BBANK",
-        "buy_start": 1630461600,
-        "fee": "0.2",
-        "id": "BBANK_BTC",
-        "min_quote_amount": "0.00001",
-        "precision": 9,
-        "quote": "BTC",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "BBANK",
-        "buy_start": 1630461600,
-        "fee": "0.2",
-        "id": "BBANK_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 3,
         "base": "BBANK",
         "buy_start": 1630461600,
@@ -3558,7 +3534,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -23361,30 +23337,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "OHM",
-        "buy_start": 1634194800,
-        "fee": "0.2",
-        "id": "OHM_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 4,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 4,
-        "base": "OHM",
-        "buy_start": 1634194800,
-        "fee": "0.2",
-        "id": "OHM_USDT",
-        "min_quote_amount": "1",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "OIN",
         "buy_start": 1599217200,
@@ -23768,13 +23720,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "ONSTON",
         "buy_start": 1645178400,
         "fee": "0.2",
         "id": "ONSTON_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
