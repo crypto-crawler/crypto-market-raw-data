@@ -1930,7 +1930,7 @@
         "base_currency": "TREEB",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "TREEB_USDT",
         "tick_size": "6"
     },
@@ -1969,6 +1969,15 @@
         "status": "online",
         "symbol": "QNT_USDT",
         "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "MTC",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "MTC_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
