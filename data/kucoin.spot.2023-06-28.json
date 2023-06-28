@@ -25882,7 +25882,7 @@
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "1",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -25895,5 +25895,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "MAV-USDT"
+    },
+    {
+        "baseCurrency": "XEN",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "100000",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "XEN-USDT",
+        "priceIncrement": "0.000000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.000000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "XEN-USDT"
     }
 ]
