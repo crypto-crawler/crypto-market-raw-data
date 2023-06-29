@@ -504,15 +504,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "COCOS",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "offline",
-        "symbol": "COCOS_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "1",
         "base_currency": "LUNA",
         "quote_currency": "USDC",
@@ -3442,7 +3433,7 @@
         "base_currency": "FAVOR",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "FAVOR_USDT",
         "tick_size": "5"
     },
