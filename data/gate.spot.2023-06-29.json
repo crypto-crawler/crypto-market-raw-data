@@ -10889,7 +10889,7 @@
         "fee": "0.2",
         "id": "EQ_USDT",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1559622900,
         "trade_status": "tradable"
@@ -13699,6 +13699,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GMMT",
+        "buy_start": 1688371200,
+        "fee": "0.2",
+        "id": "GMMT_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1520614800,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
