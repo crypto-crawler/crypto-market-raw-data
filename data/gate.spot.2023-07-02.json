@@ -1424,6 +1424,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "AMC",
+        "buy_start": 1688731200,
+        "fee": "0.2",
+        "id": "AMC_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "AME",
         "buy_start": 1617249600,
         "fee": "0.2",
@@ -13411,6 +13423,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "GETA",
+        "buy_start": 1688644800,
+        "fee": "0.2",
+        "id": "GETA_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
