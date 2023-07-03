@@ -10442,7 +10442,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 70000,
         "maintenanceMarginRate": 0.004,
@@ -16487,7 +16487,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 960000,
         "maintenanceMarginRate": 0.004,
@@ -17488,6 +17488,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
