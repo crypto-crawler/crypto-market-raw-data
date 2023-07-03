@@ -2650,7 +2650,6 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "GATEIO",
             "KUCOIN"
         ],
         "initialMarginRate": 0.05,
@@ -16683,15 +16682,13 @@
         "displayNameEn": "SQUAD_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 100000,
+        "limitMaxVol": 40000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -16702,7 +16699,7 @@
             200,
             50
         ],
-        "maxVol": 100000,
+        "maxVol": 40000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -16711,10 +16708,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 100000,
+        "riskBaseVol": 40000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 100000,
+        "riskIncrVol": 40000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
