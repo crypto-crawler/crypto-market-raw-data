@@ -17734,6 +17734,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "LBR",
+        "buy_start": 1688479200,
+        "fee": "0.2",
+        "id": "LBR_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "LDO3L",
         "buy_start": 1582704000,
         "fee": "0.2",
@@ -18396,7 +18408,7 @@
         "fee": "0.2",
         "id": "LM_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
@@ -33315,8 +33327,21 @@
         "fee": "0.2",
         "id": "USDT_TRY",
         "min_base_amount": "1",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "USDT",
+        "buy_start": 0,
+        "fee": "0.1",
+        "id": "USDT_USD",
+        "min_base_amount": "1",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USD",
         "sell_start": 0,
         "trade_status": "tradable"
     },
