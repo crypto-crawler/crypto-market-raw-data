@@ -1396,7 +1396,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -4335,7 +4335,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -4347,7 +4347,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -9156,6 +9156,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "DOGE2",
+        "buy_start": 1688738400,
+        "fee": "0.2",
+        "id": "DOGE2_USDT",
+        "min_quote_amount": "1",
+        "precision": 12,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "DOGE3L",
         "buy_start": 1608523200,
@@ -12034,7 +12046,7 @@
         "fee": "0.2",
         "id": "FNF_USDT",
         "min_quote_amount": "1",
-        "precision": 13,
+        "precision": 12,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -24785,6 +24797,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "PLANET",
+        "buy_start": 1688997600,
+        "fee": "0.2",
+        "id": "PLANET_USDT",
+        "min_quote_amount": "1",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "PLAY",
         "buy_start": 1681380000,
@@ -27609,18 +27633,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "ROSN",
-        "buy_start": 1633406400,
-        "fee": "0.2",
-        "id": "ROSN_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "ROUTE",
         "buy_start": 1623297600,
         "fee": "0.2",
@@ -28601,6 +28613,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "SHIB2",
+        "buy_start": 1688734800,
+        "fee": "0.2",
+        "id": "SHIB2_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -36860,7 +36884,7 @@
         "fee": "0.2",
         "id": "ZPT_BTC",
         "min_quote_amount": "0.00001",
-        "precision": 13,
+        "precision": 11,
         "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable"
