@@ -4391,7 +4391,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "BRUH_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -5066,7 +5066,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CAPO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -5441,7 +5441,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CETUS_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -9217,21 +9217,6 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "FARB_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "5000000.000000000000000000",
-        "max_amount_market": "500000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
         "price_scale": 2,
         "quantity_scale": 3,
         "state": "ENABLED",
@@ -10031,7 +10016,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FOUR_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -13451,7 +13436,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KABOSU_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -17141,6 +17126,21 @@
         "quantity_scale": 4,
         "state": "ENABLED",
         "symbol": "MOVR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "MPT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
@@ -22102,7 +22102,7 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RIK_USDT",
@@ -24442,7 +24442,7 @@
         "max_amount_market": "500000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SPIZ_USDT",
@@ -25286,6 +25286,21 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SWG_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "5000000.000000000000000000",
+        "max_amount_market": "500000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "SWIM_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
