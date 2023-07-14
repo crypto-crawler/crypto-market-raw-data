@@ -1297,6 +1297,70 @@
         "baseCoinName": "ADA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.0001"
+        ],
+        "displayName": "ADA_USD\u6c38\u7eed",
+        "displayNameEn": "ADA_USD PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BITSTAMP",
+            "COINBASE",
+            "BITFINEX",
+            "KRAKEN"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 50000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 50000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USD",
+        "quoteCoinName": "USD",
+        "riskBaseVol": 10000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 10000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "ADA",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "ADA_USD",
+        "takerFeeRate": 0.0001,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "ADA",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "ADA",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -1444,6 +1508,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "BINANCE",
             "OKX",
             "MEXC"
         ],
@@ -3587,8 +3652,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
-            "OKX"
+            "OKX",
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -5814,8 +5881,9 @@
         "displayNameEn": "COMBO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -8628,7 +8696,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
+            "OKX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.005,
@@ -8961,7 +9032,10 @@
         "displayNameEn": "GMT_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
+            "HUOBI",
             "OKX",
             "KUCOIN"
         ],
@@ -10236,7 +10310,9 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.005,
@@ -11914,7 +11990,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 2100000,
         "maintenanceMarginRate": 0.004,
@@ -14043,9 +14119,11 @@
         "displayNameEn": "PERP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX"
+            "OKX",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -16507,8 +16585,11 @@
         "displayNameEn": "STX_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.005,
@@ -18247,6 +18328,7 @@
             "BYBIT",
             "HUOBI",
             "OKX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.05,
@@ -18967,6 +19049,71 @@
         "contractSize": 10,
         "depthStepList": [
             "0.00001",
+            "0.0001"
+        ],
+        "displayName": "XLM_USD\u6c38\u7eed",
+        "displayNameEn": "XLM_USD PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BITSTAMP",
+            "COINBASE",
+            "BITFINEX",
+            "KRAKEN"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 50000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 50000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
+        "quoteCoin": "USD",
+        "quoteCoinName": "USD",
+        "riskBaseVol": 10000,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 10000,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "XLM",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "XLM_USD",
+        "takerFeeRate": 0.0001,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "XLM",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "XLM",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.00001",
             "0.0001",
             "0.001",
             "0.01"
@@ -18983,7 +19130,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 650000,
         "maintenanceMarginRate": 0.004,
