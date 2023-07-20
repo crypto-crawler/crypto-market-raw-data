@@ -729,7 +729,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 45000,
+        "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -740,7 +740,7 @@
             200,
             50
         ],
-        "maxVol": 45000,
+        "maxVol": 90000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -749,10 +749,10 @@
         "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 45000,
+        "riskBaseVol": 90000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 45000,
+        "riskIncrVol": 90000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -988,7 +988,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 40000,
+        "limitMaxVol": 80000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -999,7 +999,7 @@
             200,
             50
         ],
-        "maxVol": 40000,
+        "maxVol": 80000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -1008,10 +1008,10 @@
         "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 40000,
+        "riskBaseVol": 80000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 40000,
+        "riskIncrVol": 80000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -4045,9 +4045,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "BLZ",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-storage"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.00001",
@@ -4066,7 +4064,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 400000,
+        "limitMaxVol": 300000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -4077,7 +4075,7 @@
             200,
             50
         ],
-        "maxVol": 400000,
+        "maxVol": 300000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4086,10 +4084,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 400000,
+        "riskBaseVol": 300000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 400000,
+        "riskIncrVol": 300000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -8239,8 +8237,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8917,14 +8917,16 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1400000,
+        "limitMaxVol": 2000000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -8935,7 +8937,7 @@
             200,
             50
         ],
-        "maxVol": 1400000,
+        "maxVol": 2000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -8944,10 +8946,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1400000,
+        "riskBaseVol": 2000000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 1400000,
+        "riskIncrVol": 2000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -8980,7 +8982,8 @@
         "futureType": 1,
         "indexOrigin": [
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9728,6 +9731,7 @@
         "displayNameEn": "HOOK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
             "MEXC"
@@ -9928,9 +9932,12 @@
         "displayNameEn": "ICP_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10461,7 +10468,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10525,7 +10533,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "OKX"
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10589,7 +10598,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -11190,9 +11200,12 @@
         "displayNameEn": "KSM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -11321,8 +11334,8 @@
         "displayNameEn": "LAZIO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -11455,8 +11468,8 @@
         "displayNameEn": "LEVER_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
@@ -11524,7 +11537,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -11796,8 +11810,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -12133,9 +12149,12 @@
         "displayNameEn": "LUNA_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -13405,7 +13424,9 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "HUOBI",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13728,9 +13749,12 @@
         "displayNameEn": "ONE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -13931,7 +13955,8 @@
         "indexOrigin": [
             "BITGET",
             "HUOBI",
-            "OKX"
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14652,6 +14677,8 @@
         "displayNameEn": "QTUM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "OKX",
             "MEXC"
@@ -15256,6 +15283,7 @@
         "displayNameEn": "RNDR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "MEXC",
             "KUCOIN"
@@ -15396,7 +15424,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 120000,
+        "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -15407,7 +15435,7 @@
             200,
             50
         ],
-        "maxVol": 120000,
+        "maxVol": 90000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -15416,10 +15444,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 120000,
+        "riskBaseVol": 90000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 120000,
+        "riskIncrVol": 90000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -15654,9 +15682,11 @@
         "displayNameEn": "RVN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -15858,7 +15888,8 @@
         "indexOrigin": [
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16057,7 +16088,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -16196,7 +16228,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1200000,
+        "limitMaxVol": 1800000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -16207,7 +16239,7 @@
             200,
             50
         ],
-        "maxVol": 1200000,
+        "maxVol": 1800000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -16216,10 +16248,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1200000,
+        "riskBaseVol": 1800000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 1200000,
+        "riskIncrVol": 1800000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -17937,7 +17969,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19332,7 +19365,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -19536,7 +19570,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 3000000,
+        "limitMaxVol": 2400000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -19547,7 +19581,7 @@
             200,
             50
         ],
-        "maxVol": 3000000,
+        "maxVol": 2400000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -19556,10 +19590,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 3000000,
+        "riskBaseVol": 2400000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 3000000,
+        "riskIncrVol": 2400000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -19593,9 +19627,11 @@
         "displayNameEn": "XTZ_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -19997,7 +20033,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
