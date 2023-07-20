@@ -220,9 +220,36 @@
         "base_currency": "BITCOIN",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BITCOIN_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "UNIBOT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "UNIBOT_USDT",
+        "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BRIDGE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "BRIDGE_USDT",
+        "tick_size": "8"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "WAGIEBOT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "WAGIEBOT_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "1",
