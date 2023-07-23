@@ -2751,6 +2751,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.05,
@@ -3322,7 +3323,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33644,
+        "threshold": 33533,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4380,7 +4381,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 71180,
+        "threshold": 70484,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5487,7 +5488,7 @@
         "state": 0,
         "symbol": "CGPT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 22404,
+        "threshold": 22441,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6797,7 +6798,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 19463,
+        "threshold": 19229,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6986,7 +6987,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 28843,
+        "threshold": 27939,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8891,7 +8892,8 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "OKX"
+            "OKX",
+            "MEXC"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9764,7 +9766,8 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
-            "HUOBI"
+            "HUOBI",
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10126,7 +10129,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33768,
+        "threshold": 32947,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10722,7 +10725,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 61472,
+        "threshold": 65827,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13117,7 +13120,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 26545,
+        "threshold": 26310,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14327,7 +14330,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "GATEIO"
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -16115,7 +16119,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 640000,
         "maintenanceMarginRate": 0.004,
@@ -16424,12 +16428,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.25,
         "automaticDelivery": 0,
         "baseCoin": "STMX",
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230324113145280K2bWnLcvvusWWk.png",
         "baseCoinName": "STMX",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.25,
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
@@ -16452,7 +16456,7 @@
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
-        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate1": 0.25,
         "marketOrderPriceLimitRate2": 0.005,
         "maxLeverage": 50,
         "maxNumOrders": [
@@ -16463,7 +16467,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.2,
+        "priceCoefficientVariation": 0.25,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
@@ -18558,7 +18562,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "GATEIO"
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -18595,7 +18600,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 38458,
+        "threshold": 38826,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18988,7 +18993,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 40159,
+        "threshold": 41406,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19087,7 +19092,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 650000,
         "maintenanceMarginRate": 0.004,
