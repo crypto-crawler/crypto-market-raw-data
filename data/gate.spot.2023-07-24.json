@@ -821,7 +821,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -22524,16 +22524,16 @@
         "trade_status": "untradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "NVG",
         "buy_start": 1676278800,
         "fee": "0.2",
         "id": "NVG_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -34567,13 +34567,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 3,
         "base": "WLD",
         "buy_start": 1690183800,
         "fee": "0.2",
         "id": "WLD_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
