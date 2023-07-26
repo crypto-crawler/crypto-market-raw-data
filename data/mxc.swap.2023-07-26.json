@@ -4586,7 +4586,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 25000,
         "maintenanceMarginRate": 0.004,
@@ -11141,7 +11141,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 4500000,
         "maintenanceMarginRate": 0.004,
@@ -14477,7 +14477,7 @@
         "conceptPlate": [],
         "contractSize": 100000,
         "depthStepList": [
-            "0.00000001"
+            "0.0000001"
         ],
         "displayName": "POGAI_USDT\u6c38\u7eed",
         "displayNameEn": "POGAI_USDT PERPETUAL",
@@ -14507,8 +14507,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.1,
-        "priceScale": 8,
-        "priceUnit": 1e-08,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 12000,
