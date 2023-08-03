@@ -341,7 +341,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 60000,
+        "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -352,7 +352,7 @@
             200,
             50
         ],
-        "maxVol": 60000,
+        "maxVol": 180000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -361,10 +361,10 @@
         "priceUnit": 1e-09,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 60000,
+        "riskBaseVol": 180000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 60000,
+        "riskIncrVol": 180000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -402,7 +402,8 @@
             "BYBIT",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -597,7 +598,8 @@
             "BYBIT",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -787,7 +789,8 @@
             "BITGET",
             "BYBIT",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -1706,22 +1709,22 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 20000000,
-        "maintenanceMarginRate": 0.02,
+        "limitMaxVol": 22000000,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
         ],
-        "maxVol": 20000000,
+        "maxVol": 22000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -1730,10 +1733,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 20000000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
-        "riskIncrVol": 20000000,
+        "riskBaseVol": 22000000,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
+        "riskIncrVol": 22000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -1839,7 +1842,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2033,7 +2037,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -2308,7 +2313,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -3104,7 +3110,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "HUOBI"
+            "HUOBI",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -3243,7 +3250,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -3345,7 +3353,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33680,
+        "threshold": 33938,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -3376,7 +3384,8 @@
             "BYBIT",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": true,
@@ -3917,7 +3926,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -4413,7 +4423,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 70725,
+        "threshold": 71683,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4578,7 +4588,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 25000,
+        "limitMaxVol": 35000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -4589,7 +4599,7 @@
             200,
             50
         ],
-        "maxVol": 25000,
+        "maxVol": 35000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4598,10 +4608,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 5000,
+        "riskBaseVol": 7000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 5000,
+        "riskIncrVol": 7000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -4907,7 +4917,8 @@
             "BITGET",
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -5095,7 +5106,8 @@
         "indexOrigin": [
             "BITGET",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -5161,7 +5173,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5526,7 +5539,7 @@
         "state": 0,
         "symbol": "CGPT_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 20083,
+        "threshold": 19825,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5618,7 +5631,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "BINANCE"
+            "BINANCE",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5690,7 +5704,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -5755,7 +5770,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -5880,7 +5896,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5943,7 +5960,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -6146,7 +6164,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -6275,7 +6294,8 @@
         "indexOrigin": [
             "BITGET",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -6674,7 +6694,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -6842,7 +6863,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 26532,
+        "threshold": 26599,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6868,7 +6889,8 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -7030,7 +7052,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 27738,
+        "threshold": 29145,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -7059,7 +7081,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -7268,7 +7291,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -7807,7 +7831,8 @@
             "BYBIT",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8075,7 +8100,8 @@
         "indexOrigin": [
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8417,7 +8443,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -8687,7 +8714,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -8823,7 +8851,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -8886,7 +8915,8 @@
         "indexOrigin": [
             "GATEIO",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9163,7 +9193,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -9769,7 +9800,8 @@
         "indexOrigin": [
             "GATEIO",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10135,7 +10167,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 24554,
+        "threshold": 24457,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10235,7 +10267,8 @@
             "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10369,7 +10402,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -10498,7 +10532,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10735,7 +10770,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 70182,
+        "threshold": 76882,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10964,7 +10999,8 @@
             "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11101,7 +11137,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -11167,7 +11204,8 @@
             "BITGET",
             "BYBIT",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": true,
@@ -11572,7 +11610,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11640,7 +11679,8 @@
             "BITGET",
             "BYBIT",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -11709,7 +11749,8 @@
             "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -11773,7 +11814,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12116,7 +12158,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -12390,7 +12433,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -13082,7 +13126,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 28468,
+        "threshold": 27389,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13113,7 +13157,8 @@
             "BITGET",
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -13178,7 +13223,8 @@
             "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -13573,7 +13619,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -13774,7 +13821,8 @@
         "indexOrigin": [
             "BITGET",
             "HUOBI",
-            "OKX"
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -13838,7 +13886,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -13902,7 +13951,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -14307,7 +14357,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 12000,
+        "limitMaxVol": 15000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -14318,7 +14368,7 @@
             200,
             50
         ],
-        "maxVol": 12000,
+        "maxVol": 15000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -14327,10 +14377,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 12000,
+        "riskBaseVol": 15000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 12000,
+        "riskIncrVol": 15000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -14403,7 +14453,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16549,
+        "threshold": 16636,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14564,7 +14614,8 @@
             "BITGET",
             "BYBIT",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14764,7 +14815,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -14831,7 +14883,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -14898,7 +14951,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -15029,7 +15083,8 @@
             "BITGET",
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -15299,7 +15354,8 @@
             "BITGET",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -15497,7 +15553,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -15634,7 +15691,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -15764,7 +15822,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -15897,7 +15956,8 @@
         "indexOrigin": [
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -15962,7 +16022,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16232,7 +16293,8 @@
         "indexOrigin": [
             "BITGET",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -16368,7 +16430,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -16704,7 +16767,8 @@
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -16839,7 +16903,8 @@
             "BITGET",
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -16906,7 +16971,8 @@
         "indexOrigin": [
             "BINANCE",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17041,7 +17107,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -17304,7 +17371,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -17704,7 +17772,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -18370,7 +18439,8 @@
             "BITGET",
             "BYBIT",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18509,7 +18579,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 70000,
+        "limitMaxVol": 140000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -18520,7 +18590,7 @@
             200,
             50
         ],
-        "maxVol": 70000,
+        "maxVol": 140000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -18529,10 +18599,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 14000,
+        "riskBaseVol": 28000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 14000,
+        "riskIncrVol": 28000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -18606,7 +18676,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 37486,
+        "threshold": 36448,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18704,7 +18774,8 @@
         "futureType": 1,
         "indexOrigin": [
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18768,7 +18839,8 @@
         "indexOrigin": [
             "BITGET",
             "HUOBI",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -18833,7 +18905,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -19000,7 +19073,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33124,
+        "threshold": 32803,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19426,7 +19499,8 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
