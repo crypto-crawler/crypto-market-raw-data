@@ -31896,6 +31896,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "TROSS",
+        "buy_start": 1691492400,
+        "fee": "0.2",
+        "id": "TROSS_USDT",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "TROY",
         "buy_start": 1597732500,
@@ -33594,7 +33606,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1520614800,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
