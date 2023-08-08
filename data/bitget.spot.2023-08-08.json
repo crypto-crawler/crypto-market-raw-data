@@ -396,24 +396,6 @@
         "tick_size": "12"
     },
     {
-        "base_asset_precision": "4",
-        "base_currency": "SBTC",
-        "quote_currency": "SUSDT",
-        "size_increment": "4",
-        "status": "online",
-        "symbol": "SBTC_SUSDT",
-        "tick_size": "2"
-    },
-    {
-        "base_asset_precision": "4",
-        "base_currency": "SETH",
-        "quote_currency": "SBTC",
-        "size_increment": "4",
-        "status": "online",
-        "symbol": "SETH_SBTC",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "BROCK",
         "quote_currency": "USDT",
@@ -490,7 +472,7 @@
         "base_currency": "UBXS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "UBXS_USDT",
         "tick_size": "5"
     },
@@ -508,7 +490,7 @@
         "base_currency": "TROSS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "TROSS_USDT",
         "tick_size": "5"
     },
@@ -517,7 +499,7 @@
         "base_currency": "MMVG",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "MMVG_USDT",
         "tick_size": "11"
     },

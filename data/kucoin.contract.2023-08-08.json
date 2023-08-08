@@ -1430,11 +1430,10 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Hitbtc",
-            "Bittrex",
-            "Gateio"
+            "gateio",
+            "binance",
+            "kucoin",
+            "bitmart"
         ],
         "status": "Open",
         "symbol": "VETUSDTM",
@@ -2296,13 +2295,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Hitbtc",
-            "Bitget",
-            "Bittrex",
-            "Gateio"
+            "binance",
+            "okex",
+            "kucoin",
+            "bitget",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "XEMUSDTM",
@@ -3069,11 +3066,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
+            "binance",
+            "okex",
+            "kucoin",
+            "coinbase",
             "bybit",
-            "Coinbase",
-            "Gateio"
+            "gateio"
         ],
         "status": "Open",
         "symbol": "ICPUSDTM",
@@ -5153,11 +5151,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Gateio"
+            "binance",
+            "bitget",
+            "kucoin",
+            "bitmart",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "KAVAUSDTM",
@@ -6120,11 +6118,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Gateio"
+            "binance",
+            "okex",
+            "kucoin",
+            "bitget",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "WOOUSDTM",
@@ -6724,9 +6722,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Coinbase",
-            "Gateio"
+            "binance",
+            "coinbase",
+            "kucoin",
+            "bitget",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "FETUSDTM",
@@ -6875,12 +6875,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Kucoin",
+            "okex",
+            "coinbase",
             "bybit",
-            "Bitget",
-            "Coinbase",
-            "Gateio"
+            "bitget",
+            "kucoin",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "BLURUSDTM",
@@ -8390,9 +8390,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
+            "binance",
             "bybit",
-            "Gateio"
+            "bitget",
+            "gateio",
+            "mexc"
         ],
         "status": "Open",
         "symbol": "BELUSDTM",
@@ -9489,11 +9491,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Coinbase",
-            "Gateio"
+            "binance",
+            "kucoin",
+            "coinbase",
+            "bitget",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "MTLUSDTM",
