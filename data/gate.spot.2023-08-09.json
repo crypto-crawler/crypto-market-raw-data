@@ -7778,6 +7778,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "CYBER",
+        "buy_start": 1692100800,
+        "fee": "0.2",
+        "id": "CYBER_USDT",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CYS",
         "buy_start": 1631188800,
         "fee": "0.2",
@@ -27869,18 +27881,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "SEELE",
-        "buy_start": 1658210400,
-        "fee": "0.2",
-        "id": "SEELE_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
