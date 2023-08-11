@@ -835,6 +835,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "AIEPK",
+        "buy_start": 1691996400,
+        "fee": "0.2",
+        "id": "AIEPK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "AIE",
         "buy_start": 1690189200,
@@ -11854,7 +11866,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
