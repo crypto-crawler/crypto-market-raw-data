@@ -841,7 +841,7 @@
         "fee": "0.2",
         "id": "AIEPK_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "sellable"
@@ -4047,6 +4047,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BGT",
+        "buy_start": 1692169200,
+        "fee": "0.2",
+        "id": "BGT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BICO",
         "buy_start": 1638363660,
@@ -4870,6 +4882,18 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BRICK",
+        "buy_start": 1691812800,
+        "fee": "0.2",
+        "id": "BRICK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -11855,18 +11879,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "FOF",
-        "buy_start": 1667210400,
-        "fee": "0.2",
-        "id": "FOF_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -22298,7 +22310,7 @@
         "fee": "0.2",
         "id": "NUX_ETH",
         "min_quote_amount": "0.001",
-        "precision": 10,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -30789,18 +30801,6 @@
     },
     {
         "amount_precision": 2,
-        "base": "SWP",
-        "buy_start": 1657609200,
-        "fee": "0.2",
-        "id": "SWP_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1596702900,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
         "base": "SWRV",
         "buy_start": 1599721200,
         "fee": "0.2",
@@ -34976,7 +34976,7 @@
         "fee": "0.2",
         "id": "XED_ETH",
         "min_quote_amount": "0.001",
-        "precision": 7,
+        "precision": 8,
         "quote": "ETH",
         "sell_start": 1607313600,
         "trade_status": "tradable"
