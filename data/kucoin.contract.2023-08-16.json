@@ -445,12 +445,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Poloniex",
+            "okex",
+            "binance",
+            "kucoin",
             "bybit",
-            "Bitget"
+            "bitget",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "EOSUSDTM",
@@ -806,12 +806,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Poloniex",
-            "Bitget",
-            "Bittrex"
+            "binance",
+            "okex",
+            "kucoin",
+            "bitget",
+            "bybit"
         ],
         "status": "Open",
         "symbol": "TRXUSDTM",
@@ -1531,10 +1530,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Gateio"
+            "binance",
+            "kucoin",
+            "gateio",
+            "bitget",
+            "bitmart"
         ],
         "status": "Open",
         "symbol": "SXPUSDTM",
@@ -3120,12 +3120,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
+            "binance",
+            "okex",
+            "gateio",
             "bybit",
-            "Bitget",
-            "Gateio"
+            "kucoin",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "DYDXUSDTM",
@@ -3223,11 +3223,13 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
+            "binance",
+            "okex",
+            "kucoin",
+            "coinbase",
             "bybit",
-            "Coinbase"
+            "bitmart",
+            "gateio"
         ],
         "status": "Open",
         "symbol": "HBARUSDTM",
@@ -4239,11 +4241,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "bybit",
-            "Gateio"
+            "okex",
+            "kucoin",
+            "binance",
+            "gateio",
+            "bybit"
         ],
         "status": "Open",
         "symbol": "IMXUSDTM",
@@ -4444,10 +4446,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Crypto",
-            "Gateio"
+            "binance",
+            "kucoin",
+            "gateio",
+            "crypto",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "CTSIUSDTM",
@@ -4798,11 +4801,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
+            "binance",
+            "gateio",
+            "kucoin",
             "bybit",
-            "Bitget",
-            "Gateio"
+            "bitget"
         ],
         "status": "Open",
         "symbol": "JASMYUSDTM",
@@ -7080,10 +7083,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Coinbase"
+            "coinbase",
+            "okex",
+            "binance",
+            "kucoin",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "STXUSDTM",
@@ -7332,10 +7336,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Coinbase",
-            "Crypto"
+            "coinbase",
+            "binance",
+            "kucoin",
+            "crypto",
+            "bybit",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "QNTUSDTM",
