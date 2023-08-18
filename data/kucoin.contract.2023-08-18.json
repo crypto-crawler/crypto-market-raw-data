@@ -549,12 +549,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
+            "binance",
+            "kucoin",
+            "okex",
+            "gateio",
             "bybit",
-            "Bitget",
-            "Bittrex"
+            "bitget"
         ],
         "status": "Open",
         "symbol": "FILUSDTM",
@@ -755,11 +755,10 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Bitstamp",
-            "Coinbase",
-            "Gateio",
-            "Gemini",
-            "Kraken"
+            "coinbase",
+            "kraken",
+            "bitstamp",
+            "gemini"
         ],
         "status": "Open",
         "symbol": "ETHUSDM",
@@ -1941,10 +1940,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "bybit"
+            "binance",
+            "okex",
+            "kucoin",
+            "bybit",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "ATOMUSDTM",
@@ -2094,12 +2094,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "Hitbtc",
+            "binance",
+            "okex",
+            "kucoin",
+            "gateio",
             "bybit",
-            "Gateio"
+            "bitget"
         ],
         "status": "Open",
         "symbol": "MANAUSDTM",
@@ -3835,11 +3835,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "bybit",
-            "Coinbase",
-            "Gateio"
+            "binance",
+            "okex",
+            "gateio",
+            "coinbase",
+            "bybit"
         ],
         "status": "Open",
         "symbol": "FLOWUSDTM",
@@ -4191,10 +4191,10 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Gateio"
+            "binance",
+            "kucoin",
+            "gateio",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "LINAUSDTM",
@@ -4852,12 +4852,12 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
+            "binance",
+            "okex",
+            "gateio",
+            "kucoin",
             "bybit",
-            "Bitget",
-            "Gateio"
+            "bitget"
         ],
         "status": "Open",
         "symbol": "ZILUSDTM",
@@ -6327,11 +6327,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Okex",
-            "Binance",
-            "Kucoin",
-            "bybit",
-            "Gateio"
+            "okex",
+            "binance",
+            "gateio",
+            "kucoin",
+            "bybit"
         ],
         "status": "Open",
         "symbol": "APTUSDTM",
@@ -6630,9 +6630,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Gateio"
+            "gateio",
+            "binance",
+            "kucoin",
+            "bybit",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "AGIXUSDTM",
@@ -9802,10 +9804,11 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "Binance",
-            "Kucoin",
-            "Bitget",
-            "Gateio"
+            "bitget",
+            "gateio",
+            "binance",
+            "kucoin",
+            "bitmart"
         ],
         "status": "Open",
         "symbol": "MAVUSDTM",
