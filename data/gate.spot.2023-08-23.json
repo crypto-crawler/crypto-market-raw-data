@@ -18409,6 +18409,18 @@
         "base": "LPT",
         "buy_start": 1611302400,
         "fee": "0.2",
+        "id": "LPT_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "LPT",
+        "buy_start": 1611302400,
+        "fee": "0.2",
         "id": "LPT_USDT",
         "min_quote_amount": "1",
         "precision": 3,
@@ -32573,7 +32585,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
