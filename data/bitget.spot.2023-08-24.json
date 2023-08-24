@@ -661,7 +661,7 @@
         "base_currency": "XLM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "XLM_USDT",
         "tick_size": "4"
     },
@@ -2232,15 +2232,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "FRONT",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "FRONT_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "3",
         "base_currency": "X2Y2",
         "quote_currency": "USDT",
@@ -2248,6 +2239,15 @@
         "status": "online",
         "symbol": "X2Y2_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "FRONT",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "FRONT_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
