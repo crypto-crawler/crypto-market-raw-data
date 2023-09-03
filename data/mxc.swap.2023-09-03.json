@@ -9763,7 +9763,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 110000,
         "maintenanceMarginRate": 0.004,
@@ -13116,7 +13116,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 170000,
         "maintenanceMarginRate": 0.004,
@@ -13829,7 +13829,7 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.0001"
+            "0.00001"
         ],
         "displayName": "PEPECOMMUNITY_USDT\u6c38\u7eed",
         "displayNameEn": "PEPECOMMUNITY_USDT PERPETUAL",
@@ -13857,8 +13857,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3000,
