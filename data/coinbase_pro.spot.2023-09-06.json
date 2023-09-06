@@ -2143,7 +2143,7 @@
         "auction_mode": false,
         "base_currency": "BOND",
         "base_increment": "0.001",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "BOND/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -2155,15 +2155,15 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.01",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
         "base_currency": "BOND",
         "base_increment": "0.001",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "BOND/USDT",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -2175,9 +2175,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -3283,7 +3283,7 @@
         "auction_mode": false,
         "base_currency": "DDX",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "DDX/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -3295,15 +3295,15 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
         "base_currency": "DDX",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "DDX/USDT",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -3315,9 +3315,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -5823,7 +5823,7 @@
         "auction_mode": false,
         "base_currency": "JUP",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "JUP/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -5835,9 +5835,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -7363,7 +7363,7 @@
         "auction_mode": false,
         "base_currency": "MULTI",
         "base_increment": "0.001",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "MULTI/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -7375,9 +7375,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -7963,7 +7963,7 @@
         "auction_mode": false,
         "base_currency": "OOKI",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "OOKI/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -7975,9 +7975,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.000001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -11043,7 +11043,7 @@
         "auction_mode": false,
         "base_currency": "VGX",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "VGX/EUR",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -11055,15 +11055,15 @@
         "post_only": false,
         "quote_currency": "EUR",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
         "base_currency": "VGX",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "VGX/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -11075,15 +11075,15 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
         "base_currency": "VGX",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "VGX/USDT",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -11095,9 +11095,9 @@
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
