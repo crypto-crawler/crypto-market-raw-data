@@ -4040,10 +4040,26 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BOBA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "BOBO 2.0",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 16,
+        "quantity_scale": 0,
+        "state": "ENABLED",
+        "symbol": "BOBO2_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
@@ -4241,22 +4257,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "ArcherSwap Token",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "BOW_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Brave Power Crystal",
         "limited": false,
         "maker_fee_rate": "0",
@@ -4285,22 +4285,6 @@
         "state": "ENABLED",
         "symbol": "BPRIVA_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Bridge Network",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "BRDG_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -4621,22 +4605,6 @@
         "state": "ENABLED",
         "symbol": "BTM_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Braintrust",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "BTRST_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -5489,22 +5457,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "NFT Champions",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "CHAMP1_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Ultimate Champions",
         "limited": false,
         "maker_fee_rate": "0",
@@ -5645,22 +5597,6 @@
         "state": "ENABLED",
         "symbol": "CHRP_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Chainsquare",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "CHS_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -6205,22 +6141,6 @@
         "state": "ENABLED",
         "symbol": "CRAZYPEPE_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Crabada",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "CRA_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -6929,22 +6849,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Doubloon",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "DBL_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "DexCheck",
         "limited": false,
         "maker_fee_rate": "0",
@@ -7005,22 +6909,6 @@
         "state": "ENABLED",
         "symbol": "DC_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "The Debt Box",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "DEBT_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -7852,7 +7740,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DTR_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -8029,22 +7917,6 @@
         "state": "ENABLED",
         "symbol": "EDEN_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "El Dorado Exchange",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "EDE_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -10081,22 +9953,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Fountain Protocol",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "FTP_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "FTX Token",
         "limited": false,
         "maker_fee_rate": "0",
@@ -10705,22 +10561,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Grizzly Honey",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "GHNY_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Aavegotchi",
         "limited": false,
         "maker_fee_rate": "0",
@@ -11069,22 +10909,6 @@
         "state": "ENABLED",
         "symbol": "GOLDFINCH_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Art Gobblers Goo",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 5,
-        "state": "ENABLED",
-        "symbol": "GOO_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -12444,7 +12268,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "IDEA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -13244,6 +13068,22 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JOY_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "JPEX",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "JPC_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
@@ -14236,7 +14076,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KUNCI_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -14881,22 +14721,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Loon Network",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "LOON_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "LoopNetwork",
         "limited": false,
         "maker_fee_rate": "0",
@@ -15101,22 +14925,6 @@
         "state": "ENABLED",
         "symbol": "LSD7_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "LSDerivatives",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "LSDS_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -15809,22 +15617,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "MonkeyLeague",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "MBS_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "MARBLEX",
         "limited": false,
         "maker_fee_rate": "0",
@@ -16285,22 +16077,6 @@
         "state": "ENABLED",
         "symbol": "METAV_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "MetaverseX",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "METAX_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -16860,7 +16636,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MNR_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -17005,22 +16781,6 @@
         "state": "ENABLED",
         "symbol": "MONKEYS_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "MonoX Protocol",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "MONOX_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -17393,22 +17153,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Metavault DAO",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "MVD_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "MVL",
         "limited": false,
         "maker_fee_rate": "0",
@@ -17580,7 +17324,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MYST_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -18525,22 +18269,6 @@
         "state": "ENABLED",
         "symbol": "OAS_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Oath",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "OATH_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -20321,22 +20049,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Pink Token",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "PINK_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "PIP",
         "limited": false,
         "maker_fee_rate": "0",
@@ -20397,22 +20109,6 @@
         "state": "ENABLED",
         "symbol": "PIVN_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "HalfPizza",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "PIZA_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -20817,22 +20513,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "NftyPlay",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "POLO_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Polkastarter",
         "limited": false,
         "maker_fee_rate": "0",
@@ -21085,22 +20765,6 @@
         "state": "ENABLED",
         "symbol": "PRNT_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Prosfinance",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "PROS1_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -21949,22 +21613,6 @@
         "state": "ENABLED",
         "symbol": "REBUS_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Redlight Chain",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "REDLC_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -22913,22 +22561,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Sakura Planet",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "SAK_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Salad Ventures",
         "limited": false,
         "maker_fee_rate": "0",
@@ -23633,22 +23265,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Shadowswap Finance",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "SHDW_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Shiba V Pepe",
         "limited": false,
         "maker_fee_rate": "0",
@@ -24157,22 +23773,6 @@
         "state": "ENABLED",
         "symbol": "SMARS_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Smart game",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "SMART_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -24833,22 +24433,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Superpower Squad",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "SQUAD_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Squid Game 2.0",
         "limited": false,
         "maker_fee_rate": "0",
@@ -25213,22 +24797,6 @@
         "state": "ENABLED",
         "symbol": "STND_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Bit.Store",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "STORE_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -25825,22 +25393,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Fusotao Protocol",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "TAO1_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Bittensor",
         "limited": false,
         "maker_fee_rate": "0",
@@ -25948,22 +25500,6 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "TEDDY_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "TED BNB",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 10,
-        "quantity_scale": 0,
-        "state": "ENABLED",
-        "symbol": "TED_USDT",
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
@@ -27329,22 +26865,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "UNIC",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "UNIC_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "UNISWAP",
         "limited": false,
         "maker_fee_rate": "0",
@@ -28077,22 +27597,6 @@
         "state": "ENABLED",
         "symbol": "VRSW_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Venus Reward Token",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "VRT_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -28849,22 +28353,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Wrapped Optimus",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "WOPT_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "WORLD AI",
         "limited": false,
         "maker_fee_rate": "0",
@@ -29441,22 +28929,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Offshift",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "XFT_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
         "fullName": "XIDO FINANCE",
         "limited": false,
         "maker_fee_rate": "0",
@@ -29661,22 +29133,6 @@
         "state": "ENABLED",
         "symbol": "XRD_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "XREATORS",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000",
-        "max_amount_market": "100000.000000000000000000",
-        "min_amount": "5.000000000000000000",
-        "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "XREATORS_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
