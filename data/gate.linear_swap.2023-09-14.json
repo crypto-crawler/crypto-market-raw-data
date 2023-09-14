@@ -1984,12 +1984,12 @@
         "type": "direct"
     },
     {
-        "config_change_time": 1694447321,
+        "config_change_time": 1694677435,
         "create_time": 0,
         "enable_bonus": false,
         "enable_credit": false,
         "funding_impact_value": "5000",
-        "funding_interval": 14400,
+        "funding_interval": 28800,
         "funding_offset": 0,
         "in_delisting": false,
         "interest_rate": "0.0003",
@@ -2387,7 +2387,7 @@
         "type": "direct"
     },
     {
-        "config_change_time": 1694401385,
+        "config_change_time": 1694678461,
         "create_time": 0,
         "enable_bonus": true,
         "enable_credit": true,
@@ -2403,7 +2403,7 @@
         "mark_price_round": "0.00001",
         "mark_type": "index",
         "name": "CFX_USDT",
-        "order_price_deviate": "0.3",
+        "order_price_deviate": "0.5",
         "order_price_round": "0.00001",
         "order_size_max": 1000000,
         "order_size_min": 1,
@@ -5456,7 +5456,7 @@
         "type": "direct"
     },
     {
-        "config_change_time": 1682318841,
+        "config_change_time": 1694678514,
         "create_time": 0,
         "enable_bonus": true,
         "enable_credit": true,
@@ -5465,9 +5465,9 @@
         "funding_offset": 0,
         "in_delisting": false,
         "interest_rate": "0.0003",
-        "leverage_max": "100",
+        "leverage_max": "125",
         "leverage_min": "1",
-        "maintenance_rate": "0.005",
+        "maintenance_rate": "0.004",
         "maker_fee_rate": "-0.000152",
         "mark_price_round": "0.01",
         "mark_type": "index",
