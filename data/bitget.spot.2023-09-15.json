@@ -837,13 +837,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "MAX",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "MAX_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
@@ -853,6 +853,15 @@
         "status": "online",
         "symbol": "BRISE_USDT",
         "tick_size": "11"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "SMURFCAT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "SMURFCAT_USDT",
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
