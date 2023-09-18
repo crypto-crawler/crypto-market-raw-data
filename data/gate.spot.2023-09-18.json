@@ -31043,6 +31043,18 @@
     },
     {
         "amount_precision": 3,
+        "base": "SUGARB",
+        "buy_start": 1640253600,
+        "fee": "0.2",
+        "id": "SUGARB_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
         "base": "SUI3L",
         "buy_start": 1582704000,
         "fee": "0.2",
@@ -32202,7 +32214,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
