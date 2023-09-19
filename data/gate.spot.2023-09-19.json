@@ -10482,7 +10482,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -10494,7 +10494,7 @@
         "precision": 2,
         "quote": "TRY",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -10506,7 +10506,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -17144,6 +17144,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KNJ",
+        "buy_start": 1695628800,
+        "fee": "0.2",
+        "id": "KNJ_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
