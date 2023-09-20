@@ -789,7 +789,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "SHEPE_USDT",
-        "tick_size": "12"
+        "tick_size": "13"
     },
     {
         "base_asset_precision": "2",
@@ -931,7 +931,7 @@
         "base_currency": "MCADE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MCADE_USDT",
         "tick_size": "6"
     },
@@ -943,6 +943,15 @@
         "status": "online",
         "symbol": "VELA_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "APX",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "APX_USDT",
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "3",
