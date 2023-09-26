@@ -7762,13 +7762,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 1,
         "base": "CUDOS",
         "buy_start": 1614664800,
         "fee": "0.2",
         "id": "CUDOS_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -10471,30 +10471,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "ENJ3L",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "ENJ3L_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "ENJ3S",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "ENJ3S_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
