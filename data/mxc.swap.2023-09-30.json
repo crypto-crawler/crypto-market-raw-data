@@ -11365,7 +11365,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -11375,7 +11375,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 100,
         "maxNumOrders": [
             200,
             50
@@ -13169,7 +13169,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 3400000,
         "maintenanceMarginRate": 0.004,
@@ -16561,7 +16561,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 1100000,
         "maintenanceMarginRate": 0.004,
