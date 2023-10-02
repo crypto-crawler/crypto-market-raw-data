@@ -25728,6 +25728,70 @@
         ]
     },
     {
+        "base_currency": "BTC",
+        "block_trade_commission": 0.0003,
+        "block_trade_min_trade_amount": 25,
+        "block_trade_tick_size": 0.0001,
+        "contract_size": 1.0,
+        "counter_currency": "USD",
+        "creation_timestamp": 1696255200000,
+        "expiration_timestamp": 1727424000000,
+        "instrument_id": 270737,
+        "instrument_name": "BTC-27SEP24-120000-C",
+        "instrument_type": "reversed",
+        "is_active": true,
+        "kind": "option",
+        "maker_commission": 0.0003,
+        "min_trade_amount": 0.1,
+        "option_type": "call",
+        "price_index": "btc_usd",
+        "quote_currency": "BTC",
+        "rfq": false,
+        "settlement_currency": "BTC",
+        "settlement_period": "month",
+        "strike": 120000.0,
+        "taker_commission": 0.0003,
+        "tick_size": 0.0001,
+        "tick_size_steps": [
+            {
+                "above_price": 0.005,
+                "tick_size": 0.0005
+            }
+        ]
+    },
+    {
+        "base_currency": "BTC",
+        "block_trade_commission": 0.0003,
+        "block_trade_min_trade_amount": 25,
+        "block_trade_tick_size": 0.0001,
+        "contract_size": 1.0,
+        "counter_currency": "USD",
+        "creation_timestamp": 1696255200000,
+        "expiration_timestamp": 1727424000000,
+        "instrument_id": 270738,
+        "instrument_name": "BTC-27SEP24-120000-P",
+        "instrument_type": "reversed",
+        "is_active": true,
+        "kind": "option",
+        "maker_commission": 0.0003,
+        "min_trade_amount": 0.1,
+        "option_type": "put",
+        "price_index": "btc_usd",
+        "quote_currency": "BTC",
+        "rfq": false,
+        "settlement_currency": "BTC",
+        "settlement_period": "month",
+        "strike": 120000.0,
+        "taker_commission": 0.0003,
+        "tick_size": 0.0001,
+        "tick_size_steps": [
+            {
+                "above_price": 0.005,
+                "tick_size": 0.0005
+            }
+        ]
+    },
+    {
         "base_currency": "ETH",
         "block_trade_commission": 0.0003,
         "block_trade_min_trade_amount": 250,
@@ -27574,6 +27638,70 @@
         "settlement_currency": "ETH",
         "settlement_period": "day",
         "strike": 1950.0,
+        "taker_commission": 0.0003,
+        "tick_size": 0.0001,
+        "tick_size_steps": [
+            {
+                "above_price": 0.005,
+                "tick_size": 0.0005
+            }
+        ]
+    },
+    {
+        "base_currency": "ETH",
+        "block_trade_commission": 0.0003,
+        "block_trade_min_trade_amount": 250,
+        "block_trade_tick_size": 0.0001,
+        "contract_size": 1.0,
+        "counter_currency": "USD",
+        "creation_timestamp": 1696261620000,
+        "expiration_timestamp": 1696492800000,
+        "instrument_id": 270742,
+        "instrument_name": "ETH-5OCT23-1450-C",
+        "instrument_type": "reversed",
+        "is_active": true,
+        "kind": "option",
+        "maker_commission": 0.0003,
+        "min_trade_amount": 1,
+        "option_type": "call",
+        "price_index": "eth_usd",
+        "quote_currency": "ETH",
+        "rfq": false,
+        "settlement_currency": "ETH",
+        "settlement_period": "day",
+        "strike": 1450.0,
+        "taker_commission": 0.0003,
+        "tick_size": 0.0001,
+        "tick_size_steps": [
+            {
+                "above_price": 0.005,
+                "tick_size": 0.0005
+            }
+        ]
+    },
+    {
+        "base_currency": "ETH",
+        "block_trade_commission": 0.0003,
+        "block_trade_min_trade_amount": 250,
+        "block_trade_tick_size": 0.0001,
+        "contract_size": 1.0,
+        "counter_currency": "USD",
+        "creation_timestamp": 1696261620000,
+        "expiration_timestamp": 1696492800000,
+        "instrument_id": 270743,
+        "instrument_name": "ETH-5OCT23-1450-P",
+        "instrument_type": "reversed",
+        "is_active": true,
+        "kind": "option",
+        "maker_commission": 0.0003,
+        "min_trade_amount": 1,
+        "option_type": "put",
+        "price_index": "eth_usd",
+        "quote_currency": "ETH",
+        "rfq": false,
+        "settlement_currency": "ETH",
+        "settlement_period": "day",
+        "strike": 1450.0,
         "taker_commission": 0.0003,
         "tick_size": 0.0001,
         "tick_size_steps": [
