@@ -1540,7 +1540,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 230000,
         "maintenanceMarginRate": 0.004,
@@ -11029,7 +11029,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.004,
@@ -14811,8 +14811,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
