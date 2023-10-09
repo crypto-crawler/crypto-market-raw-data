@@ -5938,30 +5938,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "CARDS",
-        "buy_start": 1619085600,
-        "fee": "0.2",
-        "id": "CARDS_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 6,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "CARDS",
-        "buy_start": 1619085600,
-        "fee": "0.2",
-        "id": "CARDS_USDT",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 1,
         "base": "CARE",
         "buy_start": 1669802400,
@@ -26712,6 +26688,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "RAFT",
+        "buy_start": 1697025600,
+        "fee": "0.2",
+        "id": "RAFT_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "RAGE",
         "buy_start": 1618891200,
@@ -32063,7 +32051,7 @@
     {
         "amount_precision": 2,
         "base": "TED",
-        "buy_start": 1696935600,
+        "buy_start": 1696939200,
         "fee": "0.2",
         "id": "TED_USDT",
         "min_quote_amount": "1",
