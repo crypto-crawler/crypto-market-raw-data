@@ -4221,6 +4221,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BIGTIME",
+        "buy_start": 1697076000,
+        "fee": "0.2",
+        "id": "BIGTIME_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BIN",
         "buy_start": 1639108800,
@@ -14315,30 +14327,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "GXS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GXS_BTC",
-        "min_quote_amount": "0.00001",
-        "precision": 8,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "GXS",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "GXS_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "GZONE",
         "buy_start": 1635501600,
         "fee": "0.2",
@@ -15271,7 +15259,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
