@@ -976,6 +976,21 @@
     },
     {
         "business_type": "swap",
+        "contract_code": "LOOM-USDT",
+        "contract_size": 1,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20231013",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "LOOM-USDT",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "LOOM",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
         "contract_code": "TRB-USDT",
         "contract_size": 0.1,
         "contract_status": 1,
@@ -1127,7 +1142,7 @@
     {
         "business_type": "swap",
         "contract_code": "BIGTIME-USDT",
-        "contract_size": 1,
+        "contract_size": 1.0,
         "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20231013",
