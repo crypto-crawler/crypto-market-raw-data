@@ -1089,15 +1089,6 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "BBO",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "BBO_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "XOR",
         "quote_currency": "USDT",
@@ -1108,12 +1099,12 @@
     },
     {
         "base_asset_precision": "1",
-        "base_currency": "ZZ",
+        "base_currency": "BBO",
         "quote_currency": "USDT",
         "size_increment": "1",
         "status": "online",
-        "symbol": "ZZ_USDT",
-        "tick_size": "6"
+        "symbol": "BBO_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
@@ -1123,6 +1114,15 @@
         "status": "gray",
         "symbol": "JOY_USDT",
         "tick_size": "0"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "ZZ",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "ZZ_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "3",

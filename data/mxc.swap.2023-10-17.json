@@ -16987,9 +16987,7 @@
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202310101150335065QCOwUx9QJB3Z2.png",
         "baseCoinName": "STRAX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.001"
@@ -17005,7 +17003,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 12000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
@@ -17602,17 +17600,17 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
         "limitMaxVol": 8800,
-        "maintenanceMarginRate": 0.02,
+        "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -17627,8 +17625,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2200,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
         "riskIncrVol": 2200,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",

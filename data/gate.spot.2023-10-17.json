@@ -1485,7 +1485,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1595835300,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -13822,13 +13822,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "GOB",
         "buy_start": 1661940000,
         "fee": "0.2",
         "id": "GOB_USDT",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
@@ -23627,18 +23627,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "ONSTON",
-        "buy_start": 1645178400,
-        "fee": "0.2",
-        "id": "ONSTON_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "ONS",
         "buy_start": 1609401600,
@@ -32982,7 +32970,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -37291,6 +37279,18 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "ZELIX",
+        "buy_start": 1697608800,
+        "fee": "0.2",
+        "id": "ZELIX_USDT",
+        "min_quote_amount": "1",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
