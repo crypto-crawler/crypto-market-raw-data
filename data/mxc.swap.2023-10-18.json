@@ -13880,7 +13880,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": true,
@@ -13890,7 +13890,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -13904,11 +13904,11 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 9600,
+        "riskBaseVol": 48000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 9600,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 48000,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
