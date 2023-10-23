@@ -2978,7 +2978,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16538,
+        "threshold": 16715,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4108,7 +4108,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 18542,
+        "threshold": 18567,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6491,7 +6491,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 14820,
+        "threshold": 14900,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6680,7 +6680,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 17982,
+        "threshold": 20193,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8716,6 +8716,71 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "GAS",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231023194341376FNyAEzPXXQW4qf.png",
+        "baseCoinName": "GAS",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.001"
+        ],
+        "displayName": "GAS_USDT\u6c38\u7eed",
+        "displayNameEn": "GAS_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BINANCE",
+            "OKX",
+            "KUCOIN"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 5800,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 5800,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1160,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1160,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "GAS_USDT",
+        "takerFeeRate": 0.0001,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "GFT",
         "baseCoinIconUrl": "",
         "baseCoinName": "GFT",
@@ -10107,7 +10172,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 12984,
+        "threshold": 12904,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10709,7 +10774,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 271912,
+        "threshold": 268911,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13119,7 +13184,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 13601,
+        "threshold": 13969,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14757,7 +14822,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 13460,
+        "threshold": 13366,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -17003,7 +17068,7 @@
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
-        "marketOrderPriceLimitRate1": 0.3,
+        "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
         "maxLeverage": 125,
         "maxNumOrders": [
@@ -17563,7 +17628,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 82195,
+        "threshold": 80668,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18052,7 +18117,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -18062,7 +18127,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -19475,7 +19540,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 42531,
+        "threshold": 42692,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19933,7 +19998,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 48240,
+        "threshold": 56531,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -21017,9 +21082,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ZTX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
             "0.00001"
@@ -21035,7 +21098,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 5500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
