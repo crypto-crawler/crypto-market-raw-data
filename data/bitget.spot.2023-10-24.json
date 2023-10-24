@@ -1377,6 +1377,15 @@
         "tick_size": "3"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "NERD",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "NERD_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "GMD",
         "quote_currency": "USDT",
@@ -1384,6 +1393,15 @@
         "status": "online",
         "symbol": "GMD_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "OFN",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "OFN_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -3183,7 +3201,7 @@
         "size_increment": "1",
         "status": "online",
         "symbol": "INJ_USDT",
-        "tick_size": "3"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",

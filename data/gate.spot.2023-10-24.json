@@ -2123,6 +2123,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ARK",
+        "buy_start": 1698224400,
+        "fee": "0.2",
+        "id": "ARK_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ARPA3L",
         "buy_start": 1582704000,
@@ -17110,25 +17122,25 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 3,
         "base": "KLV",
         "buy_start": 1617343200,
         "fee": "0.2",
         "id": "KLV_ETH",
         "min_quote_amount": "0.001",
-        "precision": 8,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 1598932800,
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 2,
         "base": "KLV",
         "buy_start": 1617343200,
         "fee": "0.2",
         "id": "KLV_USDT",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1598932800,
         "trade_status": "tradable"
