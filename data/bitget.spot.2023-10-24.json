@@ -1350,6 +1350,15 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "PPT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "PPT_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "1",
         "base_currency": "VSTA",
         "quote_currency": "USDT",
@@ -1359,13 +1368,13 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "0",
-        "base_currency": "PPT",
+        "base_asset_precision": "2",
+        "base_currency": "NERD",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
-        "symbol": "PPT_USDT",
-        "tick_size": "0"
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "NERD_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -1378,11 +1387,11 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "NERD",
+        "base_currency": "OFN",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
-        "symbol": "NERD_USDT",
+        "status": "online",
+        "symbol": "OFN_USDT",
         "tick_size": "5"
     },
     {
@@ -1393,15 +1402,6 @@
         "status": "online",
         "symbol": "GMD_USDT",
         "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
-        "base_currency": "OFN",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "gray",
-        "symbol": "OFN_USDT",
-        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",

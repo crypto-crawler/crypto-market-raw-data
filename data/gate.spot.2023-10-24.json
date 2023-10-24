@@ -17195,6 +17195,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "KNFT",
+        "buy_start": 1698840000,
+        "fee": "0.2",
+        "id": "KNFT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "KNIGHT",
         "buy_start": 1632308400,
         "fee": "0.2",
@@ -22163,13 +22175,13 @@
         "trade_status": "untradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "NEON",
         "buy_start": 1689613200,
         "fee": "0.2",
         "id": "NEON_USDT",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -25686,7 +25698,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
