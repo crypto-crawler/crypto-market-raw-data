@@ -15850,6 +15850,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "INJ",
+        "buy_start": 1606276800,
+        "fee": "0.2",
+        "id": "INJ_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1606190400,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "INJ",
         "buy_start": 1606276800,
@@ -20551,6 +20563,18 @@
         "min_quote_amount": "0.00001",
         "precision": 8,
         "quote": "BTC",
+        "sell_start": 1581683700,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "MINA",
+        "buy_start": 1622511000,
+        "fee": "0.2",
+        "id": "MINA_TRY",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
         "sell_start": 1581683700,
         "trade_status": "tradable"
     },
@@ -25449,6 +25473,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "POLYX",
+        "buy_start": 1676437200,
+        "fee": "0.2",
+        "id": "POLYX_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "POLYX",
         "buy_start": 1676437200,
@@ -25710,7 +25746,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -32430,7 +32466,7 @@
         "precision": 4,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -32442,7 +32478,7 @@
         "precision": 2,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
