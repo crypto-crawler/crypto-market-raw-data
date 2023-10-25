@@ -858,7 +858,7 @@
         "business_type": "swap",
         "contract_code": "MINA-USDT",
         "contract_size": 1,
-        "contract_status": 4,
+        "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20231025",
         "delivery_date": "",
@@ -1137,6 +1137,21 @@
         "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "ARB",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "POLYX-USDT",
+        "contract_size": 1,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20231025",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "POLYX-USDT",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "POLYX",
         "trade_partition": "USDT"
     },
     {
