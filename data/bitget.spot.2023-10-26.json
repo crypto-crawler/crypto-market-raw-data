@@ -1927,15 +1927,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "INTER",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "INTER_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "SETF1001",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -1951,6 +1942,15 @@
         "status": "online",
         "symbol": "PIT_USDT",
         "tick_size": "13"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "INTER",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "INTER_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "2",
@@ -2893,7 +2893,7 @@
         "base_currency": "BEAM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BEAM_USDT",
         "tick_size": "6"
     },
