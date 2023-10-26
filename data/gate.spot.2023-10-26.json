@@ -9610,30 +9610,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "DOWS",
-        "buy_start": 1614736800,
-        "fee": "0.2",
-        "id": "DOWS_ETH",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "DOWS",
-        "buy_start": 1614736800,
-        "fee": "0.2",
-        "id": "DOWS_USDT",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "DPET",
         "buy_start": 1626328800,
         "fee": "0.2",
@@ -30547,6 +30523,18 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SPURS",
+        "buy_start": 1698314400,
+        "fee": "0.2",
+        "id": "SPURS_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1608782400,
         "trade_status": "tradable"
     },
     {

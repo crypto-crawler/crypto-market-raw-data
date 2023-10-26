@@ -2830,7 +2830,7 @@
         "base_currency": "LTC",
         "quote_currency": "EUR",
         "size_increment": "3",
-        "status": "gray",
+        "status": "online",
         "symbol": "LTC_EUR",
         "tick_size": "2"
     },
@@ -2839,7 +2839,7 @@
         "base_currency": "PEPE",
         "quote_currency": "EUR",
         "size_increment": "5",
-        "status": "gray",
+        "status": "online",
         "symbol": "PEPE_EUR",
         "tick_size": "9"
     },
@@ -2848,7 +2848,7 @@
         "base_currency": "PEPE",
         "quote_currency": "GBP",
         "size_increment": "4",
-        "status": "gray",
+        "status": "online",
         "symbol": "PEPE_GBP",
         "tick_size": "10"
     },
@@ -2857,7 +2857,7 @@
         "base_currency": "LTC",
         "quote_currency": "GBP",
         "size_increment": "3",
-        "status": "gray",
+        "status": "online",
         "symbol": "LTC_GBP",
         "tick_size": "2"
     },
@@ -2866,7 +2866,7 @@
         "base_currency": "MATIC",
         "quote_currency": "GBP",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "MATIC_GBP",
         "tick_size": "4"
     },
@@ -2875,7 +2875,7 @@
         "base_currency": "SPURS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SPURS_USDT",
         "tick_size": "4"
     },
@@ -2884,8 +2884,17 @@
         "base_currency": "JOECOIN",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "JOECOIN_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BEAM",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "BEAM_USDT",
         "tick_size": "6"
     },
     {
