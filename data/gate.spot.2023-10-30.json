@@ -889,6 +889,18 @@
     },
     {
         "amount_precision": 2,
+        "base": "AIS",
+        "buy_start": 1699347600,
+        "fee": "0.2",
+        "id": "AIS_USDT",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "AITECH",
         "buy_start": 1693220400,
         "fee": "0.2",
@@ -20228,30 +20240,6 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "MEME",
-        "buy_start": 1683604800,
-        "fee": "0.2",
-        "id": "MEME_BTC",
-        "min_quote_amount": "0.00001",
-        "precision": 8,
-        "quote": "BTC",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "MEME",
-        "buy_start": 1683604800,
-        "fee": "0.2",
-        "id": "MEME_USDT",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
         "trade_status": "tradable"
     },
     {

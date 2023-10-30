@@ -2916,13 +2916,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "5",
         "base_currency": "CYCON",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "5",
+        "status": "online",
         "symbol": "CYCON_USDT",
-        "tick_size": "0"
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "0",
@@ -3433,7 +3433,7 @@
         "base_currency": "MEME",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "online",
+        "status": "offline",
         "symbol": "MEME_USDT",
         "tick_size": "4"
     },
@@ -4750,6 +4750,15 @@
         "status": "online",
         "symbol": "SLP_USDT",
         "tick_size": "7"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "WAXP",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "WAXP_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "4",
