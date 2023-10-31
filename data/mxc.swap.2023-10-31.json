@@ -595,7 +595,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "1000STARL",
-        "baseCoinIconUrl": "",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231031182156948eXkrmGQV9XR0lw.png",
         "baseCoinName": "1000STARL",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
@@ -11541,7 +11541,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 1200000,
         "maintenanceMarginRate": 0.004,
@@ -14770,9 +14770,7 @@
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231024185442344cMPrDPbvJmHH5u.png",
         "baseCoinName": "POLYX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.0001"
@@ -14785,17 +14783,17 @@
             "GATEIO",
             "HUOBI"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 40000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -14809,11 +14807,11 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 8000,
+        "riskBaseVol": 40000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 8000,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 40000,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
@@ -14835,9 +14833,7 @@
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231024203808264p3c7wnyJREM3Pm.png",
         "baseCoinName": "POWR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -14854,7 +14850,7 @@
         "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 30000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -20558,7 +20554,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 2400000,
         "maintenanceMarginRate": 0.004,
