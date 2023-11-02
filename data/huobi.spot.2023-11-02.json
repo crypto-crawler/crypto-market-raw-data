@@ -20341,7 +20341,7 @@
         "state": "online",
         "symbol": "orbusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -26075,6 +26075,7 @@
         "api-trading": "enabled",
         "base-currency": "tia",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,

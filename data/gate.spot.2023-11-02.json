@@ -14950,6 +14950,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "HMTT",
+        "buy_start": 1699074000,
+        "fee": "0.2",
+        "id": "HMTT_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "HMT",
         "buy_start": 1628611200,
@@ -20324,7 +20336,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -21236,7 +21248,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -32755,6 +32767,18 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TOKEN",
+        "buy_start": 1699261200,
+        "fee": "0.2",
+        "id": "TOKEN_USDT",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
