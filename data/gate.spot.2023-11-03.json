@@ -21910,14 +21910,14 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
         "base": "MEMEBRC",
         "buy_start": 1698894000,
         "fee": "0.2",
         "id": "MEMEBRC_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 2,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -21930,7 +21930,7 @@
         "id": "MEME_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 6,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -22735,19 +22735,6 @@
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
         "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "MNY",
-        "buy_start": 1638000000,
-        "fee": "0.2",
-        "id": "MNY_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -23596,6 +23583,19 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NAKA",
+        "buy_start": 1699189200,
+        "fee": "0.2",
+        "id": "NAKA_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -40351,6 +40351,19 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "ZBU",
+        "buy_start": 1699520400,
+        "fee": "0.2",
+        "id": "ZBU_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
