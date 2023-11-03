@@ -241,6 +241,36 @@
     },
     {
         "alias": "",
+        "baseCcy": "FIL",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "FIL-USDT",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1606946433000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999.0000000000000000",
+        "maxLmtSz": "999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999.0000000000000000",
+        "maxTwapSz": "999999999999.0000000000000000",
+        "minSz": "0.01",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "SUSHI",
         "category": "1",
         "ctMult": "",
@@ -267,36 +297,6 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "UNI",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "UNI-USDT",
-        "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1600280910000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999.0000000000000000",
-        "maxLmtSz": "999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999.0000000000000000",
-        "maxTwapSz": "999999999999.0000000000000000",
-        "minSz": "0.1",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "alias": "",
-        "baseCcy": "FIL",
+        "baseCcy": "DOGE",
         "category": "1",
         "ctMult": "",
         "ctType": "",
@@ -369,10 +369,10 @@
         "ctValCcy": "",
         "expTime": "",
         "instFamily": "",
-        "instId": "FIL-USDT",
+        "instId": "DOGE-USDT",
         "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1606946433000",
+        "lever": "10",
+        "listTime": "1548133413000",
         "lotSz": "0.000001",
         "maxIcebergSz": "999999999999.0000000000000000",
         "maxLmtSz": "999999999999",
@@ -380,13 +380,13 @@
         "maxStopSz": "1000000",
         "maxTriggerSz": "999999999999.0000000000000000",
         "maxTwapSz": "999999999999.0000000000000000",
-        "minSz": "0.01",
+        "minSz": "10",
         "optType": "",
         "quoteCcy": "USDT",
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -476,7 +476,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -836,7 +836,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -1016,7 +1016,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -1046,7 +1046,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -1196,7 +1196,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -1316,7 +1316,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -1586,7 +1586,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -1676,7 +1676,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -2576,7 +2576,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -2726,7 +2726,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -2791,36 +2791,6 @@
     },
     {
         "alias": "",
-        "baseCcy": "DOGE",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "DOGE-USDT",
-        "instType": "SPOT",
-        "lever": "10",
-        "listTime": "1548133413000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999.0000000000000000",
-        "maxLmtSz": "999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999.0000000000000000",
-        "maxTwapSz": "999999999999.0000000000000000",
-        "minSz": "10",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.00001",
-        "uly": ""
-    },
-    {
-        "alias": "",
         "baseCcy": "DOME",
         "category": "1",
         "ctMult": "",
@@ -2846,7 +2816,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -3326,7 +3296,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -3746,7 +3716,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -3866,7 +3836,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -4106,7 +4076,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -4136,7 +4106,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -4196,7 +4166,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -4706,7 +4676,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -4736,7 +4706,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -4826,7 +4796,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -4976,7 +4946,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -5006,7 +4976,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -5126,7 +5096,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -5156,7 +5126,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00000001",
+        "tickSz": "0.0000001",
         "uly": ""
     },
     {
@@ -5276,7 +5246,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -5666,7 +5636,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -5876,7 +5846,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -6266,7 +6236,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -6536,7 +6506,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -6566,7 +6536,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -6686,7 +6656,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -7256,7 +7226,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -7406,7 +7376,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -7856,7 +7826,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -8186,7 +8156,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -8246,7 +8216,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -8276,7 +8246,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -8426,7 +8396,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00000001",
+        "tickSz": "0.0000001",
         "uly": ""
     },
     {
@@ -8443,6 +8413,36 @@
         "instType": "SPOT",
         "lever": "5",
         "listTime": "1598828400000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999.0000000000000000",
+        "maxLmtSz": "999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999.0000000000000000",
+        "maxTwapSz": "999999999999.0000000000000000",
+        "minSz": "0.1",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
+        "uly": ""
+    },
+    {
+        "alias": "",
+        "baseCcy": "UNI",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "UNI-USDT",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1600280910000",
         "lotSz": "0.000001",
         "maxIcebergSz": "999999999999.0000000000000000",
         "maxLmtSz": "999999999999",
@@ -8936,7 +8936,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -9206,7 +9206,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -9326,7 +9326,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": ""
     },
     {
@@ -9356,7 +9356,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -9596,7 +9596,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -9841,6 +9841,36 @@
     },
     {
         "alias": "",
+        "baseCcy": "FIL",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "FIL-USDC",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1653286331000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999.0000000000000000",
+        "maxLmtSz": "999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999.0000000000000000",
+        "maxTwapSz": "999999999999.0000000000000000",
+        "minSz": "0.01",
+        "optType": "",
+        "quoteCcy": "USDC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "SUSHI",
         "category": "1",
         "ctMult": "",
@@ -9871,7 +9901,7 @@
     },
     {
         "alias": "",
-        "baseCcy": "UNI",
+        "baseCcy": "DOGE",
         "category": "1",
         "ctMult": "",
         "ctType": "",
@@ -9879,54 +9909,24 @@
         "ctValCcy": "",
         "expTime": "",
         "instFamily": "",
-        "instId": "UNI-USDC",
+        "instId": "DOGE-USDC",
         "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1653975320000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999.0000000000000000",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999.0000000000000000",
-        "maxTwapSz": "99999999999999.0000000000000000",
-        "minSz": "0.1",
-        "optType": "",
-        "quoteCcy": "USDC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "FIL",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "FIL-USDC",
-        "instType": "SPOT",
-        "lever": "",
+        "lever": "10",
         "listTime": "1653286331000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999.0000000000000000",
-        "maxLmtSz": "999999999999",
+        "lotSz": "0.01",
+        "maxIcebergSz": "9999999999999999.0000000000000000",
+        "maxLmtSz": "9999999999999999",
         "maxMktSz": "1000000",
         "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999.0000000000000000",
-        "maxTwapSz": "999999999999.0000000000000000",
-        "minSz": "0.01",
+        "maxTriggerSz": "9999999999999999.0000000000000000",
+        "maxTwapSz": "9999999999999999.0000000000000000",
+        "minSz": "10",
         "optType": "",
         "quoteCcy": "USDC",
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.00001",
         "uly": ""
     },
     {
@@ -10226,7 +10226,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -10681,36 +10681,6 @@
     },
     {
         "alias": "",
-        "baseCcy": "DOGE",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "DOGE-USDC",
-        "instType": "SPOT",
-        "lever": "10",
-        "listTime": "1653286331000",
-        "lotSz": "0.01",
-        "maxIcebergSz": "9999999999999999.0000000000000000",
-        "maxLmtSz": "9999999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "9999999999999999.0000000000000000",
-        "maxTwapSz": "9999999999999999.0000000000000000",
-        "minSz": "10",
-        "optType": "",
-        "quoteCcy": "USDC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.00001",
-        "uly": ""
-    },
-    {
-        "alias": "",
         "baseCcy": "DOT",
         "category": "1",
         "ctMult": "",
@@ -11156,7 +11126,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": ""
     },
     {
@@ -11366,7 +11336,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -11786,7 +11756,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -12056,7 +12026,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -12117,6 +12087,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.00001",
+        "uly": ""
+    },
+    {
+        "alias": "",
+        "baseCcy": "UNI",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "UNI-USDC",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1653975320000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999.0000000000000000",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999.0000000000000000",
+        "maxTwapSz": "99999999999999.0000000000000000",
+        "minSz": "0.1",
+        "optType": "",
+        "quoteCcy": "USDC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -12266,7 +12266,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": ""
     },
     {
@@ -12661,36 +12661,6 @@
     },
     {
         "alias": "",
-        "baseCcy": "UNI",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "UNI-BTC",
-        "instType": "SPOT",
-        "lever": "3",
-        "listTime": "1600284608000",
-        "lotSz": "0.00001",
-        "maxIcebergSz": "9999999999999.0000000000000000",
-        "maxLmtSz": "9999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "9999999999999.0000000000000000",
-        "maxTwapSz": "9999999999999.0000000000000000",
-        "minSz": "0.1",
-        "optType": "",
-        "quoteCcy": "BTC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.0000001",
-        "uly": ""
-    },
-    {
-        "alias": "",
         "baseCcy": "FIL",
         "category": "1",
         "ctMult": "",
@@ -12717,6 +12687,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0000001",
+        "uly": ""
+    },
+    {
+        "alias": "",
+        "baseCcy": "DOGE",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "DOGE-BTC",
+        "instType": "SPOT",
+        "lever": "5",
+        "listTime": "1618901953000",
+        "lotSz": "0.001",
+        "maxIcebergSz": "999999999999999.0000000000000000",
+        "maxLmtSz": "999999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999999.0000000000000000",
+        "maxTwapSz": "999999999999999.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "BTC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.000000001",
         "uly": ""
     },
     {
@@ -13047,36 +13047,6 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.000001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "DOGE",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "DOGE-BTC",
-        "instType": "SPOT",
-        "lever": "5",
-        "listTime": "1618901953000",
-        "lotSz": "0.001",
-        "maxIcebergSz": "999999999999999.0000000000000000",
-        "maxLmtSz": "999999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999999.0000000000000000",
-        "maxTwapSz": "999999999999999.0000000000000000",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "BTC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.000000001",
         "uly": ""
     },
     {
@@ -13591,6 +13561,36 @@
     },
     {
         "alias": "",
+        "baseCcy": "UNI",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "UNI-BTC",
+        "instType": "SPOT",
+        "lever": "3",
+        "listTime": "1600284608000",
+        "lotSz": "0.00001",
+        "maxIcebergSz": "9999999999999.0000000000000000",
+        "maxLmtSz": "9999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "9999999999999.0000000000000000",
+        "maxTwapSz": "9999999999999.0000000000000000",
+        "minSz": "0.1",
+        "optType": "",
+        "quoteCcy": "BTC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0000001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "WBTC",
         "category": "1",
         "ctMult": "",
@@ -13921,6 +13921,36 @@
     },
     {
         "alias": "",
+        "baseCcy": "DOGE",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "DOGE-ETH",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1618901960000",
+        "lotSz": "0.0001",
+        "maxIcebergSz": "99999999999999.0000000000000000",
+        "maxLmtSz": "99999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "99999999999999.0000000000000000",
+        "maxTwapSz": "99999999999999.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "ETH",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.00000001",
+        "uly": ""
+    },
+    {
+        "alias": "",
         "baseCcy": "AAVE",
         "category": "1",
         "ctMult": "",
@@ -14037,36 +14067,6 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.0001",
-        "uly": ""
-    },
-    {
-        "alias": "",
-        "baseCcy": "DOGE",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "",
-        "instId": "DOGE-ETH",
-        "instType": "SPOT",
-        "lever": "",
-        "listTime": "1618901960000",
-        "lotSz": "0.0001",
-        "maxIcebergSz": "99999999999999.0000000000000000",
-        "maxLmtSz": "99999999999999",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "99999999999999.0000000000000000",
-        "maxTwapSz": "99999999999999.0000000000000000",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "ETH",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.00000001",
         "uly": ""
     },
     {
@@ -14397,6 +14397,36 @@
         "state": "live",
         "stk": "",
         "tickSz": "0.01",
+        "uly": ""
+    },
+    {
+        "alias": "",
+        "baseCcy": "MEME",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "",
+        "instId": "MEME-USDT",
+        "instType": "SPOT",
+        "lever": "",
+        "listTime": "1698995084000",
+        "lotSz": "0.1",
+        "maxIcebergSz": "",
+        "maxLmtSz": "9999999999999999",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "",
+        "maxTwapSz": "",
+        "minSz": "1000",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "preopen",
+        "stk": "",
+        "tickSz": "0.000001",
         "uly": ""
     }
 ]
