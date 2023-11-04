@@ -2312,6 +2312,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "ARK",
+        "buy_start": 1698224400,
+        "fee": "0.2",
+        "id": "ARK_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "ARK",
         "buy_start": 1698224400,
@@ -2319,7 +2331,7 @@
         "id": "ARK_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 5,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -16155,7 +16167,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21923,6 +21935,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "MEME",
+        "buy_start": 1698998400,
+        "fee": "0.2",
+        "id": "MEME_TRY",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 1,
         "base": "MEME",
         "buy_start": 1698998400,
@@ -23949,7 +23973,19 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
+        "base": "NEAR",
+        "buy_start": 1602655200,
+        "fee": "0.2",
+        "id": "NEAR_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1602561600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
         "base": "NEAR",
         "buy_start": 1602655200,
         "fee": "0.2",
@@ -30468,20 +30504,32 @@
         "id": "RUNE_ETH",
         "max_quote_amount": "1000",
         "min_quote_amount": "0.001",
-        "precision": 7,
+        "precision": 6,
         "quote": "ETH",
         "sell_start": 1576576800,
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
+        "base": "RUNE",
+        "buy_start": 1608199200,
+        "fee": "0.2",
+        "id": "RUNE_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1576576800,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
         "base": "RUNE",
         "buy_start": 1608199200,
         "fee": "0.2",
         "id": "RUNE_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1576576800,
         "trade_status": "tradable"
@@ -30524,19 +30572,6 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "SAFEMOON",
-        "buy_start": 1619154000,
-        "fee": "0.2",
-        "id": "SAFEMOON_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 10,
-        "quote": "USDT",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -34214,6 +34249,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "SUSHI",
+        "buy_start": 1598767200,
+        "fee": "0.2",
+        "id": "SUSHI_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1597379400,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "SUSHI",
         "buy_start": 1598767200,
@@ -37416,14 +37463,26 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
+        "base": "VMPX",
+        "buy_start": 1683601200,
+        "fee": "0.2",
+        "id": "VMPX_TRY",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
         "base": "VMPX",
         "buy_start": 1683601200,
         "fee": "0.2",
         "id": "VMPX_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
