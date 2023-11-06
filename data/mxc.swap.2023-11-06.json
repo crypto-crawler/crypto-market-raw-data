@@ -548,7 +548,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -558,7 +558,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -2981,7 +2981,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 22132,
+        "threshold": 23016,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4111,7 +4111,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 17278,
+        "threshold": 17229,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4609,7 +4609,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.004,
@@ -6494,7 +6494,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16428,
+        "threshold": 16589,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6683,7 +6683,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 22552,
+        "threshold": 23215,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10173,7 +10173,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 13185,
+        "threshold": 13225,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10775,7 +10775,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 337144,
+        "threshold": 361103,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13252,7 +13252,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 15510,
+        "threshold": 16884,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -17956,7 +17956,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 98784,
+        "threshold": 97954,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18580,7 +18580,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -18590,7 +18590,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -19940,7 +19940,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 59898,
+        "threshold": 60300,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20398,7 +20398,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 40116,
+        "threshold": 20947,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20762,7 +20762,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 2400000,
         "maintenanceMarginRate": 0.004,
