@@ -9608,7 +9608,6 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "OKX",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -14138,17 +14137,17 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 600000,
-        "maintenanceMarginRate": 0.02,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -14163,8 +14162,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 600000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 600000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -18440,9 +18439,7 @@
         "displayNameEn": "TOMO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
-            "GATEIO",
-            "MEXC"
+            "BINANCE"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
