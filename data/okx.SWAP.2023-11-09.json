@@ -232,6 +232,38 @@
         "ctVal": "10",
         "ctValCcy": "USD",
         "expTime": "",
+        "instFamily": "FIL-USD",
+        "instId": "FIL-USD-SWAP",
+        "instType": "SWAP",
+        "lever": "50",
+        "listTime": "1611916828000",
+        "lotSz": "1",
+        "maxIcebergSz": "100000000.0000000000000000",
+        "maxLmtAmt": "",
+        "maxLmtSz": "100000000",
+        "maxMktAmt": "",
+        "maxMktSz": "15000",
+        "maxStopSz": "15000",
+        "maxTriggerSz": "100000000.0000000000000000",
+        "maxTwapSz": "100000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "FIL",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
+        "uly": "FIL-USD"
+    },
+    {
+        "alias": "",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "inverse",
+        "ctVal": "10",
+        "ctValCcy": "USD",
+        "expTime": "",
         "instFamily": "1INCH-USD",
         "instId": "1INCH-USD-SWAP",
         "instType": "SWAP",
@@ -316,7 +348,7 @@
         "settleCcy": "ALGO",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "ALGO-USD"
     },
     {
@@ -574,38 +606,6 @@
         "stk": "",
         "tickSz": "0.001",
         "uly": "ETC-USD"
-    },
-    {
-        "alias": "",
-        "baseCcy": "",
-        "category": "1",
-        "ctMult": "1",
-        "ctType": "inverse",
-        "ctVal": "10",
-        "ctValCcy": "USD",
-        "expTime": "",
-        "instFamily": "FIL-USD",
-        "instId": "FIL-USD-SWAP",
-        "instType": "SWAP",
-        "lever": "50",
-        "listTime": "1611916828000",
-        "lotSz": "1",
-        "maxIcebergSz": "100000000.0000000000000000",
-        "maxLmtAmt": "",
-        "maxLmtSz": "100000000",
-        "maxMktAmt": "",
-        "maxMktSz": "15000",
-        "maxStopSz": "15000",
-        "maxTriggerSz": "100000000.0000000000000000",
-        "maxTwapSz": "100000000.0000000000000000",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "",
-        "settleCcy": "FIL",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
-        "uly": "FIL-USD"
     },
     {
         "alias": "",
@@ -956,7 +956,7 @@
         "settleCcy": "XLM",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "XLM-USD"
     },
     {
@@ -988,7 +988,7 @@
         "settleCcy": "XMR",
         "state": "live",
         "stk": "",
-        "tickSz": "0.01",
+        "tickSz": "0.1",
         "uly": "XMR-USD"
     },
     {
@@ -1308,7 +1308,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "CORE-USDT"
     },
     {
@@ -1349,11 +1349,11 @@
         "category": "1",
         "ctMult": "1",
         "ctType": "linear",
-        "ctVal": "10",
-        "ctValCcy": "STORJ",
+        "ctVal": "0.1",
+        "ctValCcy": "FIL",
         "expTime": "",
-        "instFamily": "STORJ-USDT",
-        "instId": "STORJ-USDT-SWAP",
+        "instFamily": "FIL-USDT",
+        "instId": "FIL-USDT-SWAP",
         "instType": "SWAP",
         "lever": "50",
         "listTime": "1611916828000",
@@ -1362,8 +1362,8 @@
         "maxLmtAmt": "",
         "maxLmtSz": "100000000",
         "maxMktAmt": "",
-        "maxMktSz": "9000",
-        "maxStopSz": "9000",
+        "maxMktSz": "600000",
+        "maxStopSz": "600000",
         "maxTriggerSz": "100000000.0000000000000000",
         "maxTwapSz": "100000000.0000000000000000",
         "minSz": "1",
@@ -1372,8 +1372,8 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
-        "uly": "STORJ-USDT"
+        "tickSz": "0.001",
+        "uly": "FIL-USDT"
     },
     {
         "alias": "",
@@ -1404,7 +1404,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": "MEME-USDT"
     },
     {
@@ -1532,7 +1532,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "AGLD-USDT"
     },
     {
@@ -1596,7 +1596,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "ALGO-USDT"
     },
     {
@@ -1628,7 +1628,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "ALPHA-USDT"
     },
     {
@@ -2108,7 +2108,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "BIGTIME-USDT"
     },
     {
@@ -2821,38 +2821,6 @@
         "category": "1",
         "ctMult": "1",
         "ctType": "linear",
-        "ctVal": "0.1",
-        "ctValCcy": "FIL",
-        "expTime": "",
-        "instFamily": "FIL-USDT",
-        "instId": "FIL-USDT-SWAP",
-        "instType": "SWAP",
-        "lever": "50",
-        "listTime": "1611916828000",
-        "lotSz": "1",
-        "maxIcebergSz": "100000000.0000000000000000",
-        "maxLmtAmt": "",
-        "maxLmtSz": "100000000",
-        "maxMktAmt": "",
-        "maxMktSz": "600000",
-        "maxStopSz": "600000",
-        "maxTriggerSz": "100000000.0000000000000000",
-        "maxTwapSz": "100000000.0000000000000000",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "",
-        "settleCcy": "USDT",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.001",
-        "uly": "FIL-USDT"
-    },
-    {
-        "alias": "",
-        "baseCcy": "",
-        "category": "1",
-        "ctMult": "1",
-        "ctType": "linear",
         "ctVal": "10",
         "ctValCcy": "FITFI",
         "expTime": "",
@@ -2908,7 +2876,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "FLM-USDT"
     },
     {
@@ -3612,7 +3580,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "LDO-USDT"
     },
     {
@@ -3676,7 +3644,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "LOOKS-USDT"
     },
     {
@@ -4028,7 +3996,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "NEAR-USDT"
     },
     {
@@ -4710,6 +4678,38 @@
         "ctMult": "1",
         "ctType": "linear",
         "ctVal": "10",
+        "ctValCcy": "STORJ",
+        "expTime": "",
+        "instFamily": "STORJ-USDT",
+        "instId": "STORJ-USDT-SWAP",
+        "instType": "SWAP",
+        "lever": "50",
+        "listTime": "1611916828000",
+        "lotSz": "1",
+        "maxIcebergSz": "100000000.0000000000000000",
+        "maxLmtAmt": "",
+        "maxLmtSz": "100000000",
+        "maxMktAmt": "",
+        "maxMktSz": "9000",
+        "maxStopSz": "9000",
+        "maxTriggerSz": "100000000.0000000000000000",
+        "maxTwapSz": "100000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "USDT",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0001",
+        "uly": "STORJ-USDT"
+    },
+    {
+        "alias": "",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "linear",
+        "ctVal": "10",
         "ctValCcy": "STX",
         "expTime": "",
         "instFamily": "STX-USDT",
@@ -5212,7 +5212,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "WAXP-USDT"
     },
     {
@@ -5372,7 +5372,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "XLM-USDT"
     },
     {
@@ -5404,7 +5404,7 @@
         "settleCcy": "USDT",
         "state": "live",
         "stk": "",
-        "tickSz": "0.01",
+        "tickSz": "0.1",
         "uly": "XMR-USDT"
     },
     {
