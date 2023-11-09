@@ -7409,6 +7409,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "CLORE",
+        "buy_start": 1699606800,
+        "fee": "0.2",
+        "id": "CLORE_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "CLO",
         "buy_start": 1668160800,
@@ -11324,6 +11337,19 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EML",
+        "buy_start": 1700128800,
+        "fee": "0.2",
+        "id": "EML_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -17939,6 +17965,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "JPG",
+        "buy_start": 1699884000,
+        "fee": "0.2",
+        "id": "JPG_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -34577,7 +34616,7 @@
         "id": "SXP_ETH",
         "max_quote_amount": "1000",
         "min_quote_amount": "0.001",
-        "precision": 6,
+        "precision": 7,
         "quote": "ETH",
         "sell_start": 1597636800,
         "trade_status": "tradable"
@@ -40484,7 +40523,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
