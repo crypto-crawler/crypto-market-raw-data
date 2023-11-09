@@ -30921,6 +30921,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "SATS",
+        "buy_start": 1699502400,
+        "fee": "0.2",
+        "id": "SATS_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "SAUBER",
         "buy_start": 1661508000,
@@ -33934,7 +33947,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -33947,7 +33960,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
