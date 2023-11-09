@@ -63,15 +63,6 @@
         "tick_size": "2"
     },
     {
-        "base_asset_precision": "4",
-        "base_currency": "DOGE",
-        "quote_currency": "USDT",
-        "size_increment": "4",
-        "status": "online",
-        "symbol": "DOGE_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "BMTC",
         "quote_currency": "USDT",
@@ -82,11 +73,11 @@
     },
     {
         "base_asset_precision": "4",
-        "base_currency": "CHZ",
+        "base_currency": "DOGE",
         "quote_currency": "USDT",
         "size_increment": "4",
         "status": "online",
-        "symbol": "CHZ_USDT",
+        "symbol": "DOGE_USDT",
         "tick_size": "6"
     },
     {
@@ -97,6 +88,15 @@
         "status": "online",
         "symbol": "SHIB2_USDT",
         "tick_size": "14"
+    },
+    {
+        "base_asset_precision": "4",
+        "base_currency": "CHZ",
+        "quote_currency": "USDT",
+        "size_increment": "4",
+        "status": "online",
+        "symbol": "CHZ_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "0",
