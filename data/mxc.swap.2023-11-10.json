@@ -2981,7 +2981,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 24586,
+        "threshold": 24166,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4111,7 +4111,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16857,
+        "threshold": 16733,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6494,7 +6494,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 19162,
+        "threshold": 18626,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6683,7 +6683,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 28374,
+        "threshold": 31764,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8468,7 +8468,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 2000000,
         "maintenanceMarginRate": 0.004,
@@ -8717,12 +8717,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.6,
         "automaticDelivery": 0,
         "baseCoin": "GAS",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231023194341376FNyAEzPXXQW4qf.png",
         "baseCoinName": "GAS",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.6,
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
@@ -10172,7 +10172,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 13547,
+        "threshold": 13386,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10774,7 +10774,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 78172,
+        "threshold": 71588,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13249,7 +13249,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 25761,
+        "threshold": 23014,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15015,7 +15015,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 14304,
+        "threshold": 14023,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18016,7 +18016,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 114141,
+        "threshold": 112050,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18357,9 +18357,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "TOKEN",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
             "0.00001"
@@ -18375,7 +18373,7 @@
         "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 32000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -19998,7 +19996,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 63516,
+        "threshold": 68822,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20456,7 +20454,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 33054,
+        "threshold": 32618,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20820,7 +20818,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 14500000,
         "maintenanceMarginRate": 0.004,
