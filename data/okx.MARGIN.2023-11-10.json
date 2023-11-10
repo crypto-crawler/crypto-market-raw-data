@@ -156,7 +156,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "XRP-USDT"
     },
     {
@@ -188,7 +188,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.01",
+        "tickSz": "0.1",
         "uly": "BCH-USDT"
     },
     {
@@ -220,7 +220,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.01",
         "uly": "SOL-USDT"
     },
     {
@@ -289,18 +289,18 @@
     },
     {
         "alias": "",
-        "baseCcy": "FIL",
+        "baseCcy": "TRB",
         "category": "1",
         "ctMult": "",
         "ctType": "",
         "ctVal": "",
         "ctValCcy": "",
         "expTime": "",
-        "instFamily": "FIL-USDT",
-        "instId": "FIL-USDT",
+        "instFamily": "TRB-USDT",
+        "instId": "TRB-USDT",
         "instType": "MARGIN",
         "lever": "5",
-        "listTime": "1606946433000",
+        "listTime": "1598569262000",
         "lotSz": "0.000001",
         "maxIcebergSz": "999999999999.0000000000000000",
         "maxLmtAmt": "20000000",
@@ -316,8 +316,8 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
-        "uly": "FIL-USDT"
+        "tickSz": "0.01",
+        "uly": "TRB-USDT"
     },
     {
         "alias": "",
@@ -476,7 +476,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "ADA-USDT"
     },
     {
@@ -636,7 +636,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "APE-USDT"
     },
     {
@@ -1148,7 +1148,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.01",
+        "tickSz": "0.1",
         "uly": "BNB-USDT"
     },
     {
@@ -1372,7 +1372,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "CFX-USDT"
     },
     {
@@ -1852,7 +1852,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.01",
         "uly": "ETC-USDT"
     },
     {
@@ -1886,6 +1886,38 @@
         "stk": "",
         "tickSz": "0.001",
         "uly": "ETHW-USDT"
+    },
+    {
+        "alias": "",
+        "baseCcy": "FIL",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "FIL-USDT",
+        "instId": "FIL-USDT",
+        "instType": "MARGIN",
+        "lever": "5",
+        "listTime": "1606946433000",
+        "lotSz": "0.000001",
+        "maxIcebergSz": "999999999999.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "999999999999",
+        "maxMktAmt": "1000000",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "999999999999.0000000000000000",
+        "maxTwapSz": "999999999999.0000000000000000",
+        "minSz": "0.01",
+        "optType": "",
+        "quoteCcy": "USDT",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.001",
+        "uly": "FIL-USDT"
     },
     {
         "alias": "",
@@ -3260,7 +3292,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "OP-USDT"
     },
     {
@@ -3324,7 +3356,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.000001",
+        "tickSz": "0.00001",
         "uly": "PEOPLE-USDT"
     },
     {
@@ -3356,7 +3388,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000000001",
+        "tickSz": "0.000000001",
         "uly": "PEPE-USDT"
     },
     {
@@ -3804,7 +3836,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000000001",
+        "tickSz": "0.000000001",
         "uly": "STARL-USDT"
     },
     {
@@ -3964,7 +3996,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0000001",
+        "tickSz": "0.000001",
         "uly": "SWEAT-USDT"
     },
     {
@@ -4060,40 +4092,8 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
-        "uly": "TON-USDT"
-    },
-    {
-        "alias": "",
-        "baseCcy": "TRB",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "TRB-USDT",
-        "instId": "TRB-USDT",
-        "instType": "MARGIN",
-        "lever": "5",
-        "listTime": "1598569262000",
-        "lotSz": "0.000001",
-        "maxIcebergSz": "999999999999.0000000000000000",
-        "maxLmtAmt": "20000000",
-        "maxLmtSz": "999999999999",
-        "maxMktAmt": "1000000",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "999999999999.0000000000000000",
-        "maxTwapSz": "999999999999.0000000000000000",
-        "minSz": "0.01",
-        "optType": "",
-        "quoteCcy": "USDT",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
         "tickSz": "0.001",
-        "uly": "TRB-USDT"
+        "uly": "TON-USDT"
     },
     {
         "alias": "",
@@ -4380,7 +4380,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "WLD-USDT"
     },
     {
@@ -4924,7 +4924,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "XRP-USDC"
     },
     {
@@ -4956,7 +4956,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.01",
+        "tickSz": "0.1",
         "uly": "BCH-USDC"
     },
     {
@@ -4988,7 +4988,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.01",
         "uly": "SOL-USDC"
     },
     {
@@ -5052,7 +5052,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.00001",
+        "tickSz": "0.0001",
         "uly": "ADA-USDC"
     },
     {
@@ -5116,7 +5116,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "APE-USDC"
     },
     {
@@ -5340,7 +5340,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.001",
+        "tickSz": "0.01",
         "uly": "ETC-USDC"
     },
     {
@@ -5564,7 +5564,7 @@
         "settleCcy": "",
         "state": "live",
         "stk": "",
-        "tickSz": "0.0001",
+        "tickSz": "0.001",
         "uly": "OP-USDC"
     },
     {
@@ -5918,38 +5918,6 @@
         "stk": "",
         "tickSz": "0.0000001",
         "uly": "SOL-BTC"
-    },
-    {
-        "alias": "",
-        "baseCcy": "FIL",
-        "category": "1",
-        "ctMult": "",
-        "ctType": "",
-        "ctVal": "",
-        "ctValCcy": "",
-        "expTime": "",
-        "instFamily": "FIL-BTC",
-        "instId": "FIL-BTC",
-        "instType": "MARGIN",
-        "lever": "5",
-        "listTime": "1606950000000",
-        "lotSz": "1",
-        "maxIcebergSz": "9999999999999999.0000000000000000",
-        "maxLmtAmt": "20000000",
-        "maxLmtSz": "9999999999999999",
-        "maxMktAmt": "1000000",
-        "maxMktSz": "1000000",
-        "maxStopSz": "1000000",
-        "maxTriggerSz": "9999999999999999.0000000000000000",
-        "maxTwapSz": "9999999999999999.0000000000000000",
-        "minSz": "1",
-        "optType": "",
-        "quoteCcy": "BTC",
-        "settleCcy": "",
-        "state": "live",
-        "stk": "",
-        "tickSz": "0.0000001",
-        "uly": "FIL-BTC"
     },
     {
         "alias": "",
@@ -6366,6 +6334,38 @@
         "stk": "",
         "tickSz": "0.0000001",
         "uly": "ETC-BTC"
+    },
+    {
+        "alias": "",
+        "baseCcy": "FIL",
+        "category": "1",
+        "ctMult": "",
+        "ctType": "",
+        "ctVal": "",
+        "ctValCcy": "",
+        "expTime": "",
+        "instFamily": "FIL-BTC",
+        "instId": "FIL-BTC",
+        "instType": "MARGIN",
+        "lever": "5",
+        "listTime": "1606950000000",
+        "lotSz": "1",
+        "maxIcebergSz": "9999999999999999.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "9999999999999999",
+        "maxMktAmt": "1000000",
+        "maxMktSz": "1000000",
+        "maxStopSz": "1000000",
+        "maxTriggerSz": "9999999999999999.0000000000000000",
+        "maxTwapSz": "9999999999999999.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "BTC",
+        "settleCcy": "",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0000001",
+        "uly": "FIL-BTC"
     },
     {
         "alias": "",

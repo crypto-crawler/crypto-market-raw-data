@@ -8736,7 +8736,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0666,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -8746,7 +8746,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 15,
         "maxNumOrders": [
             200,
             50
@@ -14141,7 +14141,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 600000,
+        "limitMaxVol": 350000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -14152,7 +14152,7 @@
             200,
             50
         ],
-        "maxVol": 600000,
+        "maxVol": 350000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -14161,10 +14161,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 600000,
+        "riskBaseVol": 350000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 600000,
+        "riskIncrVol": 350000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -14514,9 +14514,9 @@
         ],
         "contractSize": 10000000,
         "depthStepList": [
-            "0.0000000001",
             "0.000000001",
-            "0.00000001"
+            "0.00000001",
+            "0.0000001"
         ],
         "displayName": "PEPE_USDT\u6c38\u7eed",
         "displayNameEn": "PEPE_USDT PERPETUAL",
@@ -14549,8 +14549,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 10,
-        "priceUnit": 1e-10,
+        "priceScale": 9,
+        "priceUnit": 1e-09,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 24000,
