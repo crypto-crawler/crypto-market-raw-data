@@ -1566,15 +1566,6 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "CMP",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "CMP_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "PRIME1",
         "quote_currency": "USDT",
@@ -1582,6 +1573,15 @@
         "status": "online",
         "symbol": "PRIME1_USDT",
         "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "CMP",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "CMP_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "1",
@@ -3082,7 +3082,7 @@
         "base_currency": "CHAPZ",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "CHAPZ_USDT",
         "tick_size": "6"
     },
@@ -3091,7 +3091,7 @@
         "base_currency": "NAKA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NAKA_USDT",
         "tick_size": "4"
     },
@@ -3100,7 +3100,7 @@
         "base_currency": "VV",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "VV_USDT",
         "tick_size": "6"
     },
@@ -3109,7 +3109,7 @@
         "base_currency": "SUNDAE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SUNDAE_USDT",
         "tick_size": "4"
     },
@@ -3118,7 +3118,7 @@
         "base_currency": "SEX",
         "quote_currency": "USDT",
         "size_increment": "8",
-        "status": "gray",
+        "status": "online",
         "symbol": "SEX_USDT",
         "tick_size": "2"
     },
