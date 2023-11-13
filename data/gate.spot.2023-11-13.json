@@ -2815,6 +2815,19 @@
     },
     {
         "amount_precision": 2,
+        "base": "ATEM",
+        "buy_start": 1700042400,
+        "fee": "0.2",
+        "id": "ATEM_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "ATK",
         "buy_start": 1638932400,
         "fee": "0.2",
@@ -15377,6 +15390,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "GROK",
+        "buy_start": 1699862400,
+        "fee": "0.2",
+        "id": "GROK_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "GRT3L",
         "buy_start": 1608346800,
@@ -19317,29 +19343,16 @@
     },
     {
         "amount_precision": 2,
-        "base": "LAVA",
-        "buy_start": 1617861600,
+        "base": "LAVASWAP",
+        "buy_start": 1700028000,
         "fee": "0.2",
-        "id": "LAVA_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 11,
-        "quote": "ETH",
-        "sell_start": 1609434000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "LAVA",
-        "buy_start": 1617861600,
-        "fee": "0.2",
-        "id": "LAVA_USDT",
+        "id": "LAVASWAP_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 7,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -35655,7 +35668,7 @@
         "precision": 7,
         "quote": "ETH",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -35668,7 +35681,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
