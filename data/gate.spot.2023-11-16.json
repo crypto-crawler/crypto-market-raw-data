@@ -11375,7 +11375,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -19355,6 +19355,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "LAVA",
+        "buy_start": 1700287200,
+        "fee": "0.2",
+        "id": "LAVA_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 3,
         "base": "LAYER",
         "buy_start": 1612184400,
@@ -22033,7 +22046,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 4,
