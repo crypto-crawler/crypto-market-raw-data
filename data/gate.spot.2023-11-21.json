@@ -9496,7 +9496,7 @@
         "precision": 10,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -12312,6 +12312,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "F3",
+        "buy_start": 1701172800,
+        "fee": "0.2",
+        "id": "F3_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -28488,6 +28501,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "PSUB",
+        "buy_start": 1701154800,
+        "fee": "0.2",
+        "id": "PSUB_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "PSY",
         "buy_start": 1642773600,
@@ -30582,7 +30608,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
