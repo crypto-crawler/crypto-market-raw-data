@@ -12973,6 +12973,19 @@
     },
     {
         "amount_precision": 3,
+        "base": "FLIP",
+        "buy_start": 1700740800,
+        "fee": "0.2",
+        "id": "FLIP_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "FLM",
         "buy_start": 1607587200,
         "fee": "0.2",
@@ -37884,7 +37897,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
