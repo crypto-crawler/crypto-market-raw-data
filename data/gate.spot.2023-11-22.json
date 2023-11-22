@@ -6424,6 +6424,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "CAGA",
+        "buy_start": 1701248400,
+        "fee": "0.2",
+        "id": "CAGA_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "CAKE3L",
         "buy_start": 1582704000,
@@ -21670,6 +21683,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MBLK",
+        "buy_start": 1700740800,
+        "fee": "0.2",
+        "id": "MBLK_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
