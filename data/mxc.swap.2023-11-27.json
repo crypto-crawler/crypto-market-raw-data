@@ -2790,9 +2790,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ATOR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.001"
@@ -2806,7 +2804,7 @@
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 30000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
@@ -20077,7 +20075,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 170000,
+        "limitMaxVol": 45000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -20088,7 +20086,7 @@
             200,
             50
         ],
-        "maxVol": 170000,
+        "maxVol": 45000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -20097,10 +20095,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 170000,
+        "riskBaseVol": 45000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 170000,
+        "riskIncrVol": 45000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",

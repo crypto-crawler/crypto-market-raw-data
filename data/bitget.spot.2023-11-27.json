@@ -3186,13 +3186,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "VIC",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "VIC_USDT",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "0",
@@ -3204,13 +3204,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "10SET",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "10SET_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "3",
@@ -3222,13 +3222,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "MYRO",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "MYRO_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -3240,13 +3240,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "HOLD",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "HOLD_USDT",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "3",
@@ -4027,7 +4027,7 @@
         "base_currency": "PERL",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "online",
+        "status": "offline",
         "symbol": "PERL_USDT",
         "tick_size": "5"
     },
