@@ -1089,15 +1089,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "FITFI",
-        "quote_currency": "USDC",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "FITFI_USDC",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "MUTE",
         "quote_currency": "USDT",
@@ -1105,6 +1096,15 @@
         "status": "online",
         "symbol": "MUTE_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "FITFI",
+        "quote_currency": "USDC",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "FITFI_USDC",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "1",
@@ -1170,21 +1170,21 @@
         "tick_size": "2"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "DKA",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "DKA_USDT",
-        "tick_size": "5"
-    },
-    {
         "base_asset_precision": "0",
         "base_currency": "WOM",
         "quote_currency": "USDT",
         "size_increment": "0",
         "status": "online",
         "symbol": "WOM_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "DKA",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "DKA_USDT",
         "tick_size": "5"
     },
     {
