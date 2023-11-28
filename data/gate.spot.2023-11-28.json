@@ -12336,7 +12336,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -13935,6 +13935,19 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "FUL",
+        "buy_start": 1701428400,
+        "fee": "0.2",
+        "id": "FUL_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1568694900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
