@@ -5,6 +5,71 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "1000000VINU",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "1000000VINU",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "contractSize": 100,
+        "depthStepList": [
+            "0.00001"
+        ],
+        "displayName": "1000000VINU_USDT\u6c38\u7eed",
+        "displayNameEn": "1000000VINU_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "BITGET",
+            "BYBIT",
+            "MEXC"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 33000,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 33000,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 6600,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 6600,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "1000000VINU_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "100000AIDOGE",
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F20230731191053230XH1FZMrE1ERL9T.png",
         "baseCoinName": "100000AIDOGE",
@@ -3174,7 +3239,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 31351,
+        "threshold": 31617,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4367,7 +4432,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 15121,
+        "threshold": 15295,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6748,7 +6813,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 18009,
+        "threshold": 18384,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6937,7 +7002,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 24173,
+        "threshold": 24689,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -9382,9 +9447,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "GODS",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -9403,7 +9466,7 @@
         "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 400000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -10553,7 +10616,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 13225,
+        "threshold": 13507,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -11155,7 +11218,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 102341,
+        "threshold": 106208,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13822,7 +13885,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 49479,
+        "threshold": 49915,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -18912,7 +18975,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 108834,
+        "threshold": 110416,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20721,7 +20784,6 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -20891,7 +20953,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 18840,
+        "threshold": 19068,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -21349,7 +21411,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 22733,
+        "threshold": 23429,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
