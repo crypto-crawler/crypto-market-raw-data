@@ -477,7 +477,6 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -10782,7 +10781,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 65000,
         "maintenanceMarginRate": 0.004,
@@ -10912,7 +10911,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 1800000,
         "maintenanceMarginRate": 0.004,
@@ -17197,8 +17196,7 @@
         "displayNameEn": "SATS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET",
-            "KUCOIN"
+            "BITGET"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
