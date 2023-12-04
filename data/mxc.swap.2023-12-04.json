@@ -227,7 +227,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 6600,
+        "limitMaxVol": 3300,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -238,7 +238,7 @@
             200,
             50
         ],
-        "maxVol": 6600,
+        "maxVol": 3300,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -247,10 +247,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6600,
+        "riskBaseVol": 3300,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 6600,
+        "riskIncrVol": 3300,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -2140,7 +2140,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -14162,7 +14161,6 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -16048,9 +16046,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "RARE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.0001"
@@ -16067,7 +16063,7 @@
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
