@@ -4774,13 +4774,15 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "BUSD",
         "baseCoinIconUrl": "",
         "baseCoinName": "BUSD",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 10,
+        "deliveryPriceTrend": 3,
+        "deliveryTime": 1702184400361,
         "depthStepList": [
             "0.0001",
             "0.001"
@@ -17716,7 +17718,6 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "HUOBI",
             "OKX",
             "MEXC"
         ],
@@ -21345,7 +21346,6 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
