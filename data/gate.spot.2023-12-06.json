@@ -3444,6 +3444,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "BABYGROK",
+        "buy_start": 1702036800,
+        "fee": "0.2",
+        "id": "BABYGROK_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 14,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BABY",
         "buy_start": 1631001600,
@@ -17520,7 +17533,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -27715,7 +27728,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -31808,6 +31821,19 @@
         "quote": "USDT",
         "sell_start": 1561782900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SERSH",
+        "buy_start": 1702900800,
+        "fee": "0.2",
+        "id": "SERSH_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -35948,6 +35974,18 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "TOKEN",
+        "buy_start": 1699261200,
+        "fee": "0.2",
+        "id": "TOKEN_TRY",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,

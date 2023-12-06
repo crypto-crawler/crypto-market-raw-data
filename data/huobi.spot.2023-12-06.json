@@ -4883,7 +4883,7 @@
         "state": "online",
         "symbol": "bttusdc",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -4903,7 +4903,7 @@
         "state": "online",
         "symbol": "bttusdd",
         "symbol-partition": "main",
-        "tags": "zerofee",
+        "tags": "zerofee,abnormalmarket",
         "value-precision": 8
     },
     {
@@ -4925,7 +4925,7 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "bttusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -18269,7 +18269,7 @@
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.01,
         "min-order-value": 10,
-        "price-precision": 4,
+        "price-precision": 5,
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.01,
