@@ -18159,6 +18159,18 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "JTO",
+        "buy_start": 1701966600,
+        "fee": "0.2",
+        "id": "JTO_TRY",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "JTO",
         "buy_start": 1701966600,
@@ -18169,7 +18181,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -23924,7 +23936,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
