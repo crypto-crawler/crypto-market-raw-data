@@ -5098,7 +5098,7 @@
         "base_currency": "CETUS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "CETUS_USDT",
         "tick_size": "5"
     },
@@ -5107,8 +5107,17 @@
         "base_currency": "XRD",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "XRD_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "JTO",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "JTO_USDT",
         "tick_size": "5"
     },
     {

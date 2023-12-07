@@ -7916,32 +7916,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "CRBN",
-        "buy_start": 1612929600,
-        "fee": "0.2",
-        "id": "CRBN_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "CRBN",
-        "buy_start": 1612929600,
-        "fee": "0.2",
-        "id": "CRBN_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "CRE8",
         "buy_start": 1638540000,
         "fee": "0.2",
@@ -18469,6 +18443,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "KCT",
+        "buy_start": 1702461600,
+        "fee": "0.2",
+        "id": "KCT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "KDA",
         "buy_start": 1638259200,
@@ -21271,6 +21258,19 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 3,
+        "base": "LYX",
+        "buy_start": 1702015200,
+        "fee": "0.2",
+        "id": "LYX_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "MAGIC",
         "buy_start": 1670832000,
@@ -23808,6 +23808,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MUSIC",
+        "buy_start": 1702000800,
+        "fee": "0.2",
+        "id": "MUSIC_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
