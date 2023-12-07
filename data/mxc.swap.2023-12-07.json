@@ -18,8 +18,9 @@
         "displayNameEn": "1000000VINU_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET",
             "BYBIT",
+            "GATEIO",
+            "HUOBI",
             "MEXC"
         ],
         "initialMarginRate": 0.008,
@@ -3235,7 +3236,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 27703,
+        "threshold": 27571,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4426,7 +4427,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 19088,
+        "threshold": 19534,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6805,7 +6806,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 25567,
+        "threshold": 25460,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6994,7 +6995,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 22552,
+        "threshold": 18425,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10606,7 +10607,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 20662,
+        "threshold": 23356,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -11208,7 +11209,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 111354,
+        "threshold": 104889,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -13936,7 +13937,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 41439,
+        "threshold": 41339,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15760,7 +15761,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 15101,
+        "threshold": 15523,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19008,7 +19009,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 124352,
+        "threshold": 122663,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20730,6 +20731,69 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "WAXL",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "WAXL",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.001"
+        ],
+        "displayName": "WAXL_USDT\u6c38\u7eed",
+        "displayNameEn": "WAXL_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "MEXC"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 1200,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 1200,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.05,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 240,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 240,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "WAXL_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "WAXP",
         "baseCoinIconUrl": "",
         "baseCoinName": "WAXP",
@@ -20980,7 +21044,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 34464,
+        "threshold": 32173,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -21437,7 +21501,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 26783,
+        "threshold": 25476,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
