@@ -3236,7 +3236,7 @@
         "state": 0,
         "symbol": "AZERO_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 27571,
+        "threshold": 28278,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -4427,7 +4427,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 19534,
+        "threshold": 23302,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6806,7 +6806,7 @@
         "state": 0,
         "symbol": "DC_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 25460,
+        "threshold": 24924,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -6995,7 +6995,7 @@
         "state": 0,
         "symbol": "DIONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 18425,
+        "threshold": 17393,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -9976,8 +9976,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -10607,7 +10606,7 @@
         "state": 0,
         "symbol": "IGU_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 23356,
+        "threshold": 25084,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -11170,24 +11169,24 @@
         "displayNameEn": "JTO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC"
+            "BINANCE"
         ],
-        "initialMarginRate": 0.1,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": true,
-        "limitMaxVol": 5200,
-        "maintenanceMarginRate": 0.05,
+        "limitMaxVol": 18000,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 10,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
         ],
-        "maxVol": 5200,
+        "maxVol": 18000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -11196,10 +11195,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1300,
-        "riskIncrImr": 0.02,
-        "riskIncrMmr": 0.02,
-        "riskIncrVol": 1300,
+        "riskBaseVol": 4500,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
+        "riskIncrVol": 4500,
         "riskLevelLimit": 4,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
@@ -11272,7 +11271,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 104889,
+        "threshold": 101673,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -14000,7 +13999,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 41339,
+        "threshold": 38759,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15824,7 +15823,7 @@
         "state": 0,
         "symbol": "PSG_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 15523,
+        "threshold": 15383,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19072,7 +19071,7 @@
         "state": 0,
         "symbol": "SYN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 122663,
+        "threshold": 127755,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -21107,7 +21106,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 32173,
+        "threshold": 30900,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -21564,7 +21563,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 25476,
+        "threshold": 25389,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
