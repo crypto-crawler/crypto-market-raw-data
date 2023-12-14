@@ -223,7 +223,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 3300,
         "maintenanceMarginRate": 0.004,
@@ -609,7 +609,9 @@
         "displayNameEn": "1000RATS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
+            "HUOBI",
             "KUCOIN"
         ],
         "initialMarginRate": 0.008,
@@ -17385,7 +17387,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 20000,
         "maintenanceMarginRate": 0.005,
