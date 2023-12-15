@@ -313,19 +313,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "ACE",
-        "buy_start": 1637049600,
-        "fee": "0.2",
-        "id": "ACE_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "ACH3L",
         "buy_start": 1630209600,
         "fee": "0.2",
@@ -9378,32 +9365,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "DDIM",
-        "buy_start": 1618142400,
-        "fee": "0.2",
-        "id": "DDIM_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "DDIM",
-        "buy_start": 1618142400,
-        "fee": "0.2",
-        "id": "DDIM_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "DDOS",
         "buy_start": 1618500600,
         "fee": "0.2",
@@ -10818,32 +10779,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "DUCK2",
-        "buy_start": 1618027200,
-        "fee": "0.2",
-        "id": "DUCK2_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "DUCK2",
-        "buy_start": 1618027200,
-        "fee": "0.2",
-        "id": "DUCK2_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -20559,6 +20494,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "LNDX",
+        "buy_start": 1702648800,
+        "fee": "0.2",
+        "id": "LNDX_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,

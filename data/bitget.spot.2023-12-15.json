@@ -3129,7 +3129,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "XUI_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -5085,13 +5085,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "PGT",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "PGT_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -5103,6 +5103,15 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "BTCMEME",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "BTCMEME_USDT",
+        "tick_size": "8"
+    },
+    {
         "base_asset_precision": "1",
         "base_currency": "IDEX",
         "quote_currency": "USDT",
@@ -5110,6 +5119,15 @@
         "status": "online",
         "symbol": "IDEX_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "0",
+        "base_currency": "ZERO",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "ZERO_USDT",
+        "tick_size": "0"
     },
     {
         "base_asset_precision": "1",
