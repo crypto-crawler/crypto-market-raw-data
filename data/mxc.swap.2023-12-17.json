@@ -150,10 +150,11 @@
         "displayNameEn": "100000BABYDOGE_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "GATEIO",
-            "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2859,7 +2860,7 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.001"
+            "0.01"
         ],
         "displayName": "AUCTION_USDT\u6c38\u7eed",
         "displayNameEn": "AUCTION_USDT PERPETUAL",
@@ -2890,8 +2891,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 2,
+        "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 2000,
@@ -10337,7 +10338,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 16000000,
+        "limitMaxVol": 5500000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10348,7 +10349,7 @@
             200,
             50
         ],
-        "maxVol": 16000000,
+        "maxVol": 5500000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10357,10 +10358,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 16000000,
+        "riskBaseVol": 5500000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 16000000,
+        "riskIncrVol": 5500000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "settleCoin": "USDT",
