@@ -7947,32 +7947,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "COVER",
-        "buy_start": 1607158800,
-        "fee": "0.2",
-        "id": "COVER_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 6,
-        "quote": "ETH",
-        "sell_start": 1607151600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 4,
-        "base": "COVER",
-        "buy_start": 1607158800,
-        "fee": "0.2",
-        "id": "COVER_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 1607151600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "CPOOL",
         "buy_start": 1635426060,
@@ -37044,6 +37018,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TURT",
+        "buy_start": 1703577600,
+        "fee": "0.2",
+        "id": "TURT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
