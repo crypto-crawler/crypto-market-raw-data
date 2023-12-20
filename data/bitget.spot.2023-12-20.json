@@ -5274,13 +5274,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "OVL3",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "OVL3_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -5292,6 +5292,15 @@
         "tick_size": "11"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "SCPT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "SCPT_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "0",
         "base_currency": "LEVER",
         "quote_currency": "USDT",
@@ -5299,6 +5308,15 @@
         "status": "online",
         "symbol": "LEVER_USDT",
         "tick_size": "7"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "MMSS",
+        "quote_currency": "USDT",
+        "size_increment": "3",
+        "status": "gray",
+        "symbol": "MMSS_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "2",
