@@ -85,16 +85,43 @@
         "base_currency": "GRAPE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "GRAPE_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ARTY",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ARTY_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "SILLY",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "SILLY_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "CSAS",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "CSAS_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "2",
         "base_currency": "1CAT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "1CAT_USDT",
         "tick_size": "5"
     },
@@ -103,7 +130,7 @@
         "base_currency": "MV",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MV_USDT",
         "tick_size": "5"
     },
