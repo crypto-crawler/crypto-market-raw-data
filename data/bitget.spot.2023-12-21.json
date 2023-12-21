@@ -91,6 +91,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "1CAT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "1CAT_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "MV",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -310,7 +319,7 @@
         "base_currency": "JPEG",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "JPEG_USDT",
         "tick_size": "8"
     },
