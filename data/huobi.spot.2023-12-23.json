@@ -16913,7 +16913,7 @@
         "value-precision": 8
     },
     {
-        "amount-precision": 4,
+        "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "map",
         "buy-limit-must-less-than": 1.1,
@@ -16922,7 +16922,7 @@
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 1,
         "min-order-value": 10,
-        "price-precision": 6,
+        "price-precision": 5,
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
@@ -18700,7 +18700,7 @@
         "state": "online",
         "symbol": "mxcusdt",
         "symbol-partition": "main",
-        "tags": "activities",
+        "tags": "activities,abnormalmarket",
         "value-precision": 8
     },
     {
