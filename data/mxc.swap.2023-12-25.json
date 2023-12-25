@@ -22,7 +22,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -32,7 +32,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -750,9 +750,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ACE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -769,7 +767,7 @@
         "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 130000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -3134,7 +3132,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -3144,7 +3142,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -6431,7 +6429,7 @@
             "GATEIO",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": true,
@@ -6441,7 +6439,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -6909,7 +6907,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -6919,7 +6917,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -17774,7 +17772,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -17784,7 +17782,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
