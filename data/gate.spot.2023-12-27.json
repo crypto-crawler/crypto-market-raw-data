@@ -3094,6 +3094,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "ATOMARC",
+        "buy_start": 1703660400,
+        "fee": "0.2",
+        "id": "ATOMARC_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "ATOM",
         "buy_start": 1555999200,
@@ -4041,19 +4054,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "BBANK",
-        "buy_start": 1630461600,
-        "fee": "0.2",
-        "id": "BBANK_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -15113,7 +15113,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -17768,6 +17768,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "INSC",
+        "buy_start": 1703768400,
+        "fee": "0.2",
+        "id": "INSC_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "INSP",
         "buy_start": 1701856800,
@@ -19455,7 +19468,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 4,
@@ -19468,32 +19481,6 @@
         "precision": 2,
         "quote": "USDT",
         "sell_start": 1595658900,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "KST",
-        "buy_start": 1635166800,
-        "fee": "0.2",
-        "id": "KST_ETH",
-        "max_quote_amount": "1000",
-        "min_quote_amount": "0.001",
-        "precision": 10,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "KST",
-        "buy_start": 1635166800,
-        "fee": "0.2",
-        "id": "KST_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1607313600,
         "trade_status": "tradable"
     },
     {
@@ -24687,7 +24674,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1602648000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -26936,7 +26923,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -31141,7 +31128,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -33364,7 +33351,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -41833,6 +41820,19 @@
         "quote": "USDT",
         "sell_start": 1606449600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "ZERO",
+        "buy_start": 1703678400,
+        "fee": "0.2",
+        "id": "ZERO_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
