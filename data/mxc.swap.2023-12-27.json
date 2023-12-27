@@ -4273,22 +4273,22 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 300000,
-        "maintenanceMarginRate": 0.02,
+        "limitMaxVol": 137000,
+        "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
         ],
-        "maxVol": 300000,
+        "maxVol": 137000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4297,10 +4297,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 300000,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
-        "riskIncrVol": 300000,
+        "riskBaseVol": 137000,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
+        "riskIncrVol": 137000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -12752,7 +12752,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -12762,7 +12762,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -14554,7 +14554,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -14564,7 +14564,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
