@@ -105,7 +105,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "ANALOS_USDT",
-        "tick_size": "6"
+        "tick_size": "7"
     },
     {
         "base_asset_precision": "3",
@@ -190,10 +190,19 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "XPET",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "XPET_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "SNEK",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SNEK_USDT",
         "tick_size": "7"
     },
@@ -202,7 +211,7 @@
         "base_currency": "GXE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "GXE_USDT",
         "tick_size": "5"
     },
