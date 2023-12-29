@@ -703,8 +703,8 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00KJ4ZC205",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0G838",
         "lastTradingTime": "2024-01-26T16:00:00.000Z",
         "marginLevels": [
             {
@@ -748,8 +748,8 @@
                 "maintenanceMargin": 0.2
             }
         ],
-        "maxPositionSize": 40000000.0,
-        "openingDate": "2023-12-29T16:00:00.272Z",
+        "maxPositionSize": 40000000,
+        "openingDate": "2023-12-29T16:00:00.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -904,8 +904,8 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00KJ4ZC536",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0GZ00",
         "lastTradingTime": "2024-01-26T16:00:00.000Z",
         "marginLevels": [
             {
@@ -919,8 +919,8 @@
                 "maintenanceMargin": 0.1
             }
         ],
-        "maxPositionSize": 3000000.0,
-        "openingDate": "2023-12-29T16:00:00.837Z",
+        "maxPositionSize": 3000000,
+        "openingDate": "2023-12-29T16:00:01.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -2711,57 +2711,6 @@
         "symbol": "PF_DASHUSD",
         "tags": [],
         "tickSize": 0.001,
-        "tradeable": true,
-        "type": "flexible_futures"
-    },
-    {
-        "category": "DeFi",
-        "contractSize": 1,
-        "contractValueTradePrecision": 2,
-        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
-        "fundingRateCoefficient": 24,
-        "impactMidSize": 0.5,
-        "marginLevels": [
-            {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 0.0
-            },
-            {
-                "initialMargin": 0.3,
-                "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
-            },
-            {
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
-            }
-        ],
-        "maxPositionSize": 10000.0,
-        "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2022-03-22T14:48:30.000Z",
-        "postOnly": false,
-        "retailMarginLevels": [
-            {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 0.0
-            },
-            {
-                "initialMargin": 0.3,
-                "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
-            },
-            {
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
-            }
-        ],
-        "symbol": "PF_DEFIUSD",
-        "tags": [],
-        "tickSize": 0.01,
         "tradeable": true,
         "type": "flexible_futures"
     },
