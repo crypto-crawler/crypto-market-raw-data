@@ -18915,7 +18915,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -18925,7 +18925,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -19982,7 +19982,10 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "WLD_USDT\u6c38\u7eed",
         "displayNameEn": "WLD_USDT PERPETUAL",
