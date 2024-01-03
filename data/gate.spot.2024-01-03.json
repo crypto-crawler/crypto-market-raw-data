@@ -1118,6 +1118,32 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "AI",
+        "buy_start": 1704364200,
+        "fee": "0.2",
+        "id": "AI_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "AI",
+        "buy_start": 1704364200,
+        "fee": "0.2",
+        "id": "AI_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 0,
         "base": "AKITA",
         "buy_start": 1618884000,
@@ -24912,6 +24938,19 @@
     },
     {
         "amount_precision": 3,
+        "base": "NETT",
+        "buy_start": 1704798000,
+        "fee": "0.2",
+        "id": "NETT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "NEXO",
         "buy_start": 1651305600,
         "fee": "0.2",
@@ -33365,6 +33404,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "SMILE",
+        "buy_start": 1704621600,
+        "fee": "0.2",
+        "id": "SMILE_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
