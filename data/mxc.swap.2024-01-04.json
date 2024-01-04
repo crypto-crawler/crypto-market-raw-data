@@ -2794,7 +2794,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 750000,
         "maintenanceMarginRate": 0.004,
@@ -12162,7 +12162,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 2400000,
         "maintenanceMarginRate": 0.004,
@@ -16301,7 +16301,10 @@
         "displayNameEn": "SATS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET"
+            "BITGET",
+            "GATEIO",
+            "OKX",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
