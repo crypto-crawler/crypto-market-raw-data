@@ -783,7 +783,7 @@
         "auction_mode": false,
         "base_currency": "ANT",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "ANT/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -795,9 +795,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.01",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
