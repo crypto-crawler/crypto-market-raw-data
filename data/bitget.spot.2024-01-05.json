@@ -193,7 +193,7 @@
         "base_currency": "ZKF",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ZKF_USDT",
         "tick_size": "6"
     },
@@ -202,7 +202,7 @@
         "base_currency": "FNSA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "FNSA_USDT",
         "tick_size": "4"
     },
@@ -211,7 +211,7 @@
         "base_currency": "SWCH",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SWCH_USDT",
         "tick_size": "4"
     },
@@ -304,6 +304,15 @@
         "status": "online",
         "symbol": "GRV_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ORDS",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "ORDS_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -2097,24 +2106,6 @@
         "tick_size": "8"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "USDT",
-        "quote_currency": "UAH",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "USDT_UAH",
-        "tick_size": "2"
-    },
-    {
-        "base_asset_precision": "2",
-        "base_currency": "USDT",
-        "quote_currency": "RUB",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "USDT_RUB",
-        "tick_size": "2"
-    },
-    {
         "base_asset_precision": "4",
         "base_currency": "BGB",
         "quote_currency": "ETH",
@@ -3190,7 +3181,7 @@
         "base_currency": "BABYDOGE2",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "online",
+        "status": "offline",
         "symbol": "BABYDOGE2_USDT",
         "tick_size": "15"
     },

@@ -26640,6 +26640,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "OORT",
+        "buy_start": 1705406400,
+        "fee": "0.2",
+        "id": "OORT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "OP3L",
         "buy_start": 1582704000,
@@ -28705,6 +28718,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PORT3",
+        "buy_start": 1704700800,
+        "fee": "0.2",
+        "id": "PORT3_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -42053,7 +42079,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,

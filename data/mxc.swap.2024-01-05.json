@@ -2104,7 +2104,9 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "ARKM_USDT\u6c38\u7eed",
         "displayNameEn": "ARKM_USDT PERPETUAL",
@@ -2652,7 +2654,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -2662,7 +2664,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -2999,7 +3001,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.005,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -3009,7 +3011,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -12536,12 +12538,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "MOVR",
         "baseCoinIconUrl": "",
         "baseCoinName": "MOVR",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
@@ -12559,7 +12561,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -12569,7 +12571,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -13221,17 +13223,17 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 100000,
-        "maintenanceMarginRate": 0.007,
+        "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0.0001,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
@@ -13246,8 +13248,8 @@
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 100000,
-        "riskIncrImr": 0.005,
-        "riskIncrMmr": 0.005,
+        "riskIncrImr": 0.004,
+        "riskIncrMmr": 0.004,
         "riskIncrVol": 100000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
@@ -18492,12 +18494,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.3,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "TRB",
         "baseCoinIconUrl": "https://mexc-rainbown-activityimages.s3.ap-northeast-1.amazonaws.com/coin/F202303241306292573BbJw0MCcuQzOc.png",
         "baseCoinName": "TRB",
-        "bidLimitPriceRate": 0.3,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-web3"
         ],
@@ -18515,7 +18517,7 @@
             "BINANCE",
             "OKX"
         ],
-        "initialMarginRate": 0.0666,
+        "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -18525,7 +18527,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 15,
+        "maxLeverage": 125,
         "maxNumOrders": [
             200,
             50
