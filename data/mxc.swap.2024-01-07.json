@@ -14602,12 +14602,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "POWR",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231024203808264p3c7wnyJREM3Pm.png",
         "baseCoinName": "POWR",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
@@ -14618,11 +14618,9 @@
         "displayNameEn": "POWR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET",
-            "BINANCE",
-            "GATEIO"
+            "BINANCE"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -14632,7 +14630,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
