@@ -21843,6 +21843,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "MAR3",
+        "buy_start": 1704974400,
+        "fee": "0.2",
+        "id": "MAR3_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "MARO",
         "buy_start": 1689231600,
@@ -40249,6 +40262,32 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "XAI",
+        "buy_start": 1704794400,
+        "fee": "0.2",
+        "id": "XAI_BTC",
+        "max_quote_amount": "100",
+        "min_quote_amount": "0.00001",
+        "precision": 8,
+        "quote": "BTC",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "XAI",
+        "buy_start": 1704794400,
+        "fee": "0.2",
+        "id": "XAI_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 5,
