@@ -474,12 +474,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.4,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "1000STARL",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231031182156948eXkrmGQV9XR0lw.png",
         "baseCoinName": "1000STARL",
-        "bidLimitPriceRate": 0.4,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
@@ -10242,7 +10242,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.0666,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -10252,7 +10252,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 15,
         "maxNumOrders": [
             200,
             50
@@ -14602,12 +14602,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.4,
+        "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "POWR",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231024203808264p3c7wnyJREM3Pm.png",
         "baseCoinName": "POWR",
-        "bidLimitPriceRate": 0.4,
+        "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
@@ -14618,6 +14618,7 @@
         "displayNameEn": "POWR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "GATEIO"
         ],
