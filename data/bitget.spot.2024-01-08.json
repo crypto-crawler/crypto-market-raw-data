@@ -289,10 +289,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "STRIKE",
+        "base_currency": "XAI",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "XAI_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "STRIKE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "STRIKE_USDT",
         "tick_size": "2"
     },
@@ -310,7 +319,7 @@
         "base_currency": "ELA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ELA_USDT",
         "tick_size": "4"
     },
@@ -4441,7 +4450,7 @@
         "base_currency": "PEPE",
         "quote_currency": "EUR",
         "size_increment": "5",
-        "status": "online",
+        "status": "offline",
         "symbol": "PEPE_EUR",
         "tick_size": "9"
     },
