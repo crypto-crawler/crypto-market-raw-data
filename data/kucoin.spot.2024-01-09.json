@@ -12202,7 +12202,7 @@
         "baseIncrement": "0.0001",
         "baseMaxSize": "9999999999",
         "baseMinSize": "0.1",
-        "enableTrading": true,
+        "enableTrading": false,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -18793,7 +18793,7 @@
     {
         "baseCurrency": "BBC",
         "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
+        "baseMaxSize": "750000",
         "baseMinSize": "10",
         "enableTrading": true,
         "feeCurrency": "USDT",
@@ -18805,7 +18805,7 @@
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
         "quoteIncrement": "0.000001",
-        "quoteMaxSize": "99999999",
+        "quoteMaxSize": "550",
         "quoteMinSize": "0.1",
         "symbol": "BBC-USDT"
     },
@@ -19040,7 +19040,7 @@
     {
         "baseCurrency": "NRFB",
         "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
+        "baseMaxSize": "11200000",
         "baseMinSize": "10",
         "enableTrading": true,
         "feeCurrency": "USDT",
@@ -19052,14 +19052,14 @@
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
         "quoteIncrement": "0.000001",
-        "quoteMaxSize": "99999999",
+        "quoteMaxSize": "3000",
         "quoteMinSize": "0.1",
         "symbol": "NRFB-USDT"
     },
     {
         "baseCurrency": "NRFB",
         "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
+        "baseMaxSize": "2000000",
         "baseMinSize": "10",
         "enableTrading": true,
         "feeCurrency": "BTC",
@@ -19071,7 +19071,7 @@
         "priceLimitRate": "0.1",
         "quoteCurrency": "BTC",
         "quoteIncrement": "0.00000000001",
-        "quoteMaxSize": "99999999",
+        "quoteMaxSize": "0.012",
         "quoteMinSize": "0.000001",
         "symbol": "NRFB-BTC"
     },
@@ -22498,7 +22498,7 @@
     {
         "baseCurrency": "KLUB",
         "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
+        "baseMaxSize": "485000",
         "baseMinSize": "10",
         "enableTrading": true,
         "feeCurrency": "USDT",
@@ -22510,7 +22510,7 @@
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
         "quoteIncrement": "0.00001",
-        "quoteMaxSize": "99999999",
+        "quoteMaxSize": "6000",
         "quoteMinSize": "0.1",
         "symbol": "KLUB-USDT"
     },
