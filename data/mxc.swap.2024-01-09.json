@@ -1285,7 +1285,9 @@
         ],
         "contractSize": 1,
         "depthStepList": [
-            "0.001"
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "AI_USDT\u6c38\u7eed",
         "displayNameEn": "AI_USDT PERPETUAL",
@@ -6153,7 +6155,9 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.001"
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "CYBER_USDT\u6c38\u7eed",
         "displayNameEn": "CYBER_USDT PERPETUAL",
@@ -12226,7 +12230,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -12236,7 +12240,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -12250,11 +12254,11 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6000,
+        "riskBaseVol": 30000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 6000,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 30000,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
@@ -14013,7 +14017,8 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.00001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "OXT_USDT\u6c38\u7eed",
         "displayNameEn": "OXT_USDT PERPETUAL",
