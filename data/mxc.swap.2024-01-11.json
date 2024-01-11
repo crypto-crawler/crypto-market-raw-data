@@ -884,7 +884,9 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "ADA_USD\u6c38\u7eed",
         "displayNameEn": "ADA_USD PERPETUAL",
@@ -951,8 +953,7 @@
         "depthStepList": [
             "0.0001",
             "0.001",
-            "0.01",
-            "0.1"
+            "0.01"
         ],
         "displayName": "ADA_USDT\u6c38\u7eed",
         "displayNameEn": "ADA_USDT PERPETUAL",
@@ -4185,7 +4186,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3100,
+        "threshold": 3142,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -7196,7 +7197,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 88400,
         "maintenanceMarginRate": 0.004,
@@ -10487,7 +10488,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 70243,
+        "threshold": 76985,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10931,7 +10932,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 35200,
         "maintenanceMarginRate": 0.004,
@@ -13131,7 +13132,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 2550,
+        "threshold": 2796,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19584,6 +19585,72 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "WIF",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "WIF",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.0001",
+            "0.001"
+        ],
+        "displayName": "WIF_USDT\u6c38\u7eed",
+        "displayNameEn": "WIF_USDT PERPETUAL",
+        "futureType": 1,
+        "indexOrigin": [
+            "GATEIO",
+            "MEXC"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 6500,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0.0001,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 6500,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1300,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1300,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "riskLongShortSwitch": 0,
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "WIF_USDT",
+        "takerFeeRate": 0.0005,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "WLD",
         "baseCoinIconUrl": "",
         "baseCoinName": "WLD",
@@ -19709,7 +19776,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3069,
+        "threshold": 3354,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20244,7 +20311,7 @@
         "state": 0,
         "symbol": "XEN_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3312,
+        "threshold": 0,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
