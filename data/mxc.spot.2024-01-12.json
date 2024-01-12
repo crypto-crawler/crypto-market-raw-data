@@ -76,7 +76,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "1MIL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -284,7 +284,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ABCD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -364,7 +364,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ACEQUEST_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -588,7 +588,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ADEX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -1052,7 +1052,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "AIEMOJI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -1068,7 +1068,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "AIEN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -1164,7 +1164,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "AIPLAY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -1244,7 +1244,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AITRAN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -1500,7 +1500,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ALM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -2072,7 +2072,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "APP_USDT",
@@ -2536,7 +2536,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ASTRB_USDT",
@@ -2668,7 +2668,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ATNT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -2844,7 +2844,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AUR_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -3100,7 +3100,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AZY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -3148,6 +3148,22 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "BABYDOGE_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Baby Dragon",
+        "limited": false,
+        "maker_fee_rate": "0.001",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 15,
+        "quantity_scale": 0,
+        "state": "ENABLED",
+        "symbol": "BABYDRAGON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
@@ -3356,7 +3372,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -3448,7 +3464,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BANKBTC_USDT",
@@ -3468,7 +3484,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "BART2_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -3672,11 +3688,11 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BCP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -3976,7 +3992,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BEX_USDT",
@@ -4028,7 +4044,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BFLY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -4108,7 +4124,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BGT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -4204,7 +4220,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BIGPANDA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -4348,7 +4364,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "BITCOIN1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -4476,7 +4492,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BLA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -4828,7 +4844,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BOBPUPPY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -5180,7 +5196,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BRS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -5420,7 +5436,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BTSC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -5484,7 +5500,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "BUGAT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -5800,7 +5816,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CALM_USDT",
@@ -5884,7 +5900,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CAN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -6028,7 +6044,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "CAWCEO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -6140,7 +6156,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CCN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -6364,7 +6380,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CFH_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -6556,7 +6572,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CHE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -6572,7 +6588,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CHICA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -7020,7 +7036,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "COGO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -7116,7 +7132,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CONX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -7128,7 +7144,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 11,
+        "price_scale": 13,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "COOK_USDT",
@@ -7208,7 +7224,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CO_USDT",
@@ -7276,7 +7292,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CPOS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -7320,7 +7336,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CRAC_USDT",
@@ -7336,7 +7352,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CRAZYDAVE_USDT",
@@ -7596,7 +7612,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CR_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -7900,7 +7916,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CYBERAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8136,7 +8152,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DCP_USDT",
@@ -8236,7 +8252,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DECENFI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8392,7 +8408,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DESWAR_USDT",
@@ -8600,11 +8616,11 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DHP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8620,7 +8636,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "DIAMOND_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8652,7 +8668,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DIE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8696,7 +8712,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DISC_USDT",
@@ -8764,7 +8780,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DLANCE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8956,7 +8972,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DOGECOIN2_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -8972,7 +8988,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "DOGEKING_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -9020,7 +9036,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DOGEX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -9116,7 +9132,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "DOGSROCK_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -9304,7 +9320,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DRAGONERA_USDT",
@@ -9980,7 +9996,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "EMGS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -10328,7 +10344,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 12,
+        "price_scale": 13,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "ETFSOL2024_USDT",
@@ -10376,7 +10392,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ETHEREUM2_USDT",
@@ -10508,7 +10524,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ETL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -10684,7 +10700,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "EWC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -10812,7 +10828,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "FANCY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -10924,7 +10940,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FDV_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11048,7 +11064,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FIBO_USDT",
@@ -11256,7 +11272,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FLMC_USDT",
@@ -11436,7 +11452,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FNCT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11468,7 +11484,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FND_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11500,7 +11516,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FNY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11548,7 +11564,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FOG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11708,7 +11724,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FOUR_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11724,7 +11740,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "FOXAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11740,7 +11756,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FOXIFY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -11864,7 +11880,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FROG_USDT",
@@ -12044,7 +12060,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "FUNFI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12124,7 +12140,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "FWC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12188,7 +12204,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FXY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12268,7 +12284,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12396,7 +12412,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GBC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12444,7 +12460,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GDO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12540,7 +12556,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GEM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12636,7 +12652,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "GFLOKI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12652,7 +12668,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GFLY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12705,6 +12721,22 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Ghost",
+        "limited": false,
+        "maker_fee_rate": "0.001",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "GHOST_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Aavegotchi",
         "limited": false,
         "maker_fee_rate": "0.001",
@@ -12748,7 +12780,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GLEEC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -13052,7 +13084,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GOAL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -13432,7 +13464,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GROKBSC_USDT",
@@ -13596,7 +13628,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GSTBSC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -13916,7 +13948,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HAO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -14012,6 +14044,22 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HBAR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "HUBOT",
+        "limited": false,
+        "maker_fee_rate": "0.001",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "HBT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
@@ -14140,7 +14188,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HEME_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -14252,7 +14300,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HIBS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -14828,7 +14876,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HYPES_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -14920,7 +14968,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ICDA_USDT",
@@ -15372,7 +15420,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "IOEX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -15528,7 +15576,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "IRONHERO_USDT",
@@ -15704,7 +15752,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "IYU_USDT",
@@ -15820,7 +15868,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JCO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -15832,7 +15880,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 12,
+        "price_scale": 13,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JD_USDT",
@@ -15852,7 +15900,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JEN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -15916,7 +15964,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JINKO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -15928,7 +15976,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "JIN_USDT",
@@ -16264,7 +16312,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KAP_USDT",
@@ -16412,7 +16460,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KBD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -16700,7 +16748,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KLC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -16792,7 +16840,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 12,
+        "price_scale": 13,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "KNOB_USDT",
@@ -17048,7 +17096,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KSN_USDT",
@@ -17068,7 +17116,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KTON_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -17148,7 +17196,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KVERSE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -17448,7 +17496,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "LDX_USDT",
@@ -17480,7 +17528,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "LEGO_USDT",
@@ -17628,7 +17676,7 @@
         "quantity_scale": 6,
         "state": "ENABLED",
         "symbol": "LF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -17644,7 +17692,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "LGBTQ_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -17884,7 +17932,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "LOFI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -18396,7 +18444,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "L_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -18476,7 +18524,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MAKA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -19004,7 +19052,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MCTU_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -19640,7 +19688,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MGROK_USDT",
@@ -19704,7 +19752,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MILLE_USDT",
@@ -19740,7 +19788,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MIM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -19804,7 +19852,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MINNA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -19868,7 +19916,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MITHRIL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -20060,7 +20108,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MMO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -20216,7 +20264,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MOBRC_USDT",
@@ -20268,7 +20316,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MODA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -20396,7 +20444,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MOSPACE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -21020,7 +21068,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NAO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -21084,7 +21132,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NBT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -21292,7 +21340,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NEPT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -21320,7 +21368,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 10,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NERO_USDT",
@@ -21548,7 +21596,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NGT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -21832,7 +21880,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NTD_USDT",
@@ -22092,7 +22140,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NXD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -22476,7 +22524,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "OGZ_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -22540,7 +22588,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "OKLP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -22616,7 +22664,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "OM3_USDT",
@@ -22956,7 +23004,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "OPOS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -23356,7 +23404,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "OZO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -23532,7 +23580,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PAPI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -23752,7 +23800,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PCT_USDT",
@@ -23804,7 +23852,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -23948,7 +23996,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PEPE3_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -23960,7 +24008,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PEPE8_USDT",
@@ -23996,7 +24044,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PEPEBEAST_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24044,7 +24092,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PEPEDAO2_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24188,7 +24236,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PHAROS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24316,7 +24364,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PIRI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24360,7 +24408,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PIXEL_USDT",
@@ -24380,7 +24428,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PKN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24604,7 +24652,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PNB_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24876,7 +24924,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "POPK_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -24952,7 +25000,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PPA_USDT",
@@ -24988,7 +25036,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PPIZZA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25016,7 +25064,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PPX_USDT",
@@ -25068,7 +25116,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PRMX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25292,7 +25340,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PSYOP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25384,11 +25432,11 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 12,
+        "price_scale": 13,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "PUMPKIN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25612,7 +25660,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "QTE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25852,7 +25900,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RAFT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -25976,7 +26024,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RATS2_USDT",
@@ -26492,7 +26540,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "REVO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -26520,7 +26568,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "REX_USDT",
@@ -26652,7 +26700,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RIK_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -26668,7 +26716,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RILLA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -27112,7 +27160,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 12,
+        "price_scale": 13,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RSY_USDT",
@@ -27144,7 +27192,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "RUN_USDT",
@@ -27196,7 +27244,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "RVLT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -27244,7 +27292,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "SAFEMARS1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -27288,7 +27336,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 10,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SAI_USDT",
@@ -27416,7 +27464,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SATS2_USDT",
@@ -27516,7 +27564,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SBG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -27544,7 +27592,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SC2_USDT",
@@ -27980,7 +28028,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SERP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -28188,7 +28236,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -28248,7 +28296,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SHIBAINUX_USDT",
@@ -28428,7 +28476,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SHOOTER_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -28444,7 +28492,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "SILVER_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -28456,7 +28504,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SILYCOIN_USDT",
@@ -28652,7 +28700,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SKY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -28828,7 +28876,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SNC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29112,7 +29160,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SOLS_USDT",
@@ -29196,7 +29244,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "SONIC1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29324,7 +29372,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SOUL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29372,7 +29420,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SPAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29468,7 +29516,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "SPGBB_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29500,7 +29548,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SPIRIT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29628,7 +29676,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SQUID2_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -29660,7 +29708,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SRC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -30184,7 +30232,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SUC_USDT",
@@ -30316,7 +30364,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SUP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -30376,7 +30424,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SUV_USDT",
@@ -30396,7 +30444,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "SUZUME_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -30748,7 +30796,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TARAL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -30840,7 +30888,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 16,
+        "price_scale": 17,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "TESLAI_USDT",
@@ -31052,7 +31100,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TIE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -31068,7 +31116,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "TIGER_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -31100,7 +31148,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "TIM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -31256,7 +31304,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TLT_USDT",
@@ -31544,7 +31592,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TRBS_USDT",
@@ -31848,7 +31896,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 10,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TSN_USDT",
@@ -32076,7 +32124,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "TYPE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -32156,7 +32204,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "UCF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33004,7 +33052,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VIX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33036,7 +33084,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VKT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33052,7 +33100,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VLK_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33100,7 +33148,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VMS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33308,7 +33356,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VRS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33404,7 +33452,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "VTS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33452,7 +33500,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "W3S_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33788,7 +33836,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "WFAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -33960,7 +34008,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "WJXN_USDT",
@@ -34140,7 +34188,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "WOFO1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -34300,7 +34348,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "WRKX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -34332,7 +34380,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "WSB1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -34408,7 +34456,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "WTA_USDT",
@@ -34504,7 +34552,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XADO_USDT",
@@ -34520,7 +34568,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 16,
+        "price_scale": 17,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "XAI1_USDT",
@@ -34700,7 +34748,7 @@
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "XCOM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -34824,7 +34872,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 17,
+        "price_scale": 18,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "XDOGE1_USDT",
@@ -35356,7 +35404,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XRAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -35404,7 +35452,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XRP8_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -35544,7 +35592,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 16,
+        "price_scale": 17,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "XSHIB_USDT",
@@ -35608,7 +35656,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XTS_USDT",
@@ -36200,7 +36248,7 @@
         "max_amount_market": "100000.000000000000000000",
         "min_amount": "5.000000000000000000",
         "min_amount_market": "5.000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ZEROX_USDT",
@@ -36316,7 +36364,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ZIZY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
@@ -36428,7 +36476,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ZOA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.001"
     },
     {
