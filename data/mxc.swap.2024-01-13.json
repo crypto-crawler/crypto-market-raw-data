@@ -13697,7 +13697,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -13707,7 +13707,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -13721,11 +13721,11 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 4000,
+        "riskBaseVol": 20000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 4000,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 20000,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
