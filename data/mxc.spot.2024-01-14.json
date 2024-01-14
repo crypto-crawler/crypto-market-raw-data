@@ -3473,7 +3473,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Bitbama",
+        "fullName": "Bama AI",
         "limited": false,
         "maker_fee_rate": "0.001",
         "max_amount": "2000000.000000000000000000",
@@ -13452,6 +13452,22 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GRIMACE_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Greelance",
+        "limited": false,
+        "maker_fee_rate": "0.001",
+        "max_amount": "2000000.000000000000000000",
+        "max_amount_market": "100000.000000000000000000",
+        "min_amount": "5.000000000000000000",
+        "min_amount_market": "5.000000000000000000",
+        "price_scale": 7,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "GRL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
