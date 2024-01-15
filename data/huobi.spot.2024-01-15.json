@@ -27899,6 +27899,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 2,
+        "api-trading": "enabled",
+        "base-currency": "troll",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.1,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 11,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "online",
+        "symbol": "trollusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "tru",

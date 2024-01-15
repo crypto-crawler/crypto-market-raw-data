@@ -288,11 +288,20 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "AVAV",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "AVAV_USDT",
+        "tick_size": "9"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "OORT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "OORT_USDT",
         "tick_size": "5"
     },
@@ -301,7 +310,7 @@
         "base_currency": "MMIT",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "MMIT_USDT",
         "tick_size": "12"
     },
