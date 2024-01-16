@@ -432,7 +432,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 30000,
+        "limitMaxVol": 24000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0.0001,
         "marketOrderMaxLevel": 20,
@@ -443,7 +443,7 @@
             200,
             50
         ],
-        "maxVol": 30000,
+        "maxVol": 24000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -452,11 +452,11 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6000,
+        "riskBaseVol": 6500,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 6000,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 6500,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
@@ -4115,7 +4115,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3095,
+        "threshold": 3020,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -9492,7 +9492,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "ICX_USDT\u6c38\u7eed",
         "displayNameEn": "ICX_USDT PERPETUAL",
@@ -10350,7 +10351,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 67198,
+        "threshold": 67614,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12997,7 +12998,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3601,
+        "threshold": 3532,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19647,7 +19648,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3563,
+        "threshold": 3530,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19810,7 +19811,6 @@
         "displayNameEn": "XAI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BITGET",
             "BYBIT",
             "BINANCE",
             "MEXC",

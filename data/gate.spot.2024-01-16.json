@@ -7948,6 +7948,19 @@
     },
     {
         "amount_precision": 3,
+        "base": "COM",
+        "buy_start": 1706090400,
+        "fee": "0.2",
+        "id": "COM_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "CONV",
         "buy_start": 1616680800,
         "fee": "0.2",
@@ -31924,6 +31937,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "SAROS",
+        "buy_start": 1705662000,
+        "fee": "0.2",
+        "id": "SAROS_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "SASHIMI",
         "buy_start": 1599890400,
@@ -34509,6 +34535,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "SS20",
+        "buy_start": 1705575600,
+        "fee": "0.2",
+        "id": "SS20_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -38325,6 +38364,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "VARA",
+        "buy_start": 1705485600,
+        "fee": "0.2",
+        "id": "VARA_ETH",
+        "max_quote_amount": "1000",
+        "min_quote_amount": "0.001",
+        "precision": 8,
+        "quote": "ETH",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
