@@ -482,7 +482,9 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.00001"
+            "0.00001",
+            "0.0001",
+            "0.001"
         ],
         "displayName": "1CAT_USDT\u6c38\u7eed",
         "displayNameEn": "1CAT_USDT PERPETUAL",
@@ -2054,7 +2056,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 145000,
         "maintenanceMarginRate": 0.004,
@@ -4116,7 +4118,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3095,
+        "threshold": 3025,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5101,7 +5103,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 2158900,
         "maintenanceMarginRate": 0.004,
@@ -10352,7 +10354,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 67747,
+        "threshold": 66806,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12999,7 +13001,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3607,
+        "threshold": 3451,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -19649,7 +19651,7 @@
         "state": 0,
         "symbol": "WOJAK_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3705,
+        "threshold": 3620,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
