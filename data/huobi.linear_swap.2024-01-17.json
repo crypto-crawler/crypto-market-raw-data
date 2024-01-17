@@ -1353,7 +1353,7 @@
         "business_type": "swap",
         "contract_code": "METIS-USDT",
         "contract_size": 0.01,
-        "contract_status": 4,
+        "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20240117",
         "delivery_date": "",
@@ -1722,6 +1722,21 @@
         "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "CORE",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "AI-USDT",
+        "contract_size": 1.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20240117",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "AI-USDT",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "AI",
         "trade_partition": "USDT"
     },
     {
