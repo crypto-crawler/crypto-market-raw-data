@@ -2645,7 +2645,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.01"
+            "0.01",
+            "0.1"
         ],
         "displayName": "AUCTION_USDT\u6c38\u7eed",
         "displayNameEn": "AUCTION_USDT PERPETUAL",
@@ -5100,7 +5101,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 2158900,
         "maintenanceMarginRate": 0.004,
@@ -12634,7 +12635,7 @@
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 48000,
         "maintenanceMarginRate": 0.007,
