@@ -454,7 +454,7 @@
         "base_currency": "MANTA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MANTA_USDT",
         "tick_size": "4"
     },
@@ -463,7 +463,7 @@
         "base_currency": "PONKE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "PONKE_USDT",
         "tick_size": "5"
     },
@@ -472,7 +472,7 @@
         "base_currency": "WAGMIGAMES",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "WAGMIGAMES_USDT",
         "tick_size": "9"
     },
@@ -481,7 +481,7 @@
         "base_currency": "ISLM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ISLM_USDT",
         "tick_size": "5"
     },
@@ -1447,6 +1447,15 @@
         "status": "online",
         "symbol": "KP3R_USDT",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "POKT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "POKT_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
