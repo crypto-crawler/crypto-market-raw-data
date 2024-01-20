@@ -1890,12 +1890,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "API3",
         "baseCoinIconUrl": "",
         "baseCoinName": "API3",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [
             "mc-trade-zone-web3"
         ],
@@ -6045,7 +6045,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 21500,
+        "limitMaxVol": 13000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0.0001,
         "marketOrderMaxLevel": 20,
@@ -6056,7 +6056,7 @@
             200,
             50
         ],
-        "maxVol": 21500,
+        "maxVol": 13000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -13909,7 +13909,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 59000,
+        "limitMaxVol": 52400,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0.0001,
         "marketOrderMaxLevel": 20,
@@ -13920,7 +13920,7 @@
             200,
             50
         ],
-        "maxVol": 59000,
+        "maxVol": 52400,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -20200,7 +20200,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "XEM_USDT\u6c38\u7eed",
         "displayNameEn": "XEM_USDT PERPETUAL",
