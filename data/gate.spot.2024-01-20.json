@@ -2679,6 +2679,19 @@
     },
     {
         "amount_precision": 3,
+        "base": "ASMATCH",
+        "buy_start": 1705996800,
+        "fee": "0.2",
+        "id": "ASMATCH_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
         "base": "ASM",
         "buy_start": 1634806800,
         "fee": "0.2",
@@ -4754,19 +4767,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "BGT",
-        "buy_start": 1692169200,
-        "fee": "0.2",
-        "id": "BGT_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
