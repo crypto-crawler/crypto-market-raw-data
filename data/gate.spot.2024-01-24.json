@@ -7996,7 +7996,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -38190,6 +38190,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "UPC",
+        "buy_start": 1706515200,
+        "fee": "0.2",
+        "id": "UPC_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "UPI",
         "buy_start": 1646222400,
@@ -42210,6 +42223,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ZKB",
+        "buy_start": 1706162400,
+        "fee": "0.2",
+        "id": "ZKB_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1608606000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
