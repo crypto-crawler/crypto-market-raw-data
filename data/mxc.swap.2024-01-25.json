@@ -229,7 +229,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -239,7 +239,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -2257,7 +2257,7 @@
         ],
         "initialMarginRate": 0.0666,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 13000,
         "maintenanceMarginRate": 0.004,
@@ -14973,7 +14973,7 @@
             "BINANCE",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0666,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -14983,7 +14983,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 15,
         "maxNumOrders": [
             200,
             50
@@ -19144,7 +19144,7 @@
         ],
         "initialMarginRate": 0.0666,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 173000,
         "maintenanceMarginRate": 0.01,
