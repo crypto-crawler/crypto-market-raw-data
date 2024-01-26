@@ -3215,7 +3215,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -3225,7 +3225,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 100,
         "maxNumOrders": [
             200,
             50
@@ -4189,7 +4189,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 2621,
+        "threshold": 2607,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -5912,7 +5912,7 @@
             "BINANCE",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -5922,7 +5922,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 75,
         "maxNumOrders": [
             200,
             50
@@ -10425,7 +10425,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 58973,
+        "threshold": 59986,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12289,9 +12289,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "MBOX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -12309,7 +12307,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 87000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0.0001,
@@ -13274,7 +13272,7 @@
         "state": 0,
         "symbol": "NEXA_USDT",
         "takerFeeRate": 0.0005,
-        "threshold": 3644,
+        "threshold": 3548,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -20021,7 +20019,6 @@
         "displayNameEn": "WSM_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "GATEIO",
             "HUOBI",
             "OKX"
         ],
@@ -20029,7 +20026,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 42000,
+        "limitMaxVol": 10500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0.0001,
         "marketOrderMaxLevel": 20,
@@ -20040,7 +20037,7 @@
             200,
             50
         ],
-        "maxVol": 42000,
+        "maxVol": 10500,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -20049,10 +20046,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 42000,
+        "riskBaseVol": 10500,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 42000,
+        "riskIncrVol": 10500,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
