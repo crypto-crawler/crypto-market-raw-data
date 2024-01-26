@@ -9689,6 +9689,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "DEFI",
+        "buy_start": 1706695200,
+        "fee": "0.2",
+        "id": "DEFI_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "DEGO",
         "buy_start": 1602151200,
@@ -31882,7 +31895,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -40262,19 +40275,6 @@
         "quote": "USDT",
         "sell_start": 1604016000,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "WORK",
-        "buy_start": 1706576400,
-        "fee": "0.2",
-        "id": "WORK_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
