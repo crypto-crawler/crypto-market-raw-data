@@ -6965,7 +6965,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20,
+        "impactMidSize": 20.0,
         "marginLevels": [
             {
                 "initialMargin": 0.1,
@@ -6983,10 +6983,10 @@
                 "numNonContractUnits": 1250000.0
             }
         ],
-        "maxPositionSize": 300000,
+        "maxPositionSize": 300000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2024-01-25T13:01:04.676Z",
-        "postOnly": true,
+        "openingDate": "2024-01-25T13:01:05.000Z",
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.1,
