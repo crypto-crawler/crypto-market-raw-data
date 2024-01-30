@@ -10297,7 +10297,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -27275,6 +27275,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ORNJ",
+        "buy_start": 1706702400,
+        "fee": "0.2",
+        "id": "ORNJ_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ORN",
         "buy_start": 1610942400,
@@ -28261,6 +28274,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "PIVX",
+        "buy_start": 1706868000,
+        "fee": "0.2",
+        "id": "PIVX_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -36223,6 +36249,19 @@
         "quote": "USDT",
         "sell_start": 1598013300,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TAPROOT",
+        "buy_start": 1706954400,
+        "fee": "0.2",
+        "id": "TAPROOT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
