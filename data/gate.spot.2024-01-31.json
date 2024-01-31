@@ -7544,32 +7544,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "CHNG",
-        "buy_start": 1624089600,
-        "fee": "0.2",
-        "id": "CHNG_BTC",
-        "max_quote_amount": "100",
-        "min_quote_amount": "0.00001",
-        "precision": 9,
-        "quote": "BTC",
-        "sell_start": 1600669200,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "CHNG",
-        "buy_start": 1624089600,
-        "fee": "0.2",
-        "id": "CHNG_USDT",
-        "max_quote_amount": "1000000",
-        "min_quote_amount": "1",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1600669200,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "CHO",
         "buy_start": 1661947200,
@@ -9699,7 +9673,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -18780,9 +18754,22 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "JUP",
+        "buy_start": 1706715000,
+        "fee": "0.2",
+        "id": "JUP_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "JUP",
-        "buy_start": 1706713200,
+        "buy_start": 1706715000,
         "fee": "0.2",
         "id": "JUP_USDT",
         "max_quote_amount": "1000000",
@@ -27298,7 +27285,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -42351,6 +42338,19 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZETA",
+        "buy_start": 1706756400,
+        "fee": "0.2",
+        "id": "ZETA_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
