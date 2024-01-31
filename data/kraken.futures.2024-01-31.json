@@ -1585,6 +1585,57 @@
         "type": "flexible_futures"
     },
     {
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 40.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "maxPositionSize": 700000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-01-31T13:00:41.000Z",
+        "postOnly": false,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "symbol": "PF_API3USD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "category": "Layer 1",
         "contractSize": 1,
         "contractValueTradePrecision": 1,
@@ -4889,6 +4940,57 @@
         "symbol": "PF_LRCUSD",
         "tags": [],
         "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 80.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "maxPositionSize": 1000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-01-31T13:00:39.000Z",
+        "postOnly": false,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "symbol": "PF_LSKUSD",
+        "tags": [],
+        "tickSize": 0.0001,
         "tradeable": true,
         "type": "flexible_futures"
     },
