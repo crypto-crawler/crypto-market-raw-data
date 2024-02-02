@@ -4051,7 +4051,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 18860,
+        "threshold": 18458,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10422,7 +10422,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 61566,
+        "threshold": 61083,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -16909,7 +16909,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.000001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "SLP_USDT\u6c38\u7eed",
         "displayNameEn": "SLP_USDT PERPETUAL",
@@ -20827,7 +20828,7 @@
         "displayNameEn": "YFII_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "HUOBI",
+            "GATEIO",
             "OKX",
             "MEXC"
         ],
@@ -20835,7 +20836,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 501000,
+        "limitMaxVol": 200000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -20846,7 +20847,7 @@
             200,
             50
         ],
-        "maxVol": 501000,
+        "maxVol": 200000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -20855,10 +20856,10 @@
         "priceUnit": 0.1,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 501000,
+        "riskBaseVol": 200000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 501000,
+        "riskIncrVol": 200000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
