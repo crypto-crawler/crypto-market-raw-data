@@ -10322,7 +10322,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": true,
         "limitMaxVol": 3000,
         "maintenanceMarginRate": 0.01,
@@ -14975,7 +14975,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 11000,
         "maintenanceMarginRate": 0.004,
@@ -19624,7 +19624,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -21169,8 +21168,8 @@
         ],
         "contractSize": 10,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "ZETA_USDT\u6c38\u7eed",
         "displayNameEn": "ZETA_USDT PERPETUAL",
@@ -21201,8 +21200,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 560,

@@ -909,11 +909,29 @@
         "tick_size": "6"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "PORK",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "PORK_USDT",
+        "tick_size": "10"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "VR",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "VR_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "ASM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ASM_USDT",
         "tick_size": "4"
     },
