@@ -89,6 +89,7 @@
         "futureType": 1,
         "indexOrigin": [
             "GATEIO",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -3478,7 +3479,10 @@
         "displayNameEn": "BIGTIME_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -4819,6 +4823,7 @@
         "displayNameEn": "CETUS_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -8759,6 +8764,8 @@
         "displayNameEn": "GROK_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
+            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.0133,
@@ -10324,7 +10331,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": true,
-        "limitMaxVol": 3000,
+        "limitMaxVol": 35000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10335,7 +10342,7 @@
             200,
             50
         ],
-        "maxVol": 3000,
+        "maxVol": 35000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10344,10 +10351,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 600,
+        "riskBaseVol": 7000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 600,
+        "riskIncrVol": 7000,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -12834,7 +12841,10 @@
         "displayNameEn": "MUBI_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -13434,7 +13444,10 @@
         "displayNameEn": "NTRN_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE"
+            "BITGET",
+            "BINANCE",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -13700,6 +13713,7 @@
         "displayNameEn": "ONDO_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "MEXC",
             "KUCOIN"
@@ -14038,6 +14052,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "GATEIO",
             "OKX",
             "KUCOIN"
         ],
@@ -14296,7 +14311,9 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "PENDLE_USDT\u6c38\u7eed",
         "displayNameEn": "PENDLE_USDT PERPETUAL",
@@ -18543,6 +18560,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BYBIT",
+            "GATEIO",
             "MEXC",
             "KUCOIN"
         ],
@@ -20571,7 +20589,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 377000,
         "maintenanceMarginRate": 0.004,
@@ -21184,7 +21202,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": true,
         "limitMaxVol": 2800,
         "maintenanceMarginRate": 0.02,
