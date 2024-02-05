@@ -3680,6 +3680,19 @@
     },
     {
         "amount_precision": 0,
+        "base": "BABYBONK",
+        "buy_start": 1707390000,
+        "fee": "0.2",
+        "id": "BABYBONK_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 14,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 0,
         "base": "BABYDOGE",
         "buy_start": 1626944400,
         "fee": "0.2",
@@ -12618,6 +12631,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EVADORE",
+        "buy_start": 1707742800,
+        "fee": "0.2",
+        "id": "EVADORE_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
