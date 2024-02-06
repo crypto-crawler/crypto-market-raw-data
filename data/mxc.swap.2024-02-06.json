@@ -1769,9 +1769,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
-            "BINANCE",
+            "GATEIO",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -12293,13 +12294,15 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "MBOX",
         "baseCoinIconUrl": "",
         "baseCoinName": "MBOX",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 1,
+        "deliveryPriceTrend": 3,
+        "deliveryTime": 1707289200058,
         "depthStepList": [
             "0.001",
             "0.01"
@@ -12314,7 +12317,7 @@
             "MEXC"
         ],
         "initialMarginRate": 0.05,
-        "isHidden": false,
+        "isHidden": true,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 87000,
@@ -12337,10 +12340,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 87000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 87000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -20386,7 +20389,7 @@
         "displayNameEn": "XMR_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
-            "BINANCE",
+            "GATEIO",
             "MEXC",
             "KUCOIN"
         ],
