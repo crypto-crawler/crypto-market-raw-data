@@ -1898,6 +1898,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ANAVI",
+        "buy_start": 1707274800,
+        "fee": "0.2",
+        "id": "ANAVI_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "ANC",
         "buy_start": 1616061600,
@@ -11353,6 +11366,32 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "DYM",
+        "buy_start": 1707238800,
+        "fee": "0.2",
+        "id": "DYM_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "DYM",
+        "buy_start": 1707238800,
+        "fee": "0.2",
+        "id": "DYM_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "DYP",
         "buy_start": 1614744000,
@@ -16986,6 +17025,19 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "HMX",
+        "buy_start": 1707822000,
+        "fee": "0.2",
+        "id": "HMX_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
