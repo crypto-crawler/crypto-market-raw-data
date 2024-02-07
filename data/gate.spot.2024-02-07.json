@@ -23741,6 +23741,19 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "MMT",
+        "buy_start": 1708081200,
+        "fee": "0.2",
+        "id": "MMT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "MM",
         "buy_start": 1626318000,
@@ -26200,7 +26213,7 @@
     {
         "amount_precision": 2,
         "base": "OBT",
-        "buy_start": 1707390000,
+        "buy_start": 1707391800,
         "fee": "0.2",
         "id": "OBT_USDT",
         "max_quote_amount": "1000000",
