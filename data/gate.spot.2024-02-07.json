@@ -11955,6 +11955,19 @@
         "base": "ENS",
         "buy_start": 1636434000,
         "fee": "0.2",
+        "id": "ENS_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "ENS",
+        "buy_start": 1636434000,
+        "fee": "0.2",
         "id": "ENS_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
@@ -14047,7 +14060,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -24141,7 +24154,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1608782400,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -24805,6 +24818,19 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NAVX",
+        "buy_start": 1707310800,
+        "fee": "0.2",
+        "id": "NAVX_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -42651,7 +42677,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
