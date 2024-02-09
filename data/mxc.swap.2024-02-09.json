@@ -3984,7 +3984,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 21205,
+        "threshold": 20937,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8754,7 +8754,8 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.00001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "GROK_USDT\u6c38\u7eed",
         "displayNameEn": "GROK_USDT PERPETUAL",
@@ -10423,7 +10424,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 78377,
+        "threshold": 80229,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -15310,7 +15311,8 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "RARE_USDT\u6c38\u7eed",
         "displayNameEn": "RARE_USDT PERPETUAL",
@@ -16803,6 +16805,7 @@
         "futureType": 1,
         "indexOrigin": [
             "BITGET",
+            "HUOBI",
             "KUCOIN"
         ],
         "initialMarginRate": 0.05,
