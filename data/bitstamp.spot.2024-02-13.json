@@ -2088,5 +2088,38 @@
         "name": "LMWR/EUR",
         "trading": "Disabled",
         "url_symbol": "lmwreur"
+    },
+    {
+        "base_decimals": 1,
+        "counter_decimals": 8,
+        "description": "Pepe / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 8,
+        "minimum_order": "10.00000000 USD",
+        "name": "PEPE/USD",
+        "trading": "Disabled",
+        "url_symbol": "pepeusd"
+    },
+    {
+        "base_decimals": 1,
+        "counter_decimals": 8,
+        "description": "Pepe / Euro",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 8,
+        "minimum_order": "10.00000000 EUR",
+        "name": "PEPE/EUR",
+        "trading": "Disabled",
+        "url_symbol": "pepeeur"
+    },
+    {
+        "base_decimals": 3,
+        "counter_decimals": 4,
+        "description": "Veloce / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "VEXT/USD",
+        "trading": "Disabled",
+        "url_symbol": "vextusd"
     }
 ]
