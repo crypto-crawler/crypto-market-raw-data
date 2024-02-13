@@ -5012,12 +5012,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "CKB",
         "baseCoinIconUrl": "",
         "baseCoinName": "CKB",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [
             "mc-trade-zone-web3"
         ],
@@ -5031,10 +5031,10 @@
         "futureType": 1,
         "indexOrigin": [
             "BINANCE",
-            "MEXC",
-            "KUCOIN"
+            "GATEIO",
+            "MEXC"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -5044,7 +5044,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -6635,9 +6635,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "DYM",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -6656,7 +6654,7 @@
         "initialMarginRate": 0.008,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 40000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
