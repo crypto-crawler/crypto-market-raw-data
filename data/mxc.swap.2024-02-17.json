@@ -2591,7 +2591,7 @@
             "BINANCE",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -2601,7 +2601,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -3986,7 +3986,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 19865,
+        "threshold": 19597,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10424,7 +10424,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 96884,
+        "threshold": 95738,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -11323,12 +11323,12 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.4,
         "automaticDelivery": 0,
         "baseCoin": "LPT",
         "baseCoinIconUrl": "",
         "baseCoinName": "LPT",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.4,
         "conceptPlate": [
             "mc-trade-zone-web3",
             "mc-trade-zone-Arbitrum"
@@ -11348,7 +11348,7 @@
             "OKX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.0666,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -11358,7 +11358,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 15,
         "maxNumOrders": [
             200,
             50
@@ -16675,7 +16675,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -16685,7 +16685,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
