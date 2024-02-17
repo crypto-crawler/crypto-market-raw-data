@@ -3402,7 +3402,9 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "BIGTIME_USDT\u6c38\u7eed",
         "displayNameEn": "BIGTIME_USDT PERPETUAL",
@@ -14839,13 +14841,15 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "POGAI",
         "baseCoinIconUrl": "",
         "baseCoinName": "POGAI",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 100000,
+        "deliveryPriceTrend": 3,
+        "deliveryTime": 1708326000641,
         "depthStepList": [
             "0.0000001"
         ],
@@ -14858,7 +14862,7 @@
             "MEXC"
         ],
         "initialMarginRate": 0.02,
-        "isHidden": false,
+        "isHidden": true,
         "isHot": false,
         "isNew": false,
         "limitMaxVol": 1100,
@@ -14881,10 +14885,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1100,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 1100,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -16666,6 +16670,7 @@
         "displayNameEn": "SC_USDT PERPETUAL",
         "futureType": 1,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
             "OKX",
             "MEXC"
