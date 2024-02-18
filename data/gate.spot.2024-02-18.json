@@ -4432,6 +4432,19 @@
     },
     {
         "amount_precision": 2,
+        "base": "BCUT",
+        "buy_start": 1708434000,
+        "fee": "0.2",
+        "id": "BCUT_USDT",
+        "max_quote_amount": "1000000",
+        "min_quote_amount": "1",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "BCX",
         "buy_start": 0,
         "fee": "0.2",
@@ -31300,14 +31313,14 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "REVOLAND",
         "buy_start": 1655737200,
         "fee": "0.2",
         "id": "REVOLAND_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
