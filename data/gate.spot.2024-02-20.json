@@ -35685,6 +35685,19 @@
         "base": "STRK",
         "buy_start": 1708434000,
         "fee": "0.2",
+        "id": "STRK_TRY",
+        "max_quote_amount": "30000000",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "STRK",
+        "buy_start": 1708434000,
+        "fee": "0.2",
         "id": "STRK_USDT",
         "max_quote_amount": "1000000",
         "min_quote_amount": "1",
@@ -39299,7 +39312,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
