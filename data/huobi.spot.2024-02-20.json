@@ -7516,7 +7516,7 @@
         "state": "online",
         "symbol": "davusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -26777,6 +26777,7 @@
         "api-trading": "enabled",
         "base-currency": "strk",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -26786,7 +26787,7 @@
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.1,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "strkusdt",
         "symbol-partition": "main",
         "tags": "",
