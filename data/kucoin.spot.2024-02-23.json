@@ -17120,7 +17120,7 @@
     },
     {
         "baseCurrency": "JASMY3S",
-        "baseIncrement": "0.000001",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "100000000000000000",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -17129,10 +17129,10 @@
         "market": "USDS",
         "minFunds": "0.1",
         "name": "JASMY3S-USDT",
-        "priceIncrement": "0.000001",
+        "priceIncrement": "0.00000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.000001",
+        "quoteIncrement": "0.00000001",
         "quoteMaxSize": "10000",
         "quoteMinSize": "0.1",
         "symbol": "JASMY3S-USDT"
@@ -23849,7 +23849,7 @@
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.1",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -23862,5 +23862,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "SLN-USDT"
+    },
+    {
+        "baseCurrency": "PANDORA",
+        "baseIncrement": "0.0001",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "0.00001",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "PANDORA-USDT",
+        "priceIncrement": "0.01",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.01",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "PANDORA-USDT"
     }
 ]
