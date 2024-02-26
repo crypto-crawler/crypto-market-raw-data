@@ -1228,7 +1228,7 @@
         "base_currency": "ASTO",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ASTO_USDT",
         "tick_size": "5"
     },
@@ -1237,7 +1237,7 @@
         "base_currency": "WLD",
         "quote_currency": "USDC",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "WLD_USDC",
         "tick_size": "3"
     },
@@ -5829,6 +5829,15 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "PMPY_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "IQ",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "IQ_USDT",
         "tick_size": "6"
     },
     {
