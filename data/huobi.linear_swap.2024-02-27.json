@@ -1173,7 +1173,7 @@
         "business_type": "swap",
         "contract_code": "KAS-USDT",
         "contract_size": 10.0,
-        "contract_status": 4,
+        "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20240227",
         "delivery_date": "",
@@ -1542,6 +1542,21 @@
         "price_tick": 1e-10,
         "support_margin_mode": "all",
         "symbol": "SATS",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "PENDLE-USDT",
+        "contract_size": 1.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20240227",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "PENDLE-USDT",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "PENDLE",
         "trade_partition": "USDT"
     },
     {
