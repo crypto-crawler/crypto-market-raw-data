@@ -2107,10 +2107,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "ICE",
+        "base_currency": "$GPT",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "$GPT_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ICE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "ICE_USDT",
         "tick_size": "5"
     },
@@ -2119,7 +2128,7 @@
         "base_currency": "BBL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BBL_USDT",
         "tick_size": "5"
     },
