@@ -4044,7 +4044,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 23182,
+        "threshold": 24488,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -8536,7 +8536,9 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.001"
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "GAS_USDT\u6c38\u7eed",
         "displayNameEn": "GAS_USDT PERPETUAL",
@@ -10713,7 +10715,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 102938,
+        "threshold": 107116,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -12408,8 +12410,7 @@
         "depthStepList": [
             "0.0001",
             "0.001",
-            "0.01",
-            "0.1"
+            "0.01"
         ],
         "displayName": "MATIC_USDT\u6c38\u7eed",
         "displayNameEn": "MATIC_USDT PERPETUAL",
@@ -13081,9 +13082,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "MOBILE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
             "0.000001",
@@ -13101,7 +13100,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 4500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -15393,6 +15392,75 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "PORTAL",
+        "baseCoinIconUrl": "",
+        "baseCoinName": "PORTAL",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "contractSize": 1,
+        "depthStepList": [
+            "0.0001",
+            "0.001"
+        ],
+        "displayName": "PORTAL_USDT\u6c38\u7eed",
+        "displayNameEn": "PORTAL_USDT PERPETUAL",
+        "futureType": 1,
+        "id": 544,
+        "indexOrigin": [
+            "BYBIT",
+            "BINANCE",
+            "MEXC",
+            "KUCOIN"
+        ],
+        "initialMarginRate": 0.05,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 7500,
+        "maintenanceMarginRate": 0.02,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 20,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 7500,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 1500,
+        "riskIncrImr": 0.01,
+        "riskIncrMmr": 0.01,
+        "riskIncrVol": 1500,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "riskLongShortSwitch": 0,
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "PORTAL_USDT",
+        "takerFeeRate": 0.0001,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "POWR",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231024203808264p3c7wnyJREM3Pm.png",
         "baseCoinName": "POWR",
@@ -16976,7 +17044,9 @@
         ],
         "contractSize": 10000000,
         "depthStepList": [
-            "0.0000000001"
+            "0.0000000001",
+            "0.000000001",
+            "0.00000001"
         ],
         "displayName": "SATS_USDT\u6c38\u7eed",
         "displayNameEn": "SATS_USDT PERPETUAL",
