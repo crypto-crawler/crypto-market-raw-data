@@ -3453,7 +3453,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.0001"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "BICO_USDT\u6c38\u7eed",
         "displayNameEn": "BICO_USDT PERPETUAL",
@@ -7865,7 +7866,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 33000,
         "maintenanceMarginRate": 0.004,
@@ -17948,7 +17949,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 22000,
         "maintenanceMarginRate": 0.004,
