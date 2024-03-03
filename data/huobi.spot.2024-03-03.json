@@ -7539,7 +7539,7 @@
         "state": "online",
         "symbol": "davusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -20622,7 +20622,7 @@
         "state": "online",
         "symbol": "numusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -21086,7 +21086,7 @@
         "super-margin-leverage-ratio": 3,
         "symbol": "omgusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -25488,7 +25488,7 @@
         "state": "online",
         "symbol": "smcwusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -28196,9 +28196,9 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "tpy",
-        "buy-limit-must-less-than": 1.05,
+        "buy-limit-must-less-than": 1.02,
         "limit-order-min-order-amt": 0.1,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.002,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 0.1,
         "min-order-value": 10,
@@ -28209,7 +28209,7 @@
         "state": "online",
         "symbol": "tpyusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
