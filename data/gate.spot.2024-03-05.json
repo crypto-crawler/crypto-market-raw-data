@@ -10950,34 +10950,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "DG",
-        "buy_start": 1646280000,
-        "fee": "0.2",
-        "id": "DG_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "DG",
-        "buy_start": 1646280000,
-        "fee": "0.2",
-        "id": "DG_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "10",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
         "amount_precision": 0,
         "base": "DHB",
         "buy_start": 1676534400,
@@ -26804,6 +26776,34 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "MYRO",
+        "buy_start": 1709622000,
+        "fee": "0.2",
+        "id": "MYRO_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MYRO",
+        "buy_start": 1709622000,
+        "fee": "0.2",
+        "id": "MYRO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "MYTH",
         "buy_start": 1687442400,
@@ -27488,6 +27488,20 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NFE",
+        "buy_start": 1709794800,
+        "fee": "0.2",
+        "id": "NFE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -36790,20 +36804,6 @@
     },
     {
         "amount_precision": 0,
-        "base": "SMART",
-        "buy_start": 1676368800,
-        "fee": "0.2",
-        "id": "SMART_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "10",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
         "base": "SMILE",
         "buy_start": 1704621600,
         "fee": "0.2",
@@ -39936,7 +39936,7 @@
         "precision": 2,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
