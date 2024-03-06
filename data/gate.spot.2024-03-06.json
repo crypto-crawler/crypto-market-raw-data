@@ -1184,7 +1184,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "1",
         "min_quote_amount": "10",
-        "precision": 10,
+        "precision": 12,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -8808,6 +8808,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "COQ",
+        "buy_start": 1709715600,
+        "fee": "0.2",
+        "id": "COQ_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "10",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "CORAL",
         "buy_start": 1603080000,
@@ -13974,7 +13988,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -42898,7 +42912,7 @@
     {
         "amount_precision": 2,
         "base": "VOYA",
-        "buy_start": 1709884800,
+        "buy_start": 1709719200,
         "fee": "0.2",
         "id": "VOYA_USDT",
         "max_quote_amount": "5000000",
@@ -43076,6 +43090,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "VSC",
+        "buy_start": 1709949600,
+        "fee": "0.2",
+        "id": "VSC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
