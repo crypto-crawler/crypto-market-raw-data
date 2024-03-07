@@ -767,7 +767,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -4854,7 +4854,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -5643,7 +5643,7 @@
     {
         "amount_precision": 2,
         "base": "BLOCX",
-        "buy_start": 1709892000,
+        "buy_start": 1709893800,
         "fee": "0.2",
         "id": "BLOCX_USDT",
         "max_quote_amount": "5000000",
@@ -26077,6 +26077,20 @@
     },
     {
         "amount_precision": 0,
+        "base": "MOG",
+        "buy_start": 1710237600,
+        "fee": "0.2",
+        "id": "MOG_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "10",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 0,
         "base": "MOJO",
         "buy_start": 1667037600,
         "fee": "0.2",
@@ -27742,6 +27756,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "NIBI",
+        "buy_start": 1710230400,
+        "fee": "0.2",
+        "id": "NIBI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "NIFT",
         "buy_start": 1637236800,
@@ -28286,6 +28314,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NUUM",
+        "buy_start": 1709866800,
+        "fee": "0.2",
+        "id": "NUUM_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -35390,6 +35432,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "SCA",
+        "buy_start": 1709892000,
+        "fee": "0.2",
+        "id": "SCA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "SCCP",
         "buy_start": 1663063200,
         "fee": "0.2",
@@ -36898,7 +36954,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -42404,6 +42460,20 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "VCI",
+        "buy_start": 1710144000,
+        "fee": "0.2",
+        "id": "VCI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
