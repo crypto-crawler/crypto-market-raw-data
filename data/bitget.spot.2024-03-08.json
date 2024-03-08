@@ -2173,7 +2173,7 @@
         "base_currency": "ALVA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ALVA_USDT",
         "tick_size": "4"
     },
@@ -2250,6 +2250,15 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "DEVVE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "DEVVE_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "0",
         "base_currency": "ID",
         "quote_currency": "USDT",
@@ -2263,7 +2272,7 @@
         "base_currency": "SCA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SCA_USDT",
         "tick_size": "4"
     },
