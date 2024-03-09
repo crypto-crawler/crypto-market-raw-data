@@ -17239,6 +17239,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "GOMD",
+        "buy_start": 1710331200,
+        "fee": "0.2",
+        "id": "GOMD_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "10",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "GOMINING",
         "buy_start": 1682773200,
@@ -27558,6 +27572,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "NEVER",
+        "buy_start": 1710068400,
+        "fee": "0.2",
+        "id": "NEVER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "10",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -38285,6 +38313,20 @@
         "quote": "USDT",
         "sell_start": 1603166400,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "STARHEROES",
+        "buy_start": 1710237600,
+        "fee": "0.2",
+        "id": "STARHEROES_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
