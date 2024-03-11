@@ -496,15 +496,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "ISLM",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "ISLM_USDT",
-        "tick_size": "5"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "PROPS",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -2248,6 +2239,24 @@
         "status": "online",
         "symbol": "NUUM_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "IVPAY",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "IVPAY_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ORBK",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ORBK_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
