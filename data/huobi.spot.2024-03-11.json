@@ -17344,6 +17344,7 @@
         "api-trading": "enabled",
         "base-currency": "magic",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.1,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -29724,7 +29725,7 @@
         "state": "online",
         "symbol": "utusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
