@@ -74,7 +74,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "10000COQ",
-        "baseCoinIconUrl": "",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20240312202001558cdzf7PzBVipJC6.png",
         "baseCoinName": "10000COQ",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
@@ -83,9 +83,7 @@
         "contractSize": 100,
         "depthStepList": [
             "0.00001",
-            "0.0001",
-            "0.001",
-            "0.01"
+            "0.0001"
         ],
         "displayName": "10000COQ_USDT\u6c38\u7eed",
         "displayNameEn": "10000COQ_USDT PERPETUAL",
@@ -97,7 +95,7 @@
             "KUCOIN"
         ],
         "initialMarginRate": 0.05,
-        "isHidden": true,
+        "isHidden": false,
         "isHot": false,
         "isNew": true,
         "limitMaxVol": 1800,
@@ -120,10 +118,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 360,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 0,
+        "riskIncrVol": 360,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -4250,7 +4248,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 16641,
+        "threshold": 15845,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -10992,7 +10990,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0001,
-        "threshold": 95810,
+        "threshold": 90311,
         "triggerProtect": 0.1,
         "volScale": 0,
         "volUnit": 1
@@ -17810,7 +17808,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 15700000,
         "maintenanceMarginRate": 0.004,
@@ -18291,7 +18289,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 44000,
         "maintenanceMarginRate": 0.004,
