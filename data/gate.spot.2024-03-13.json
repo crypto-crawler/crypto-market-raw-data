@@ -7324,6 +7324,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BVM",
+        "buy_start": 1710493200,
+        "fee": "0.2",
+        "id": "BVM_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "BVT",
         "buy_start": 1661256000,
@@ -17138,7 +17152,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -20288,7 +20302,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
