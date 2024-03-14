@@ -11426,6 +11426,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "DMR",
+        "buy_start": 1710759600,
+        "fee": "0.2",
+        "id": "DMR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "10",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "DMS",
         "buy_start": 1640005200,
@@ -23115,7 +23129,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1602561600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
