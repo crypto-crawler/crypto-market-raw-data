@@ -373,7 +373,7 @@
         "base_currency": "FIS",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "FIS_USDT",
         "tick_size": "4"
     },
@@ -1003,7 +1003,7 @@
         "base_currency": "MDT",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "MDT_USDT",
         "tick_size": "6"
     },
@@ -1039,7 +1039,7 @@
         "base_currency": "OAX",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "OAX_USDT",
         "tick_size": "4"
     },
@@ -1111,7 +1111,7 @@
         "base_currency": "TUSD",
         "quote_currency": "BTC",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "TUSD_BTC",
         "tick_size": "9"
     },
@@ -1120,7 +1120,7 @@
         "base_currency": "TUSD",
         "quote_currency": "ETH",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "TUSD_ETH",
         "tick_size": "7"
     },
@@ -1210,7 +1210,7 @@
         "base_currency": "WLD",
         "quote_currency": "USDC",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "WLD_USDC",
         "tick_size": "3"
     },
@@ -1327,7 +1327,7 @@
         "base_currency": "PIXEL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "PIXEL_USDT",
         "tick_size": "4"
     },
@@ -1390,7 +1390,7 @@
         "base_currency": "ASTR",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "ASTR_USDT",
         "tick_size": "6"
     },
@@ -1633,7 +1633,7 @@
         "base_currency": "JUV",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "JUV_USDT",
         "tick_size": "4"
     },
@@ -2191,7 +2191,7 @@
         "base_currency": "AVAX",
         "quote_currency": "BTC",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "AVAX_BTC",
         "tick_size": "7"
     },
@@ -2200,7 +2200,7 @@
         "base_currency": "ORDI",
         "quote_currency": "BTC",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "ORDI_BTC",
         "tick_size": "7"
     },
@@ -2209,7 +2209,7 @@
         "base_currency": "FET",
         "quote_currency": "BTC",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "FET_BTC",
         "tick_size": "8"
     },
@@ -2241,13 +2241,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "3",
         "base_currency": "KLV",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "3",
         "status": "gray",
         "symbol": "KLV_USDT",
-        "tick_size": "0"
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "1",
@@ -2394,13 +2394,31 @@
         "tick_size": "10"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "GEC",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "GEC_USDT",
+        "tick_size": "10"
+    },
+    {
+        "base_asset_precision": "1",
+        "base_currency": "BOME",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "BOME_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "BRETT",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "BRETT_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -2412,13 +2430,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "CREO",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "CREO_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "3",
@@ -2430,13 +2448,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "RMV",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "RMV_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "3",
@@ -3703,7 +3721,7 @@
         "base_currency": "LTC",
         "quote_currency": "BTC",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "LTC_BTC",
         "tick_size": "6"
     },
@@ -3784,7 +3802,7 @@
         "base_currency": "QUICK",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "QUICK_USDT",
         "tick_size": "5"
     },
@@ -3991,7 +4009,7 @@
         "base_currency": "LINA",
         "quote_currency": "BTC",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "LINA_BTC",
         "tick_size": "10"
     },
@@ -4009,7 +4027,7 @@
         "base_currency": "CRV",
         "quote_currency": "BTC",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "CRV_BTC",
         "tick_size": "8"
     },
@@ -4900,7 +4918,7 @@
         "base_currency": "PSG",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "PSG_USDT",
         "tick_size": "5"
     },
@@ -4918,7 +4936,7 @@
         "base_currency": "BAR",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "BAR_USDT",
         "tick_size": "5"
     },
@@ -4927,7 +4945,7 @@
         "base_currency": "PORTO",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "PORTO_USDT",
         "tick_size": "4"
     },
@@ -4936,7 +4954,7 @@
         "base_currency": "LAZIO",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "LAZIO_USDT",
         "tick_size": "4"
     },
@@ -4954,7 +4972,7 @@
         "base_currency": "CITY",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "CITY_USDT",
         "tick_size": "4"
     },
@@ -4963,7 +4981,7 @@
         "base_currency": "ASR",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "ASR_USDT",
         "tick_size": "3"
     },
@@ -4972,7 +4990,7 @@
         "base_currency": "ATM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "ATM_USDT",
         "tick_size": "3"
     },
@@ -5233,7 +5251,7 @@
         "base_currency": "DREP",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "DREP_USDT",
         "tick_size": "4"
     },
@@ -5332,7 +5350,7 @@
         "base_currency": "LTC",
         "quote_currency": "EUR",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "LTC_EUR",
         "tick_size": "2"
     },
@@ -5566,7 +5584,7 @@
         "base_currency": "DOGE",
         "quote_currency": "EUR",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "DOGE_EUR",
         "tick_size": "5"
     },
@@ -5575,7 +5593,7 @@
         "base_currency": "AVAX",
         "quote_currency": "EUR",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "AVAX_EUR",
         "tick_size": "2"
     },
@@ -5584,7 +5602,7 @@
         "base_currency": "LINK",
         "quote_currency": "EUR",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "LINK_EUR",
         "tick_size": "3"
     },
@@ -5593,7 +5611,7 @@
         "base_currency": "ADA",
         "quote_currency": "EUR",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "ADA_EUR",
         "tick_size": "4"
     },
@@ -5791,7 +5809,7 @@
         "base_currency": "ARK",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "ARK_USDT",
         "tick_size": "4"
     },
@@ -5818,7 +5836,7 @@
         "base_currency": "VANRY",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "VANRY_USDT",
         "tick_size": "5"
     },
@@ -6079,7 +6097,7 @@
         "base_currency": "IQ",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "IQ_USDT",
         "tick_size": "6"
     },
@@ -6088,7 +6106,7 @@
         "base_currency": "KEY",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "KEY_USDT",
         "tick_size": "7"
     },
@@ -6250,7 +6268,7 @@
         "base_currency": "LOOM",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "LOOM_USDT",
         "tick_size": "5"
     },
@@ -6349,7 +6367,7 @@
         "base_currency": "POWR",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "POWR_USDT",
         "tick_size": "4"
     },
@@ -6394,7 +6412,7 @@
         "base_currency": "PHB",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "offline",
+        "status": "online",
         "symbol": "PHB_USDT",
         "tick_size": "4"
     },
@@ -6457,7 +6475,7 @@
         "base_currency": "STMX",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "STMX_USDT",
         "tick_size": "6"
     },
@@ -6466,7 +6484,7 @@
         "base_currency": "STPT",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "offline",
+        "status": "online",
         "symbol": "STPT_USDT",
         "tick_size": "5"
     },
@@ -6538,7 +6556,7 @@
         "base_currency": "VIB",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "offline",
+        "status": "online",
         "symbol": "VIB_USDT",
         "tick_size": "5"
     },
@@ -6610,7 +6628,7 @@
         "base_currency": "USDT",
         "quote_currency": "BRL",
         "size_increment": "1",
-        "status": "offline",
+        "status": "online",
         "symbol": "USDT_BRL",
         "tick_size": "3"
     },
@@ -6619,7 +6637,7 @@
         "base_currency": "BTC",
         "quote_currency": "BRL",
         "size_increment": "5",
-        "status": "offline",
+        "status": "online",
         "symbol": "BTC_BRL",
         "tick_size": "0"
     },
@@ -6628,7 +6646,7 @@
         "base_currency": "ETH",
         "quote_currency": "BRL",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "ETH_BRL",
         "tick_size": "2"
     },
@@ -6745,7 +6763,7 @@
         "base_currency": "BETA",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "BETA_USDT",
         "tick_size": "5"
     },
@@ -6772,7 +6790,7 @@
         "base_currency": "HIGH",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "HIGH_USDT",
         "tick_size": "4"
     },
@@ -7033,7 +7051,7 @@
         "base_currency": "ATOM",
         "quote_currency": "ETH",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "ATOM_ETH",
         "tick_size": "6"
     },
@@ -7159,7 +7177,7 @@
         "base_currency": "DENT",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "DENT_USDT",
         "tick_size": "8"
     },
@@ -7186,7 +7204,7 @@
         "base_currency": "FIL",
         "quote_currency": "ETH",
         "size_increment": "4",
-        "status": "offline",
+        "status": "online",
         "symbol": "FIL_ETH",
         "tick_size": "6"
     }

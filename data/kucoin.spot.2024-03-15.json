@@ -8076,7 +8076,7 @@
     },
     {
         "baseCurrency": "ADA3S",
-        "baseIncrement": "0.000001",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -8085,10 +8085,10 @@
         "market": "ETF",
         "minFunds": "0.1",
         "name": "ADA3S-USDT",
-        "priceIncrement": "0.000001",
+        "priceIncrement": "0.00000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.000001",
+        "quoteIncrement": "0.00000001",
         "quoteMaxSize": "30000",
         "quoteMinSize": "0.1",
         "symbol": "ADA3S-USDT"
@@ -20179,7 +20179,7 @@
     },
     {
         "baseCurrency": "INJDOWN",
-        "baseIncrement": "0.000001",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "999999999999",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -20188,10 +20188,10 @@
         "market": "USDS",
         "minFunds": "0.1",
         "name": "INJDOWN-USDT",
-        "priceIncrement": "0.000001",
+        "priceIncrement": "0.00000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.000001",
+        "quoteIncrement": "0.00000001",
         "quoteMaxSize": "5000",
         "quoteMinSize": "0.1",
         "symbol": "INJDOWN-USDT"
@@ -24204,5 +24204,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "UTXO-USDT"
+    },
+    {
+        "baseCurrency": "AITECH",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "AITECH-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "AITECH-USDT"
     }
 ]
