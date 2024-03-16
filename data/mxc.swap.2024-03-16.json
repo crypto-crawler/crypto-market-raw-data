@@ -4325,14 +4325,13 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "BONE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-MEME"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.001",
             "0.01",
-            "0.1"
+            "0.1",
+            "1"
         ],
         "displayName": "BONE_USDT\u6c38\u7eed",
         "displayNameEn": "BONE_USDT PERPETUAL",
@@ -4364,7 +4363,7 @@
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 2200,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
@@ -4374,7 +4373,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 12735,
@@ -4527,13 +4526,13 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "BTC2",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-20"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
-            "0.001"
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "BTC2_USDT\u6c38\u7eed",
         "displayNameEn": "BTC2_USDT PERPETUAL",
@@ -4565,7 +4564,7 @@
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 5500,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
@@ -4575,7 +4574,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "BTC2_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
@@ -9414,7 +9413,9 @@
         "contractSize": 100,
         "depthStepList": [
             "0.00001",
-            "0.0001"
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "GROK_USDT\u6c38\u7eed",
         "displayNameEn": "GROK_USDT PERPETUAL",
@@ -9449,7 +9450,7 @@
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 33000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
@@ -9459,7 +9460,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "GROK_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
@@ -13679,7 +13680,9 @@
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
-            "0.001"
+            "0.001",
+            "0.01",
+            "0.1"
         ],
         "displayName": "MUBI_USDT\u6c38\u7eed",
         "displayNameEn": "MUBI_USDT PERPETUAL",
@@ -13714,7 +13717,7 @@
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 44000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
@@ -13724,7 +13727,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "MUBI_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
@@ -13747,7 +13750,8 @@
         "depthStepList": [
             "0.001",
             "0.01",
-            "0.1"
+            "0.1",
+            "1"
         ],
         "displayName": "MULTI_USDT\u6c38\u7eed",
         "displayNameEn": "MULTI_USDT PERPETUAL",
@@ -13779,7 +13783,7 @@
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 10000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
@@ -13789,7 +13793,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "MULTI_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
@@ -13812,7 +13816,8 @@
         "depthStepList": [
             "0.001",
             "0.01",
-            "0.1"
+            "0.1",
+            "1"
         ],
         "displayName": "MX_USDT\u6c38\u7eed",
         "displayNameEn": "MX_USDT PERPETUAL",
@@ -13847,7 +13852,7 @@
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 38000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
@@ -13857,7 +13862,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "MX_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
@@ -15446,7 +15451,10 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
-            "0.00001"
+            "0.00001",
+            "0.0001",
+            "0.001",
+            "0.01"
         ],
         "displayName": "PEPECOMMUNITY_USDT\u6c38\u7eed",
         "displayNameEn": "PEPECOMMUNITY_USDT PERPETUAL",
@@ -15478,7 +15486,7 @@
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
-        "quoteCoinName": "USDT",
+        "quoteCoinName": "",
         "riskBaseVol": 18000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
@@ -15488,7 +15496,7 @@
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
         "showAppraisalCountdown": 0,
-        "state": 0,
+        "state": 4,
         "symbol": "PEPECOMMUNITY_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
