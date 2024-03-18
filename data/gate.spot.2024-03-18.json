@@ -137,7 +137,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -13830,7 +13830,7 @@
         "precision": 2,
         "quote": "TRY",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -13844,7 +13844,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -31998,20 +31998,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "POLYHEDRA",
-        "buy_start": 1710842400,
-        "fee": "0.2",
-        "id": "POLYHEDRA_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "10",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "sellable"
-    },
-    {
         "amount_precision": 1,
         "base": "POLYPAD",
         "buy_start": 1649592000,
@@ -34084,7 +34070,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -37134,6 +37120,20 @@
         "min_base_amount": "1",
         "min_quote_amount": "10",
         "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SLERF",
+        "buy_start": 1710759600,
+        "fee": "0.2",
+        "id": "SLERF_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -47233,6 +47233,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZK",
+        "buy_start": 1710842400,
+        "fee": "0.2",
+        "id": "ZK_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

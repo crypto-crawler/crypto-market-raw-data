@@ -2371,7 +2371,7 @@
         "base_currency": "NEVER",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NEVER_USDT",
         "tick_size": "7"
     },
@@ -2380,7 +2380,7 @@
         "base_currency": "ETHFI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ETHFI_USDT",
         "tick_size": "4"
     },
@@ -2398,7 +2398,7 @@
         "base_currency": "SYLO",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SYLO_USDT",
         "tick_size": "6"
     },
@@ -2407,7 +2407,7 @@
         "base_currency": "IQ50",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "IQ50_USDT",
         "tick_size": "8"
     },
@@ -2562,6 +2562,15 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "BGB_BRL",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "SLERF",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "SLERF_USDT",
         "tick_size": "4"
     },
     {
