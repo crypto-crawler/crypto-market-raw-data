@@ -2548,10 +2548,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "ZK",
+        "base_currency": "AAI",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "AAI_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ZK",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "ZK_USDT",
         "tick_size": "3"
     },
@@ -2560,7 +2569,7 @@
         "base_currency": "CHAT",
         "quote_currency": "USDT",
         "size_increment": "3",
-        "status": "gray",
+        "status": "online",
         "symbol": "CHAT_USDT",
         "tick_size": "3"
     },
@@ -2578,7 +2587,7 @@
         "base_currency": "HGPT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "HGPT_USDT",
         "tick_size": "5"
     },
@@ -2587,7 +2596,7 @@
         "base_currency": "PUSH",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "PUSH_USDT",
         "tick_size": "4"
     },
