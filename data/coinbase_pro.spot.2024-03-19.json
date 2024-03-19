@@ -520,7 +520,7 @@
         "trading_disabled": true
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "AKT",
         "base_increment": "0.01",
         "cancel_only": false,
@@ -8403,7 +8403,7 @@
         "auction_mode": false,
         "base_currency": "PLA",
         "base_increment": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "PLA-USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -8415,9 +8415,9 @@
         "post_only": false,
         "quote_currency": "USD",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
