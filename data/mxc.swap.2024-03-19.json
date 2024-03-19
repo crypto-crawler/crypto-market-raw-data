@@ -212,7 +212,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "10000WEN",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.001",
@@ -1100,7 +1102,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "AGIX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -1304,7 +1308,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "AI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -2079,7 +2085,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 132000,
+        "limitMaxVol": 200000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -2090,7 +2096,7 @@
             200,
             50
         ],
-        "maxVol": 132000,
+        "maxVol": 200000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -2099,10 +2105,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 132000,
+        "riskBaseVol": 200000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 132000,
+        "riskIncrVol": 200000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -2268,7 +2274,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "ARKM",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -2471,7 +2479,8 @@
         "baseCoinName": "AR",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-web3"
+            "mc-trade-zone-web3",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 0.1,
         "depthStepList": [
@@ -2907,7 +2916,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 37100,
         "maintenanceMarginRate": 0.004,
@@ -3740,7 +3749,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 4600,
+        "limitMaxVol": 5600,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -3751,7 +3760,7 @@
             200,
             50
         ],
-        "maxVol": 4600,
+        "maxVol": 5600,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -3760,10 +3769,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 4600,
+        "riskBaseVol": 5600,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 4600,
+        "riskIncrVol": 5600,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -4195,7 +4204,8 @@
         "baseCoinName": "BOME",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 1000,
         "depthStepList": [
@@ -4764,7 +4774,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 450000,
+        "limitMaxVol": 550000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -4775,7 +4785,7 @@
             200,
             50
         ],
-        "maxVol": 450000,
+        "maxVol": 550000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4784,10 +4794,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 450000,
+        "riskBaseVol": 550000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 450000,
+        "riskIncrVol": 550000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -4969,7 +4979,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 148000,
+        "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -4980,7 +4990,7 @@
             200,
             50
         ],
-        "maxVol": 148000,
+        "maxVol": 180000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -4989,10 +4999,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 148000,
+        "riskBaseVol": 180000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 148000,
+        "riskIncrVol": 180000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -6810,7 +6820,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 78000,
+        "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -6821,7 +6831,7 @@
             200,
             50
         ],
-        "maxVol": 78000,
+        "maxVol": 90000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -6830,10 +6840,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 78000,
+        "riskBaseVol": 90000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 78000,
+        "riskIncrVol": 90000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -7644,22 +7654,22 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.05,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": true,
-        "limitMaxVol": 8750,
-        "maintenanceMarginRate": 0.02,
+        "limitMaxVol": 37000,
+        "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 20,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
         ],
-        "maxVol": 8750,
+        "maxVol": 37000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -7668,10 +7678,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1750,
-        "riskIncrImr": 0.01,
-        "riskIncrMmr": 0.01,
-        "riskIncrVol": 1750,
+        "riskBaseVol": 7400,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
+        "riskIncrVol": 7400,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -7905,7 +7915,8 @@
         "baseCoinName": "FET",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-web3"
+            "mc-trade-zone-web3",
+            "mc-trade-zone-ai"
         ],
         "contractSize": 10,
         "depthStepList": [
@@ -9242,7 +9253,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 115000,
+        "limitMaxVol": 150000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -9253,7 +9264,7 @@
             200,
             50
         ],
-        "maxVol": 115000,
+        "maxVol": 150000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -9262,10 +9273,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 115000,
+        "riskBaseVol": 150000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 115000,
+        "riskIncrVol": 150000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -9312,7 +9323,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 36000,
+        "limitMaxVol": 40000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -9323,7 +9334,7 @@
             200,
             50
         ],
-        "maxVol": 36000,
+        "maxVol": 40000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -9332,10 +9343,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 36000,
+        "riskBaseVol": 40000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 36000,
+        "riskIncrVol": 40000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -9565,7 +9576,8 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-web3",
-            "mc-trade-zone-Arbitrum"
+            "mc-trade-zone-Arbitrum",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -10066,7 +10078,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 195000,
+        "limitMaxVol": 250000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10077,7 +10089,7 @@
             200,
             50
         ],
-        "maxVol": 195000,
+        "maxVol": 250000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10086,10 +10098,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 195000,
+        "riskBaseVol": 250000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 195000,
+        "riskIncrVol": 250000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -10134,7 +10146,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 100000000,
+        "limitMaxVol": 130000000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10145,7 +10157,7 @@
             200,
             50
         ],
-        "maxVol": 100000000,
+        "maxVol": 130000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10154,10 +10166,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 100000000,
+        "riskBaseVol": 130000000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 100000000,
+        "riskIncrVol": 130000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -10801,7 +10813,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "IOTX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.00001",
@@ -10821,7 +10835,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2500000,
+        "limitMaxVol": 3100000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10832,7 +10846,7 @@
             200,
             50
         ],
-        "maxVol": 2500000,
+        "maxVol": 3100000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -10841,10 +10855,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2500000,
+        "riskBaseVol": 3100000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 2500000,
+        "riskIncrVol": 3100000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -11007,7 +11021,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "JTO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -11076,7 +11092,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "JUP",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -11835,7 +11853,8 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-web3",
-            "mc-trade-zone-Arbitrum"
+            "mc-trade-zone-Arbitrum",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 0.1,
         "depthStepList": [
@@ -11930,7 +11949,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1720000,
+        "limitMaxVol": 2300000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -11941,7 +11960,7 @@
             200,
             50
         ],
-        "maxVol": 1720000,
+        "maxVol": 2300000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -11950,10 +11969,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1720000,
+        "riskBaseVol": 2300000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 1720000,
+        "riskIncrVol": 2300000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -12532,7 +12551,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "LUNC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10000,
         "depthStepList": [
             "0.00000001",
@@ -13562,7 +13583,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "MOBILE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 1000,
         "depthStepList": [
             "0.000001",
@@ -13581,7 +13604,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 2250,
+        "limitMaxVol": 3200,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -13592,7 +13615,7 @@
             200,
             50
         ],
-        "maxVol": 2250,
+        "maxVol": 3200,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -13601,10 +13624,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2250,
+        "riskBaseVol": 3200,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 2250,
+        "riskIncrVol": 3200,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -13900,7 +13923,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "MYRO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -14244,7 +14269,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "NMR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.01",
@@ -14379,7 +14406,8 @@
         "baseCoinName": "OCEAN",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-web3"
+            "mc-trade-zone-web3",
+            "mc-trade-zone-ai"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -15675,7 +15703,8 @@
         "baseCoinName": "PHB",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-web3"
+            "mc-trade-zone-web3",
+            "mc-trade-zone-ai"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -15820,9 +15849,9 @@
         "futureType": 1,
         "id": 387,
         "indexOrigin": [
-            "BITGET",
             "BINANCE",
-            "GATEIO"
+            "GATEIO",
+            "HUOBI"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -16075,7 +16104,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "PYTH",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -16482,7 +16513,7 @@
         "baseCoinName": "RAY",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 0.1,
         "depthStepList": [
@@ -16503,7 +16534,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 110000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -16964,7 +16995,8 @@
         "baseCoinName": "RNDR",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-web3"
+            "mc-trade-zone-web3",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -17259,7 +17291,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 32000000,
+        "limitMaxVol": 38000000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -17270,7 +17302,7 @@
             200,
             50
         ],
-        "maxVol": 32000000,
+        "maxVol": 38000000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -17279,10 +17311,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 32000000,
+        "riskBaseVol": 38000000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 32000000,
+        "riskIncrVol": 38000000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -18082,7 +18114,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 143000,
+        "limitMaxVol": 220000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -18093,7 +18125,7 @@
             200,
             50
         ],
-        "maxVol": 143000,
+        "maxVol": 220000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -18102,10 +18134,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 143000,
+        "riskBaseVol": 220000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 143000,
+        "riskIncrVol": 220000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -18197,7 +18229,8 @@
         "baseCoinName": "SLERF",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 10,
         "depthStepList": [
@@ -18215,9 +18248,9 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": true,
-        "limitMaxVol": 2700,
+        "limitMaxVol": 1300,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -18228,7 +18261,7 @@
             200,
             50
         ],
-        "maxVol": 2700,
+        "maxVol": 1300,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -18237,10 +18270,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2700,
+        "riskBaseVol": 1300,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 2700,
+        "riskIncrVol": 1300,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -18471,7 +18504,8 @@
         "baseCoinName": "SOLS",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-BRC20"
+            "mc-trade-zone-BRC20",
+            "mc-trade-zone-SOL"
         ],
         "contractSize": 1,
         "depthStepList": [
@@ -18538,7 +18572,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "SOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 0.1,
         "depthStepList": [
             "0.001",
@@ -19640,7 +19676,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "TAO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 0.01,
         "depthStepList": [
             "0.1",
@@ -20946,9 +20984,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "VELO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
             "0.000001",
@@ -20967,7 +21003,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 5000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -21354,7 +21390,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "WIF",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-SOL"
+        ],
         "contractSize": 10,
         "depthStepList": [
             "0.0001",
@@ -21420,7 +21458,9 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "WLD",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
+        "conceptPlate": [
+            "mc-trade-zone-ai"
+        ],
         "contractSize": 1,
         "depthStepList": [
             "0.0001",
@@ -21443,7 +21483,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 41200,
+        "limitMaxVol": 52000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -21454,7 +21494,7 @@
             200,
             50
         ],
-        "maxVol": 41200,
+        "maxVol": 52000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -21463,10 +21503,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 41200,
+        "riskBaseVol": 52000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 41200,
+        "riskIncrVol": 52000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -22882,7 +22922,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 1050000,
+        "limitMaxVol": 1400000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -22893,7 +22933,7 @@
             200,
             50
         ],
-        "maxVol": 1050000,
+        "maxVol": 1400000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -22902,10 +22942,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1050000,
+        "riskBaseVol": 1400000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 1050000,
+        "riskIncrVol": 1400000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,

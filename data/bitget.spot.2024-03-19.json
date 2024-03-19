@@ -2547,13 +2547,22 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "ZK",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ZK_USDT",
+        "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "3",
         "base_currency": "CHAT",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "3",
         "status": "gray",
         "symbol": "CHAT_USDT",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "4",
