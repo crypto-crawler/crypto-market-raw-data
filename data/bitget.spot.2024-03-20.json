@@ -2551,7 +2551,7 @@
         "base_currency": "EGO",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "EGO_USDT",
         "tick_size": "4"
     },
@@ -2689,6 +2689,15 @@
         "status": "online",
         "symbol": "EDU_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BIBO",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "BIBO_USDT",
+        "tick_size": "9"
     },
     {
         "base_asset_precision": "2",
