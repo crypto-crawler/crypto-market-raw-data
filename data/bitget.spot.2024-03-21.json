@@ -2682,11 +2682,20 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "SMOLE",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "SMOLE_USDT",
+        "tick_size": "7"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "WSG",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "WSG_USDT",
         "tick_size": "4"
     },
@@ -2695,7 +2704,7 @@
         "base_currency": "BENDOG",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BENDOG_USDT",
         "tick_size": "5"
     },
@@ -2704,7 +2713,7 @@
         "base_currency": "MC",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MC_USDT",
         "tick_size": "4"
     },
@@ -2713,7 +2722,7 @@
         "base_currency": "MVL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MVL_USDT",
         "tick_size": "6"
     },
@@ -2731,7 +2740,7 @@
         "base_currency": "SYNC",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SYNC_USDT",
         "tick_size": "5"
     },
