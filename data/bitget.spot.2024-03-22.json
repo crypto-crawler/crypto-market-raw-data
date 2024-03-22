@@ -1237,7 +1237,7 @@
         "base_currency": "HTX",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "offline",
         "symbol": "HTX_USDT",
         "tick_size": "9"
     },
@@ -2682,40 +2682,40 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "ALE",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "ALE_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "TOAD",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "TOAD_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
         "base_currency": "PIKA",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "1",
         "status": "gray",
         "symbol": "PIKA_USDT",
-        "tick_size": "0"
+        "tick_size": "7"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "NETZ",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "NETZ_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "1",
@@ -2836,6 +2836,15 @@
     },
     {
         "base_asset_precision": "0",
+        "base_currency": "ENTS",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "ENTS_USDT",
+        "tick_size": "0"
+    },
+    {
+        "base_asset_precision": "0",
         "base_currency": "TURBO",
         "quote_currency": "USDT",
         "size_increment": "0",
@@ -2845,12 +2854,21 @@
     },
     {
         "base_asset_precision": "0",
-        "base_currency": "XPLA",
+        "base_currency": "LAKE",
         "quote_currency": "USDT",
         "size_increment": "0",
         "status": "gray",
-        "symbol": "XPLA_USDT",
+        "symbol": "LAKE_USDT",
         "tick_size": "0"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "XPLA",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "XPLA_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
