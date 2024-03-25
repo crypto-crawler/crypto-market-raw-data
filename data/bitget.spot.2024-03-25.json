@@ -2827,10 +2827,19 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "$DEGEN",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "$DEGEN_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "ZAI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ZAI_USDT",
         "tick_size": "4"
     },
@@ -2839,7 +2848,7 @@
         "base_currency": "FISH",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "FISH_USDT",
         "tick_size": "10"
     },
@@ -2857,7 +2866,7 @@
         "base_currency": "BEFI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "BEFI_USDT",
         "tick_size": "5"
     },
@@ -2875,7 +2884,7 @@
         "base_currency": "OMNI",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "OMNI_USDT",
         "tick_size": "7"
     },
