@@ -1237,7 +1237,7 @@
         "base_currency": "HTX",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "halt",
+        "status": "online",
         "symbol": "HTX_USDT",
         "tick_size": "9"
     },
@@ -2443,7 +2443,7 @@
         "base_currency": "BRETT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "halt",
+        "status": "online",
         "symbol": "BRETT_USDT",
         "tick_size": "5"
     },
@@ -2826,31 +2826,40 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "ZAI",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ZAI_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "1",
         "base_currency": "FISH",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "1",
         "status": "gray",
         "symbol": "FISH_USDT",
-        "tick_size": "0"
+        "tick_size": "10"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "VOYA",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "VOYA_USDT",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "BEFI",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "BEFI_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
@@ -2862,13 +2871,13 @@
         "tick_size": "12"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
         "base_currency": "OMNI",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "1",
         "status": "gray",
         "symbol": "OMNI_USDT",
-        "tick_size": "0"
+        "tick_size": "7"
     },
     {
         "base_asset_precision": "1",
@@ -2895,7 +2904,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "LAKE_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
