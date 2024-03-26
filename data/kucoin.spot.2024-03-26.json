@@ -533,7 +533,7 @@
     },
     {
         "baseCurrency": "FX",
-        "baseIncrement": "1",
+        "baseIncrement": "0.00001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -552,7 +552,7 @@
     },
     {
         "baseCurrency": "FX",
-        "baseIncrement": "1",
+        "baseIncrement": "0.00001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -2718,7 +2718,7 @@
     },
     {
         "baseCurrency": "SNX",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.01",
         "enableTrading": true,
@@ -3212,7 +3212,7 @@
     },
     {
         "baseCurrency": "BSV",
-        "baseIncrement": "0.001",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -3364,7 +3364,7 @@
     },
     {
         "baseCurrency": "NEO",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -3763,7 +3763,7 @@
     },
     {
         "baseCurrency": "TIME",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -3896,7 +3896,7 @@
     },
     {
         "baseCurrency": "NEO",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -3972,7 +3972,7 @@
     },
     {
         "baseCurrency": "LTC",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -4010,7 +4010,7 @@
     },
     {
         "baseCurrency": "LTC",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -4276,7 +4276,7 @@
     },
     {
         "baseCurrency": "ETH",
-        "baseIncrement": "0.1",
+        "baseIncrement": "0.0000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.0001",
         "enableTrading": true,
@@ -4694,7 +4694,7 @@
     },
     {
         "baseCurrency": "NEO",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "100000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -4732,7 +4732,7 @@
     },
     {
         "baseCurrency": "NEO",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.001",
         "enableTrading": true,
@@ -4808,7 +4808,7 @@
     },
     {
         "baseCurrency": "ETC",
-        "baseIncrement": "1",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.01",
         "enableTrading": true,
@@ -4903,7 +4903,7 @@
     },
     {
         "baseCurrency": "DASH",
-        "baseIncrement": "1",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.0001",
         "enableTrading": true,
@@ -5511,7 +5511,7 @@
     },
     {
         "baseCurrency": "LTC",
-        "baseIncrement": "0.01",
+        "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "0.0001",
         "enableTrading": true,
@@ -14251,7 +14251,7 @@
     },
     {
         "baseCurrency": "ADS",
-        "baseIncrement": "1",
+        "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
         "baseMinSize": "1",
         "enableTrading": true,
@@ -24305,7 +24305,7 @@
         "baseIncrement": "1",
         "baseMaxSize": "10000000000",
         "baseMinSize": "100",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
