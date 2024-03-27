@@ -2983,7 +2983,7 @@
         "base_currency": "NAVI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NAVI_USDT",
         "tick_size": "4"
     },
@@ -3019,7 +3019,7 @@
         "base_currency": "CATBOY",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "CATBOY_USDT",
         "tick_size": "5"
     },
@@ -5560,6 +5560,15 @@
         "status": "online",
         "symbol": "CTSI_USDT",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "CVC",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "CVC_USDT",
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "0",
