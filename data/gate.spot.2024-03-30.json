@@ -25922,6 +25922,20 @@
         "trade_status": "sellable"
     },
     {
+        "amount_precision": 2,
+        "base": "MFER",
+        "buy_start": 1711792800,
+        "fee": "0.2",
+        "id": "MFER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "MFOOTBALL",
         "buy_start": 1669204800,
@@ -35008,7 +35022,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -35639,6 +35653,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ROOST",
+        "buy_start": 1712049300,
+        "fee": "0.2",
+        "id": "ROOST_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -42303,20 +42331,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "TSHP",
-        "buy_start": 1617944400,
-        "fee": "0.2",
-        "id": "TSHP_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "10",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
