@@ -20490,8 +20490,8 @@
         "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "TOMI_USDT\u6c38\u7eed",
         "displayNameEn": "TOMI_USDT PERPETUAL",
@@ -20524,8 +20524,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 72000,
@@ -23366,9 +23366,9 @@
         "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
+            "0.000001",
             "0.00001",
-            "0.0001",
-            "0.001"
+            "0.0001"
         ],
         "displayName": "ZKF_USDT\u6c38\u7eed",
         "displayNameEn": "ZKF_USDT PERPETUAL",
@@ -23400,8 +23400,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 38000,
