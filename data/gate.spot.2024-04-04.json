@@ -14313,6 +14313,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "ETN",
+        "buy_start": 1712833200,
+        "fee": "0.2",
+        "id": "ETN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "10",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "EUL",
         "buy_start": 1656046800,
@@ -14381,6 +14395,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EVERY",
+        "buy_start": 1712311200,
+        "fee": "0.2",
+        "id": "EVERY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -39460,7 +39488,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
