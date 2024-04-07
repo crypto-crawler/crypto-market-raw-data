@@ -42459,6 +42459,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "TRIO",
+        "buy_start": 1712919600,
+        "fee": "0.2",
+        "id": "TRIO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "TROLL",
         "buy_start": 1705471200,
@@ -42527,6 +42541,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "TRUF",
+        "buy_start": 1712653200,
+        "fee": "0.2",
+        "id": "TRUF_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "10",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -47895,7 +47923,7 @@
     {
         "amount_precision": 1,
         "base": "ZBC",
-        "buy_start": 1647424800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "ZBC_USDT",
         "max_quote_amount": "5000000",
@@ -47903,7 +47931,7 @@
         "min_quote_amount": "10",
         "precision": 6,
         "quote": "USDT",
-        "sell_start": 1596702900,
+        "sell_start": 0,
         "trade_status": "untradable"
     },
     {
