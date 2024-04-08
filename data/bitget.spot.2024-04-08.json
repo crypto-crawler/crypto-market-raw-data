@@ -4573,10 +4573,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "CHATAI",
+        "base_currency": "TNSR",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "TNSR_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "CHATAI",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "CHATAI_USDT",
         "tick_size": "4"
     },
