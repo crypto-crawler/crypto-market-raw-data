@@ -25139,6 +25139,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "MASA",
+        "buy_start": 1712836800,
+        "fee": "0.2",
+        "id": "MASA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "MASK3L",
         "buy_start": 1582704000,
         "fee": "0.2",
@@ -42081,9 +42095,23 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "TNSR",
+        "buy_start": 1712589300,
+        "fee": "0.2",
+        "id": "TNSR_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "TNSR",
-        "buy_start": 1712588400,
+        "buy_start": 1712589300,
         "fee": "0.2",
         "id": "TNSR_USDT",
         "max_quote_amount": "5000000",
@@ -42092,7 +42120,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -44504,6 +44532,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "VIZ",
+        "buy_start": 1712750400,
+        "fee": "0.2",
+        "id": "VIZ_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
