@@ -8668,6 +8668,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "CHKN",
+        "buy_start": 1712916000,
+        "fee": "0.2",
+        "id": "CHKN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "CHO",
         "buy_start": 1661947200,
@@ -15907,6 +15921,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "FOXY",
+        "buy_start": 1712908800,
+        "fee": "0.2",
+        "id": "FOXY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -27978,6 +28006,20 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "NAI",
+        "buy_start": 1713340800,
+        "fee": "0.2",
+        "id": "NAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1608782400,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -43100,7 +43142,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
