@@ -565,7 +565,8 @@
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
-            "0.000001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "1000STARL_USDT\u6c38\u7eed",
         "displayNameEn": "1000STARL_USDT PERPETUAL",
@@ -4521,7 +4522,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 17210,
+        "threshold": 17562,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -5539,7 +5540,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 8300,
         "maintenanceMarginRate": 0.004,
@@ -11576,7 +11577,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 81423,
+        "threshold": 82430,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -22246,7 +22247,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 10000,
         "maintenanceMarginRate": 0.01,
@@ -22443,9 +22444,7 @@
         "baseCoinIconUrl": "",
         "baseCoinName": "W",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -22464,7 +22463,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 80000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
