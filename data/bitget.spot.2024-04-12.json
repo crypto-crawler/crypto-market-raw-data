@@ -1075,7 +1075,7 @@
         "base_currency": "TUSD",
         "quote_currency": "BTC",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "TUSD_BTC",
         "tick_size": "9"
     },
@@ -1084,7 +1084,7 @@
         "base_currency": "TUSD",
         "quote_currency": "ETH",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "TUSD_ETH",
         "tick_size": "7"
     },
@@ -1807,15 +1807,6 @@
         "status": "online",
         "symbol": "MAGIC_USDT",
         "tick_size": "5"
-    },
-    {
-        "base_asset_precision": "2",
-        "base_currency": "ZBC",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "ZBC_USDT",
-        "tick_size": "6"
     },
     {
         "base_asset_precision": "3",
@@ -3496,7 +3487,7 @@
         "base_currency": "TUSD",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "online",
+        "status": "halt",
         "symbol": "TUSD_USDT",
         "tick_size": "4"
     },
@@ -4671,13 +4662,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
         "base_currency": "QUACK",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "1",
+        "status": "online",
         "symbol": "QUACK_USDT",
-        "tick_size": "0"
+        "tick_size": "13"
     },
     {
         "base_asset_precision": "2",
