@@ -1316,6 +1316,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "AIT",
+        "buy_start": 1713434400,
+        "fee": "0.2",
+        "id": "AIT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "AI",
         "buy_start": 1704364200,
@@ -33577,7 +33591,7 @@
         "precision": 10,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -33591,7 +33605,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -37696,20 +37710,6 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1608606000,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "SHARK",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "SHARK_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
         "trade_status": "tradable"
     },
     {
@@ -48350,6 +48350,20 @@
         "min_base_amount": "1",
         "min_quote_amount": "3",
         "precision": 11,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "ZBCN",
+        "buy_start": 1713254400,
+        "fee": "0.2",
+        "id": "ZBCN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
