@@ -15200,25 +15200,6 @@
         "symbol": "ALPINE-USDT"
     },
     {
-        "baseCurrency": "ZBC",
-        "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
-        "baseMinSize": "10",
-        "enableTrading": true,
-        "feeCurrency": "USDT",
-        "isMarginEnabled": false,
-        "market": "USDS",
-        "minFunds": "0.1",
-        "name": "ZBC-USDT",
-        "priceIncrement": "0.00001",
-        "priceLimitRate": "0.1",
-        "quoteCurrency": "USDT",
-        "quoteIncrement": "0.00001",
-        "quoteMaxSize": "99999999",
-        "quoteMinSize": "0.1",
-        "symbol": "ZBC-USDT"
-    },
-    {
         "baseCurrency": "WOOP",
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
@@ -17592,25 +17573,6 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "HIODBS-USDT"
-    },
-    {
-        "baseCurrency": "CMP",
-        "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
-        "baseMinSize": "1",
-        "enableTrading": true,
-        "feeCurrency": "USDT",
-        "isMarginEnabled": false,
-        "market": "USDS",
-        "minFunds": "0.1",
-        "name": "CMP-USDT",
-        "priceIncrement": "0.00001",
-        "priceLimitRate": "0.1",
-        "quoteCurrency": "USDT",
-        "quoteIncrement": "0.00001",
-        "quoteMaxSize": "99999999",
-        "quoteMinSize": "0.1",
-        "symbol": "CMP-USDT"
     },
     {
         "baseCurrency": "PIX",
@@ -20084,7 +20046,7 @@
     },
     {
         "baseCurrency": "SUI3L",
-        "baseIncrement": "0.0001",
+        "baseIncrement": "0.000001",
         "baseMaxSize": "99999999999",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -20093,10 +20055,10 @@
         "market": "USDS",
         "minFunds": "0.1",
         "name": "SUI3L-USDT",
-        "priceIncrement": "0.0001",
+        "priceIncrement": "0.000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.0001",
+        "quoteIncrement": "0.000001",
         "quoteMaxSize": "5000",
         "quoteMinSize": "0.1",
         "symbol": "SUI3L-USDT"
