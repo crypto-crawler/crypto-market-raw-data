@@ -2763,7 +2763,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 5000,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -2786,6 +2786,7 @@
                 "numNonContractUnits": 1250000.0
             }
         ],
+        "maxPositionSize": 60000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2024-04-17T13:08:02.000Z",
         "postOnly": false,
