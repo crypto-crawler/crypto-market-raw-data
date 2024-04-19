@@ -4753,10 +4753,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "ROOST",
+        "base_currency": "ALPH",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "ALPH_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "ROOST",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "ROOST_USDT",
         "tick_size": "5"
     },
@@ -4765,7 +4774,7 @@
         "base_currency": "MERL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MERL_USDT",
         "tick_size": "5"
     },
@@ -4783,7 +4792,7 @@
         "base_currency": "AQT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "AQT_USDT",
         "tick_size": "4"
     },
