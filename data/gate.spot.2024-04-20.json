@@ -8068,13 +8068,13 @@
     {
         "amount_precision": 0,
         "base": "CATCOIN",
-        "buy_start": 1713700800,
+        "buy_start": 1713776400,
         "fee": "0.2",
         "id": "CATCOIN_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 12,
+        "precision": 13,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "sellable"
@@ -12740,6 +12740,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DSYNC",
+        "buy_start": 1713780000,
+        "fee": "0.2",
+        "id": "DSYNC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -19463,6 +19477,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "HIP",
+        "buy_start": 1713956400,
+        "fee": "0.2",
+        "id": "HIP_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -33722,7 +33750,7 @@
     {
         "amount_precision": 3,
         "base": "PROPS",
-        "buy_start": 1611734400,
+        "buy_start": 1714474800,
         "fee": "0.2",
         "id": "PROPS_ETH",
         "max_quote_amount": "1000",
@@ -33730,21 +33758,21 @@
         "min_quote_amount": "0.001",
         "precision": 10,
         "quote": "ETH",
-        "sell_start": 1607313600,
+        "sell_start": 1597636800,
         "trade_status": "untradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "PROPS",
-        "buy_start": 1611734400,
+        "buy_start": 1714474800,
         "fee": "0.2",
         "id": "PROPS_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
-        "sell_start": 1607313600,
+        "sell_start": 1597636800,
         "trade_status": "untradable"
     },
     {
@@ -34576,7 +34604,7 @@
     {
         "amount_precision": 2,
         "base": "QRDO",
-        "buy_start": 1630411200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "QRDO_BTC",
         "max_quote_amount": "100",
@@ -34584,13 +34612,13 @@
         "min_quote_amount": "0.00001",
         "precision": 9,
         "quote": "BTC",
-        "sell_start": 1607313600,
+        "sell_start": 0,
         "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
         "base": "QRDO",
-        "buy_start": 1630411200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "QRDO_ETH",
         "max_quote_amount": "1000",
@@ -34598,13 +34626,13 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
-        "sell_start": 1607313600,
+        "sell_start": 0,
         "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
         "base": "QRDO",
-        "buy_start": 1630411200,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "QRDO_USDT",
         "max_quote_amount": "5000000",
@@ -34612,7 +34640,7 @@
         "min_quote_amount": "3",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 1607313600,
+        "sell_start": 0,
         "trade_status": "untradable"
     },
     {
@@ -39741,6 +39769,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SPOT",
+        "buy_start": 1713866400,
+        "fee": "0.2",
+        "id": "SPOT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
