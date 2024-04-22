@@ -2223,7 +2223,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -8091,7 +8091,7 @@
         "precision": 13,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -12767,7 +12767,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -24054,6 +24054,20 @@
         "quote": "SNET",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "LL",
+        "buy_start": 1713945600,
+        "fee": "0.2",
+        "id": "LL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -36636,6 +36650,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "RTF",
+        "buy_start": 1713954600,
+        "fee": "0.2",
+        "id": "RTF_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "RUFF",
         "buy_start": 0,
         "fee": "0.2",
@@ -45722,6 +45750,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "WANKO",
+        "buy_start": 1713794400,
+        "fee": "0.2",
+        "id": "WANKO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
