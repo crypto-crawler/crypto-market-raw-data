@@ -24491,6 +24491,25 @@
         "symbol": "VINU-USDT"
     },
     {
+        "baseCurrency": "SPOT",
+        "baseIncrement": "0.1",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "10",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "SPOT-USDT",
+        "priceIncrement": "0.00001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.00001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "SPOT-USDT"
+    },
+    {
         "baseCurrency": "PBUX",
         "baseIncrement": "0.1",
         "baseMaxSize": "10000000000",
@@ -24508,5 +24527,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "PBUX-USDT"
+    },
+    {
+        "baseCurrency": "SAFE",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "enableTrading": true,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "SAFE-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "SAFE-USDT"
     }
 ]

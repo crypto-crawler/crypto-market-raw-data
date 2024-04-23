@@ -4752,13 +4752,22 @@
         "tick_size": "8"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "SAFE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "SAFE_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "BD20",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "BD20_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -7297,6 +7306,15 @@
         "status": "online",
         "symbol": "WING_USDT",
         "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "0",
+        "base_currency": "ONG",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "ONG_USDT",
+        "tick_size": "0"
     },
     {
         "base_asset_precision": "0",
