@@ -4897,6 +4897,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "BCCOIN",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "BCCOIN_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "XUI",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -4909,7 +4918,7 @@
         "base_currency": "RTF",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "RTF_USDT",
         "tick_size": "5"
     },
@@ -4927,7 +4936,7 @@
         "base_currency": "XDB",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "XDB_USDT",
         "tick_size": "7"
     },
@@ -5271,7 +5280,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "XOR_USDT",
-        "tick_size": "7"
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
@@ -7330,7 +7339,7 @@
         "base_currency": "ONG",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ONG_USDT",
         "tick_size": "4"
     },
