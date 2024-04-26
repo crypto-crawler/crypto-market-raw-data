@@ -4896,11 +4896,20 @@
         "tick_size": "14"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "MANEKI",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "MANEKI_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "GBTC",
         "quote_currency": "USDT",
         "size_increment": "4",
-        "status": "gray",
+        "status": "online",
         "symbol": "GBTC_USDT",
         "tick_size": "4"
     },
@@ -4909,7 +4918,7 @@
         "base_currency": "KUB",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "KUB_USDT",
         "tick_size": "4"
     },
@@ -5307,7 +5316,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "STRAX_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -6016,7 +6025,7 @@
         "base_currency": "GF",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "online",
+        "status": "halt",
         "symbol": "GF_USDT",
         "tick_size": "5"
     },
