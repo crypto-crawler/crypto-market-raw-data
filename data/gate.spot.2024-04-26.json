@@ -393,6 +393,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "ABYS",
+        "buy_start": 1714395600,
+        "fee": "0.2",
+        "id": "ABYS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "ACA",
         "buy_start": 1643097600,
         "fee": "0.2",
@@ -11316,7 +11330,7 @@
     {
         "amount_precision": 0,
         "base": "DELFI",
-        "buy_start": 1646380800,
+        "buy_start": 0,
         "fee": "0.2",
         "id": "DELFI_USDT",
         "max_quote_amount": "5000000",
@@ -11324,8 +11338,8 @@
         "min_quote_amount": "3",
         "precision": 7,
         "quote": "USDT",
-        "sell_start": 1596702900,
-        "trade_status": "tradable"
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -13243,7 +13257,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -27936,6 +27950,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MSN",
+        "buy_start": 1714370400,
+        "fee": "0.2",
+        "id": "MSN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
@@ -43983,6 +44011,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "UDS",
+        "buy_start": 1714471200,
+        "fee": "0.2",
+        "id": "UDS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
