@@ -4747,8 +4747,8 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "BSW_USDT\u6c38\u7eed",
         "displayNameEn": "BSW_USDT PERPETUAL",
@@ -4780,8 +4780,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 270000,
