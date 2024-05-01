@@ -2169,6 +2169,67 @@
         "type": "flexible_futures"
     },
     {
+        "category": "Web3",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 1200,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "maxPositionSize": 20000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-01T12:11:31.453Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "symbol": "PF_ASTRUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "category": "DeFi",
         "contractSize": 1,
         "contractValueTradePrecision": 1,
@@ -2815,6 +2876,67 @@
         "symbol": "PF_BEAMUSD",
         "tags": [],
         "tickSize": 1e-06,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "Web3",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 250,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "maxPositionSize": 5000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-01T12:08:37.061Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 1250000.0
+            }
+        ],
+        "symbol": "PF_BICOUSD",
+        "tags": [],
+        "tickSize": 1e-05,
         "tradeable": true,
         "type": "flexible_futures"
     },
