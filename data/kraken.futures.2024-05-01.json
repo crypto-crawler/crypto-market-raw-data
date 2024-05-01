@@ -2518,27 +2518,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 600000.0,
+        "maxPositionSize": 3000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:23:24.000Z",
         "postOnly": false,
@@ -2554,24 +2559,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_ATOMUSD",
@@ -2670,27 +2680,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 120000.0,
+        "maxPositionSize": 500000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:54:24.000Z",
         "postOnly": false,
@@ -2706,24 +2721,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_AVAXUSD",
@@ -2890,7 +2910,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 30.0,
+        "impactMidSize": 30,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -2903,17 +2923,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 500000.0,
+        "maxPositionSize": 500000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-09-21T12:59:33.000Z",
         "postOnly": false,
@@ -2929,14 +2954,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_BALUSD",
@@ -3022,7 +3052,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 600.0,
+        "impactMidSize": 600,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -3035,17 +3065,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 10000000.0,
+        "maxPositionSize": 10000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-07-20T12:59:19.000Z",
         "postOnly": false,
@@ -3061,14 +3096,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_BATUSD",
@@ -3091,9 +3131,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -3101,9 +3146,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "maxPositionSize": 30000.0,
@@ -3117,9 +3167,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -3127,9 +3182,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "symbol": "PF_BCHUSD",
@@ -4272,27 +4332,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 1000000.0,
+        "maxPositionSize": 3000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:31:32.000Z",
         "postOnly": false,
@@ -4308,24 +4373,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_DOTUSD",
@@ -4340,7 +4410,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50.0,
+        "impactMidSize": 50,
         "marginLevels": [
             {
                 "initialMargin": 0.04,
@@ -4348,9 +4418,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -4358,12 +4433,17 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
-        "maxPositionSize": 2000000.0,
+        "maxPositionSize": 2500000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-09-07T12:59:13.000Z",
         "postOnly": false,
@@ -4374,9 +4454,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -4384,9 +4469,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "symbol": "PF_DYDXUSD",
@@ -4543,7 +4633,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 100.0,
+        "impactMidSize": 100,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -4556,17 +4646,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 2000000.0,
+        "maxPositionSize": 2000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2024-04-24T13:00:20.000Z",
         "postOnly": false,
@@ -4582,14 +4677,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_ENAUSD",
@@ -4769,27 +4869,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 3000000.0,
+        "maxPositionSize": 15000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:33:15.000Z",
         "postOnly": false,
@@ -4805,24 +4910,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_EOSUSD",
@@ -5151,7 +5261,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 25.0,
+        "impactMidSize": 25,
         "marginLevels": [
             {
                 "initialMargin": 0.02,
@@ -5164,27 +5274,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 500000.0,
+        "maxPositionSize": 3000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:34:28.000Z",
         "postOnly": false,
@@ -5200,24 +5315,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_FILUSD",
@@ -5747,9 +5867,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -5757,12 +5882,17 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
-        "maxPositionSize": 5000000.0,
+        "maxPositionSize": 20000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-05-30T15:56:33.000Z",
         "postOnly": false,
@@ -5773,9 +5903,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -5783,9 +5918,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "symbol": "PF_GMTUSD",
@@ -6712,7 +6852,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 160.0,
+        "impactMidSize": 160,
         "marginLevels": [
             {
                 "initialMargin": 0.04,
@@ -6720,9 +6860,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -6730,12 +6875,17 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
-        "maxPositionSize": 1500000.0,
+        "maxPositionSize": 7000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-08-10T12:55:41.000Z",
         "postOnly": false,
@@ -6746,9 +6896,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -6756,9 +6911,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "symbol": "PF_KAVAUSD",
@@ -7080,27 +7240,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 1400000.0,
+        "maxPositionSize": 2000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:36:54.000Z",
         "postOnly": false,
@@ -7116,24 +7281,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_LINKUSD",
@@ -7290,7 +7460,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 80.0,
+        "impactMidSize": 80,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -7303,17 +7473,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 1000000.0,
+        "maxPositionSize": 1000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2024-01-31T13:00:39.000Z",
         "postOnly": false,
@@ -7329,14 +7504,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_LSKUSD",
@@ -7442,7 +7622,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 180.0,
+        "impactMidSize": 180,
         "marginLevels": [
             {
                 "initialMargin": 0.1,
@@ -7462,10 +7642,10 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 1000000.0
             }
         ],
-        "maxPositionSize": 1000000.0,
+        "maxPositionSize": 1000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-06-01T15:58:59.000Z",
         "postOnly": false,
@@ -7488,7 +7668,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 1000000.0
             }
         ],
         "symbol": "PF_LUNA2USD",
@@ -7908,7 +8088,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 90.0,
+        "impactMidSize": 90,
         "marginLevels": [
             {
                 "initialMargin": 0.04,
@@ -7916,9 +8096,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -7926,12 +8111,17 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
-        "maxPositionSize": 1250000.0,
+        "maxPositionSize": 1250000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-06-13T12:56:12.000Z",
         "postOnly": false,
@@ -7942,9 +8132,14 @@
                 "numNonContractUnits": 0.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.2,
@@ -7952,9 +8147,14 @@
                 "numNonContractUnits": 1000000.0
             },
             {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 2500000.0
+            },
+            {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             }
         ],
         "symbol": "PF_NEARUSD",
@@ -8040,7 +8240,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 500.0,
+        "impactMidSize": 500,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -8053,17 +8253,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 17000000.0,
+        "maxPositionSize": 17000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-09-21T12:59:28.000Z",
         "postOnly": false,
@@ -8079,14 +8284,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_OCEANUSD",
@@ -8101,7 +8311,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2000.0,
+        "impactMidSize": 2000,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -8114,17 +8324,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 16000000.0,
+        "maxPositionSize": 16000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-08-31T12:59:33.000Z",
         "postOnly": false,
@@ -8140,14 +8355,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_OGNUSD",
@@ -8608,7 +8828,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 400.0,
+        "impactMidSize": 400,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -8621,17 +8841,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 5000000.0,
+        "maxPositionSize": 5000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2023-11-29T13:00:11.000Z",
         "postOnly": false,
@@ -8647,14 +8872,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_PYTHUSD",
@@ -10797,7 +11027,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20.0,
+        "impactMidSize": 20,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -10810,17 +11040,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 300000.0,
+        "maxPositionSize": 300000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2024-01-25T13:01:05.000Z",
         "postOnly": false,
@@ -10836,14 +11071,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_UMAUSD",
@@ -10929,7 +11169,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20.0,
+        "impactMidSize": 20,
         "marginLevels": [
             {
                 "initialMargin": 0.02,
@@ -10942,27 +11182,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 1000000.0,
+        "maxPositionSize": 3000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:17:50.000Z",
         "postOnly": false,
@@ -10978,24 +11223,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_UNIUSD",
@@ -11172,7 +11422,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 65.0,
+        "impactMidSize": 65,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -11185,17 +11435,22 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 1000000.0,
+        "maxPositionSize": 1000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-06-13T12:56:41.000Z",
         "postOnly": false,
@@ -11211,14 +11466,19 @@
                 "numNonContractUnits": 10000.0
             },
             {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 1250000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_WAVESUSD",
@@ -11233,7 +11493,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 200.0,
+        "impactMidSize": 200,
         "marginLevels": [
             {
                 "initialMargin": 0.02,
@@ -11246,27 +11506,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 5000000.0,
+        "maxPositionSize": 8000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2024-01-22T12:04:57.000Z",
         "postOnly": false,
@@ -11282,24 +11547,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_WIFUSD",
@@ -11712,27 +11982,32 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
-        "maxPositionSize": 30000.0,
+        "maxPositionSize": 120000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2022-03-22T14:56:19.000Z",
         "postOnly": false,
@@ -11748,24 +12023,29 @@
                 "numNonContractUnits": 250000.0
             },
             {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 750000.0
+            },
+            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             }
         ],
         "symbol": "PF_XMRUSD",
