@@ -5121,13 +5121,22 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "TONCOIN",
+        "quote_currency": "USDC",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "TONCOIN_USDC",
+        "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "OP",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "OP_USDC",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "2",
@@ -5139,31 +5148,31 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "ENA",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "ENA_USDC",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "ORDI",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "ORDI_USDC",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
         "base_currency": "ARB",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "1",
         "status": "gray",
         "symbol": "ARB_USDC",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "2",
@@ -5173,15 +5182,6 @@
         "status": "online",
         "symbol": "UBXS_USDT",
         "tick_size": "5"
-    },
-    {
-        "base_asset_precision": "0",
-        "base_currency": "TON",
-        "quote_currency": "USDC",
-        "size_increment": "0",
-        "status": "gray",
-        "symbol": "TON_USDC",
-        "tick_size": "0"
     },
     {
         "base_asset_precision": "2",
