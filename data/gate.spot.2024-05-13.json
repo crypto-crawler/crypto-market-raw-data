@@ -6622,6 +6622,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "BONEBONE",
+        "buy_start": 1715763600,
+        "fee": "0.2",
+        "id": "BONEBONE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "BONE",
         "buy_start": 1677211200,
         "fee": "0.2",
@@ -29687,6 +29701,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NLK",
+        "buy_start": 1715853600,
+        "fee": "0.2",
+        "id": "NLK_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
