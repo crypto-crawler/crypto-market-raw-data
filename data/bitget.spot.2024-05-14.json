@@ -5274,6 +5274,15 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "GME",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "GME_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "1",
         "base_currency": "TET",
         "quote_currency": "USDT",
@@ -7720,15 +7729,6 @@
         "status": "online",
         "symbol": "ETH_EUR",
         "tick_size": "2"
-    },
-    {
-        "base_asset_precision": "4",
-        "base_currency": "DERC",
-        "quote_currency": "USDT",
-        "size_increment": "4",
-        "status": "online",
-        "symbol": "DERC_USDT",
-        "tick_size": "5"
     },
     {
         "base_asset_precision": "4",
