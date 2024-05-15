@@ -5257,10 +5257,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "CAU",
+        "base_currency": "VIRTUAL",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "VIRTUAL_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "CAU",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "CAU_USDT",
         "tick_size": "3"
     },
@@ -5269,7 +5278,7 @@
         "base_currency": "GAME2",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "GAME2_USDT",
         "tick_size": "6"
     },
@@ -5278,7 +5287,7 @@
         "base_currency": "FURY",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "FURY_USDT",
         "tick_size": "4"
     },
