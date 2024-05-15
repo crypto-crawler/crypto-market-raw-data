@@ -2358,6 +2358,77 @@
         "type": "flexible_futures"
     },
     {
+        "category": "AI",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 40,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 1500000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-15T13:03:07.150Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_ARKMUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "category": "Layer 2",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
@@ -5560,6 +5631,77 @@
         "type": "flexible_futures"
     },
     {
+        "category": "Community",
+        "contractSize": 1,
+        "contractValueTradePrecision": -3,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 500000,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 20000000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-15T13:03:03.922Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_FLOKIUSD",
+        "tags": [],
+        "tickSize": 1e-08,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "category": "Layer 1",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
@@ -8296,6 +8438,77 @@
         "type": "flexible_futures"
     },
     {
+        "category": "Web3",
+        "contractSize": 1,
+        "contractValueTradePrecision": 1,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 8,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 300000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-15T13:02:58.544Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_MOVRUSD",
+        "tags": [],
+        "tickSize": 0.001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "category": "Layer 1",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
@@ -9032,6 +9245,77 @@
         "symbol": "PF_PEPEUSD",
         "tags": [],
         "tickSize": 1e-10,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 350,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 15000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-15T13:02:54.451Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_POWRUSD",
+        "tags": [],
+        "tickSize": 1e-05,
         "tradeable": true,
         "type": "flexible_futures"
     },
@@ -12781,6 +13065,77 @@
         "symbol": "PF_ZECUSD",
         "tags": [],
         "tickSize": 0.01,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "Web3",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "5b755fea-c5b0-4307-a66e-b392cd5bd931",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 70,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 3000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-05-15T13:02:50.755Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_ZETAUSD",
+        "tags": [],
+        "tickSize": 0.0001,
         "tradeable": true,
         "type": "flexible_futures"
     },
