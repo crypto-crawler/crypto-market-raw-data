@@ -9356,7 +9356,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -9366,7 +9366,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -24922,9 +24922,7 @@
         "baseCoinId": "09933902995c40c1a6d94a1571370700",
         "baseCoinName": "ZENT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
             "0.00001",
@@ -24943,7 +24941,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 4200,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
