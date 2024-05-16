@@ -11482,20 +11482,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "DERC",
-        "buy_start": 1627992000,
-        "fee": "0.2",
-        "id": "DERC_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "DERI",
         "buy_start": 1632888000,
@@ -12935,7 +12921,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -29728,7 +29714,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -29952,7 +29938,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -40372,6 +40358,20 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SQD",
+        "buy_start": 1715932800,
+        "fee": "0.2",
+        "id": "SQD_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

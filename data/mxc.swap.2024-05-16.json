@@ -6092,9 +6092,7 @@
         "baseCoinId": "c4cf2bd4c4b54d2f889e9266859a6625",
         "baseCoinName": "COS",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 100,
         "depthStepList": [
             "0.00001",
@@ -6111,7 +6109,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 25000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -8775,9 +8773,7 @@
         "baseCoinId": "",
         "baseCoinName": "FIRE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 1,
         "depthStepList": [
             "0.001",
@@ -8795,7 +8791,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 12000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -16859,7 +16855,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 560000,
+        "limitMaxVol": 400000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -16870,7 +16866,7 @@
             200,
             50
         ],
-        "maxVol": 560000,
+        "maxVol": 400000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -16879,10 +16875,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 560000,
+        "riskBaseVol": 400000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 560000,
+        "riskIncrVol": 400000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
