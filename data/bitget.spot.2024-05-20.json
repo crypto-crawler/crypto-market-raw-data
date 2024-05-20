@@ -1080,15 +1080,6 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "DWARS",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "DWARS_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "1",
         "base_currency": "CAMLY",
         "quote_currency": "USDT",
@@ -5427,11 +5418,29 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "4",
+        "base_currency": "SBCH",
+        "quote_currency": "SUSDT",
+        "size_increment": "4",
+        "status": "gray",
+        "symbol": "SBCH_SUSDT",
+        "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "NUTS",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "NUTS_USDT",
+        "tick_size": "5"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "SLTC",
         "quote_currency": "SUSDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SLTC_SUSDT",
         "tick_size": "3"
     },
