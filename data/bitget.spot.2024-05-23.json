@@ -5602,7 +5602,7 @@
         "base_currency": "ZERC",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ZERC_USDT",
         "tick_size": "4"
     },
@@ -5620,7 +5620,7 @@
         "base_currency": "SYK",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SYK_USDT",
         "tick_size": "4"
     },
@@ -6381,11 +6381,20 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "DOG",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "DOG_USDT",
+        "tick_size": "6"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "HLG",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "HLG_USDT",
         "tick_size": "5"
     },
