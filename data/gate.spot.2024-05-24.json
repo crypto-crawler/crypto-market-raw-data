@@ -10572,6 +10572,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "CU",
+        "buy_start": 1716976800,
+        "fee": "0.2",
+        "id": "CU_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "CVAULTCORE",
         "buy_start": 1673935200,
@@ -17390,7 +17404,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -25570,7 +25584,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -27951,6 +27965,20 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MON",
+        "buy_start": 1716804000,
+        "fee": "0.2",
+        "id": "MON_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
