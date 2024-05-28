@@ -4717,6 +4717,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "ROOST",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ROOST_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "MERL",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -6430,7 +6439,7 @@
         "base_currency": "DOGEMOB",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "DOGEMOB_USDT",
         "tick_size": "6"
     },
@@ -6439,7 +6448,7 @@
         "base_currency": "PHONE",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "PHONE_USDT",
         "tick_size": "6"
     },
