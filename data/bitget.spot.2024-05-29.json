@@ -4720,7 +4720,7 @@
         "base_currency": "ROOST",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ROOST_USDT",
         "tick_size": "5"
     },
@@ -6448,7 +6448,7 @@
         "base_currency": "PARAM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "PARAM_USDT",
         "tick_size": "10"
     },
@@ -6498,13 +6498,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "BEER",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "BEER_USDT",
-        "tick_size": "0"
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
