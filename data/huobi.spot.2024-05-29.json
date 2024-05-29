@@ -13427,9 +13427,9 @@
         "amount-precision": 4,
         "api-trading": "enabled",
         "base-currency": "hao",
-        "buy-limit-must-less-than": 1.1,
+        "buy-limit-must-less-than": 1.05,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.1,
+        "market-buy-order-rate-must-less-than": 0.05,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 1,
         "min-order-value": 10,
@@ -13440,7 +13440,7 @@
         "state": "online",
         "symbol": "haousdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
