@@ -24586,6 +24586,25 @@
         "symbol": "SQD-USDT"
     },
     {
+        "baseCurrency": "USDT",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "0.1",
+        "enableTrading": false,
+        "feeCurrency": "TRY",
+        "isMarginEnabled": false,
+        "market": "FIAT",
+        "minFunds": null,
+        "name": "USDT-TRY",
+        "priceIncrement": "0.01",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "TRY",
+        "quoteIncrement": "0.01",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "USDT-TRY"
+    },
+    {
         "baseCurrency": "HLG",
         "baseIncrement": "0.1",
         "baseMaxSize": "10000000000",
