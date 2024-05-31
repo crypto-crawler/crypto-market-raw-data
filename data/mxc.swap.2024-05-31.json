@@ -3761,13 +3761,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "BEAMX",
         "baseCoinIconUrl": "",
         "baseCoinId": "c0e519ecaaa140338012aff97ab20585",
         "baseCoinName": "BEAMX",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "contractSize": 1000,
         "depthStepList": [
@@ -3783,7 +3783,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -3793,7 +3793,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
