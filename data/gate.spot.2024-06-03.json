@@ -15293,6 +15293,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "FAST",
+        "buy_start": 1718100000,
+        "fee": "0.2",
+        "id": "FAST_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 0,
         "base": "FBX",
         "buy_start": 1684411200,
@@ -22193,6 +22207,20 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "JUM",
+        "buy_start": 1717754400,
+        "fee": "0.2",
+        "id": "JUM_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 4,
