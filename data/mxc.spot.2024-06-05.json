@@ -5420,7 +5420,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BLOCK_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
     {
@@ -12497,7 +12497,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Egoras Credit",
+        "fullName": "NONE",
         "limited": false,
         "maker_fee_rate": "0",
         "max_amount": "2000000.000000000000000000000000000000",
@@ -23756,7 +23756,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MASA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
     {
@@ -34124,7 +34124,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SAGA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
     {
@@ -43517,6 +43517,22 @@
         "state": "ENABLED",
         "symbol": "WOB_USDT",
         "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.001"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Wojak",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "5.000000000000000000000000000000",
+        "min_amount_market": "5.000000000000000000000000000000",
+        "price_scale": 15,
+        "quantity_scale": 0,
+        "state": "ENABLED",
+        "symbol": "WOJAKSOL_USDT",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.001"
     },
     {
