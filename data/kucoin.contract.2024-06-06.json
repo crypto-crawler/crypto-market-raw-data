@@ -1128,7 +1128,7 @@
     },
     {
         "baseCurrency": "AGIX",
-        "expireDate": null,
+        "expireDate": 1717984800000,
         "fairMethod": "FundingRate",
         "firstOpenDate": 1675843200000,
         "fundingBaseSymbol": ".AGIXINT8H",
@@ -1160,9 +1160,9 @@
         "riskStep": 12500,
         "rootSymbol": "USDT",
         "settleCurrency": "USDT",
-        "settleDate": null,
+        "settleDate": 1717984800000,
         "settlementFee": null,
-        "settlementSymbol": "",
+        "settlementSymbol": ".KAGIX30M",
         "sourceExchanges": [
             "gateio",
             "binance",
@@ -5370,7 +5370,7 @@
     },
     {
         "baseCurrency": "FET",
-        "expireDate": null,
+        "expireDate": 1717984800000,
         "fairMethod": "FundingRate",
         "firstOpenDate": 1676361600000,
         "fundingBaseSymbol": ".FETINT8H",
@@ -5402,9 +5402,9 @@
         "riskStep": 25000,
         "rootSymbol": "USDT",
         "settleCurrency": "USDT",
-        "settleDate": null,
+        "settleDate": 1717984800000,
         "settlementFee": null,
-        "settlementSymbol": "",
+        "settlementSymbol": ".KFET30M",
         "sourceExchanges": [
             "binance",
             "coinbase",
@@ -9667,7 +9667,7 @@
     },
     {
         "baseCurrency": "OCEAN",
-        "expireDate": null,
+        "expireDate": 1717984800000,
         "fairMethod": "FundingRate",
         "firstOpenDate": 1617264000000,
         "fundingBaseSymbol": ".OCEANINT8H",
@@ -9699,9 +9699,9 @@
         "riskStep": 5000,
         "rootSymbol": "USDT",
         "settleCurrency": "USDT",
-        "settleDate": null,
+        "settleDate": 1717984800000,
         "settlementFee": null,
-        "settlementSymbol": "",
+        "settlementSymbol": ".KOCEAN30M",
         "sourceExchanges": [
             "binance",
             "kucoin",
@@ -12757,10 +12757,10 @@
         "settlementSymbol": "",
         "sourceExchanges": [
             "bybit",
-            "gateio",
             "kucoin",
-            "bitget",
-            "mexc"
+            "mexc",
+            "gateio",
+            "bitget"
         ],
         "status": "Open",
         "symbol": "TAIKOUSDTM",
