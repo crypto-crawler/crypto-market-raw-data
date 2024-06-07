@@ -6670,10 +6670,28 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "GEMS",
+        "base_currency": "AARK",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "AARK_USDT",
+        "tick_size": "3"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "PGPT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "PGPT_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "GEMS",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "GEMS_USDT",
         "tick_size": "5"
     },
@@ -6757,6 +6775,15 @@
         "status": "online",
         "symbol": "MEMECOIN_USDT",
         "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BLS",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "BLS_USDT",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "1",
