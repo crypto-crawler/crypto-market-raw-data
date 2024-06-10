@@ -2708,6 +2708,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -4548,6 +4549,7 @@
         "id": 193,
         "indexOrigin": [
             "BYBIT",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -4761,6 +4763,7 @@
         "id": 265,
         "indexOrigin": [
             "BITGET",
+            "HUOBI",
             "OKX",
             "MEXC"
         ],
@@ -6525,6 +6528,8 @@
         "id": 135,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -9698,6 +9703,8 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "BINANCE",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -16489,10 +16496,13 @@
         "futureType": 1,
         "id": 58,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "HUOBI",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -19849,7 +19859,9 @@
         "futureType": 1,
         "id": 236,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
+            "HUOBI",
             "OKX",
             "MEXC"
         ],
