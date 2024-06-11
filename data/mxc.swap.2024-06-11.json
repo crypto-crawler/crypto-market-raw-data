@@ -440,7 +440,11 @@
         "futureType": 1,
         "id": 388,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
+            "BINANCE",
+            "HUOBI",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -513,6 +517,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -653,6 +658,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -722,7 +728,6 @@
         "id": 519,
         "indexOrigin": [
             "BITGET",
-            "GATEIO",
             "HUOBI",
             "MEXC",
             "KUCOIN"
@@ -1357,7 +1362,7 @@
         "id": 494,
         "indexOrigin": [
             "BYBIT",
-            "GATEIO",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -4058,6 +4063,7 @@
         "futureType": 1,
         "id": 477,
         "indexOrigin": [
+            "BITGET",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -10632,7 +10638,7 @@
         "futureType": 1,
         "id": 490,
         "indexOrigin": [
-            "GATEIO",
+            "BITGET",
             "HUOBI",
             "MEXC"
         ],
@@ -11065,7 +11071,7 @@
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 50000,
+        "limitMaxVol": 60000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -11076,7 +11082,7 @@
             200,
             50
         ],
-        "maxVol": 50000,
+        "maxVol": 60000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -11085,10 +11091,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 50000,
+        "riskBaseVol": 60000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 50000,
+        "riskIncrVol": 60000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -14957,6 +14963,8 @@
         "id": 521,
         "indexOrigin": [
             "BITGET",
+            "BINANCE",
+            "HUOBI",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -15237,6 +15245,7 @@
         "id": 450,
         "indexOrigin": [
             "BYBIT",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -15656,6 +15665,7 @@
         "id": 507,
         "indexOrigin": [
             "BITGET",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -15663,7 +15673,7 @@
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 15500,
+        "limitMaxVol": 23000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -15674,7 +15684,7 @@
             200,
             50
         ],
-        "maxVol": 15500,
+        "maxVol": 23000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -15683,10 +15693,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 15500,
+        "riskBaseVol": 23000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 15500,
+        "riskIncrVol": 23000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -16713,6 +16723,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HUOBI",
             "MEXC",
             "KUCOIN"
         ],
@@ -17065,6 +17076,7 @@
         "id": 478,
         "indexOrigin": [
             "BITGET",
+            "HUOBI",
             "OKX",
             "KUCOIN"
         ],
@@ -17135,7 +17147,11 @@
         "id": 406,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
+            "BINANCE",
+            "HUOBI",
             "OKX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.005,
@@ -20366,7 +20382,10 @@
         "id": 489,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
+            "HUOBI",
             "OKX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.01,
@@ -22970,6 +22989,7 @@
         "futureType": 1,
         "id": 476,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "HUOBI",
             "MEXC",
@@ -24033,6 +24053,7 @@
         "futureType": 1,
         "id": 422,
         "indexOrigin": [
+            "BYBIT",
             "HUOBI",
             "OKX",
             "MEXC",
