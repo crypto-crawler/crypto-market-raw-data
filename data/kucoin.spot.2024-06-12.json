@@ -24381,7 +24381,7 @@
         "baseIncrement": "0.1",
         "baseMaxSize": "10000000000",
         "baseMinSize": "10",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -24400,7 +24400,7 @@
         "baseIncrement": "0.1",
         "baseMaxSize": "10000000000",
         "baseMinSize": "10",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -24413,5 +24413,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "ATH-USDT"
+    },
+    {
+        "baseCurrency": "BEER",
+        "baseIncrement": "1",
+        "baseMaxSize": "100000000000",
+        "baseMinSize": "1000",
+        "enableTrading": true,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "BEER-USDT",
+        "priceIncrement": "0.0000001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0000001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "BEER-USDT"
     }
 ]

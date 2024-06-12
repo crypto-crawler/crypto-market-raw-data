@@ -952,6 +952,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "AGA",
+        "buy_start": 1718272800,
+        "fee": "0.2",
+        "id": "AGA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "AGB",
         "buy_start": 1688641200,
@@ -3553,7 +3567,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -14097,7 +14111,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -17797,48 +17811,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "GBPT",
-        "buy_start": 1657530000,
-        "fee": "0.2",
-        "id": "GBPT_BTC",
-        "max_quote_amount": "100",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "0.00001",
-        "precision": 9,
-        "quote": "BTC",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "GBPT",
-        "buy_start": 1657530000,
-        "fee": "0.2",
-        "id": "GBPT_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "GBPT",
-        "buy_start": 1657530000,
-        "fee": "0.2",
-        "id": "GBPT_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -33553,6 +33525,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "PIE",
+        "buy_start": 1718704800,
+        "fee": "0.2",
+        "id": "PIE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "PIGCOIN",
         "buy_start": 1711965600,
@@ -45103,7 +45089,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
