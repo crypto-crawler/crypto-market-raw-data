@@ -3303,6 +3303,15 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "TEL",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "online",
+        "symbol": "TEL_USDT",
+        "tick_size": "6"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "BGB",
         "quote_currency": "ETH",
@@ -6835,7 +6844,7 @@
         "base_currency": "MAND",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MAND_USDT",
         "tick_size": "5"
     },
