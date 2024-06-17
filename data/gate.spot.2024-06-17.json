@@ -5585,6 +5585,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BENJI",
+        "buy_start": 1718791200,
+        "fee": "0.2",
+        "id": "BENJI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "BENQI",
         "buy_start": 1629889200,
@@ -6675,6 +6689,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "BOBO",
+        "buy_start": 1718773200,
+        "fee": "0.2",
+        "id": "BOBO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -24180,7 +24208,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -30639,6 +30667,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NSTR",
+        "buy_start": 1718719200,
+        "fee": "0.2",
+        "id": "NSTR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -44991,7 +45033,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -50596,15 +50638,15 @@
         "trade_status": "sellable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "ZK",
         "buy_start": 1718611200,
         "fee": "0.2",
         "id": "ZK_TRY",
         "max_quote_amount": "30000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "0.01",
         "min_quote_amount": "30",
-        "precision": 4,
+        "precision": 3,
         "quote": "TRY",
         "sell_start": 1596702900,
         "trade_status": "tradable"
