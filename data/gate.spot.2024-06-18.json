@@ -20190,7 +20190,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -27849,7 +27849,7 @@
         "max_quote_amount": "30000000",
         "min_base_amount": "0.001",
         "min_quote_amount": "30",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -40346,6 +40346,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "SNPT",
+        "buy_start": 1718866800,
+        "fee": "0.2",
+        "id": "SNPT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "SNTR",
         "buy_start": 1640232000,
@@ -49568,7 +49582,7 @@
         "max_quote_amount": "30000000",
         "min_base_amount": "0.001",
         "min_quote_amount": "30",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
