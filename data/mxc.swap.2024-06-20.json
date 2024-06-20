@@ -1427,9 +1427,7 @@
         "baseCoinId": "e6d7a65923584018894cfbde0af72148",
         "baseCoinName": "AIOZ",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.001",
@@ -1447,7 +1445,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 5000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -2916,9 +2914,7 @@
         "baseCoinId": "8c5a277c3a724fb19f7b31cae4166aea",
         "baseCoinName": "ATH",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
+        "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
             "0.00001",
@@ -2939,7 +2935,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -5476,8 +5472,8 @@
         ],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "CEEK_USDT\u6c38\u7eed",
         "displayNameEn": "CEEK_USDT PERPETUAL",
@@ -5509,8 +5505,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 230000,
@@ -6975,7 +6971,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 19500,
         "maintenanceMarginRate": 0.02,
@@ -8959,7 +8955,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 17500,
         "maintenanceMarginRate": 0.004,
