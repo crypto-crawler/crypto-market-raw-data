@@ -5193,15 +5193,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
+        "amount_precision": 2,
         "base": "BCP",
         "buy_start": 1718348400,
         "fee": "0.2",
         "id": "BCP_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.0001",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 2,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
