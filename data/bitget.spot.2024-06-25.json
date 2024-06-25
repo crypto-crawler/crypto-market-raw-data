@@ -6702,7 +6702,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "SPHYNX_USDT",
-        "tick_size": "5"
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "2",
@@ -7030,10 +7030,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "BIAO",
+        "base_currency": "WATER",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "WATER_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BIAO",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "BIAO_USDT",
         "tick_size": "5"
     },
