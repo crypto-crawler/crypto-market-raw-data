@@ -7029,11 +7029,20 @@
         "tick_size": "6"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "BLAST",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "BLAST_USDT",
+        "tick_size": "0"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "WATER",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "WATER_USDT",
         "tick_size": "6"
     },
