@@ -6086,7 +6086,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -30642,6 +30642,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "NPC",
+        "buy_start": 1719583200,
+        "fee": "0.2",
+        "id": "NPC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "NPT",
         "buy_start": 1648803600,
         "fee": "0.2",
@@ -32627,6 +32641,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ORNG",
+        "buy_start": 1719568800,
+        "fee": "0.2",
+        "id": "ORNG_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1608782400,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
