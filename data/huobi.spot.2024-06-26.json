@@ -4101,6 +4101,7 @@
         "api-trading": "enabled",
         "base-currency": "blast",
         "buy-limit-must-less-than": 1.1,
+        "leverage-ratio": 3,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
@@ -19834,7 +19835,7 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
-        "base-currency": "mtl",
+        "base-currency": "mtlold",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.01,
         "market-buy-order-rate-must-less-than": 0.1,
@@ -19855,7 +19856,7 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
-        "base-currency": "mtl",
+        "base-currency": "mtlold",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.001,
         "market-buy-order-rate-must-less-than": 0.1,
@@ -19867,7 +19868,7 @@
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.001,
         "state": "suspend",
-        "symbol": "mtlusdt",
+        "symbol": "mtloldusdt",
         "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
