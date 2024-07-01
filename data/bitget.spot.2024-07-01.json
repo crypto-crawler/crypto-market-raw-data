@@ -4362,7 +4362,7 @@
         "size_increment": "4",
         "status": "online",
         "symbol": "AIT_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -6982,6 +6982,33 @@
         "status": "online",
         "symbol": "AVAX_EUR",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BOMB",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "BOMB_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "JAIL",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "JAIL_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "QUBIC",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "QUBIC_USDT",
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
