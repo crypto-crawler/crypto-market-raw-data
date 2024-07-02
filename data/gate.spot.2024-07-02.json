@@ -3823,6 +3823,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "ATRS",
+        "buy_start": 1720605600,
+        "fee": "0.2",
+        "id": "ATRS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "ATR",
         "buy_start": 1711702800,
         "fee": "0.2",
@@ -29574,7 +29588,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -35496,7 +35510,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -38148,18 +38162,18 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 1,
         "base": "RUNI",
         "buy_start": 1719921600,
         "fee": "0.2",
         "id": "RUNI_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
+        "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -47711,6 +47725,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "WELL3",
+        "buy_start": 1720000800,
+        "fee": "0.2",
+        "id": "WELL3_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
