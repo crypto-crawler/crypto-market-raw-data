@@ -9579,7 +9579,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8,
+        "impactMidSize": 8.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -9607,10 +9607,10 @@
                 "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 300000,
+        "maxPositionSize": 300000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2024-07-04T12:06:05.295Z",
-        "postOnly": true,
+        "openingDate": "2024-07-04T12:06:05.000Z",
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.05,
@@ -15113,7 +15113,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 600,
+        "impactMidSize": 600.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -15141,10 +15141,10 @@
                 "numNonContractUnits": 2000000.0
             }
         ],
-        "maxPositionSize": 25000000,
+        "maxPositionSize": 25000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2024-07-04T12:06:09.237Z",
-        "postOnly": true,
+        "openingDate": "2024-07-04T12:06:09.000Z",
+        "postOnly": false,
         "retailMarginLevels": [
             {
                 "initialMargin": 0.05,
