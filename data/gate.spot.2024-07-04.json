@@ -6758,7 +6758,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -31855,6 +31855,20 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 1597734000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 4,
+        "base": "OM",
+        "buy_start": 1597752000,
+        "fee": "0.2",
+        "id": "OM_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
         "sell_start": 1597734000,
         "trade_status": "tradable"
     },
