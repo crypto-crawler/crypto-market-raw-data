@@ -188,7 +188,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "A4M_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -684,7 +684,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AES_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -2136,7 +2136,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ANON_USDT",
@@ -6024,7 +6024,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 12,
+        "price_scale": 14,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BOMEX_USDT",
@@ -8812,7 +8812,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CLUB_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -10168,7 +10168,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 17,
+        "price_scale": 18,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "CWD_USDT",
@@ -14056,7 +14056,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 9,
+        "price_scale": 12,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FANTOM_USDT",
@@ -17580,7 +17580,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GTCOIN_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -19292,7 +19292,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ICPX_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -19676,7 +19676,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "INS_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -21516,7 +21516,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "KNFT_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -25484,7 +25484,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MILLI_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -27953,6 +27953,22 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Nigella Chain",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "5.000000000000000000000000000000",
+        "min_amount_market": "5.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "NIGELLA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Midnight",
         "limited": false,
         "maker_fee_rate": "0",
@@ -28044,7 +28060,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "NLC_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -33217,6 +33233,22 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Rebel Cars",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "5.000000000000000000000000000000",
+        "min_amount_market": "5.000000000000000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "RC_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
         "fullName": "RDEX",
         "limited": false,
         "maker_fee_rate": "0",
@@ -36449,6 +36481,22 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "SKULL OF PEPE TOKEN",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "5.000000000000000000000000000000",
+        "min_amount_market": "5.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "SKOP_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Sugar Kingdom",
         "limited": false,
         "maker_fee_rate": "0",
@@ -36632,7 +36680,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 16,
+        "price_scale": 17,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SLR_USDT",
@@ -37708,7 +37756,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "SPARTA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -45672,7 +45720,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 14,
+        "price_scale": 16,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "XSHIB_USDT",
