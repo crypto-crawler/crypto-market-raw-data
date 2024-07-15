@@ -5960,7 +5960,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 8,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "BOME2_USDT",
@@ -9032,7 +9032,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 8,
+        "price_scale": 9,
         "quantity_scale": 0,
         "state": "ENABLED",
         "symbol": "COK_USDT",
@@ -12024,7 +12024,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 10,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "DOTPEPE_USDT",
@@ -12892,7 +12892,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "ELFT_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -14396,6 +14396,22 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "FIGHTETH_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "FIGHT",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "5.000000000000000000000000000000",
+        "min_amount_market": "5.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "FIGHT_USDT",
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
@@ -16764,7 +16780,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "GNFTY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -19160,7 +19176,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "5.000000000000000000000000000000",
         "min_amount_market": "5.000000000000000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "HYPERAI_USDT",
@@ -19532,7 +19548,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "INDY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -26604,7 +26620,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "MTMS_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -31372,7 +31388,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PIXL_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -32252,7 +32268,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "PRY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -42140,7 +42156,7 @@
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "UNILAPSE_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
@@ -45276,7 +45292,7 @@
         "quantity_scale": 3,
         "state": "ENABLED",
         "symbol": "XIN_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0"
     },
     {
