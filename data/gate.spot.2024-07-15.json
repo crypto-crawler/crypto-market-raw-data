@@ -1008,34 +1008,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 4,
-        "base": "AGIX",
-        "buy_start": 1675065600,
-        "fee": "0.2",
-        "id": "AGIX_TRY",
-        "max_quote_amount": "30000000",
-        "min_base_amount": "0.0001",
-        "min_quote_amount": "30",
-        "precision": 2,
-        "quote": "TRY",
-        "sell_start": 1596702900,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "AGIX",
-        "buy_start": 1675065600,
-        "fee": "0.2",
-        "id": "AGIX_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1596702900,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 2,
         "base": "AGI",
         "buy_start": 1681214400,
@@ -1272,20 +1244,6 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "AIR",
-        "buy_start": 1648198800,
-        "fee": "0.2",
-        "id": "AIR_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1583901300,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -4646,20 +4604,6 @@
         "quote": "USDT",
         "sell_start": 1597638600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "BAMBOO",
-        "buy_start": 1615435200,
-        "fee": "0.2",
-        "id": "BAMBOO_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -11959,20 +11903,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
-        "base": "DFL",
-        "buy_start": 1618459200,
-        "fee": "0.2",
-        "id": "DFL_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 0,
         "base": "DFND",
         "buy_start": 1620237600,
@@ -15463,34 +15393,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
-        "base": "FAN",
-        "buy_start": 1627614000,
-        "fee": "0.2",
-        "id": "FAN_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "1",
-        "min_quote_amount": "0.001",
-        "precision": 11,
-        "quote": "ETH",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "FAN",
-        "buy_start": 1627614000,
-        "fee": "0.2",
-        "id": "FAN_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 4,
         "base": "FARM",
         "buy_start": 1599724800,
@@ -17714,7 +17616,7 @@
         "precision": 2,
         "quote": "TRY",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -17728,7 +17630,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -30318,7 +30220,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -31299,34 +31201,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 4,
-        "base": "OCEAN",
-        "buy_start": 1594182900,
-        "fee": "0.2",
-        "id": "OCEAN_TRY",
-        "max_quote_amount": "30000000",
-        "min_base_amount": "0.0001",
-        "min_quote_amount": "30",
-        "precision": 2,
-        "quote": "TRY",
-        "sell_start": 1594182900,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "OCEAN",
-        "buy_start": 1594182900,
-        "fee": "0.2",
-        "id": "OCEAN_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1594182900,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -36680,34 +36554,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "RBN",
-        "buy_start": 1633690800,
-        "fee": "0.2",
-        "id": "RBN_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 7,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "RBN",
-        "buy_start": 1633690800,
-        "fee": "0.2",
-        "id": "RBN_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 2,
         "base": "RBT",
         "buy_start": 1710752400,
@@ -38764,20 +38610,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "SCRAT",
-        "buy_start": 1719486000,
-        "fee": "0.2",
-        "id": "SCRAT_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1596702900,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -46438,34 +46270,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "VERA",
-        "buy_start": 1632477600,
-        "fee": "0.2",
-        "id": "VERA_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "VERA",
-        "buy_start": 1632477600,
-        "fee": "0.2",
-        "id": "VERA_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
