@@ -1257,7 +1257,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -1929,7 +1929,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1583901300,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -15726,6 +15726,20 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "FIGHT",
+        "buy_start": 1721115000,
+        "fee": "0.2",
+        "id": "FIGHT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
         "trade_status": "tradable"
     },
     {
@@ -35638,7 +35652,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -37587,7 +37601,7 @@
         "precision": 6,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 4,
@@ -37601,7 +37615,7 @@
         "precision": 2,
         "quote": "TRY",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -37615,7 +37629,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -47310,7 +47324,7 @@
     {
         "amount_precision": 1,
         "base": "WATER",
-        "buy_start": 1721210400,
+        "buy_start": 1721208600,
         "fee": "0.2",
         "id": "WATER_USDT",
         "max_quote_amount": "5000000",
