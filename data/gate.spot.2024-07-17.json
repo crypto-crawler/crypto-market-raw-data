@@ -22477,6 +22477,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "JUC",
+        "buy_start": 1721282400,
+        "fee": "0.2",
+        "id": "JUC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1608782400,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "JUICE",
         "buy_start": 1711468800,
@@ -37601,7 +37615,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -37615,7 +37629,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
