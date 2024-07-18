@@ -6846,29 +6846,24 @@
         "impactMidSize": 75,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 10000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 10000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 100000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 1000000.0
             }
         ],
         "maxPositionSize": 1000000,
@@ -6877,29 +6872,24 @@
         "postOnly": false,
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 10000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 10000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 100000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 1000000.0
             }
         ],
         "symbol": "PF_GALUSD",
