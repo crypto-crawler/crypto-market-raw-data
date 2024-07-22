@@ -4033,6 +4033,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "AVAIL",
+        "buy_start": 1721736000,
+        "fee": "0.2",
+        "id": "AVAIL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "AVALOX",
         "buy_start": 1713420000,
         "fee": "0.2",
@@ -10069,34 +10083,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "CQT",
-        "buy_start": 1624410000,
-        "fee": "0.2",
-        "id": "CQT_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "CQT",
-        "buy_start": 1624410000,
-        "fee": "0.2",
-        "id": "CQT_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 1,
         "base": "CRAFT",
         "buy_start": 1643270400,
@@ -11131,6 +11117,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CXT",
+        "buy_start": 1721714400,
+        "fee": "0.2",
+        "id": "CXT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -20514,7 +20514,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -34364,7 +34364,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -42487,7 +42487,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -50427,7 +50427,7 @@
         "precision": 8,
         "quote": "ETH",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -50441,7 +50441,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -51043,7 +51043,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,

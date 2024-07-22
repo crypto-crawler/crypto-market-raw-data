@@ -7120,15 +7120,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "SPIKE",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "halt",
-        "symbol": "SPIKE_USDT",
-        "tick_size": "5"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "BOOM",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -7264,6 +7255,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "AVAIL",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "AVAIL_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "LIQUIDIUMTOKEN",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -7276,7 +7276,7 @@
         "base_currency": "NFM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NFM_USDT",
         "tick_size": "6"
     },
@@ -7285,7 +7285,7 @@
         "base_currency": "ZKL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ZKL_USDT",
         "tick_size": "4"
     },
