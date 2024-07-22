@@ -4783,6 +4783,77 @@
     {
         "category": "DeFi",
         "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 500,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "maxPositionSize": 10000000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-07-22T14:04:52.000Z",
+        "postOnly": true,
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_CLOUDUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "category": "DeFi",
+        "contractSize": 1,
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
