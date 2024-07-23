@@ -11130,7 +11130,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -22449,6 +22449,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "JOBAI",
+        "buy_start": 1721800800,
+        "fee": "0.2",
+        "id": "JOBAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 12,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "JOE",
         "buy_start": 1630735200,
@@ -25431,15 +25445,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 1,
         "base": "LOVELY",
         "buy_start": 1720418400,
         "fee": "0.2",
         "id": "LOVELY_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 11,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
