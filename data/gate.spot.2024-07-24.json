@@ -557,7 +557,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -30434,34 +30434,6 @@
     },
     {
         "amount_precision": 0,
-        "base": "NFTY",
-        "buy_start": 1637064000,
-        "fee": "0.2",
-        "id": "NFTY_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "1",
-        "min_quote_amount": "0.001",
-        "precision": 12,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "NFTY",
-        "buy_start": 1637064000,
-        "fee": "0.2",
-        "id": "NFTY_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
         "base": "NFT",
         "buy_start": 1623387600,
         "fee": "0.2",
@@ -37254,6 +37226,20 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "RENDER",
+        "buy_start": 1721890800,
+        "fee": "0.2",
+        "id": "RENDER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "REN",
         "buy_start": 1596785700,
@@ -43314,6 +43300,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "SYNT",
+        "buy_start": 1721887200,
+        "fee": "0.2",
+        "id": "SYNT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -50539,7 +50539,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1598952900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
