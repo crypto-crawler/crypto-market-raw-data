@@ -12603,6 +12603,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "DOAI",
+        "buy_start": 1722247200,
+        "fee": "0.2",
+        "id": "DOAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "DOCK",
         "buy_start": 1524729600,
@@ -13399,6 +13413,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DTEC",
+        "buy_start": 1722524400,
+        "fee": "0.2",
+        "id": "DTEC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1596702900,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -34129,6 +34157,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "PIKA",
+        "buy_start": 1725152940,
+        "fee": "0.2",
+        "id": "PIKA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "PINE",
         "buy_start": 1675947600,
@@ -44514,7 +44556,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
