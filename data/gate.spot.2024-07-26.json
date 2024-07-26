@@ -13403,7 +13403,7 @@
     {
         "amount_precision": 2,
         "base": "DTEC",
-        "buy_start": 1722524400,
+        "buy_start": 1722510000,
         "fee": "0.2",
         "id": "DTEC_USDT",
         "max_quote_amount": "5000000",
@@ -16833,6 +16833,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "FOXSY",
+        "buy_start": 1722420000,
+        "fee": "0.2",
+        "id": "FOXSY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1609866000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -24003,6 +24017,20 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "L3",
+        "buy_start": 1722333600,
+        "fee": "0.2",
+        "id": "L3_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1609434000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "LABS",
         "buy_start": 1616832000,
@@ -24141,6 +24169,20 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "LAND",
+        "buy_start": 1722337200,
+        "fee": "0.2",
+        "id": "LAND_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -28849,6 +28891,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "MOXIE",
+        "buy_start": 1722261600,
+        "fee": "0.2",
+        "id": "MOXIE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

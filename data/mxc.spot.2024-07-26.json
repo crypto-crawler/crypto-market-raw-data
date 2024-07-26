@@ -632,7 +632,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 18,
+        "price_scale": 20,
         "quantity_scale": 2,
         "state": "ENABLED",
         "symbol": "AERA_USDT",
@@ -13805,22 +13805,6 @@
         "state": "ENABLED",
         "symbol": "FARA_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0"
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Farmsent",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "ENABLED",
-        "symbol": "FARMS_USDT",
-        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
@@ -34605,6 +34589,22 @@
         "state": "ENABLED",
         "symbol": "SCCP_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0"
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Smoking Chicken Fish",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "ENABLED",
+        "symbol": "SCF_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0"
     },
     {
