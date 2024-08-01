@@ -9688,7 +9688,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -13426,7 +13426,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -28039,6 +28039,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "MIRX",
+        "buy_start": 1723042800,
+        "fee": "0.2",
+        "id": "MIRX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "MIR",
         "buy_start": 1611921660,
@@ -38400,6 +38414,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SAI",
+        "buy_start": 1722862800,
+        "fee": "0.2",
+        "id": "SAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

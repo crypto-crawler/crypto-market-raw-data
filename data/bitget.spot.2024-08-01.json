@@ -3069,15 +3069,6 @@
         "tick_size": "2"
     },
     {
-        "base_asset_precision": "2",
-        "base_currency": "TYPE",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "TYPE_USDT",
-        "tick_size": "6"
-    },
-    {
         "base_asset_precision": "1",
         "base_currency": "VGX",
         "quote_currency": "USDT",
@@ -6553,15 +6544,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "ZKX",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "ZKX_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "XZK",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -6991,15 +6973,6 @@
         "status": "online",
         "symbol": "ADA_EUR",
         "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "1",
-        "base_currency": "APECOIN",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "APECOIN_USDT",
-        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
@@ -8743,7 +8716,7 @@
         "base_currency": "WHY",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "WHY_USDT",
         "tick_size": "10"
     },
@@ -8788,7 +8761,7 @@
         "base_currency": "NEIRO",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NEIRO_USDT",
         "tick_size": "4"
     },
@@ -8797,7 +8770,7 @@
         "base_currency": "DTEC",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "DTEC_USDT",
         "tick_size": "4"
     }
