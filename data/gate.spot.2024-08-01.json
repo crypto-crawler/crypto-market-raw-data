@@ -30629,15 +30629,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 0,
         "base": "NIZA",
         "buy_start": 1702040400,
         "fee": "0.2",
         "id": "NIZA_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"

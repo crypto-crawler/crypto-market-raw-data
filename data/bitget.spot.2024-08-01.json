@@ -8739,13 +8739,13 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "WHY",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "WHY_USDT",
-        "tick_size": "0"
+        "tick_size": "10"
     },
     {
         "base_asset_precision": "2",
@@ -8784,12 +8784,21 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "NEIRO",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "NEIRO_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "DTEC",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "DTEC_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     }
 ]
