@@ -208,24 +208,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "DUSD",
-        "quote_currency": "USDC",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "DUSD_USDC",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
-        "base_currency": "DUSD",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "DUSD_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "XPET",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -2745,15 +2727,6 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "USDV",
-        "quote_currency": "ETH",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "USDV_ETH",
-        "tick_size": "7"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "GRAM",
         "quote_currency": "USDT",
@@ -2896,15 +2869,6 @@
         "status": "online",
         "symbol": "LAI_USDT",
         "tick_size": "6"
-    },
-    {
-        "base_asset_precision": "1",
-        "base_currency": "USDV",
-        "quote_currency": "BTC",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "USDV_BTC",
-        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
@@ -8806,7 +8770,7 @@
         "base_currency": "CATDOG",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "CATDOG_USDT",
         "tick_size": "7"
     }
