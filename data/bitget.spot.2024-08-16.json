@@ -7051,7 +7051,7 @@
         "base_currency": "NFM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "NFM_USDT",
         "tick_size": "6"
     },
@@ -8631,12 +8631,12 @@
         "tick_size": "7"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "MUSIC",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "MUSIC_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     }
 ]
