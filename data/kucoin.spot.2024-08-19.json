@@ -7619,25 +7619,6 @@
         "symbol": "DAPPX-USDT"
     },
     {
-        "baseCurrency": "KONO",
-        "baseIncrement": "0.0001",
-        "baseMaxSize": "10000000000",
-        "baseMinSize": "0.1",
-        "enableTrading": true,
-        "feeCurrency": "USDT",
-        "isMarginEnabled": false,
-        "market": "USDS",
-        "minFunds": "0.1",
-        "name": "KONO-USDT",
-        "priceIncrement": "0.00001",
-        "priceLimitRate": "0.1",
-        "quoteCurrency": "USDT",
-        "quoteIncrement": "0.00001",
-        "quoteMaxSize": "99999999",
-        "quoteMinSize": "0.1",
-        "symbol": "KONO-USDT"
-    },
-    {
         "baseCurrency": "PRQ",
         "baseIncrement": "0.0001",
         "baseMaxSize": "10000000000",
@@ -20274,7 +20255,7 @@
     },
     {
         "baseCurrency": "BAKEDOWN",
-        "baseIncrement": "0.000001",
+        "baseIncrement": "0.00000001",
         "baseMaxSize": "999999999999",
         "baseMinSize": "0.1",
         "enableTrading": true,
@@ -20283,10 +20264,10 @@
         "market": "USDS",
         "minFunds": "0.1",
         "name": "BAKEDOWN-USDT",
-        "priceIncrement": "0.000001",
+        "priceIncrement": "0.00000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.000001",
+        "quoteIncrement": "0.00000001",
         "quoteMaxSize": "5000",
         "quoteMinSize": "0.1",
         "symbol": "BAKEDOWN-USDT"
@@ -21088,25 +21069,6 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "BIDP-USDT"
-    },
-    {
-        "baseCurrency": "HON",
-        "baseIncrement": "1",
-        "baseMaxSize": "10000000000",
-        "baseMinSize": "10",
-        "enableTrading": true,
-        "feeCurrency": "USDT",
-        "isMarginEnabled": false,
-        "market": "USDS",
-        "minFunds": "0.1",
-        "name": "HON-USDT",
-        "priceIncrement": "0.000001",
-        "priceLimitRate": "0.1",
-        "quoteCurrency": "USDT",
-        "quoteIncrement": "0.000001",
-        "quoteMaxSize": "99999999",
-        "quoteMinSize": "0.1",
-        "symbol": "HON-USDT"
     },
     {
         "baseCurrency": "TUNE",
@@ -24020,7 +23982,7 @@
         "baseIncrement": "0.1",
         "baseMaxSize": "10000000000",
         "baseMinSize": "10",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -24033,5 +23995,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "G-USDT"
+    },
+    {
+        "baseCurrency": "BN",
+        "baseIncrement": "0.1",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "10",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "BN-USDT",
+        "priceIncrement": "0.00001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.00001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "BN-USDT"
     }
 ]
