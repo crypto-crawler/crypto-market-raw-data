@@ -24039,7 +24039,7 @@
         "baseIncrement": "1",
         "baseMaxSize": "100000000000",
         "baseMinSize": "100000",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -24052,5 +24052,24 @@
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "symbol": "CAT-USDT"
+    },
+    {
+        "baseCurrency": "POPCAT",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "enableTrading": true,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "POPCAT-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "symbol": "POPCAT-USDT"
     }
 ]
