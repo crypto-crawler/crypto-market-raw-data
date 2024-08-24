@@ -1336,11 +1336,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AIS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -9698,7 +9698,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 22,
+        "price_scale": 23,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "CRCD_USDT",
@@ -20206,11 +20206,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ICLOUD_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -28711,6 +28711,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "NURB",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "NB_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -43171,7 +43188,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 23,
+        "price_scale": 26,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TRID_USDT",
@@ -45092,7 +45109,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "VGX_USDT",
