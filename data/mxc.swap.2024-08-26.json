@@ -11245,7 +11245,6 @@
         "baseCoinName": "FLUX",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-layer2"
         ],
         "contractSize": 1,
@@ -11267,7 +11266,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 37500,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -11381,7 +11380,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "FOR",
         "baseCoinIconUrl": "",
         "baseCoinId": "78ee9bffc62841bc8776ee589824fcba",
@@ -11389,6 +11388,8 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [],
         "contractSize": 100,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1724914800336,
         "depthStepList": [
             "0.000001",
             "0.00001"
@@ -11401,10 +11402,10 @@
             "MEXC"
         ],
         "initialMarginRate": 0.05,
-        "isHidden": false,
+        "isHidden": true,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 70000,
+        "limitMaxVol": 17000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -11415,7 +11416,7 @@
             200,
             50
         ],
-        "maxVol": 70000,
+        "maxVol": 17000,
         "minLeverage": 1,
         "minVol": 1,
         "positionOpenType": 3,
@@ -11424,11 +11425,11 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 14000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 14000,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 0,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
@@ -17833,7 +17834,6 @@
         "baseCoinName": "MBOX",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-GameFi"
         ],
         "contractSize": 1,
@@ -17855,7 +17855,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 420000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -29165,7 +29165,6 @@
         "baseCoinName": "VOXEL",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-GameFi"
         ],
         "contractSize": 10,
@@ -29186,7 +29185,7 @@
         "initialMarginRate": 0.0133,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 30000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
