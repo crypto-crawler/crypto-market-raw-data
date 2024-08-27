@@ -153,7 +153,6 @@
         "baseCoinName": "1000000PEIPEI",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-MEME"
         ],
         "contractSize": 10,
@@ -171,7 +170,7 @@
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 50000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -8062,8 +8061,8 @@
         "conceptPlate": [],
         "contractSize": 10,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "CVP_USDT\u6c38\u7eed",
         "displayNameEn": "CVP_USDT PERPETUAL",
@@ -8092,8 +8091,8 @@
         "minVol": 1,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 8000,
@@ -16128,7 +16127,6 @@
         "baseCoinName": "LOKA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-GameFi"
         ],
         "contractSize": 10,
@@ -16150,7 +16148,7 @@
         "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 7250,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
