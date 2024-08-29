@@ -3166,7 +3166,7 @@
         "create_time": 1683019842,
         "cross_leverage_default": "10",
         "enable_bonus": true,
-        "enable_credit": false,
+        "enable_credit": true,
         "funding_cap_ratio": "2",
         "funding_impact_value": "5000",
         "funding_interval": 14400,
@@ -9350,7 +9350,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1724674168,
+        "config_change_time": 1724933198,
         "create_time": 1722412327,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -9370,7 +9370,7 @@
         "name": "DOGS_USDT",
         "order_price_deviate": "0.5",
         "order_price_round": "0.0000001",
-        "order_size_max": 1000000,
+        "order_size_max": 10000000,
         "order_size_min": 1,
         "orders_limit": 100,
         "quanto_multiplier": "10",
