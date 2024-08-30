@@ -34829,15 +34829,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "PHIL",
         "buy_start": 1725022800,
         "fee": "0.2",
         "id": "PHIL_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "sellable"
