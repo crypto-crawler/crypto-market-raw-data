@@ -1063,11 +1063,11 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "PRIME1",
+        "base_currency": "PRIME",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "online",
-        "symbol": "PRIME1_USDT",
+        "symbol": "PRIME_USDT",
         "tick_size": "3"
     },
     {
@@ -1675,11 +1675,11 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "$GPT",
+        "base_currency": "GPT",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "online",
-        "symbol": "$GPT_USDT",
+        "symbol": "GPT_USDT",
         "tick_size": "4"
     },
     {
@@ -2377,11 +2377,11 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "$DEGEN",
+        "base_currency": "DEGEN",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "online",
-        "symbol": "$DEGEN_USDT",
+        "symbol": "DEGEN_USDT",
         "tick_size": "5"
     },
     {
@@ -7186,7 +7186,7 @@
         "base_currency": "SOLS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "SOLS_USDT",
         "tick_size": "4"
     },
@@ -8482,7 +8482,7 @@
         "base_currency": "SLF",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SLF_USDT",
         "tick_size": "4"
     },
