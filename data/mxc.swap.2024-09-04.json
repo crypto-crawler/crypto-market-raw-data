@@ -951,8 +951,7 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7021,8 +7020,7 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -16846,8 +16844,7 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -17773,7 +17770,9 @@
         "futureType": 1,
         "id": 645,
         "indexOrigin": [
-            "MEXC"
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -20439,8 +20438,7 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -22181,6 +22179,77 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "POL",
+        "baseCoinIconUrl": "",
+        "baseCoinId": "efd0b016506c4cd6baabe437de863035",
+        "baseCoinName": "POL",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-layer2"
+        ],
+        "contractSize": 10,
+        "depthStepList": [
+            "0.0001",
+            "0.001"
+        ],
+        "displayName": "POL_USDT\u6c38\u7eed",
+        "displayNameEn": "POL_USDT PERPETUAL",
+        "futureType": 1,
+        "id": 681,
+        "indexOrigin": [
+            "BITGET",
+            "BYBIT",
+            "MEXC"
+        ],
+        "initialMarginRate": 0.01,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 1250,
+        "maintenanceMarginRate": 0.005,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 100,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 1250,
+        "minLeverage": 1,
+        "minVol": 1,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 250,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
+        "riskIncrVol": 250,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "riskLongShortSwitch": 0,
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "POL_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "vid": "128f589271cb4951b03e71e6323eb7be",
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "PONKE",
         "baseCoinIconUrl": "",
         "baseCoinId": "9cf8090bb2284d10b54832c86977260c",
@@ -22266,7 +22335,9 @@
         "futureType": 1,
         "id": 561,
         "indexOrigin": [
-            "GATEIO"
+            "BYBIT",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -25495,6 +25566,8 @@
         "futureType": 1,
         "id": 679,
         "indexOrigin": [
+            "BITGET",
+            "BINANCE",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
