@@ -526,21 +526,6 @@
     },
     {
         "business_type": "swap",
-        "contract_code": "MATIC-USDT",
-        "contract_size": 100.0,
-        "contract_status": 3,
-        "contract_type": "swap",
-        "create_date": "20210113",
-        "delivery_date": "",
-        "delivery_time": "1725444000000",
-        "pair": "MATIC-USDT",
-        "price_tick": 1e-05,
-        "support_margin_mode": "all",
-        "symbol": "MATIC",
-        "trade_partition": "USDT"
-    },
-    {
-        "business_type": "swap",
         "contract_code": "LINA-USDT",
         "contract_size": 10.0,
         "contract_status": 1,
@@ -2217,6 +2202,21 @@
         "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "ZKL",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "ORDER-USDT",
+        "contract_size": 10.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20240905",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "ORDER-USDT",
+        "price_tick": 0.0001,
+        "support_margin_mode": "all",
+        "symbol": "ORDER",
         "trade_partition": "USDT"
     },
     {
