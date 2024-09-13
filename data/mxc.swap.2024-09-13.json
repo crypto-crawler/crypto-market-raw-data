@@ -22640,7 +22640,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isNew": false,
         "limitMaxVol": 35000,
         "maintenanceMarginRate": 0.005,
@@ -23682,13 +23682,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "REEF",
         "baseCoinIconUrl": "",
         "baseCoinId": "e4602d473feb45a7aaec6053852e0b65",
         "baseCoinName": "REEF",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-web3"
         ],
@@ -23709,9 +23709,9 @@
             "HTX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isNew": false,
         "limitMaxVol": 105000000,
         "maintenanceMarginRate": 0.01,
@@ -23719,7 +23719,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
