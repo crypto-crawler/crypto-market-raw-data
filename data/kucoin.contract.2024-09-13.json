@@ -4283,18 +4283,18 @@
         "fundingRateSymbol": ".CKBUSDTMFPI8H",
         "indexPriceTickSize": 1e-06,
         "indexSymbol": ".KCKBUSDT",
-        "initialMargin": 0.02,
+        "initialMargin": 0.05,
         "isDeleverage": true,
         "isInverse": false,
         "isQuanto": false,
         "k": 2910000.0,
         "lotSize": 1,
         "m": 1760000.0,
-        "maintainMargin": 0.012,
+        "maintainMargin": 0.025,
         "makerFeeRate": 0.0002,
         "makerFixFee": 0.0,
         "markMethod": "FairPrice",
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxOrderQty": 1000000,
         "maxPrice": 1000000.0,
         "maxRiskLimit": 10000,
@@ -4314,7 +4314,6 @@
         "sourceExchanges": [
             "gateio",
             "binance",
-            "kucoin",
             "mexc"
         ],
         "status": "Open",
@@ -4705,8 +4704,7 @@
         "sourceExchanges": [
             "binance",
             "okex",
-            "gateio",
-            "coinbase"
+            "gateio"
         ],
         "status": "Open",
         "symbol": "CVCUSDTM",
@@ -5206,7 +5204,6 @@
         "sourceExchanges": [
             "binance",
             "okex",
-            "coinbase",
             "kucoin",
             "kraken",
             "crypto"
@@ -5996,7 +5993,6 @@
         "settlementSymbol": "",
         "sourceExchanges": [
             "kraken",
-            "coinbase",
             "okex",
             "binance",
             "kucoin"
@@ -6051,9 +6047,8 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "coinbase",
-            "bitstamp",
             "gemini",
+            "bitstamp",
             "kraken"
         ],
         "status": "Open",
@@ -6107,7 +6102,6 @@
         "settlementSymbol": ".KFET30M",
         "sourceExchanges": [
             "binance",
-            "coinbase",
             "kucoin",
             "bitget",
             "gateio",
@@ -10706,7 +10700,6 @@
         "settlementSymbol": "",
         "sourceExchanges": [
             "gateio",
-            "coinbase",
             "binance",
             "kucoin",
             "bitget"
@@ -12162,8 +12155,7 @@
         "sourceExchanges": [
             "binance",
             "bitget",
-            "gateio",
-            "coinbase"
+            "gateio"
         ],
         "status": "Open",
         "symbol": "POWRUSDTM",
@@ -12328,7 +12320,6 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "coinbase",
             "binance",
             "kucoin",
             "crypto",
@@ -12945,7 +12936,6 @@
         "sourceExchanges": [
             "binance",
             "kucoin",
-            "coinbase",
             "gateio",
             "bitget"
         ],
@@ -13615,7 +13605,6 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "coinbase",
             "kraken",
             "okex",
             "binance"
@@ -14059,7 +14048,6 @@
         "settlementFee": null,
         "settlementSymbol": "",
         "sourceExchanges": [
-            "coinbase",
             "okex",
             "binance",
             "kucoin",
@@ -14899,7 +14887,6 @@
         "settlementSymbol": "",
         "sourceExchanges": [
             "gateio",
-            "coinbase",
             "binance",
             "kucoin",
             "bitget"
@@ -16184,10 +16171,9 @@
         "settlementFee": null,
         "settlementSymbol": ".BXBT30M",
         "sourceExchanges": [
-            "coinbase",
+            "kraken",
             "bitstamp",
-            "crypto",
-            "kraken"
+            "crypto"
         ],
         "status": "Open",
         "symbol": "XBTMU24",
@@ -16239,10 +16225,9 @@
         "settlementFee": null,
         "settlementSymbol": ".BXBT30M",
         "sourceExchanges": [
-            "coinbase",
+            "kraken",
             "bitstamp",
-            "crypto",
-            "kraken"
+            "crypto"
         ],
         "status": "Open",
         "symbol": "XBTMZ24",
@@ -16298,8 +16283,7 @@
             "binance",
             "kucoin",
             "okex",
-            "bybit",
-            "coinbase"
+            "bybit"
         ],
         "status": "Open",
         "symbol": "XBTUSDCM",
@@ -16351,10 +16335,9 @@
         "settlementFee": null,
         "settlementSymbol": null,
         "sourceExchanges": [
-            "coinbase",
+            "kraken",
             "bitstamp",
-            "crypto",
-            "kraken"
+            "crypto"
         ],
         "status": "Open",
         "symbol": "XBTUSDM",
@@ -16686,8 +16669,7 @@
         "sourceExchanges": [
             "kraken",
             "bitstamp",
-            "crypto",
-            "coinbase"
+            "crypto"
         ],
         "status": "Open",
         "symbol": "XRPUSDM",
@@ -17411,7 +17393,6 @@
         "settlementSymbol": "",
         "sourceExchanges": [
             "bybit",
-            "coinbase",
             "okex",
             "binance",
             "bitmart"

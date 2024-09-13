@@ -4042,15 +4042,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "BMTC",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "halt",
-        "symbol": "BMTC_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "FAVR",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -8380,10 +8371,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "QTLX",
+        "base_currency": "GDV",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "GDV_USDT",
+        "tick_size": "8"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "QTLX",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "QTLX_USDT",
         "tick_size": "5"
     }

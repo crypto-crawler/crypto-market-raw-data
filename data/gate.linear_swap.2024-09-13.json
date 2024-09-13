@@ -578,7 +578,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966842,
+        "config_change_time": 1726216084,
         "create_time": 1648339200,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -1904,7 +1904,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966842,
+        "config_change_time": 1726219679,
         "create_time": 1690186292,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -2244,7 +2244,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966842,
+        "config_change_time": 1726217609,
         "create_time": 1710764180,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -2618,7 +2618,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1726133986,
+        "config_change_time": 1726217609,
         "create_time": 1717757318,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -2754,7 +2754,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1726133986,
+        "config_change_time": 1726216084,
         "create_time": 1710817980,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -3162,7 +3162,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966843,
+        "config_change_time": 1726216084,
         "create_time": 1683019842,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -3502,7 +3502,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966843,
+        "config_change_time": 1726219679,
         "create_time": 1712464602,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -3978,7 +3978,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966843,
+        "config_change_time": 1726217609,
         "create_time": 1699020176,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -4726,6 +4726,40 @@
         "voucher_leverage": "2"
     },
     {
+        "config_change_time": 1726232296,
+        "create_time": 1726231683,
+        "cross_leverage_default": "10",
+        "enable_bonus": true,
+        "enable_credit": true,
+        "funding_cap_ratio": "2",
+        "funding_impact_value": "5000",
+        "funding_interval": 14400,
+        "funding_offset": 0,
+        "in_delisting": false,
+        "interest_rate": "0.0003",
+        "leverage_max": "10",
+        "leverage_min": "1",
+        "maintenance_rate": "0.05",
+        "maker_fee_rate": "-0.0001",
+        "mark_price_round": "0.01",
+        "mark_type": "index",
+        "name": "FB_USDT",
+        "order_price_deviate": "0.5",
+        "order_price_round": "0.01",
+        "order_size_max": 1000000,
+        "order_size_min": 1,
+        "orders_limit": 100,
+        "quanto_multiplier": "0.1",
+        "ref_discount_rate": "0",
+        "ref_rebate_rate": "0.2",
+        "risk_limit_base": "1000",
+        "risk_limit_max": "50000",
+        "risk_limit_step": "1000",
+        "taker_fee_rate": "0.00075",
+        "type": "direct",
+        "voucher_leverage": "0"
+    },
+    {
         "config_change_time": 1721887713,
         "create_time": 1713172811,
         "cross_leverage_default": "10",
@@ -4998,7 +5032,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887713,
+        "config_change_time": 1726217609,
         "create_time": 1597363200,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -5168,7 +5202,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966844,
+        "config_change_time": 1726217609,
         "create_time": 1640217600,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -6120,7 +6154,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887713,
+        "config_change_time": 1726217609,
         "create_time": 1710487954,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -6834,7 +6868,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1716966844,
+        "config_change_time": 1726217609,
         "create_time": 1712045579,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -7072,7 +7106,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887713,
+        "config_change_time": 1726216084,
         "create_time": 1717755838,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -8636,6 +8670,40 @@
         "voucher_leverage": "2"
     },
     {
+        "config_change_time": 1726220741,
+        "create_time": 1726220706,
+        "cross_leverage_default": "10",
+        "enable_bonus": true,
+        "enable_credit": true,
+        "funding_cap_ratio": "2",
+        "funding_impact_value": "5000",
+        "funding_interval": 14400,
+        "funding_offset": 0,
+        "in_delisting": false,
+        "interest_rate": "0.0003",
+        "leverage_max": "50",
+        "leverage_min": "1",
+        "maintenance_rate": "0.01",
+        "maker_fee_rate": "-0.0001",
+        "mark_price_round": "0.0001",
+        "mark_type": "index",
+        "name": "POL_USDT",
+        "order_price_deviate": "0.5",
+        "order_price_round": "0.0001",
+        "order_size_max": 1000000,
+        "order_size_min": 1,
+        "orders_limit": 100,
+        "quanto_multiplier": "10",
+        "ref_discount_rate": "0",
+        "ref_rebate_rate": "0.2",
+        "risk_limit_base": "10000",
+        "risk_limit_max": "2640000",
+        "risk_limit_step": "10000",
+        "taker_fee_rate": "0.00075",
+        "type": "direct",
+        "voucher_leverage": "0"
+    },
+    {
         "config_change_time": 1718241687,
         "create_time": 1718103564,
         "cross_leverage_default": "10",
@@ -8840,7 +8908,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966845,
+        "config_change_time": 1726219679,
         "create_time": 1689684723,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -9384,7 +9452,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1716966846,
+        "config_change_time": 1726217609,
         "create_time": 1683518617,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -9622,7 +9690,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966846,
+        "config_change_time": 1726216084,
         "create_time": 1704938527,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -10268,7 +10336,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887714,
+        "config_change_time": 1726219679,
         "create_time": 1638316800,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -10642,7 +10710,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966846,
+        "config_change_time": 1726219679,
         "create_time": 1631232000,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -10880,7 +10948,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966846,
+        "config_change_time": 1726219679,
         "create_time": 1700309874,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -10914,7 +10982,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887713,
+        "config_change_time": 1726216084,
         "create_time": 1651190400,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -11152,7 +11220,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1721887713,
+        "config_change_time": 1726216084,
         "create_time": 1710762903,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -11696,7 +11764,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966847,
+        "config_change_time": 1726219679,
         "create_time": 1598918400,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -12104,7 +12172,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1716966847,
+        "config_change_time": 1726216084,
         "create_time": 1675814400,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -12784,7 +12852,7 @@
         "voucher_leverage": "2"
     },
     {
-        "config_change_time": 1716966847,
+        "config_change_time": 1726219679,
         "create_time": 1705663271,
         "cross_leverage_default": "10",
         "enable_bonus": true,
