@@ -8895,16 +8895,16 @@
     {
         "amount_precision": 2,
         "base": "CATI",
-        "buy_start": 1725622200,
+        "buy_start": 1726826400,
         "fee": "0.2",
         "id": "CATI_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 3,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -30388,7 +30388,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -49476,6 +49476,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "WHYPAD",
+        "buy_start": 1726822800,
+        "fee": "0.2",
+        "id": "WHYPAD_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 8,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
