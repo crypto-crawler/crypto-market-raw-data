@@ -26202,6 +26202,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "LOGX",
+        "buy_start": 1727173800,
+        "fee": "0.2",
+        "id": "LOGX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "LOKA",
         "buy_start": 1642683600,
         "fee": "0.2",
@@ -47583,7 +47597,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -47764,7 +47778,7 @@
         "max_quote_amount": "1000",
         "min_base_amount": "0.001",
         "min_quote_amount": "0.001",
-        "precision": 12,
+        "precision": 9,
         "quote": "ETH",
         "sell_start": 1607313600,
         "trade_status": "tradable"
