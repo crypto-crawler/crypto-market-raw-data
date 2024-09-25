@@ -12040,7 +12040,7 @@
         "trading_disabled": true
     },
     {
-        "auction_mode": true,
+        "auction_mode": false,
         "base_currency": "WELL",
         "base_increment": "1",
         "cancel_only": false,
@@ -12743,12 +12743,12 @@
         "auction_mode": false,
         "base_currency": "ZK",
         "base_increment": "0.1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "ZK/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
         "id": "ZK-USD",
-        "limit_only": false,
+        "limit_only": true,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
@@ -12756,7 +12756,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.00001",
         "status": "online",
-        "status_message": "We've started accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
