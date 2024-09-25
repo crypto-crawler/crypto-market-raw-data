@@ -12040,10 +12040,10 @@
         "trading_disabled": true
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "WELL",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "WELL/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -12056,7 +12056,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.000001",
         "status": "online",
-        "status_message": "We've started accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
