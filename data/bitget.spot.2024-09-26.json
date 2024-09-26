@@ -1300,7 +1300,7 @@
         "base_currency": "ANT",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "online",
+        "status": "halt",
         "symbol": "ANT_USDT",
         "tick_size": "4"
     },
@@ -7876,15 +7876,6 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "PREMARKET",
-        "quote_currency": "USDT",
-        "size_increment": "2",
-        "status": "online",
-        "symbol": "PREMARKET_USDT",
-        "tick_size": "4"
-    },
-    {
-        "base_asset_precision": "2",
         "base_currency": "MAX",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -8205,6 +8196,6 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "GEEK_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     }
 ]
