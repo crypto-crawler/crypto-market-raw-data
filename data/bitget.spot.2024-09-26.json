@@ -8091,13 +8091,13 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "SNIFT",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "SNIFT_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -8188,5 +8188,14 @@
         "status": "gray",
         "symbol": "HMSTR_USDT",
         "tick_size": "7"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "GEEK",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "GEEK_USDT",
+        "tick_size": "4"
     }
 ]
