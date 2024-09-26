@@ -2008,16 +2008,16 @@
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
         "id": "BICO-EUR",
-        "limit_only": true,
+        "limit_only": false,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
         "post_only": false,
         "quote_currency": "EUR",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
@@ -2048,16 +2048,16 @@
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
         "id": "BICO-USDT",
-        "limit_only": true,
+        "limit_only": false,
         "margin_enabled": false,
         "max_slippage_percentage": "0.03000000",
         "min_market_funds": "1",
         "post_only": false,
         "quote_currency": "USDT",
         "quote_increment": "0.0001",
-        "status": "online",
+        "status": "delisted",
         "status_message": "",
-        "trading_disabled": false
+        "trading_disabled": true
     },
     {
         "auction_mode": false,
