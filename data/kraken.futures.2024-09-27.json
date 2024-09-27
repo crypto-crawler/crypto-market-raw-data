@@ -970,99 +970,9 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0WT65",
-        "lastTradingTime": "2024-09-27T15:00:00.000Z",
-        "marginLevels": [
-            {
-                "contracts": 0,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
-            },
-            {
-                "contracts": 100000,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
-            },
-            {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
-            },
-            {
-                "contracts": 2000000,
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05
-            },
-            {
-                "contracts": 2500000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
-            }
-        ],
-        "marginSchedules": {
-            "dlt_onboarding": {
-                "professional": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 100000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
-                        "initialMargin": 0.1,
-                        "maintenanceMargin": 0.05
-                    },
-                    {
-                        "contracts": 2500000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
-                    }
-                ],
-                "retail": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.5,
-                        "maintenanceMargin": 0.25
-                    }
-                ]
-            }
-        },
-        "maxPositionSize": 3000000.0,
-        "openingDate": "2024-05-31T15:00:01.000Z",
-        "postOnly": false,
-        "retailMarginLevels": [
-            {
-                "contracts": 0,
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25
-            }
-        ],
-        "symbol": "FI_BCHUSD_240927",
-        "tags": [],
-        "tickSize": 0.1,
-        "tradeable": true,
-        "type": "futures_inverse",
-        "underlying": "rr_bchusd"
-    },
-    {
-        "category": "",
-        "contractSize": 1,
-        "contractValueTradePrecision": 0,
-        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0WQ35",
-        "lastTradingTime": "2024-09-27T15:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0WY19",
+        "lastTradingTime": "2024-10-25T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
@@ -1138,8 +1048,8 @@
                 ]
             }
         },
-        "maxPositionSize": 15000000.0,
-        "openingDate": "2024-02-23T16:00:01.000Z",
+        "maxPositionSize": 15000000,
+        "openingDate": "2024-09-27T15:00:01.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -1148,7 +1058,7 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_ETHUSD_240927",
+        "symbol": "FI_ETHUSD_241025",
         "tags": [],
         "tickSize": 0.05,
         "tradeable": true,
@@ -1360,9 +1270,9 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0WR42",
-        "lastTradingTime": "2024-09-27T15:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0WZ26",
+        "lastTradingTime": "2024-10-25T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
@@ -1428,8 +1338,8 @@
                 ]
             }
         },
-        "maxPositionSize": 5000000.0,
-        "openingDate": "2024-05-31T15:00:01.000Z",
+        "maxPositionSize": 5000000,
+        "openingDate": "2024-09-27T15:00:01.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -1438,7 +1348,7 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_LTCUSD_240927",
+        "symbol": "FI_LTCUSD_241025",
         "tags": [],
         "tickSize": 0.01,
         "tradeable": true,
@@ -1540,9 +1450,9 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0WP28",
-        "lastTradingTime": "2024-09-27T15:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0WX02",
+        "lastTradingTime": "2024-10-25T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
@@ -1638,8 +1548,8 @@
                 ]
             }
         },
-        "maxPositionSize": 40000000.0,
-        "openingDate": "2024-02-23T16:00:01.000Z",
+        "maxPositionSize": 40000000,
+        "openingDate": "2024-09-27T15:00:00.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -1648,7 +1558,7 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_XBTUSD_240927",
+        "symbol": "FI_XBTUSD_241025",
         "tags": [],
         "tickSize": 0.5,
         "tradeable": true,
@@ -1900,9 +1810,9 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0WS58",
-        "lastTradingTime": "2024-09-27T15:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BLD0X049",
+        "lastTradingTime": "2024-10-25T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
@@ -1938,8 +1848,8 @@
                 ]
             }
         },
-        "maxPositionSize": 3000000.0,
-        "openingDate": "2024-05-31T15:00:01.000Z",
+        "maxPositionSize": 3000000,
+        "openingDate": "2024-09-27T15:00:01.000Z",
         "postOnly": false,
         "retailMarginLevels": [
             {
@@ -1948,7 +1858,7 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_XRPUSD_240927",
+        "symbol": "FI_XRPUSD_241025",
         "tags": [],
         "tickSize": 0.0001,
         "tradeable": true,
