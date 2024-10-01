@@ -195,7 +195,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "A4M_USDT",
@@ -5312,7 +5312,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 13,
+        "price_scale": 14,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BHC_USDT",
@@ -8362,6 +8362,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "CALDERA",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "CDA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -12911,7 +12928,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DPAW_USDT",
@@ -16100,6 +16117,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "FOFAR",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "FOFAR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "FOGNET Token",
         "limited": false,
         "maker_fee_rate": "0",
@@ -16585,11 +16619,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "FTON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -19820,6 +19854,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Sudeng",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "HIPPO_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -24201,11 +24252,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "LBM_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -24359,6 +24410,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Lefeef",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "LEFEEF_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -32480,11 +32548,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 10,
         "quantity_scale": 0,
-        "state": "2",
+        "state": "1",
         "symbol": "OSAK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -40793,11 +40861,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SOVM_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -50774,7 +50842,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ZKL_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
