@@ -2363,5 +2363,49 @@
         "name": "WEN/EUR",
         "trading": "Enabled",
         "url_symbol": "weneur"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 2,
+        "description": "StraitsX Singapore Dollar / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 2,
+        "minimum_order": "10.00 USD",
+        "name": "XSGD/USD",
+        "trading": "Enabled",
+        "url_symbol": "xsgdusd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 2,
+        "description": "StraitsX Singapore Dollar / Tether",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 2,
+        "minimum_order": "10.00 USDT",
+        "name": "XSGD/USDT",
+        "trading": "Enabled",
+        "url_symbol": "xsgdusdt"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 2,
+        "description": "ZetaChain / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 2,
+        "minimum_order": "10.00 USD",
+        "name": "ZETA/USD",
+        "trading": "Enabled",
+        "url_symbol": "zetausd"
+    },
+    {
+        "base_decimals": 5,
+        "counter_decimals": 2,
+        "description": "ZetaChain / Euro",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 2,
+        "minimum_order": "10.00 EUR",
+        "name": "ZETA/EUR",
+        "trading": "Enabled",
+        "url_symbol": "zetaeur"
     }
 ]
