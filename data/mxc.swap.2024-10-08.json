@@ -7280,10 +7280,11 @@
         "automaticDelivery": 0,
         "baseCoin": "CATS",
         "baseCoinIconUrl": "",
-        "baseCoinId": "",
+        "baseCoinId": "a499c60448204180b3eedcc5ff464743",
         "baseCoinName": "CATS",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-contract-new",
             "mc-trade-zone-GameFi"
         ],
         "contractSize": 10000,
@@ -7302,8 +7303,8 @@
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
-        "isNew": false,
-        "limitMaxVol": 200000,
+        "isNew": true,
+        "limitMaxVol": 2250,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -7314,7 +7315,7 @@
             200,
             50
         ],
-        "maxVol": 200000,
+        "maxVol": 2250,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -7325,10 +7326,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 450,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 450,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -29982,9 +29983,9 @@
         "indexOrigin": [
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -33557,7 +33558,7 @@
         "id": 694,
         "indexOrigin": [
             "BITGET",
-            "HTX",
+            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.05,
