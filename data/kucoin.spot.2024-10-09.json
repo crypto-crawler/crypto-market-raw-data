@@ -6956,7 +6956,7 @@
         "quoteIncrement": "0.000001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "FLY-USDT"
     },
     {
@@ -11596,7 +11596,7 @@
         "quoteIncrement": "0.0001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "VXV-USDT"
     },
     {
@@ -11676,7 +11676,7 @@
         "quoteIncrement": "0.00001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "CWAR-USDT"
     },
     {
@@ -15756,7 +15756,7 @@
         "quoteIncrement": "0.000000001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "CULT-USDT"
     },
     {
@@ -17156,7 +17156,7 @@
         "quoteIncrement": "0.0001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "NOM-USDT"
     },
     {
@@ -22356,7 +22356,7 @@
         "quoteIncrement": "0.000000000001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
-        "st": false,
+        "st": true,
         "symbol": "PIT-USDT"
     },
     {
@@ -24083,7 +24083,7 @@
         "baseCurrency": "CATS",
         "baseIncrement": "1",
         "baseMaxSize": "10000000000",
-        "baseMinSize": "10000",
+        "baseMinSize": "1000",
         "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
@@ -24124,7 +24124,7 @@
         "baseIncrement": "0.01",
         "baseMaxSize": "10000000000",
         "baseMinSize": "1",
-        "enableTrading": false,
+        "enableTrading": true,
         "feeCurrency": "USDT",
         "isMarginEnabled": false,
         "market": "USDS",
@@ -24138,5 +24138,25 @@
         "quoteMinSize": "0.1",
         "st": false,
         "symbol": "PONKE-USDT"
+    },
+    {
+        "baseCurrency": "CARV",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "CARV-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "st": false,
+        "symbol": "CARV-USDT"
     }
 ]
