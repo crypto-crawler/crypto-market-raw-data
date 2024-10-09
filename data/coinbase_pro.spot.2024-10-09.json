@@ -6060,10 +6060,10 @@
         "trading_disabled": false
     },
     {
-        "auction_mode": false,
+        "auction_mode": true,
         "base_currency": "IO",
         "base_increment": "0.01",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "IO/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -6076,7 +6076,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.001",
         "status": "online",
-        "status_message": "We've started accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
