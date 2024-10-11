@@ -1570,7 +1570,7 @@
         "base_currency": "PZP",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "PZP_USDT",
         "tick_size": "4"
     },
@@ -8155,6 +8155,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "MOODENGETH",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "MOODENGETH_USDT",
+        "tick_size": "7"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "OGLG",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -8230,7 +8239,7 @@
         "base_currency": "COMAI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "COMAI_USDT",
         "tick_size": "4"
     }
