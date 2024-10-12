@@ -9646,7 +9646,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -11772,6 +11772,20 @@
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
         "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CYRUS",
+        "buy_start": 1729591200,
+        "fee": "0.2",
+        "id": "CYRUS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "sellable"
@@ -35330,6 +35344,20 @@
         "precision": 9,
         "quote": "USDT",
         "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 0,
+        "base": "PEPPER",
+        "buy_start": 1728756000,
+        "fee": "0.2",
+        "id": "PEPPER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 12,
+        "quote": "USDT",
+        "sell_start": 1577808000,
         "trade_status": "tradable"
     },
     {
