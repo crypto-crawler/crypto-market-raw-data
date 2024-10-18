@@ -131,7 +131,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "2MOON_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -773,7 +773,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "AEVO_USDT",
@@ -1521,7 +1521,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "AI_USDT",
@@ -1593,7 +1593,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "AKI_USDT",
-        "symbol_partition": "USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -1861,7 +1861,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ALTLAYER_USDT",
@@ -2307,7 +2307,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ANTT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -2409,7 +2409,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "APEDBASE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -2956,23 +2956,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "ARTIC",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "2",
-        "symbol": "ARTIC_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -4007,7 +3990,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BABYLONG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -5741,7 +5724,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BLADE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -5775,7 +5758,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BLAST1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -10722,7 +10705,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DAMEX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -10774,6 +10757,23 @@
         "state": "1",
         "symbol": "DAPPX_USDT",
         "symbol_partition": "USDT",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Daram",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 7,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "DARAM_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -10943,7 +10943,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "DBZ_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -11045,7 +11045,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DCM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -11538,7 +11538,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "DERPDEX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -13102,7 +13102,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DUROV_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -13183,7 +13183,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DYDX_USDT",
@@ -13306,7 +13306,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "EARLY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -14513,7 +14513,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ETV_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -14734,7 +14734,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "EXFI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -15465,7 +15465,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FINDME_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -15584,7 +15584,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FIT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -15618,7 +15618,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FLASH_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -15686,7 +15686,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FLOKIAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -16757,7 +16757,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FXDX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -17845,7 +17845,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "GMPD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -18406,7 +18406,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "GPUMINER_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -19137,7 +19137,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HAKA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -19375,7 +19375,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "HAVA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -19800,7 +19800,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HIP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -21313,7 +21313,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "IQT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -21415,7 +21415,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "IRL_USDT",
-        "symbol_partition": "USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -21891,7 +21891,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "JINKO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -21976,7 +21976,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "JOLT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -22095,7 +22095,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "JSP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -22268,6 +22268,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Kabosu",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "KABOSU1_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -22622,7 +22639,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KBC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -22945,7 +22962,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KIM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -23081,7 +23098,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KITTENWIF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -23115,7 +23132,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KLAYCHAIN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -25223,7 +25240,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LPM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -25835,7 +25852,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "MAGAPEPE1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -27429,7 +27446,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MIHARU_USDT",
@@ -27688,7 +27705,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MKC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -27858,7 +27875,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MMM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -27943,7 +27960,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "MMVG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -28368,7 +28385,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MONKE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -30391,7 +30408,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NINJA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -30442,7 +30459,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NLC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -30510,7 +30527,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NMKR_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -30561,7 +30578,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "NODED_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -30935,7 +30952,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NUTS_USDT",
-        "symbol_partition": "USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -31224,7 +31241,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "OBICOIN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -31377,7 +31394,7 @@
         "quantity_scale": 4,
         "state": "1",
         "symbol": "OETH_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -31411,7 +31428,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "OFF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -32805,7 +32822,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PAIRED_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -33417,7 +33434,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PEL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -33638,7 +33655,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "PEPEFLOKI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -34199,7 +34216,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PLANETS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -35287,7 +35304,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PSUB_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -35338,7 +35355,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PTP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -35661,7 +35678,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "QLINDO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -36409,7 +36426,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "REAP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -36745,7 +36762,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "REZ_USDT",
@@ -37837,7 +37854,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SAIX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -38568,7 +38585,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SEAT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -38704,7 +38721,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SELO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -38908,7 +38925,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SFE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -39129,7 +39146,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SHARK_USDT",
-        "symbol_partition": "USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -39350,7 +39367,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SHITCOIN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -39401,7 +39418,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SHOOT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -41101,7 +41118,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SPOL_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -41645,7 +41662,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "STEAM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -42138,7 +42155,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "STYLE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -42155,7 +42172,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "SUBF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -43056,7 +43073,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TAPROOT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -44025,7 +44042,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TOMS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -44841,7 +44858,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TSUGT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -45215,7 +45232,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "UBDN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -45997,7 +46014,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "UWON_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -46082,7 +46099,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "VANA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -48275,7 +48292,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "WQT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -50281,7 +50298,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ZAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
