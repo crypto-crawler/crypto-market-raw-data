@@ -40448,7 +40448,7 @@
     {
         "amount_precision": 2,
         "base": "SCR",
-        "buy_start": 1728475200,
+        "buy_start": 1729584000,
         "fee": "0.2",
         "id": "SCR_USDT",
         "max_quote_amount": "5000000",
@@ -52110,15 +52110,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 0,
         "base": "X",
         "buy_start": 1729771200,
         "fee": "0.2",
         "id": "X_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 9,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable"
