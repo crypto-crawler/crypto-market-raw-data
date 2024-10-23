@@ -9663,6 +9663,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "CHEEMS",
+        "buy_start": 1729850400,
+        "fee": "0.2",
+        "id": "CHEEMS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
+    },
+    {
         "amount_precision": 2,
         "base": "CHEQ",
         "buy_start": 1637920800,
@@ -23329,6 +23343,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "JANET",
+        "buy_start": 1729742400,
+        "fee": "0.2",
+        "id": "JANET_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
