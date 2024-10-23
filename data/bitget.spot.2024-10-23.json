@@ -99,6 +99,15 @@
         "tick_size": "5"
     },
     {
+        "base_asset_precision": "1",
+        "base_currency": "X",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "X_USDT",
+        "tick_size": "8"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "LINK",
         "quote_currency": "USDT",
@@ -112,7 +121,7 @@
         "base_currency": "ONDO",
         "quote_currency": "EUR",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ONDO_EUR",
         "tick_size": "4"
     },
@@ -130,7 +139,7 @@
         "base_currency": "AIX",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "AIX_USDT",
         "tick_size": "5"
     },
@@ -148,7 +157,7 @@
         "base_currency": "CROS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "CROS_USDT",
         "tick_size": "5"
     },

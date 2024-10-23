@@ -6536,7 +6536,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 15,
+        "price_scale": 17,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BOW_USDT",
@@ -8884,11 +8884,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "CHMB_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -9989,11 +9989,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "CROS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -12547,6 +12547,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Dolan Duck",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "DOLAN_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "DOLZ",
         "limited": false,
         "maker_fee_rate": "0",
@@ -12809,7 +12826,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 7,
+        "price_scale": 9,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DPAW_USDT",
@@ -15669,6 +15686,23 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FLASH_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Flavia",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "FLAVIA_USDT",
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
@@ -43232,6 +43266,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "TAP Protocol",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "TAP_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Taraxa Coin",
         "limited": false,
         "maker_fee_rate": "0",
@@ -44890,11 +44941,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TRUMP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -45485,11 +45536,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "UCO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49497,11 +49548,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 2,
         "quantity_scale": 4,
-        "state": "2",
+        "state": "1",
         "symbol": "XNK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49607,7 +49658,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "XPADToken",
+        "fullName": "XpadPro",
         "limited": false,
         "maker_fee_rate": "0",
         "max_amount": "2000000.000000000000000000000000000000",
@@ -49616,11 +49667,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "XPP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
