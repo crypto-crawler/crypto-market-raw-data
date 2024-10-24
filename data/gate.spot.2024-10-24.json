@@ -2969,6 +2969,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "ARCA",
+        "buy_start": 1730718000,
+        "fee": "0.2",
+        "id": "ARCA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "ARCH",
         "buy_start": 1695816000,
         "fee": "0.2",
@@ -24448,7 +24462,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -43691,7 +43705,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -52233,7 +52247,7 @@
         "precision": 9,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -52556,6 +52570,20 @@
         "quote": "USDT",
         "sell_start": 1598952900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZAAR",
+        "buy_start": 1729850400,
+        "fee": "0.2",
+        "id": "ZAAR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
