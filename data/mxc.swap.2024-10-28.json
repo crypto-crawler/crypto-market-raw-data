@@ -5658,11 +5658,9 @@
         "baseCoinName": "BEER",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
-            -1,
             29
         ],
         "contractSize": 100000,
@@ -5683,7 +5681,7 @@
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
-        "isNew": true,
+        "isNew": false,
         "limitMaxVol": 2600,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
@@ -7473,8 +7471,8 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -29463,8 +29461,8 @@
         "contractSize": 1,
         "createTime": 1714395529000,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "SAFE_USDT\u6c38\u7eed",
         "displayNameEn": "SAFE_USDT PERPETUAL",
@@ -29500,8 +29498,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 100000,
@@ -32403,7 +32401,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
@@ -32413,7 +32411,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
