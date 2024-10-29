@@ -5074,13 +5074,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BELLS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -9700,11 +9700,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "COOK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -9783,7 +9783,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "2",
         "symbol": "COSMIC_USDT",
@@ -24148,7 +24148,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 8,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LAG_USDT",
@@ -25717,6 +25717,23 @@
         "state": "1",
         "symbol": "LTT_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Luce",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "LUCE_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -31679,7 +31696,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "OFT_USDT",
@@ -33073,7 +33090,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 9,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PANDA1_USDT",
@@ -35810,13 +35827,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PZP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41318,7 +41335,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 20,
+        "price_scale": 22,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SPID_USDT",
@@ -43241,11 +43258,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TALENT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -43394,11 +43411,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TATE_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46394,7 +46411,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Utopia",
+        "fullName": "U Coin",
         "limited": false,
         "maker_fee_rate": "0",
         "max_amount": "2000000.000000000000000000000000000000",

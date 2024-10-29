@@ -100,6 +100,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "ACT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ACT_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "GRASS",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -276,6 +285,15 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "GRAPE_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "BAN",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "BAN_USDT",
         "tick_size": "6"
     },
     {
