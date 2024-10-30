@@ -10463,7 +10463,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 10,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "CUN_USDT",
@@ -18854,23 +18854,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Grok Cat",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 8,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "GROKCAT_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "GROK",
         "limited": false,
         "maker_fee_rate": "0",
@@ -22846,6 +22829,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "KASPY",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "KASPY_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -31936,11 +31936,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "OLAS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41046,7 +41046,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 9,
+        "price_scale": 11,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SOST_USDT",
@@ -46282,13 +46282,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 6,
+        "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "UPT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,

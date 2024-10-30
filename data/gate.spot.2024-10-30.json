@@ -13342,7 +13342,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -19661,6 +19661,20 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "GODL",
+        "buy_start": 1730980800,
+        "fee": "0.2",
+        "id": "GODL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -29202,6 +29216,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "MLP",
+        "buy_start": 1730811600,
+        "fee": "0.2",
+        "id": "MLP_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "MLS",
         "buy_start": 1663754400,
         "fee": "0.2",
@@ -32797,20 +32825,6 @@
         "quote": "USDT",
         "sell_start": 1607839200,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "OLV",
-        "buy_start": 1652356800,
-        "fee": "0.2",
-        "id": "OLV_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -36929,6 +36943,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "PUMPFUN",
+        "buy_start": 1730358000,
+        "fee": "0.2",
+        "id": "PUMPFUN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "PUMP",
         "buy_start": 1711450800,
@@ -39016,20 +39044,6 @@
         "quote": "USDT",
         "sell_start": 1595658900,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "RNDR",
-        "buy_start": 0,
-        "fee": "0.2",
-        "id": "RNDR_TRY",
-        "max_quote_amount": "30000000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "30",
-        "precision": 4,
-        "quote": "TRY",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
@@ -51421,7 +51435,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
