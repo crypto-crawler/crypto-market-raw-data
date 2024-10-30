@@ -13916,11 +13916,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ELK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -17814,6 +17814,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "GINOA",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "GINOA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -22975,7 +22992,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 15,
+        "price_scale": 17,
         "quantity_scale": 3,
         "state": "1",
         "symbol": "KDAO_USDT",
@@ -23912,11 +23929,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "KRO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -31803,23 +31820,6 @@
         "state": "1",
         "symbol": "OGN_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "OGV",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 6,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "OGV_USDT",
-        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
@@ -48288,7 +48288,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 10,
+        "price_scale": 12,
         "quantity_scale": 3,
         "state": "1",
         "symbol": "WIN1_USDT",
