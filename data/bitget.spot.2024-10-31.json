@@ -289,6 +289,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "LUCE",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "LUCE_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "FUSE",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -751,7 +760,7 @@
         "base_currency": "VELA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "halt",
+        "status": "online",
         "symbol": "VELA_USDT",
         "tick_size": "4"
     },
