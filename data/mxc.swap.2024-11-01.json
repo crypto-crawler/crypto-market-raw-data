@@ -6909,7 +6909,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 15054,
+        "threshold": 15585,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -18594,7 +18594,11 @@
         "futureType": 1,
         "id": 743,
         "indexOrigin": [
-            "MEXC"
+            "BYBIT",
+            "BINANCE",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -18617,7 +18621,7 @@
         "openingCountdownOption": 1,
         "openingTime": 1730349240134,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -18708,7 +18712,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 431029,
+        "threshold": 442811,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -35752,7 +35756,7 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
@@ -35762,7 +35766,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
