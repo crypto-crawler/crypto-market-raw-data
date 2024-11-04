@@ -1159,8 +1159,8 @@
         "contractSize": 10,
         "createTime": 1721655784000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "A8_USDT\u6c38\u7eed",
         "displayNameEn": "A8_USDT PERPETUAL",
@@ -1193,8 +1193,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 14700,
@@ -3446,7 +3446,7 @@
         "showAppraisalCountdown": 0,
         "state": 0,
         "symbol": "APT_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -3525,6 +3525,82 @@
         "showAppraisalCountdown": 0,
         "state": 0,
         "symbol": "ARB_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "vid": "128f589271cb4951b03e71e6323eb7be",
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
+        "baseCoin": "ARCA",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F202410251833382913kvWycYvt06XOZ.jpeg",
+        "baseCoinId": "ad4b13cb22b24bdbb2d331526d7e07fc",
+        "baseCoinName": "ARCA",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-GameFi"
+        ],
+        "conceptPlateId": [
+            -1,
+            35
+        ],
+        "contractSize": 10,
+        "createTime": 1730712938000,
+        "depthStepList": [
+            "0.0001",
+            "0.001"
+        ],
+        "displayName": "ARCA_USDT\u6c38\u7eed",
+        "displayNameEn": "ARCA_USDT PERPETUAL",
+        "futureType": 1,
+        "id": 751,
+        "indexOrigin": [
+            "MEXC"
+        ],
+        "initialMarginRate": 0.01,
+        "isHidden": false,
+        "isHot": false,
+        "isNew": true,
+        "limitMaxVol": 3750,
+        "maintenanceMarginRate": 0.005,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 100,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 3750,
+        "minLeverage": 1,
+        "minVol": 1,
+        "openingCountdownOption": 1,
+        "openingTime": 1730718060123,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.05,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 750,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
+        "riskIncrVol": 750,
+        "riskLevelLimit": 5,
+        "riskLimitType": "BY_VOLUME",
+        "riskLongShortSwitch": 0,
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "state": 0,
+        "symbol": "ARCA_USDT",
         "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
@@ -7908,8 +7984,8 @@
         "contractSize": 10000,
         "createTime": 1728373831000,
         "depthStepList": [
-            "0.0000001",
-            "0.000001"
+            "0.00000001",
+            "0.0000001"
         ],
         "displayName": "CATS_USDT\u6c38\u7eed",
         "displayNameEn": "CATS_USDT PERPETUAL",
@@ -7942,8 +8018,8 @@
         "openingTime": 1728382200875,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 7,
-        "priceUnit": 1e-07,
+        "priceScale": 8,
+        "priceUnit": 1e-08,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 210000,
@@ -10951,8 +11027,8 @@
         "contractSize": 100,
         "createTime": 1711990148000,
         "depthStepList": [
-            "0.00001",
-            "0.0001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "DEGEN_USDT\u6c38\u7eed",
         "displayNameEn": "DEGEN_USDT PERPETUAL",
@@ -10986,8 +11062,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 290000,
@@ -13372,8 +13448,8 @@
         "contractSize": 0.1,
         "createTime": 1726485374000,
         "depthStepList": [
-            "0.01",
-            "0.1"
+            "0.001",
+            "0.01"
         ],
         "displayName": "FB_USDT\u6c38\u7eed",
         "displayNameEn": "FB_USDT PERPETUAL",
@@ -13404,8 +13480,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 2,
-        "priceUnit": 0.01,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 22000,
@@ -22890,8 +22966,8 @@
         "contractSize": 1000,
         "createTime": 1708607587000,
         "depthStepList": [
-            "0.000001",
-            "0.00001"
+            "0.0000001",
+            "0.000001"
         ],
         "displayName": "MOBILE_USDT\u6c38\u7eed",
         "displayNameEn": "MOBILE_USDT PERPETUAL",
@@ -22924,8 +23000,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 42000,
@@ -24237,7 +24313,7 @@
         "automaticDelivery": 0,
         "baseCoin": "NLK",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241102150453003BwArNlpud4jlEQ.png",
-        "baseCoinId": "",
+        "baseCoinId": "f20e4bd8443d4de5ad4be5a68507e7e7",
         "baseCoinName": "NLK",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
@@ -24694,8 +24770,8 @@
         "contractSize": 10,
         "createTime": 1716980376000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "NYAN_USDT\u6c38\u7eed",
         "displayNameEn": "NYAN_USDT PERPETUAL",
@@ -24729,8 +24805,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 90000,
@@ -38513,8 +38589,8 @@
         "contractSize": 1000,
         "createTime": 1713360363000,
         "depthStepList": [
-            "0.000001",
-            "0.00001"
+            "0.0000001",
+            "0.000001"
         ],
         "displayName": "ZBCN_USDT\u6c38\u7eed",
         "displayNameEn": "ZBCN_USDT PERPETUAL",
@@ -38549,8 +38625,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3400,
@@ -39186,8 +39262,8 @@
         "contractSize": 100,
         "createTime": 1705485658000,
         "depthStepList": [
-            "0.000001",
-            "0.00001"
+            "0.0000001",
+            "0.000001"
         ],
         "displayName": "ZKF_USDT\u6c38\u7eed",
         "displayNameEn": "ZKF_USDT PERPETUAL",
@@ -39222,8 +39298,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 100000,
