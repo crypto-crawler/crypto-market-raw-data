@@ -12539,11 +12539,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DOGIN_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -25763,7 +25763,7 @@
         "max_amount_market": "3.000000000000000000000000000000",
         "min_amount": "0.000005000000000000000000000000",
         "min_amount_market": "0.000005000000000000000000000000",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 3,
         "state": "1",
         "symbol": "LTC_BTC",
@@ -30066,11 +30066,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "NDX_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46170,6 +46170,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "UniSuiCoin",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "UNISUI_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
