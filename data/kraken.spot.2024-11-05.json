@@ -64411,8 +64411,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 250,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -64421,6 +64428,7 @@
         "ordermin": "0.02",
         "pair_decimals": 6,
         "quote": "XETH",
+        "short_position_limit": 250,
         "status": "online",
         "tick_size": "0.000001",
         "wsname": "SOL/ETH"
