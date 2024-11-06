@@ -392,6 +392,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "AAX",
+        "buy_start": 1731326400,
+        "fee": "0.2",
+        "id": "AAX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "ABBC",
         "buy_start": 1606536000,
@@ -35167,13 +35181,13 @@
     {
         "amount_precision": 2,
         "base": "PGC",
-        "buy_start": 1729598400,
+        "buy_start": 1731412800,
         "fee": "0.2",
         "id": "PGC_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "untradable"
@@ -41885,7 +41899,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -44559,7 +44573,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
