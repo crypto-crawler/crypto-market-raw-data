@@ -3318,6 +3318,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ARS",
+        "buy_start": 1732345200,
+        "fee": "0.2",
+        "id": "ARS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "ARTEM",
         "buy_start": 1641902400,
@@ -31693,6 +31707,20 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 2,
+        "base": "NIKO",
+        "buy_start": 1730988000,
+        "fee": "0.2",
+        "id": "NIKO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "NIM",
         "buy_start": 1667556000,
@@ -44564,7 +44592,7 @@
     {
         "amount_precision": 2,
         "base": "SWELL",
-        "buy_start": 1727604000,
+        "buy_start": 1730973600,
         "fee": "0.2",
         "id": "SWELL_USDT",
         "max_quote_amount": "5000000",
@@ -44573,7 +44601,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1609434000,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
