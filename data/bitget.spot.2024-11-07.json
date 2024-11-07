@@ -289,10 +289,19 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "PNUT",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "PNUT_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "GODL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "GODL_USDT",
         "tick_size": "6"
     },
@@ -301,7 +310,7 @@
         "base_currency": "SWELL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "SWELL_USDT",
         "tick_size": "6"
     },

@@ -33350,8 +33350,12 @@
         "baseCoinId": "c6838d3eee554d0aa4873f82b75362ce",
         "baseCoinName": "SWELL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "conceptPlateId": [
+            -1
+        ],
         "contractSize": 100,
         "createTime": 1730955548000,
         "depthStepList": [
@@ -33363,13 +33367,17 @@
         "futureType": 1,
         "id": 756,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BYBIT",
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": false,
         "isNew": false,
-        "limitMaxVol": 650,
+        "limitMaxVol": 17500,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -33380,21 +33388,21 @@
             200,
             50
         ],
-        "maxVol": 650,
+        "maxVol": 17500,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1730974200733,
+        "openingTime": 1730973720733,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 3500,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 3500,
         "riskLevelLimit": 5,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
