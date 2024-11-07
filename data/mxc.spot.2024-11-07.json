@@ -12061,13 +12061,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 7,
+        "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DIONE_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -23028,11 +23028,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "KAS_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "taker_fee_rate": "0",
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -28772,7 +28772,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MOJO_USDT",
@@ -34637,7 +34637,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 24,
+        "price_scale": 26,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PIZZA1_USDT",
@@ -40665,6 +40665,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "StrategicMemeReserve",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "SMR1_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Shimmer",
         "limited": false,
         "maker_fee_rate": "0",
@@ -43683,11 +43700,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 2,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TAO_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "taker_fee_rate": "0",
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46675,11 +46692,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "USDC_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "taker_fee_rate": "0",
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49301,23 +49318,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "WadzPay Token",
-        "limited": false,
-        "maker_fee_rate": "0",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "2",
-        "symbol": "WTK_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Wuffi",
         "limited": false,
         "maker_fee_rate": "0",
@@ -50500,11 +50500,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "XRP_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "taker_fee_rate": "0",
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
