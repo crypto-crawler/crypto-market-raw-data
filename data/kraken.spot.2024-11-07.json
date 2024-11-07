@@ -31381,10 +31381,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "200",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZEUR",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "GST/EUR"
     },
     {
@@ -31487,10 +31487,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "200",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZUSD",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "GST/USD"
     },
     {
@@ -36529,10 +36529,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "14",
-        "pair_decimals": 2,
+        "pair_decimals": 3,
         "quote": "ZEUR",
         "status": "online",
-        "tick_size": "0.01",
+        "tick_size": "0.001",
         "wsname": "KINT/EUR"
     },
     {
@@ -36635,10 +36635,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "14",
-        "pair_decimals": 2,
+        "pair_decimals": 3,
         "quote": "ZUSD",
         "status": "online",
-        "tick_size": "0.01",
+        "tick_size": "0.001",
         "wsname": "KINT/USD"
     },
     {
@@ -44959,10 +44959,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "250",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZEUR",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "MIR/EUR"
     },
     {
@@ -45065,10 +45065,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "250",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZUSD",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "MIR/USD"
     },
     {
@@ -65111,10 +65111,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "100",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZEUR",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "SRM/EUR"
     },
     {
@@ -65217,10 +65217,10 @@
         "margin_call": 80,
         "margin_stop": 40,
         "ordermin": "100",
-        "pair_decimals": 3,
+        "pair_decimals": 4,
         "quote": "ZUSD",
         "status": "online",
-        "tick_size": "0.001",
+        "tick_size": "0.0001",
         "wsname": "SRM/USD"
     },
     {
@@ -73241,12 +73241,16 @@
             [
                 0,
                 0.01
+            ],
+            [
+                100000000,
+                0.001
             ]
         ],
         "fees_maker": [
             [
                 0,
-                0.01
+                0.0
             ]
         ],
         "leverage_buy": [],
@@ -73275,12 +73279,16 @@
             [
                 0,
                 0.01
+            ],
+            [
+                100000000,
+                0.001
             ]
         ],
         "fees_maker": [
             [
                 0,
-                0.01
+                0.0
             ]
         ],
         "leverage_buy": [],
