@@ -1319,11 +1319,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AIINU_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -19713,11 +19713,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "HAPPY_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -30984,11 +30984,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "NIKO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -31866,7 +31866,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 13,
+        "price_scale": 14,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "OAX_USDT",
@@ -34676,6 +34676,23 @@
         "state": "1",
         "symbol": "PIKA_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Pippin",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "PIPPIN_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0002",
         "tradeSideType": 1
     },
