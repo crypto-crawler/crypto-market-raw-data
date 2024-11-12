@@ -13401,13 +13401,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 3,
         "base": "DOGE5L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "DOGE5L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.001",
         "min_quote_amount": "3",
         "precision": 6,
         "quote": "USDT",
@@ -27200,6 +27200,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "LUNAI",
+        "buy_start": 1731744000,
+        "fee": "0.2",
+        "id": "LUNAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "LUNARLENS",
         "buy_start": 1728183600,
         "fee": "0.2",
@@ -37982,6 +37996,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "RAGDOLL",
+        "buy_start": 1731661200,
+        "fee": "0.2",
+        "id": "RAGDOLL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "RAGE",
         "buy_start": 1618891200,
@@ -41466,6 +41494,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SIX",
+        "buy_start": 1732006800,
+        "fee": "0.2",
+        "id": "SIX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,

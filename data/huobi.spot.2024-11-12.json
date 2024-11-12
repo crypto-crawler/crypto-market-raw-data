@@ -2303,9 +2303,9 @@
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "arv",
-        "buy-limit-must-less-than": 1.05,
+        "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
-        "market-buy-order-rate-must-less-than": 0.05,
+        "market-buy-order-rate-must-less-than": 0.1,
         "market-sell-order-rate-must-less-than": 0.1,
         "min-order-amt": 1,
         "min-order-value": 10,
@@ -2316,7 +2316,7 @@
         "state": "online",
         "symbol": "arvusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -5437,8 +5437,8 @@
         "funding-leverage-ratio": 3,
         "leverage-ratio": 5,
         "limit-order-min-order-amt": 0.0001,
-        "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-buy-order-rate-must-less-than": 0.02,
+        "market-sell-order-rate-must-less-than": 0.02,
         "min-order-amt": 0.0001,
         "min-order-value": 10,
         "price-precision": 2,
@@ -11029,8 +11029,8 @@
         "buy-limit-must-less-than": 1.1,
         "leverage-ratio": 5,
         "limit-order-min-order-amt": 0.001,
-        "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-buy-order-rate-must-less-than": 0.02,
+        "market-sell-order-rate-must-less-than": 0.02,
         "min-order-amt": 0.001,
         "min-order-value": 10,
         "price-precision": 2,
@@ -12172,7 +12172,7 @@
         "state": "online",
         "symbol": "fofarusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -19177,7 +19177,7 @@
         "state": "online",
         "symbol": "mblusdt",
         "symbol-partition": "main",
-        "tags": "",
+        "tags": "abnormalmarket",
         "value-precision": 8
     },
     {
@@ -20930,7 +20930,7 @@
         "state": "online",
         "symbol": "mvlusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
