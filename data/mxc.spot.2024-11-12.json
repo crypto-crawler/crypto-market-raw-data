@@ -16525,6 +16525,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Fred",
+        "limited": false,
+        "maker_fee_rate": "0",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "FRED_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.0002",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "FREEdom Coin",
         "limited": false,
         "maker_fee_rate": "0",
@@ -33925,11 +33942,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PEAQ_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0002",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -39567,7 +39584,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 14,
+        "price_scale": 16,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SFC_USDT",
