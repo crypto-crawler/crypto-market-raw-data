@@ -1067,7 +1067,7 @@
     {
         "business_type": "swap",
         "contract_code": "PNUT-USDT",
-        "contract_size": 10,
+        "contract_size": 10.0,
         "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20241113",
@@ -1782,6 +1782,21 @@
         "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "SCR",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "ACT-USDT",
+        "contract_size": 10.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20241113",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "ACT-USDT",
+        "price_tick": 1e-05,
+        "support_margin_mode": "all",
+        "symbol": "ACT",
         "trade_partition": "USDT"
     },
     {
