@@ -9125,24 +9125,10 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "CCAR",
-        "buy_start": 1637067600,
-        "fee": "0.2",
-        "id": "CCAR_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1608782400,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -18089,7 +18075,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -19786,7 +19772,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -20767,6 +20753,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 1,
+        "base": "HAPPY",
+        "buy_start": 1731751200,
+        "fee": "0.2",
+        "id": "HAPPY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
@@ -31984,7 +31984,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -40748,7 +40748,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
@@ -48898,7 +48898,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -48944,20 +48944,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "VRJAM",
-        "buy_start": 1669809600,
-        "fee": "0.2",
-        "id": "VRJAM_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1596702900,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,

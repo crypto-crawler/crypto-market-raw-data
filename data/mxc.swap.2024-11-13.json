@@ -1540,6 +1540,8 @@
         "futureType": 1,
         "id": 764,
         "indexOrigin": [
+            "BITGET",
+            "BINANCE",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -28139,13 +28141,17 @@
         "futureType": 1,
         "id": 752,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BINANCE",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
         "isHot": true,
         "isNew": false,
-        "limitMaxVol": 20000,
+        "limitMaxVol": 12000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -28156,7 +28162,7 @@
             200,
             50
         ],
-        "maxVol": 20000,
+        "maxVol": 12000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -28167,10 +28173,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 20000,
+        "riskBaseVol": 12000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 20000,
+        "riskIncrVol": 12000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
