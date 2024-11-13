@@ -8683,7 +8683,7 @@
         "auction_mode": false,
         "base_currency": "PEPE",
         "base_increment": "1",
-        "cancel_only": true,
+        "cancel_only": false,
         "display_name": "PEPE/USD",
         "fx_stablecoin": false,
         "high_bid_limit_percentage": "",
@@ -8696,7 +8696,7 @@
         "quote_currency": "USD",
         "quote_increment": "0.00000001",
         "status": "online",
-        "status_message": "We've started accepting deposits. Trading will begin shortly.",
+        "status_message": "",
         "trading_disabled": false
     },
     {
@@ -12157,6 +12157,26 @@
         "quote_increment": "0.000001",
         "status": "online",
         "status_message": "",
+        "trading_disabled": false
+    },
+    {
+        "auction_mode": false,
+        "base_currency": "WIF",
+        "base_increment": "0.01",
+        "cancel_only": true,
+        "display_name": "WIF/USD",
+        "fx_stablecoin": false,
+        "high_bid_limit_percentage": "",
+        "id": "WIF-USD",
+        "limit_only": false,
+        "margin_enabled": false,
+        "max_slippage_percentage": "0.03000000",
+        "min_market_funds": "1",
+        "post_only": false,
+        "quote_currency": "USD",
+        "quote_increment": "0.001",
+        "status": "online",
+        "status_message": "We've started accepting deposits. Trading will begin shortly.",
         "trading_disabled": false
     },
     {
