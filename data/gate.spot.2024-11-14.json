@@ -3399,7 +3399,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -9198,7 +9198,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -21792,6 +21792,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "HSK",
+        "buy_start": 1732615200,
+        "fee": "0.2",
+        "id": "HSK_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "HTM",
         "buy_start": 1689850800,
         "fee": "0.2",
@@ -25064,7 +25078,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -32348,7 +32362,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -43778,6 +43792,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "STIX",
+        "buy_start": 1732579200,
+        "fee": "0.2",
+        "id": "STIX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "STI",
         "buy_start": 1649829600,
@@ -51281,7 +51309,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,

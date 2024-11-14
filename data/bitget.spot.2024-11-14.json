@@ -378,20 +378,29 @@
         "tick_size": "5"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "FRED",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "FRED_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "HAPPY",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "HAPPY_USDT",
-        "tick_size": "0"
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "2",
         "base_currency": "NS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "NS_USDT",
         "tick_size": "5"
     },
@@ -2202,7 +2211,7 @@
         "size_increment": "0",
         "status": "online",
         "symbol": "PEPE_USDT",
-        "tick_size": "9"
+        "tick_size": "8"
     },
     {
         "base_asset_precision": "2",
