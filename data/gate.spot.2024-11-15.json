@@ -25586,34 +25586,6 @@
     },
     {
         "amount_precision": 2,
-        "base": "LEDU",
-        "buy_start": 1519948800,
-        "fee": "0.2",
-        "id": "LEDU_BTC",
-        "max_quote_amount": "100",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "0.00001",
-        "precision": 11,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "LEDU",
-        "buy_start": 1519948800,
-        "fee": "0.2",
-        "id": "LEDU_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "0.001",
-        "precision": 10,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
         "base": "LEGION",
         "buy_start": 1718632800,
         "fee": "0.2",
@@ -48145,7 +48117,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
