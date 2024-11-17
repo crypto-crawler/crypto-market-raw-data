@@ -2590,6 +2590,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 0,
+        "base": "APEPE",
+        "buy_start": 1732082400,
+        "fee": "0.2",
+        "id": "APEPE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "1",
+        "min_quote_amount": "3",
+        "precision": 9,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "APE",
         "buy_start": 1647520200,
@@ -8107,6 +8121,20 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BTF",
+        "buy_start": 1732010400,
+        "fee": "0.2",
+        "id": "BTF_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
