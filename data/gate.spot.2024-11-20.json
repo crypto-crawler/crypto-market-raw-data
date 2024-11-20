@@ -2573,7 +2573,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -2741,7 +2741,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1582704000,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -21634,7 +21634,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -38598,6 +38598,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "READY",
+        "buy_start": 1732618800,
+        "fee": "0.2",
+        "id": "READY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "REALM",
         "buy_start": 1651233600,
@@ -39268,6 +39282,20 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "RIFSOL",
+        "buy_start": 1732093200,
+        "fee": "0.2",
+        "id": "RIFSOL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
