@@ -571,7 +571,7 @@
         "base_currency": "SOL",
         "quote_currency": "USDE",
         "size_increment": "4",
-        "status": "gray",
+        "status": "online",
         "symbol": "SOL_USDE",
         "tick_size": "2"
     },
@@ -1849,7 +1849,7 @@
         "base_currency": "ASI",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ASI_USDT",
         "tick_size": "4"
     },
@@ -1858,7 +1858,7 @@
         "base_currency": "MORPHO",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MORPHO_USDT",
         "tick_size": "4"
     },
@@ -1867,7 +1867,7 @@
         "base_currency": "BTC",
         "quote_currency": "USDE",
         "size_increment": "6",
-        "status": "gray",
+        "status": "online",
         "symbol": "BTC_USDE",
         "tick_size": "2"
     },
@@ -1876,9 +1876,18 @@
         "base_currency": "ETH",
         "quote_currency": "USDE",
         "size_increment": "4",
-        "status": "gray",
+        "status": "online",
         "symbol": "ETH_USDE",
         "tick_size": "2"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "MEMEFI",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "MEMEFI_USDT",
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "2",
@@ -2103,7 +2112,7 @@
         "size_increment": "1",
         "status": "online",
         "symbol": "OMI_USDT",
-        "tick_size": "6"
+        "tick_size": "7"
     },
     {
         "base_asset_precision": "2",
@@ -7669,11 +7678,11 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "NEIRO",
+        "base_currency": "NEIROETH",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "online",
-        "symbol": "NEIRO_USDT",
+        "symbol": "NEIROETH_USDT",
         "tick_size": "4"
     },
     {
