@@ -1881,11 +1881,20 @@
         "tick_size": "2"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "PREMARKET3",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "PREMARKET3_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "1",
         "base_currency": "CHEEMS",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "CHEEMS_USDT",
         "tick_size": "10"
     },
