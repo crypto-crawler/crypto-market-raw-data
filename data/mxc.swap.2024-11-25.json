@@ -8117,7 +8117,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 20570,
+        "threshold": 20803,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -9708,6 +9708,8 @@
         "futureType": 1,
         "id": 737,
         "indexOrigin": [
+            "BITGET",
+            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.01,
@@ -9716,7 +9718,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 350,
+        "limitMaxVol": 9800,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -9727,21 +9729,21 @@
             200,
             50
         ],
-        "maxVol": 350,
+        "maxVol": 9800,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
         "openingTime": 1729854960640,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 9,
         "priceUnit": 1e-09,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 350,
+        "riskBaseVol": 9800,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 350,
+        "riskIncrVol": 9800,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -21850,7 +21852,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 1108595,
+        "threshold": 1108079,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -36367,11 +36369,9 @@
         "baseCoinName": "SCIHUB",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
-            -1,
             29
         ],
         "contractSize": 10,
@@ -36393,7 +36393,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 11000,
         "maintenanceMarginRate": 0.01,
@@ -42034,11 +42034,9 @@
         "baseCoinName": "URO",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
-            -1,
             29
         ],
         "contractSize": 10,
@@ -42060,7 +42058,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 6000,
         "maintenanceMarginRate": 0.01,
