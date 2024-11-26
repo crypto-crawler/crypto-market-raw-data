@@ -15235,6 +15235,34 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "ENA3L",
+        "buy_start": 1732620620,
+        "fee": "0.2",
+        "id": "ENA3L_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ENA3S",
+        "buy_start": 1732620669,
+        "fee": "0.2",
+        "id": "ENA3S_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 3,
         "base": "ENA",
         "buy_start": 1712044800,
@@ -21914,7 +21942,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -24056,6 +24084,34 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1595658900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KAS3L",
+        "buy_start": 1732620955,
+        "fee": "0.2",
+        "id": "KAS3L_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KAS3S",
+        "buy_start": 1732621231,
+        "fee": "0.2",
+        "id": "KAS3S_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
         "trade_status": "tradable"
     },
     {
@@ -36314,6 +36370,34 @@
     },
     {
         "amount_precision": 2,
+        "base": "PNUT3L",
+        "buy_start": 1732621594,
+        "fee": "0.2",
+        "id": "PNUT3L_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PNUT3S",
+        "buy_start": 1732621561,
+        "fee": "0.2",
+        "id": "PNUT3S_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
         "base": "PNUT",
         "buy_start": 1730815200,
         "fee": "0.2",
@@ -38749,7 +38833,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -46099,7 +46183,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
