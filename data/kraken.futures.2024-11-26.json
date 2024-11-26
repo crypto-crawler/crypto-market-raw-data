@@ -3312,6 +3312,154 @@
         "type": "flexible_futures"
     },
     {
+        "base": "ACT",
+        "category": "AI",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 2000.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 6000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:52:20.000Z",
+        "pair": "ACT:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_ACTUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "ADA",
         "category": "Layer 1",
         "contractSize": 1,
@@ -7257,6 +7405,154 @@
         "type": "flexible_futures"
     },
     {
+        "base": "AXL",
+        "category": "Interoperability",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 1200.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 3600000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:42.000Z",
+        "pair": "AXL:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_AXLUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "AXS",
         "category": "Gaming",
         "contractSize": 1,
@@ -8167,6 +8463,154 @@
         "symbol": "PF_BANDUSD",
         "tags": [],
         "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "BAN",
+        "category": "Meme",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 7000.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 21420069.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:52:31.000Z",
+        "pair": "BAN:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_BANUSD",
+        "tags": [],
+        "tickSize": 1e-05,
         "tradeable": true,
         "type": "flexible_futures"
     },
@@ -12721,6 +13165,154 @@
         "type": "flexible_futures"
     },
     {
+        "base": "COS",
+        "category": "Web3",
+        "contractSize": 1,
+        "contractValueTradePrecision": -1,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 80000.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 250000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:48.000Z",
+        "pair": "COS:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_COSUSD",
+        "tags": [],
+        "tickSize": 1e-06,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "COTI",
         "category": "DeFi",
         "contractSize": 1,
@@ -12866,6 +13458,154 @@
         "symbol": "PF_COTIUSD",
         "tags": [],
         "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "COW",
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 1800.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 5600000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:56.000Z",
+        "pair": "COW:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_COWUSD",
+        "tags": [],
+        "tickSize": 0.0001,
         "tradeable": true,
         "type": "flexible_futures"
     },
@@ -27903,6 +28643,154 @@
         "type": "flexible_futures"
     },
     {
+        "base": "MORPHO",
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 1250.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 3500000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:24.000Z",
+        "pair": "MORPHO:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_MORPHOUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "MOVR",
         "category": "Web3",
         "contractSize": 1,
@@ -28515,6 +29403,154 @@
         "symbol": "PF_NEARUSD",
         "tags": [],
         "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "NEIROETH",
+        "category": "Meme",
+        "contractSize": 1,
+        "contractValueTradePrecision": -1,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 12500.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 37000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:52:42.000Z",
+        "pair": "NEIROETH:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_NEIROETHUSD",
+        "tags": [],
+        "tickSize": 1e-05,
         "tradeable": true,
         "type": "flexible_futures"
     },
@@ -31851,6 +32887,154 @@
             }
         ],
         "symbol": "PF_PIXELUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "PNUT",
+        "category": "Meme",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 750.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 2300000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:35:38.000Z",
+        "pair": "PNUT:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_PNUTUSD",
         "tags": [],
         "tickSize": 0.0001,
         "tradeable": true,
@@ -37152,6 +38336,154 @@
         "type": "flexible_futures"
     },
     {
+        "base": "SLERF",
+        "category": "Meme",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 3000.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 9000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:11.000Z",
+        "pair": "SLERF:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_SLERFUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "SNX",
         "category": "DeFi",
         "contractSize": 1,
@@ -40097,6 +41429,154 @@
             }
         ],
         "symbol": "PF_SYNUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "TAIKO",
+        "category": "Layer 2",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 550.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 1700000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:53:38.000Z",
+        "pair": "TAIKO:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_TAIKOUSD",
         "tags": [],
         "tickSize": 0.0001,
         "tradeable": true,
@@ -46548,6 +48028,154 @@
         "symbol": "PF_ZEUSUSD",
         "tags": [],
         "tickSize": 1e-05,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "ZIL",
+        "category": "DeFi",
+        "contractSize": 1,
+        "contractValueTradePrecision": -1,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 40000.0,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025,
+                        "numNonContractUnits": 0.0
+                    },
+                    {
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05,
+                        "numNonContractUnits": 10000.0
+                    },
+                    {
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1,
+                        "numNonContractUnits": 250000.0
+                    },
+                    {
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15,
+                        "numNonContractUnits": 500000.0
+                    },
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 2000000.0
+                    }
+                ],
+                "retail": [
+                    {
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25,
+                        "numNonContractUnits": 0.0
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 120000000.0,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2024-11-26T12:54:06.000Z",
+        "pair": "ZIL:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 10000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 500000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 2000000.0
+            }
+        ],
+        "symbol": "PF_ZILUSD",
+        "tags": [],
+        "tickSize": 1e-06,
         "tradeable": true,
         "type": "flexible_futures"
     },
