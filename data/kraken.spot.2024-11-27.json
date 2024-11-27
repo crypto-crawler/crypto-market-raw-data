@@ -50110,6 +50110,218 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "PEPEAUD",
+        "base": "PEPE",
+        "cost_decimals": 5,
+        "costmin": "1",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "250000",
+        "pair_decimals": 9,
+        "quote": "ZAUD",
+        "status": "online",
+        "tick_size": "0.000000001",
+        "wsname": "PEPE/AUD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "PEPECAD",
+        "base": "PEPE",
+        "cost_decimals": 5,
+        "costmin": "1",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "250000",
+        "pair_decimals": 9,
+        "quote": "ZCAD",
+        "status": "online",
+        "tick_size": "0.000000001",
+        "wsname": "PEPE/CAD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "PEPEEUR",
         "base": "PEPE",
         "cost_decimals": 5,
@@ -50220,6 +50432,112 @@
         "status": "online",
         "tick_size": "0.000000001",
         "wsname": "PEPE/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "PEPEGBP",
+        "base": "PEPE",
+        "cost_decimals": 5,
+        "costmin": "0.43",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "250000",
+        "pair_decimals": 9,
+        "quote": "ZGBP",
+        "status": "online",
+        "tick_size": "0.000000001",
+        "wsname": "PEPE/GBP"
     },
     {
         "aclass_base": "currency",
@@ -51940,6 +52258,112 @@
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "POPCAT/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "POPCATGBP",
+        "base": "POPCAT",
+        "cost_decimals": 8,
+        "costmin": "0.43",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "2.5",
+        "pair_decimals": 4,
+        "quote": "ZGBP",
+        "status": "online",
+        "tick_size": "0.0001",
+        "wsname": "POPCAT/GBP"
     },
     {
         "aclass_base": "currency",
@@ -61022,6 +61446,112 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "SOLCAD",
+        "base": "SOL",
+        "cost_decimals": 5,
+        "costmin": "1",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.02",
+        "pair_decimals": 2,
+        "quote": "ZCAD",
+        "status": "online",
+        "tick_size": "0.01",
+        "wsname": "SOL/CAD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "SOLETH",
         "base": "SOL",
         "cost_decimals": 10,
@@ -63544,6 +64074,120 @@
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "SUI/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "SUIGBP",
+        "base": "SUI",
+        "cost_decimals": 8,
+        "costmin": "0.43",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 30000,
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1.3",
+        "pair_decimals": 4,
+        "quote": "ZGBP",
+        "short_position_limit": 30000,
+        "status": "online",
+        "tick_size": "0.0001",
+        "wsname": "SUI/GBP"
     },
     {
         "aclass_base": "currency",
@@ -72886,6 +73530,112 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "WIFGBP",
+        "base": "WIF",
+        "cost_decimals": 8,
+        "costmin": "0.43",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1.5",
+        "pair_decimals": 4,
+        "quote": "ZGBP",
+        "status": "online",
+        "tick_size": "0.0001",
+        "wsname": "WIF/GBP"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "WIFUSD",
         "base": "WIF",
         "cost_decimals": 8,
@@ -74874,6 +75624,112 @@
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "XDG/AUD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "XDGCAD",
+        "base": "XXDG",
+        "cost_decimals": 9,
+        "costmin": "1",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "13",
+        "pair_decimals": 7,
+        "quote": "ZCAD",
+        "status": "online",
+        "tick_size": "0.0000001",
+        "wsname": "XDG/CAD"
     },
     {
         "aclass_base": "currency",
