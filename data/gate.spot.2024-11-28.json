@@ -6048,6 +6048,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BELLS",
+        "buy_start": 1732953600,
+        "fee": "0.2",
+        "id": "BELLS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "BEL",
         "buy_start": 1613620800,
@@ -32029,6 +32043,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "NIGHT",
+        "buy_start": 1732888800,
+        "fee": "0.2",
+        "id": "NIGHT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "NIIFI",
         "buy_start": 1622692800,
@@ -41129,7 +41157,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
