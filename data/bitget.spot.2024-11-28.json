@@ -796,7 +796,7 @@
         "base_currency": "GFT",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "online",
+        "status": "halt",
         "symbol": "GFT_USDT",
         "tick_size": "5"
     },
@@ -1935,13 +1935,13 @@
         "tick_size": "6"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "CLANKER",
         "quote_currency": "USDT",
-        "size_increment": "0",
-        "status": "gray",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "CLANKER_USDT",
-        "tick_size": "0"
+        "tick_size": "2"
     },
     {
         "base_asset_precision": "2",
@@ -1957,7 +1957,7 @@
         "base_currency": "MAJOR",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MAJOR_USDT",
         "tick_size": "4"
     },
@@ -1966,7 +1966,7 @@
         "base_currency": "MGT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "MGT_USDT",
         "tick_size": "4"
     },
