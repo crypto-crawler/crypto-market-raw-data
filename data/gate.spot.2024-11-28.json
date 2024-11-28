@@ -13388,34 +13388,6 @@
     },
     {
         "amount_precision": 3,
-        "base": "DOCK",
-        "buy_start": 1524729600,
-        "fee": "0.2",
-        "id": "DOCK_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "DOCK",
-        "buy_start": 1524729600,
-        "fee": "0.2",
-        "id": "DOCK_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
         "base": "DODO",
         "buy_start": 1611820800,
         "fee": "0.2",
@@ -46183,7 +46155,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -53424,6 +53396,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "ZEREBRO",
+        "buy_start": 1732978800,
+        "fee": "0.2",
+        "id": "ZEREBRO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 0,
