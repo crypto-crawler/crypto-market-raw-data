@@ -59,7 +59,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "1DOLLAR_USDT",
@@ -5042,11 +5042,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 8,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BEANS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -5312,7 +5312,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 22,
+        "price_scale": 24,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BFC_USDT",
@@ -6489,6 +6489,23 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BOO_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "BORA",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "BORA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -24046,7 +24063,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 18,
+        "price_scale": 20,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LAG_USDT",
@@ -28519,11 +28536,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "MOE_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -42875,6 +42892,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "SwftCoin",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "SWFTC_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "SWGT",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -43341,13 +43375,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TANUKI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -44164,23 +44198,6 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "We Love Tits",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "2",
-        "symbol": "TITS_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
