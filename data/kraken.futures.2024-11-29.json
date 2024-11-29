@@ -327,7 +327,7 @@
             }
         },
         "maxPositionSize": 8000.0,
-        "openingDate": "2024-11-29T08:00:00.220Z",
+        "openingDate": "2024-11-29T08:00:00.000Z",
         "pair": "ETH:USD",
         "postOnly": false,
         "quote": "USD",
@@ -702,7 +702,7 @@
             }
         },
         "maxPositionSize": 80000.0,
-        "openingDate": "2024-11-29T08:00:00.194Z",
+        "openingDate": "2024-11-29T08:00:00.000Z",
         "pair": "SOL:USD",
         "postOnly": false,
         "quote": "USD",
@@ -1265,7 +1265,7 @@
             }
         },
         "maxPositionSize": 600.0,
-        "openingDate": "2024-11-29T08:00:00.164Z",
+        "openingDate": "2024-11-29T08:00:00.000Z",
         "pair": "BTC:USD",
         "postOnly": false,
         "quote": "USD",
@@ -1318,151 +1318,7 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0X718",
-        "lastTradingTime": "2024-11-29T16:00:00.000Z",
-        "marginLevels": [
-            {
-                "contracts": 0,
-                "initialMargin": 0.02,
-                "maintenanceMargin": 0.01
-            },
-            {
-                "contracts": 250000,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
-            },
-            {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
-            },
-            {
-                "contracts": 2000000,
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05
-            },
-            {
-                "contracts": 4000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
-            },
-            {
-                "contracts": 6000000,
-                "initialMargin": 0.3,
-                "maintenanceMargin": 0.15
-            }
-        ],
-        "marginSchedules": {
-            "dlt": {
-                "professional": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 250000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
-                        "initialMargin": 0.1,
-                        "maintenanceMargin": 0.05
-                    },
-                    {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
-                    },
-                    {
-                        "contracts": 6000000,
-                        "initialMargin": 0.3,
-                        "maintenanceMargin": 0.15
-                    }
-                ],
-                "retail": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.5,
-                        "maintenanceMargin": 0.25
-                    }
-                ]
-            },
-            "dlt_onboarding": {
-                "professional": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 250000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
-                        "initialMargin": 0.1,
-                        "maintenanceMargin": 0.05
-                    },
-                    {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
-                    },
-                    {
-                        "contracts": 6000000,
-                        "initialMargin": 0.3,
-                        "maintenanceMargin": 0.15
-                    }
-                ],
-                "retail": [
-                    {
-                        "contracts": 0,
-                        "initialMargin": 0.5,
-                        "maintenanceMargin": 0.25
-                    }
-                ]
-            }
-        },
-        "maxPositionSize": 15000000.0,
-        "openingDate": "2024-10-25T15:00:01.000Z",
-        "pair": "ETH:USD",
-        "postOnly": false,
-        "quote": "USD",
-        "retailMarginLevels": [
-            {
-                "contracts": 0,
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25
-            }
-        ],
-        "symbol": "FI_ETHUSD_241129",
-        "tags": [],
-        "tickSize": 0.05,
-        "tradeable": true,
-        "type": "futures_inverse",
-        "underlying": "rr_ethusd"
-    },
-    {
-        "base": "ETH",
-        "category": "",
-        "contractSize": 1,
-        "contractValueTradePrecision": 0,
-        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BLD0XG02",
         "lastTradingTime": "2024-12-27T16:00:00.000Z",
         "marginLevels": [
@@ -1477,24 +1333,29 @@
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 2000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 4000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 6000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 30000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -1511,24 +1372,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 6000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1552,24 +1418,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 6000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1581,7 +1452,7 @@
                 ]
             }
         },
-        "maxPositionSize": 15000000.0,
+        "maxPositionSize": 15000000,
         "openingDate": "2024-05-31T15:00:00.000Z",
         "pair": "ETH:USD",
         "postOnly": false,
@@ -1606,7 +1477,7 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BSRJL802",
         "lastTradingTime": "2025-03-28T16:00:00.000Z",
         "marginLevels": [
@@ -1621,24 +1492,29 @@
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 2000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 4000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 6000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 30000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -1655,24 +1531,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 6000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1696,24 +1577,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 6000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1725,7 +1611,7 @@
                 ]
             }
         },
-        "maxPositionSize": 15000000.0,
+        "maxPositionSize": 15000000,
         "openingDate": "2024-08-30T15:00:01.000Z",
         "pair": "ETH:USD",
         "postOnly": false,
@@ -1745,19 +1631,19 @@
         "underlying": "rr_ethusd"
     },
     {
-        "base": "LTC",
+        "base": "ETH",
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0X825",
-        "lastTradingTime": "2024-11-29T16:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BSRJLY64",
+        "lastTradingTime": "2025-06-27T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
             },
             {
                 "contracts": 250000,
@@ -1765,19 +1651,29 @@
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 2000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 3000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 30000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -1785,8 +1681,8 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.02,
+                        "maintenanceMargin": 0.01
                     },
                     {
                         "contracts": 250000,
@@ -1794,19 +1690,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 10000000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1821,8 +1727,8 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.02,
+                        "maintenanceMargin": 0.01
                     },
                     {
                         "contracts": 250000,
@@ -1830,19 +1736,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 10000000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1854,9 +1770,9 @@
                 ]
             }
         },
-        "maxPositionSize": 5000000.0,
-        "openingDate": "2024-10-25T15:00:01.000Z",
-        "pair": "LTC:USD",
+        "maxPositionSize": 15000000,
+        "openingDate": "2024-11-29T16:00:01.000Z",
+        "pair": "ETH:USD",
         "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
@@ -1866,12 +1782,12 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_LTCUSD_241129",
+        "symbol": "FI_ETHUSD_250627",
         "tags": [],
-        "tickSize": 0.01,
+        "tickSize": 0.05,
         "tradeable": true,
         "type": "futures_inverse",
-        "underlying": "rr_ltcusd"
+        "underlying": "rr_ethusd"
     },
     {
         "base": "LTC",
@@ -1879,7 +1795,7 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BLD0XH19",
         "lastTradingTime": "2024-12-27T16:00:00.000Z",
         "marginLevels": [
@@ -1890,23 +1806,28 @@
             },
             {
                 "contracts": 250000,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
                 "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
-            },
-            {
-                "contracts": 2000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 3000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 1000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 2500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -1919,23 +1840,28 @@
                     },
                     {
                         "contracts": 250000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
                         "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1955,23 +1881,28 @@
                     },
                     {
                         "contracts": 250000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
                         "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -1983,7 +1914,7 @@
                 ]
             }
         },
-        "maxPositionSize": 5000000.0,
+        "maxPositionSize": 5000000,
         "openingDate": "2024-08-30T15:00:01.000Z",
         "pair": "LTC:USD",
         "postOnly": false,
@@ -2003,54 +1934,44 @@
         "underlying": "rr_ltcusd"
     },
     {
-        "base": "BTC",
+        "base": "LTC",
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0X601",
-        "lastTradingTime": "2024-11-29T16:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BSRJL919",
+        "lastTradingTime": "2025-03-28T16:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
-                "initialMargin": 0.02,
-                "maintenanceMargin": 0.01
-            },
-            {
-                "contracts": 500000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 1000000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 3000000,
+                "contracts": 500000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 6000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 1000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 9000000,
-                "initialMargin": 0.25,
-                "maintenanceMargin": 0.125
-            },
-            {
-                "contracts": 15000000,
+                "contracts": 2500000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
             },
             {
-                "contracts": 30000000,
-                "initialMargin": 0.4,
-                "maintenanceMargin": 0.2
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -2058,43 +1979,33 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 500000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 2500000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
-                        "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2109,43 +2020,33 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 500000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 2500000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
-                        "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2157,9 +2058,9 @@
                 ]
             }
         },
-        "maxPositionSize": 40000000.0,
-        "openingDate": "2024-10-25T15:00:00.000Z",
-        "pair": "BTC:USD",
+        "maxPositionSize": 5000000,
+        "openingDate": "2024-11-29T16:00:02.000Z",
+        "pair": "LTC:USD",
         "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
@@ -2169,12 +2070,12 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_XBTUSD_241129",
+        "symbol": "FI_LTCUSD_250328",
         "tags": [],
-        "tickSize": 0.5,
+        "tickSize": 0.01,
         "tradeable": true,
         "type": "futures_inverse",
-        "underlying": "rr_xbtusd"
+        "underlying": "rr_ltcusd"
     },
     {
         "base": "BTC",
@@ -2182,7 +2083,7 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BLD0XF94",
         "lastTradingTime": "2024-12-27T16:00:00.000Z",
         "marginLevels": [
@@ -2192,39 +2093,34 @@
                 "maintenanceMargin": 0.01
             },
             {
-                "contracts": 500000,
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 1000000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 3000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 6000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 9000000,
-                "initialMargin": 0.25,
-                "maintenanceMargin": 0.125
-            },
-            {
-                "contracts": 15000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
             },
             {
                 "contracts": 30000000,
-                "initialMargin": 0.4,
-                "maintenanceMargin": 0.2
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -2236,39 +2132,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2287,39 +2178,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2331,7 +2217,7 @@
                 ]
             }
         },
-        "maxPositionSize": 40000000.0,
+        "maxPositionSize": 40000000,
         "openingDate": "2024-05-31T15:00:01.000Z",
         "pair": "BTC:USD",
         "postOnly": false,
@@ -2356,7 +2242,7 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BSRJL794",
         "lastTradingTime": "2025-03-28T16:00:00.000Z",
         "marginLevels": [
@@ -2366,39 +2252,34 @@
                 "maintenanceMargin": 0.01
             },
             {
-                "contracts": 500000,
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 1000000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 3000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 6000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 9000000,
-                "initialMargin": 0.25,
-                "maintenanceMargin": 0.125
-            },
-            {
-                "contracts": 15000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
             },
             {
                 "contracts": 30000000,
-                "initialMargin": 0.4,
-                "maintenanceMargin": 0.2
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -2410,39 +2291,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2461,39 +2337,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 9000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2505,7 +2376,7 @@
                 ]
             }
         },
-        "maxPositionSize": 40000000.0,
+        "maxPositionSize": 40000000,
         "openingDate": "2024-08-30T15:00:01.000Z",
         "pair": "BTC:USD",
         "postOnly": false,
@@ -2525,24 +2396,49 @@
         "underlying": "rr_xbtusd"
     },
     {
-        "base": "XRP",
+        "base": "BTC",
         "category": "",
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
-        "isin": "GB00BLD0X932",
-        "lastTradingTime": "2024-11-29T16:00:00.000Z",
+        "impactMidSize": 1000,
+        "isin": "GB00BSRJLX57",
+        "lastTradingTime": "2025-06-27T15:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 1000000,
+                "contracts": 5000000,
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 30000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -2550,13 +2446,38 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.02,
+                        "maintenanceMargin": 0.01
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 1000000,
+                        "contracts": 5000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 10000000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2571,13 +2492,38 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.02,
+                        "maintenanceMargin": 0.01
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 1000000,
+                        "contracts": 5000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 10000000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2589,9 +2535,9 @@
                 ]
             }
         },
-        "maxPositionSize": 3000000.0,
-        "openingDate": "2024-10-25T15:00:01.000Z",
-        "pair": "XRP:USD",
+        "maxPositionSize": 40000000,
+        "openingDate": "2024-11-29T16:00:01.000Z",
+        "pair": "BTC:USD",
         "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
@@ -2601,12 +2547,12 @@
                 "maintenanceMargin": 0.25
             }
         ],
-        "symbol": "FI_XRPUSD_241129",
+        "symbol": "FI_XBTUSD_250627",
         "tags": [],
-        "tickSize": 0.0001,
+        "tickSize": 0.5,
         "tradeable": true,
         "type": "futures_inverse",
-        "underlying": "rr_xrpusd"
+        "underlying": "rr_xbtusd"
     },
     {
         "base": "XRP",
@@ -2614,12 +2560,22 @@
         "contractSize": 1,
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00BLD0XJ33",
         "lastTradingTime": "2024-12-27T16:00:00.000Z",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 500000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
@@ -2627,6 +2583,16 @@
                 "contracts": 1000000,
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 2500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -2634,6 +2600,16 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
@@ -2641,6 +2617,16 @@
                         "contracts": 1000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2655,6 +2641,16 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
@@ -2662,6 +2658,16 @@
                         "contracts": 1000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -2673,7 +2679,7 @@
                 ]
             }
         },
-        "maxPositionSize": 3000000.0,
+        "maxPositionSize": 3000000,
         "openingDate": "2024-08-30T15:00:01.000Z",
         "pair": "XRP:USD",
         "postOnly": false,
@@ -2686,6 +2692,150 @@
             }
         ],
         "symbol": "FI_XRPUSD_241227",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "futures_inverse",
+        "underlying": "rr_xrpusd"
+    },
+    {
+        "base": "XRP",
+        "category": "",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
+        "impactMidSize": 1000,
+        "isin": "GB00BSRJLB38",
+        "lastTradingTime": "2025-03-28T16:00:00.000Z",
+        "marginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 500000,
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05
+            },
+            {
+                "contracts": 1000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 2500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "marginSchedules": {
+            "dlt": {
+                "professional": [
+                    {
+                        "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05
+                    },
+                    {
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
+                    }
+                ],
+                "retail": [
+                    {
+                        "contracts": 0,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
+                    }
+                ]
+            },
+            "dlt_onboarding": {
+                "professional": [
+                    {
+                        "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
+                        "initialMargin": 0.1,
+                        "maintenanceMargin": 0.05
+                    },
+                    {
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
+                    }
+                ],
+                "retail": [
+                    {
+                        "contracts": 0,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
+                    }
+                ]
+            }
+        },
+        "maxPositionSize": 3000000,
+        "openingDate": "2024-11-29T16:00:01.000Z",
+        "pair": "XRP:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "symbol": "FI_XRPUSD_250328",
         "tags": [],
         "tickSize": 0.0001,
         "tradeable": true,
@@ -24271,7 +24421,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 200000,
+        "impactMidSize": 200000.0,
         "isin": "EZ7S553G0DL1",
         "marginLevels": [
             {
@@ -24374,7 +24524,7 @@
                 ]
             }
         },
-        "maxPositionSize": 500000000,
+        "maxPositionSize": 500000000.0,
         "maxRelativeFundingRate": 0.005,
         "openingDate": "2024-07-11T12:17:31.000Z",
         "pair": "KEY:USD",
@@ -36428,7 +36578,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 24200,
+        "impactMidSize": 24200.0,
         "isin": "EZC2PHYK6906",
         "marginLevels": [
             {
@@ -36531,8 +36681,8 @@
                 ]
             }
         },
-        "maxPositionSize": 30000000,
-        "maxRelativeFundingRate": 0.005,
+        "maxPositionSize": 30000000.0,
+        "maxRelativeFundingRate": 0.01,
         "openingDate": "2022-09-14T12:59:21.000Z",
         "pair": "REN:USD",
         "postOnly": false,
@@ -49163,36 +49313,31 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YJ846",
         "marginLevels": [
             {
                 "contracts": 0,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 100000,
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02
-            },
-            {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
-            },
-            {
-                "contracts": 2000000,
+                "contracts": 10000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 3000000,
+                "contracts": 250000,
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1
             },
             {
-                "contracts": 5000000,
+                "contracts": 500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 2000000,
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25
             }
@@ -49202,31 +49347,26 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 100000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
+                        "contracts": 10000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 250000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 5000000,
+                        "contracts": 500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 2000000,
                         "initialMargin": 0.5,
                         "maintenanceMargin": 0.25
                     }
@@ -49243,31 +49383,26 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 100000,
-                        "initialMargin": 0.04,
-                        "maintenanceMargin": 0.02
-                    },
-                    {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
-                    },
-                    {
-                        "contracts": 2000000,
+                        "contracts": 10000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 250000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 5000000,
+                        "contracts": 500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 2000000,
                         "initialMargin": 0.5,
                         "maintenanceMargin": 0.25
                     }
@@ -49281,7 +49416,7 @@
                 ]
             }
         },
-        "maxPositionSize": 10000000.0,
+        "maxPositionSize": 10000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "pair": "BCH:USD",
@@ -49308,7 +49443,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YH022",
         "marginLevels": [
             {
@@ -49322,34 +49457,29 @@
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 2000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
                 "contracts": 5000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 8000000,
-                "initialMargin": 0.25,
-                "maintenanceMargin": 0.125
-            },
-            {
-                "contracts": 15000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
             },
             {
                 "contracts": 30000000,
-                "initialMargin": 0.4,
-                "maintenanceMargin": 0.2
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -49366,34 +49496,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
                         "contracts": 5000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 8000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49417,34 +49542,29 @@
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
                         "contracts": 5000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 8000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 15000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
                         "contracts": 30000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49456,7 +49576,7 @@
                 ]
             }
         },
-        "maxPositionSize": 45000000.0,
+        "maxPositionSize": 45000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "pair": "ETH:USD",
@@ -49483,33 +49603,38 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YHF72",
         "marginLevels": [
             {
                 "contracts": 0,
-                "initialMargin": 0.02,
-                "maintenanceMargin": 0.01
-            },
-            {
-                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 500000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 2000000,
+                "contracts": 500000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 4000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 1000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 2500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -49517,28 +49642,33 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49553,28 +49683,33 @@
                 "professional": [
                     {
                         "contracts": 0,
-                        "initialMargin": 0.02,
-                        "maintenanceMargin": 0.01
-                    },
-                    {
-                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 500000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 2000000,
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 4000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 1000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49586,7 +49721,7 @@
                 ]
             }
         },
-        "maxPositionSize": 6000000.0,
+        "maxPositionSize": 6000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "pair": "LTC:USD",
@@ -49613,7 +49748,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YGL67",
         "marginLevels": [
             {
@@ -49622,39 +49757,34 @@
                 "maintenanceMargin": 0.01
             },
             {
-                "contracts": 500000,
+                "contracts": 250000,
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02
             },
             {
-                "contracts": 1000000,
-                "initialMargin": 0.06,
-                "maintenanceMargin": 0.03
+                "contracts": 750000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
             },
             {
-                "contracts": 3000000,
+                "contracts": 1000000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
             {
-                "contracts": 6000000,
-                "initialMargin": 0.15,
-                "maintenanceMargin": 0.075
+                "contracts": 5000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
             },
             {
-                "contracts": 12000000,
-                "initialMargin": 0.25,
-                "maintenanceMargin": 0.125
-            },
-            {
-                "contracts": 20000000,
+                "contracts": 10000000,
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15
             },
             {
-                "contracts": 50000000,
-                "initialMargin": 0.4,
-                "maintenanceMargin": 0.2
+                "contracts": 30000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -49666,39 +49796,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 12000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 20000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
-                        "contracts": 50000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49717,39 +49842,34 @@
                         "maintenanceMargin": 0.01
                     },
                     {
-                        "contracts": 500000,
+                        "contracts": 250000,
                         "initialMargin": 0.04,
                         "maintenanceMargin": 0.02
                     },
                     {
-                        "contracts": 1000000,
-                        "initialMargin": 0.06,
-                        "maintenanceMargin": 0.03
+                        "contracts": 750000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
                     },
                     {
-                        "contracts": 3000000,
+                        "contracts": 1000000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
                     {
-                        "contracts": 6000000,
-                        "initialMargin": 0.15,
-                        "maintenanceMargin": 0.075
+                        "contracts": 5000000,
+                        "initialMargin": 0.2,
+                        "maintenanceMargin": 0.1
                     },
                     {
-                        "contracts": 12000000,
-                        "initialMargin": 0.25,
-                        "maintenanceMargin": 0.125
-                    },
-                    {
-                        "contracts": 20000000,
+                        "contracts": 10000000,
                         "initialMargin": 0.3,
                         "maintenanceMargin": 0.15
                     },
                     {
-                        "contracts": 50000000,
-                        "initialMargin": 0.4,
-                        "maintenanceMargin": 0.2
+                        "contracts": 30000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49761,7 +49881,7 @@
                 ]
             }
         },
-        "maxPositionSize": 75000000.0,
+        "maxPositionSize": 75000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "pair": "BTC:USD",
@@ -49788,11 +49908,21 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1000,
         "isin": "GB00J62YHV31",
         "marginLevels": [
             {
                 "contracts": 0,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 500000,
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05
             },
@@ -49800,6 +49930,16 @@
                 "contracts": 1000000,
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 2500000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
             }
         ],
         "marginSchedules": {
@@ -49807,6 +49947,16 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
@@ -49814,6 +49964,16 @@
                         "contracts": 1000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49828,6 +49988,16 @@
                 "professional": [
                     {
                         "contracts": 0,
+                        "initialMargin": 0.04,
+                        "maintenanceMargin": 0.02
+                    },
+                    {
+                        "contracts": 250000,
+                        "initialMargin": 0.05,
+                        "maintenanceMargin": 0.025
+                    },
+                    {
+                        "contracts": 500000,
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05
                     },
@@ -49835,6 +50005,16 @@
                         "contracts": 1000000,
                         "initialMargin": 0.2,
                         "maintenanceMargin": 0.1
+                    },
+                    {
+                        "contracts": 2500000,
+                        "initialMargin": 0.3,
+                        "maintenanceMargin": 0.15
+                    },
+                    {
+                        "contracts": 5000000,
+                        "initialMargin": 0.5,
+                        "maintenanceMargin": 0.25
                     }
                 ],
                 "retail": [
@@ -49846,7 +50026,7 @@
                 ]
             }
         },
-        "maxPositionSize": 3000000.0,
+        "maxPositionSize": 3000000,
         "maxRelativeFundingRate": 0.0025,
         "openingDate": "2018-08-31T00:00:00.000Z",
         "pair": "XRP:USD",
