@@ -6045,7 +6045,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -15459,13 +15459,13 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 2,
         "base": "EOS5L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "EOS5L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
         "precision": 8,
         "quote": "USDT",
@@ -29996,20 +29996,6 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1597636800,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "MOFI",
-        "buy_start": 1618322400,
-        "fee": "0.2",
-        "id": "MOFI_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
         "trade_status": "tradable"
     },
     {
