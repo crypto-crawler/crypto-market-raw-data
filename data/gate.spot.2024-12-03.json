@@ -6538,6 +6538,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "BITBOARD",
+        "buy_start": 1733562000,
+        "fee": "0.2",
+        "id": "BITBOARD_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "BITCAT",
         "buy_start": 1732281300,
@@ -20024,7 +20038,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -21327,6 +21341,20 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "HEU",
+        "buy_start": 1733716800,
+        "fee": "0.2",
+        "id": "HEU_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 0,
@@ -27927,6 +27955,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "MANA3",
+        "buy_start": 1733997600,
+        "fee": "0.2",
+        "id": "MANA3_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "MANA",
         "buy_start": 1512518400,
@@ -31732,7 +31774,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
