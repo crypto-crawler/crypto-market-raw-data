@@ -1159,7 +1159,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -12712,7 +12712,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1598952900,
-        "trade_status": "untradable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -14770,7 +14770,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -30448,6 +30448,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "MOVE",
+        "buy_start": 1733745600,
+        "fee": "0.2",
+        "id": "MOVE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "MOVR",
         "buy_start": 1630054860,
         "fee": "0.2",
@@ -31995,7 +32009,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -48077,6 +48091,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "U2U",
+        "buy_start": 1733824800,
+        "fee": "0.2",
+        "id": "U2U_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "UBXS",
         "buy_start": 1647684000,
         "fee": "0.2",
@@ -52070,16 +52098,16 @@
     {
         "amount_precision": 2,
         "base": "XION",
-        "buy_start": 1731574800,
+        "buy_start": 1733392800,
         "fee": "0.2",
         "id": "XION_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "untradable"
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
