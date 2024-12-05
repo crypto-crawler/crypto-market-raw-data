@@ -4130,34 +4130,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
-        "base": "ATP",
-        "buy_start": 1540440000,
-        "fee": "0.2",
-        "id": "ATP_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "1",
-        "min_quote_amount": "0.001",
-        "precision": 11,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "ATP",
-        "buy_start": 1540440000,
-        "fee": "0.2",
-        "id": "ATP_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 2,
         "base": "ATRS",
         "buy_start": 1720605600,
@@ -7782,20 +7754,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "BREED",
-        "buy_start": 1711108800,
-        "fee": "0.2",
-        "id": "BREED_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -12041,6 +11999,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CYBRO",
+        "buy_start": 1734166800,
+        "fee": "0.2",
+        "id": "CYBRO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -31357,48 +31329,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
-        "base": "NAS",
-        "buy_start": 1513555200,
-        "fee": "0.2",
-        "id": "NAS_BTC",
-        "max_quote_amount": "100",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.00001",
-        "precision": 10,
-        "quote": "BTC",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "NAS",
-        "buy_start": 1513555200,
-        "fee": "0.2",
-        "id": "NAS_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "NAS",
-        "buy_start": 1513555200,
-        "fee": "0.2",
-        "id": "NAS_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 0,
         "base": "NATIX",
         "buy_start": 1719914400,
@@ -31439,34 +31369,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "NAX",
-        "buy_start": 1590033600,
-        "fee": "0.2",
-        "id": "NAX_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "0.001",
-        "precision": 11,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "NAX",
-        "buy_start": 1590033600,
-        "fee": "0.2",
-        "id": "NAX_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 8,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -42028,6 +41930,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "SHIRO",
+        "buy_start": 1733572800,
+        "fee": "0.2",
+        "id": "SHIRO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 10,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "SHI",
         "buy_start": 1632456000,
@@ -42291,6 +42207,20 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1608782400,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "SKI",
+        "buy_start": 1733385600,
+        "fee": "0.2",
+        "id": "SKI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
         "trade_status": "tradable"
     },
     {
@@ -45081,6 +45011,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "SUIAI",
+        "buy_start": 1733475600,
+        "fee": "0.2",
+        "id": "SUIAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "SUIA",
         "buy_start": 1684224000,
         "fee": "0.2",
@@ -45427,20 +45371,6 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1597379400,
-        "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 0,
-        "base": "SUTER",
-        "buy_start": 1597214100,
-        "fee": "0.2",
-        "id": "SUTER_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "sell_start": 1597214100,
         "trade_status": "tradable"
     },
     {
@@ -51494,20 +51424,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "WSM",
-        "buy_start": 1696413600,
-        "fee": "0.2",
-        "id": "WSM_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 0,
         "base": "WUF",
         "buy_start": 1713438000,
@@ -51828,34 +51744,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "XCUR",
-        "buy_start": 1617332400,
-        "fee": "0.2",
-        "id": "XCUR_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "XCUR",
-        "buy_start": 1617332400,
-        "fee": "0.2",
-        "id": "XCUR_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
