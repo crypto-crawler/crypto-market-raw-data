@@ -2473,5 +2473,49 @@
         "name": "WOO/EUR",
         "trading": "Enabled",
         "url_symbol": "wooeur"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "SEI / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "SEI/USD",
+        "trading": "Disabled",
+        "url_symbol": "seiusd"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "SEI / Euro",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 EUR",
+        "name": "SEI/EUR",
+        "trading": "Disabled",
+        "url_symbol": "seieur"
+    },
+    {
+        "base_decimals": 3,
+        "counter_decimals": 4,
+        "description": "Optimism / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "OP/USD",
+        "trading": "Disabled",
+        "url_symbol": "opusd"
+    },
+    {
+        "base_decimals": 3,
+        "counter_decimals": 4,
+        "description": "Optimism / Euro",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 EUR",
+        "name": "OP/EUR",
+        "trading": "Disabled",
+        "url_symbol": "opeur"
     }
 ]
