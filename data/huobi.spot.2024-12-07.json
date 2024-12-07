@@ -626,6 +626,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "acx",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.01,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
+        "min-order-amt": 0.01,
+        "min-order-value": 10,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.01,
+        "state": "online",
+        "symbol": "acxusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "ada",
@@ -25945,6 +25965,26 @@
     {
         "amount-precision": 4,
         "api-trading": "enabled",
+        "base-currency": "ray",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.001,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
+        "min-order-amt": 0.001,
+        "min-order-value": 10,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.001,
+        "state": "pre-online",
+        "symbol": "rayusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
         "base-currency": "rbtc",
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 0.0001,
@@ -34344,7 +34384,7 @@
         "state": "online",
         "symbol": "woofusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
