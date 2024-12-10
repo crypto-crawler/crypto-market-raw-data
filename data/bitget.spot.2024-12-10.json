@@ -1963,6 +1963,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "KOMA",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "KOMA_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "MOZ",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -1975,7 +1984,7 @@
         "base_currency": "ME",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "ME_USDT",
         "tick_size": "4"
     },
@@ -3865,7 +3874,7 @@
         "base_currency": "APPA",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "APPA_USDT",
         "tick_size": "6"
     },
