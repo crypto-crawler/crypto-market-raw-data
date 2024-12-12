@@ -18838,15 +18838,17 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1731380400000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "GIGA_USDT\u6c38\u7eed",
         "displayNameEn": "GIGA_USDT PERPETUAL",
         "futureType": 1,
         "id": 766,
         "indexOrigin": [
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -18871,9 +18873,9 @@
         "openingCountdownOption": 1,
         "openingTime": 1731381420820,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceCoefficientVariation": 0.2,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 5600,

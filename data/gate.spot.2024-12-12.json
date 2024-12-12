@@ -221,7 +221,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -16187,6 +16187,20 @@
         "trade_status": "untradable"
     },
     {
+        "amount_precision": 1,
+        "base": "ETHERPARTY",
+        "buy_start": 1734069600,
+        "fee": "0.2",
+        "id": "ETHERPARTY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 4,
         "base": "ETHFI",
         "buy_start": 1710763200,
@@ -18501,29 +18515,29 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 3,
         "base": "FUEL",
         "buy_start": 1514851200,
         "fee": "0.2",
         "id": "FUEL_ETH",
         "max_quote_amount": "1000",
-        "min_base_amount": "0.01",
+        "min_base_amount": "0.001",
         "min_quote_amount": "0.001",
-        "precision": 9,
+        "precision": 6,
         "quote": "ETH",
         "sell_start": 0,
         "trade_status": "untradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 3,
         "base": "FUEL",
         "buy_start": 1514851200,
         "fee": "0.2",
         "id": "FUEL_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.001",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "untradable"
@@ -28134,7 +28148,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -30430,7 +30444,7 @@
         "precision": 9,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -38270,7 +38284,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
