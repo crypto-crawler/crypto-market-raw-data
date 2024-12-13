@@ -1229,7 +1229,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -6017,7 +6017,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -12460,7 +12460,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -12474,7 +12474,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -15302,7 +15302,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -34983,6 +34983,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "OVER",
+        "buy_start": 1734343200,
+        "fee": "0.2",
+        "id": "OVER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 1,
         "base": "OVO",
         "buy_start": 1679576400,
@@ -39730,6 +39744,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "REX",
+        "buy_start": 1734521400,
+        "fee": "0.2",
+        "id": "REX_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -53745,7 +53773,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -53759,7 +53787,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -53857,7 +53885,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1602648000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -53871,7 +53899,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1602648000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
