@@ -19047,6 +19047,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "GAMESTOP",
+        "buy_start": 1734346800,
+        "fee": "0.2",
+        "id": "GAMESTOP_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 2,
         "base": "GAMES",
         "buy_start": 1714377600,
@@ -45777,6 +45791,20 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "SWAN",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "SWAN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
         "trade_status": "tradable"
     },
     {

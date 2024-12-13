@@ -80,7 +80,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "1GUY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -454,7 +454,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ABEY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -2800,7 +2800,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ARGY_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -3242,23 +3242,6 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ASTROS_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Astroport Classic",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "ASTRO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -4806,7 +4789,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BBC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -5894,7 +5877,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BL00P_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -6523,7 +6506,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "BOMEXAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -7322,7 +7305,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BTORO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -9379,7 +9362,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "CLGO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -9532,7 +9515,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "CMPS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -10949,6 +10932,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "CYBRO",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "CYBRO_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "CyPepe",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -11113,7 +11113,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DARKANGELAI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -11198,7 +11198,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DAVINCI_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -11470,7 +11470,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DEDA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -12020,23 +12020,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Divap",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 27,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "DID_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Digiverse",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -12320,7 +12303,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DOE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -12422,7 +12405,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DOGEETH_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -13068,7 +13051,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DRINK_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -15040,7 +15023,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FAND_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -15159,7 +15142,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FAVE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -15363,7 +15346,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "FIGHTMAGA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -16542,6 +16525,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "iRocket",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "FT_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Fud the Pug",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -16553,23 +16553,6 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "FUD_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "iRocket",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 3,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "FUEL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -18049,23 +18032,6 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "GOGLZ_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "SUPER GOKU",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 21,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "GOKU_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -19579,7 +19545,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HGEN_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -20021,7 +19987,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HOMS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -20990,7 +20956,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "INFI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -22333,7 +22299,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KAI1_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -23098,7 +23064,7 @@
         "quantity_scale": 3,
         "state": "1",
         "symbol": "KISHKA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -23319,7 +23285,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KNI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -23897,7 +23863,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LAIKACTO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -24356,7 +24322,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LEFEEF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -25291,7 +25257,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "LOVESNOOPY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -25750,7 +25716,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LUNARLENS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -26311,7 +26277,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MAO_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -27212,7 +27178,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MEMEPEPE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -27977,7 +27943,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MITX_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -28640,7 +28606,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MONI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -28793,7 +28759,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MORPHA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -29439,7 +29405,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "MVT_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -29949,7 +29915,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NCTR_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -30102,7 +30068,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NEIROS_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -30788,6 +30754,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "NIRVANA",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "NIRVANA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Niza Global",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -31054,7 +31037,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NOTDOG_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -33202,23 +33185,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "PANDA FINANCE",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 22,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "PANDA1_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "PandaDAO",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -34573,7 +34539,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PLT_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -35151,7 +35117,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "POUPE_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -35610,7 +35576,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PUMLX_USDT",
-        "symbol_partition": "USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -36630,7 +36596,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "REBD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -38047,23 +38013,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Ryno AI",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "RYNO_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "RYO Token",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -39220,23 +39169,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Sun Fox Exchange",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 23,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "SFC_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "SongbirdFinanceToken",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -39860,7 +39792,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "SIMPSONTRUMP_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -40217,7 +40149,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SLOF_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -42852,7 +42784,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SVM_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -43311,7 +43243,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TAD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -44229,7 +44161,7 @@
         "quantity_scale": 2,
         "state": "2",
         "symbol": "TKD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 4
     },
@@ -44501,7 +44433,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "TOKU_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -45198,7 +45130,7 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "TRUMPSHIBA_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -46116,7 +46048,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "UNILAPSE_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -46405,7 +46337,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "UQC_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -46660,23 +46592,6 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "VAI_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "NIRVANA",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 8,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "VANA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -47202,11 +47117,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "VOID_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -47221,7 +47136,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "VOI_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -48258,7 +48173,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "WHALETRX_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -48275,23 +48190,6 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "WHY_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "WIFCEO",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 25,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "WIFCEO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -48802,23 +48700,6 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "WQUIL_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "WhimsyRat",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 24,
-        "quantity_scale": 3,
-        "state": "1",
-        "symbol": "WRAT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
@@ -50995,7 +50876,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ZCD_USDT",
-        "symbol_partition": "NEW",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
@@ -51642,23 +51523,6 @@
         "state": "1",
         "symbol": "ZRX_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Zest Finance",
-        "limited": false,
-        "maker_fee_rate": "0.0005",
-        "max_amount": "2000000.000000000000000000000000000000",
-        "max_amount_market": "100000.000000000000000000000000000000",
-        "min_amount": "1.000000000000000000000000000000",
-        "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 22,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "ZST_USDT",
-        "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
