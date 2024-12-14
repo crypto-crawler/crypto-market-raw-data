@@ -12124,7 +12124,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -30210,6 +30210,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "MNRY",
+        "buy_start": 1734523200,
+        "fee": "0.2",
+        "id": "MNRY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "MNT",
         "buy_start": 1690790400,
         "fee": "0.2",
@@ -41311,7 +41325,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
