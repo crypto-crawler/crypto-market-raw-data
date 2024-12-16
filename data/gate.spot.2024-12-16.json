@@ -4606,15 +4606,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "AXS5L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "AXS5L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -5244,7 +5244,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -5846,7 +5846,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -11533,7 +11533,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -13723,15 +13723,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
         "base": "DOGE5L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "DOGE5L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "0.0001",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 2,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -14151,7 +14151,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -15509,7 +15509,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -15719,7 +15719,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 8,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -15733,7 +15733,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -16195,7 +16195,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -18949,15 +18949,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "GALA5S",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "GALA5S_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -19086,7 +19086,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -21841,7 +21841,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -22429,7 +22429,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -26076,6 +26076,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "LCAT",
+        "buy_start": 1734526800,
+        "fee": "0.2",
+        "id": "LCAT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "LCI",
         "buy_start": 1726052400,
         "fee": "0.2",
@@ -27665,7 +27679,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -33765,15 +33779,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "OL",
         "buy_start": 1732021200,
         "fee": "0.2",
         "id": "OL_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -35078,7 +35092,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -42266,15 +42280,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "SHIB5S",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "SHIB5S_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 8,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -42854,15 +42868,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "SLF",
         "buy_start": 1725429600,
         "fee": "0.2",
         "id": "SLF_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
@@ -43666,15 +43680,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
+        "amount_precision": 4,
         "base": "SOL3L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "SOL3L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
+        "min_base_amount": "0.0001",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 2,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -48888,15 +48902,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "UNI5L",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "UNI5L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -49452,7 +49466,7 @@
     {
         "amount_precision": 2,
         "base": "VANA",
-        "buy_start": 1734343200,
+        "buy_start": 1734348600,
         "fee": "0.2",
         "id": "VANA_USDT",
         "max_quote_amount": "5000000",
@@ -49461,7 +49475,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 4,
@@ -50536,7 +50550,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -52482,7 +52496,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -52972,21 +52986,21 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 8,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 1,
+        "amount_precision": 2,
         "base": "XRP5S",
         "buy_start": 1582704000,
         "fee": "0.2",
         "id": "XRP5S_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1582704000,
         "trade_status": "tradable"
@@ -53146,15 +53160,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 2,
         "base": "XTZ3L",
         "buy_start": 1583128800,
         "fee": "0.2",
         "id": "XTZ3L_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1583128800,
         "trade_status": "tradable"
