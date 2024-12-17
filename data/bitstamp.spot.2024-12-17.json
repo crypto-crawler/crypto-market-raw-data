@@ -2189,6 +2189,28 @@
         "url_symbol": "xdceur"
     },
     {
+        "base_decimals": 1,
+        "counter_decimals": 5,
+        "description": "Coreum / U.S. dollar",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 5,
+        "minimum_order": "10.00000 USD",
+        "name": "COREUM/USD",
+        "trading": "Enabled",
+        "url_symbol": "coreumusd"
+    },
+    {
+        "base_decimals": 1,
+        "counter_decimals": 5,
+        "description": "Coreum / Euro",
+        "instant_and_market_orders": "Disabled",
+        "instant_order_counter_decimals": 5,
+        "minimum_order": "10.00000 EUR",
+        "name": "COREUM/EUR",
+        "trading": "Enabled",
+        "url_symbol": "coreumeur"
+    },
+    {
         "base_decimals": 0,
         "counter_decimals": 8,
         "description": "FLOKI / U.S. dollar",
@@ -2321,6 +2343,28 @@
         "url_symbol": "weneur"
     },
     {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "Arbitrum / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "ARB/USD",
+        "trading": "Enabled",
+        "url_symbol": "arbusd"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "Arbitrum / Euro",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 EUR",
+        "name": "ARB/EUR",
+        "trading": "Enabled",
+        "url_symbol": "arbeur"
+    },
+    {
         "base_decimals": 5,
         "counter_decimals": 2,
         "description": "StraitsX Singapore Dollar / U.S. dollar",
@@ -2363,5 +2407,93 @@
         "name": "ZETA/EUR",
         "trading": "Enabled",
         "url_symbol": "zetaeur"
+    },
+    {
+        "base_decimals": 0,
+        "counter_decimals": 8,
+        "description": "cat in a dogs world / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 8,
+        "minimum_order": "10.00000000 USD",
+        "name": "MEW/USD",
+        "trading": "Enabled",
+        "url_symbol": "mewusd"
+    },
+    {
+        "base_decimals": 0,
+        "counter_decimals": 8,
+        "description": "cat in a dogs world / Euro",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 8,
+        "minimum_order": "10.00000000 EUR",
+        "name": "MEW/EUR",
+        "trading": "Enabled",
+        "url_symbol": "meweur"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 5,
+        "description": "WOO / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 5,
+        "minimum_order": "10.00000 USD",
+        "name": "WOO/USD",
+        "trading": "Enabled",
+        "url_symbol": "woousd"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 5,
+        "description": "WOO / Euro",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 5,
+        "minimum_order": "10.00000 EUR",
+        "name": "WOO/EUR",
+        "trading": "Enabled",
+        "url_symbol": "wooeur"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "SEI / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "SEI/USD",
+        "trading": "Enabled",
+        "url_symbol": "seiusd"
+    },
+    {
+        "base_decimals": 2,
+        "counter_decimals": 4,
+        "description": "SEI / Euro",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 EUR",
+        "name": "SEI/EUR",
+        "trading": "Enabled",
+        "url_symbol": "seieur"
+    },
+    {
+        "base_decimals": 3,
+        "counter_decimals": 4,
+        "description": "Optimism / U.S. dollar",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 USD",
+        "name": "OP/USD",
+        "trading": "Enabled",
+        "url_symbol": "opusd"
+    },
+    {
+        "base_decimals": 3,
+        "counter_decimals": 4,
+        "description": "Optimism / Euro",
+        "instant_and_market_orders": "Enabled",
+        "instant_order_counter_decimals": 4,
+        "minimum_order": "10.0000 EUR",
+        "name": "OP/EUR",
+        "trading": "Enabled",
+        "url_symbol": "opeur"
     }
 ]

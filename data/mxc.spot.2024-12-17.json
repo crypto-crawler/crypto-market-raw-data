@@ -9581,11 +9581,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "CNDY_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -15871,11 +15871,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "FLT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -24573,7 +24573,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LESTER_USDT",
@@ -31009,6 +31009,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "NetMind",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "NMT_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Nodle",
         "limited": false,
         "maker_fee_rate": "0.0005",
@@ -32104,13 +32121,13 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "OLA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -34129,11 +34146,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PEPU_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41228,7 +41245,7 @@
         "etf_mark": 0,
         "fullName": "SOON",
         "limited": false,
-        "maker_fee_rate": "0.002",
+        "maker_fee_rate": "0.0005",
         "max_amount": "2000000.000000000000000000000000000000",
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
@@ -41238,7 +41255,7 @@
         "state": "2",
         "symbol": "SOON_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.002",
+        "taker_fee_rate": "0.0005",
         "tradeSideType": 4
     },
     {
@@ -42510,11 +42527,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "STREAM_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
