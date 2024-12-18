@@ -5065,7 +5065,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -10416,7 +10416,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -17844,6 +17844,20 @@
     },
     {
         "amount_precision": 1,
+        "base": "FOMO",
+        "buy_start": 1734696000,
+        "fee": "0.2",
+        "id": "FOMO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 1,
         "base": "FORA",
         "buy_start": 1706594400,
         "fee": "0.2",
@@ -18583,34 +18597,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "FUEL",
-        "buy_start": 1514851200,
-        "fee": "0.2",
-        "id": "FUEL_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 6,
-        "quote": "ETH",
-        "sell_start": 0,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 3,
-        "base": "FUEL",
-        "buy_start": 1514851200,
-        "fee": "0.2",
-        "id": "FUEL_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 2,
@@ -19898,7 +19884,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -22013,6 +21999,20 @@
         "quote": "USDT",
         "sell_start": 1608782400,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "HOLDSTATION",
+        "buy_start": 1734778800,
+        "fee": "0.2",
+        "id": "HOLDSTATION_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 1,
@@ -30332,7 +30332,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -32293,6 +32293,20 @@
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "NEXD",
+        "buy_start": 1734861600,
+        "fee": "0.2",
+        "id": "NEXD_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
@@ -39967,7 +39981,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -49489,7 +49503,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
