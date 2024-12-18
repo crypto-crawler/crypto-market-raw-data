@@ -2061,13 +2061,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "HYPE",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "HYPE_USDT",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "2",
@@ -2122,6 +2122,15 @@
         "status": "online",
         "symbol": "ALGO_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "FUEL",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "FUEL_USDT",
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
