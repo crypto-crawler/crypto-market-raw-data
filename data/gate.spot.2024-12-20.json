@@ -8957,7 +8957,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -11043,7 +11043,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 2,
+        "precision": 3,
         "quote": "USDT",
         "sell_start": 1598934600,
         "trade_status": "tradable"
@@ -11113,7 +11113,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -13997,7 +13997,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -16608,7 +16608,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -17854,7 +17854,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -19747,34 +19747,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "GLMR3L",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "GLMR3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "GLMR3S",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "GLMR3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "GLMR",
         "buy_start": 1641904200,
@@ -19999,34 +19971,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "GMT3L",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "GMT3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "GMT3S",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "GMT3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 4,
         "base": "GMT",
         "buy_start": 1646917200,
@@ -20133,7 +20077,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 3,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -25369,7 +25313,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -25428,7 +25372,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 3,
@@ -25513,34 +25457,6 @@
         "quote": "USDT",
         "sell_start": 0,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "KSM3L",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "KSM3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "KSM3S",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "KSM3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -26391,7 +26307,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 7,
         "quote": "USDT",
         "sell_start": 1603130400,
         "trade_status": "tradable"
@@ -29657,7 +29573,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -30067,34 +29983,6 @@
         "quote": "USDT",
         "sell_start": 1560227700,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "MKR3L",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "MKR3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "MKR3S",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "MKR3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 6,
@@ -30861,7 +30749,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -34157,34 +34045,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "ONE3L",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "ONE3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "ONE3S",
-        "buy_start": 1582704000,
-        "fee": "0.2",
-        "id": "ONE3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1582704000,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 1,
         "base": "ONE",
         "buy_start": 1566275700,
@@ -35453,7 +35313,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 3,
+        "precision": 4,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -36646,7 +36506,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -41336,7 +41196,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 10,
+        "precision": 11,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -42988,7 +42848,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -43898,7 +43758,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
         "trade_status": "tradable"
@@ -44794,7 +44654,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -47611,7 +47471,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 2,
@@ -47622,7 +47482,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -47762,7 +47622,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "1",
         "min_quote_amount": "3",
-        "precision": 7,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
@@ -50948,34 +50808,6 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 2,
-        "base": "WAVES3L",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "WAVES3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "WAVES3S",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "WAVES3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
-    },
-    {
         "amount_precision": 3,
         "base": "WAVES",
         "buy_start": 1513728000,
@@ -52835,7 +52667,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 1,
@@ -52849,7 +52681,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1603252800,
-        "trade_status": "tradable"
+        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
@@ -53399,6 +53231,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "XT",
+        "buy_start": 1735117200,
+        "fee": "0.2",
+        "id": "XT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 3,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "XVG",
         "buy_start": 1525406400,
         "fee": "0.2",
@@ -53676,34 +53522,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
-    },
-    {
-        "amount_precision": 2,
-        "base": "YFI3L",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "YFI3L_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
-    },
-    {
-        "amount_precision": 1,
-        "base": "YFI3S",
-        "buy_start": 1603252800,
-        "fee": "0.2",
-        "id": "YFI3S_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1603252800,
-        "trade_status": "untradable"
     },
     {
         "amount_precision": 3,
