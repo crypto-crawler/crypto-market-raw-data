@@ -21385,6 +21385,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 4,
+        "base": "HFUN",
+        "buy_start": 1735020000,
+        "fee": "0.2",
+        "id": "HFUN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "3",
+        "precision": 2,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "HGET",
         "buy_start": 1617069600,
@@ -37839,6 +37853,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 2,
+        "base": "PURR",
+        "buy_start": 1735009200,
+        "fee": "0.2",
+        "id": "PURR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 3,
         "base": "PUSH",
         "buy_start": 1630317600,
@@ -51648,15 +51676,15 @@
         "trade_status": "tradable"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 4,
         "base": "W",
         "buy_start": 1712145600,
         "fee": "0.2",
         "id": "W_TRY",
         "max_quote_amount": "30000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "0.0001",
         "min_quote_amount": "30",
-        "precision": 4,
+        "precision": 2,
         "quote": "TRY",
         "sell_start": 1596702900,
         "trade_status": "tradable"
