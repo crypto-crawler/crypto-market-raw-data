@@ -11133,6 +11133,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 3,
+        "base": "CTSI",
+        "buy_start": 1595392500,
+        "fee": "0.2",
+        "id": "CTSI_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1595392500,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "CTSI",
         "buy_start": 1595392500,
@@ -11269,6 +11283,20 @@
         "min_quote_amount": "0.001",
         "precision": 7,
         "quote": "ETH",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "CVC",
+        "buy_start": 1508716800,
+        "fee": "0.2",
+        "id": "CVC_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
         "sell_start": 0,
         "trade_status": "tradable"
     },
@@ -27871,6 +27899,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 5,
+        "base": "METIS",
+        "buy_start": 1620910800,
+        "fee": "0.2",
+        "id": "METIS_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.00001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
         "amount_precision": 2,
         "base": "METIS",
         "buy_start": 1620910800,
@@ -37097,6 +37139,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "RBNT",
+        "buy_start": 1735462800,
+        "fee": "0.2",
+        "id": "RBNT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 2,
