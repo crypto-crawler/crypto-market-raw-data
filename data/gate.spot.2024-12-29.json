@@ -29664,6 +29664,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "MTOS",
+        "buy_start": 1736172000,
+        "fee": "0.2",
+        "id": "MTOS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "MTRG",
         "buy_start": 1594960500,
         "fee": "0.2",
@@ -31957,6 +31971,20 @@
         "quote": "USDT",
         "sell_start": 1609434000,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "OGC",
+        "buy_start": 1735560000,
+        "fee": "0.2",
+        "id": "OGC_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,
