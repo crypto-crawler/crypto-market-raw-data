@@ -15497,11 +15497,11 @@
         "min_amount_market": "1.000000000000000000000000000000",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "1",
+        "state": "2",
         "symbol": "FEG_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.0005",
-        "tradeSideType": 1
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -24811,7 +24811,7 @@
         "max_amount_market": "100000.000000000000000000000000000000",
         "min_amount": "1.000000000000000000000000000000",
         "min_amount_market": "1.000000000000000000000000000000",
-        "price_scale": 16,
+        "price_scale": 18,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LEOT_USDT",
@@ -40745,6 +40745,23 @@
         "state": "1",
         "symbol": "SLIM_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.0005",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Slinky",
+        "limited": false,
+        "maker_fee_rate": "0.0005",
+        "max_amount": "2000000.000000000000000000000000000000",
+        "max_amount_market": "100000.000000000000000000000000000000",
+        "min_amount": "1.000000000000000000000000000000",
+        "min_amount_market": "1.000000000000000000000000000000",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "SLINKY_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.0005",
         "tradeSideType": 1
     },
