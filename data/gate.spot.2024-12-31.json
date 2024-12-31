@@ -5646,6 +5646,20 @@
         "base": "BEAM",
         "buy_start": 1549080000,
         "fee": "0.2",
+        "id": "BEAM_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 0,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BEAM",
+        "buy_start": 1549080000,
+        "fee": "0.2",
         "id": "BEAM_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
@@ -6280,7 +6294,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 6,
+        "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -8455,6 +8469,20 @@
         "min_quote_amount": "3",
         "precision": 4,
         "quote": "USDT",
+        "sell_start": 1607313600,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "C98",
+        "buy_start": 1627043400,
+        "fee": "0.2",
+        "id": "C98_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
         "sell_start": 1607313600,
         "trade_status": "tradable"
     },
@@ -10961,6 +10989,20 @@
         "min_quote_amount": "0.001",
         "precision": 8,
         "quote": "ETH",
+        "sell_start": 1609866000,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CSPR",
+        "buy_start": 1620730800,
+        "fee": "0.2",
+        "id": "CSPR_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 4,
+        "quote": "TRY",
         "sell_start": 1609866000,
         "trade_status": "tradable"
     },
@@ -51448,6 +51490,20 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
+        "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 3,
+        "base": "ZETA",
+        "buy_start": 1706756400,
+        "fee": "0.2",
+        "id": "ZETA_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1607313600,
         "trade_status": "tradable"
     },
     {
