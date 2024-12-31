@@ -1205,6 +1205,20 @@
     },
     {
         "amount_precision": 2,
+        "base": "AICELL",
+        "buy_start": 1735970400,
+        "fee": "0.2",
+        "id": "AICELL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable"
+    },
+    {
+        "amount_precision": 2,
         "base": "AICODE",
         "buy_start": 1683086400,
         "fee": "0.2",
@@ -5678,7 +5692,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 8,
+        "precision": 9,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable"
@@ -7459,7 +7473,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 1,
@@ -16720,7 +16734,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable"
+        "trade_status": "tradable"
     },
     {
         "amount_precision": 0,
@@ -36439,6 +36453,20 @@
         "trade_status": "tradable"
     },
     {
+        "amount_precision": 1,
+        "base": "PUMPAI",
+        "buy_start": 1735912800,
+        "fee": "0.2",
+        "id": "PUMPAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
+    },
+    {
         "amount_precision": 0,
         "base": "PUMP",
         "buy_start": 1711450800,
@@ -36549,6 +36577,20 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PVP",
+        "buy_start": 1736330400,
+        "fee": "0.2",
+        "id": "PVP_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable"
     },
     {
         "amount_precision": 3,

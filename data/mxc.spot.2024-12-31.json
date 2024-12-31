@@ -343,7 +343,7 @@
         "etf_mark": 0,
         "fullName": "AaveToken",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -353,7 +353,7 @@
         "state": "1",
         "symbol": "AAVE_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -768,7 +768,7 @@
         "etf_mark": 0,
         "fullName": "Cardano",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -778,7 +778,7 @@
         "state": "1",
         "symbol": "ADA_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -1873,7 +1873,7 @@
         "etf_mark": 0,
         "fullName": "Algorand",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -1883,7 +1883,7 @@
         "state": "1",
         "symbol": "ALGO_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -2638,7 +2638,7 @@
         "etf_mark": 0,
         "fullName": "ApeCoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -2648,7 +2648,7 @@
         "state": "1",
         "symbol": "APE_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -3556,7 +3556,7 @@
         "etf_mark": 0,
         "fullName": "COSMOS",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -3566,7 +3566,7 @@
         "state": "1",
         "symbol": "ATOM_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -3845,7 +3845,7 @@
         "etf_mark": 0,
         "fullName": "Avalanche",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -3855,7 +3855,7 @@
         "state": "1",
         "symbol": "AVAX_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -4151,7 +4151,7 @@
         "etf_mark": 0,
         "fullName": "Aleph Zero",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -4161,7 +4161,7 @@
         "state": "1",
         "symbol": "AZERO_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -4304,7 +4304,7 @@
         "etf_mark": 0,
         "fullName": "BabyDogeCoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -4314,7 +4314,7 @@
         "state": "1",
         "symbol": "BABYDOGE_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -5154,7 +5154,7 @@
         "etf_mark": 0,
         "fullName": "Bitcoin Cash Node",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -5164,7 +5164,7 @@
         "state": "1",
         "symbol": "BCH_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -5975,7 +5975,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BITBOARD_USDT",
@@ -6531,7 +6531,7 @@
         "etf_mark": 0,
         "fullName": "Binance Coin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -6541,7 +6541,7 @@
         "state": "1",
         "symbol": "BNB_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -7432,7 +7432,7 @@
         "etf_mark": 0,
         "fullName": "Bitcoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -7442,7 +7442,7 @@
         "state": "1",
         "symbol": "BTC_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -7534,7 +7534,7 @@
         "etf_mark": 0,
         "fullName": "BitTorrent",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -7544,7 +7544,7 @@
         "state": "1",
         "symbol": "BTT_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -8469,7 +8469,7 @@
         "etf_mark": 0,
         "fullName": "A Hunters Dream",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -8479,7 +8479,7 @@
         "state": "1",
         "symbol": "CAW_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -8843,7 +8843,7 @@
         "etf_mark": 0,
         "fullName": "Celsius",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -8853,7 +8853,7 @@
         "state": "1",
         "symbol": "CEL_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -8996,7 +8996,7 @@
         "etf_mark": 0,
         "fullName": "ChainGPT",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -9006,7 +9006,7 @@
         "state": "1",
         "symbol": "CGPT_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -12753,7 +12753,7 @@
         "etf_mark": 0,
         "fullName": "DOGE",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -12763,7 +12763,7 @@
         "state": "1",
         "symbol": "DOGE_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -14436,7 +14436,7 @@
         "etf_mark": 0,
         "fullName": "ENS",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -14446,7 +14446,7 @@
         "state": "1",
         "symbol": "ENS_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -14504,7 +14504,7 @@
         "etf_mark": 0,
         "fullName": "EOS",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -14514,7 +14514,7 @@
         "state": "1",
         "symbol": "EOS_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -14844,7 +14844,7 @@
         "etf_mark": 0,
         "fullName": "Ethereum",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -14854,7 +14854,7 @@
         "state": "1",
         "symbol": "ETH_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -14912,7 +14912,7 @@
         "etf_mark": 0,
         "fullName": "Euler Finance",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -14922,7 +14922,7 @@
         "state": "1",
         "symbol": "EUL_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -15677,7 +15677,7 @@
         "etf_mark": 0,
         "fullName": "Filecoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -15687,7 +15687,7 @@
         "state": "1",
         "symbol": "FIL_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -15847,7 +15847,7 @@
         "etf_mark": 0,
         "fullName": "Step App",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -15857,7 +15857,7 @@
         "state": "1",
         "symbol": "FITFI_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -16007,11 +16007,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "FLOCK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -16748,7 +16748,7 @@
         "etf_mark": 0,
         "fullName": "Fantom",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -16758,7 +16758,7 @@
         "state": "1",
         "symbol": "FTM_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -16833,7 +16833,7 @@
         "etf_mark": 0,
         "fullName": "FTX Token",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -16843,7 +16843,7 @@
         "state": "1",
         "symbol": "FTT_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -20556,7 +20556,7 @@
         "etf_mark": 0,
         "fullName": "HOP",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -20566,7 +20566,7 @@
         "state": "1",
         "symbol": "HOP_USDC",
         "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -22069,7 +22069,7 @@
         "etf_mark": 0,
         "fullName": "Jasmy",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -22079,7 +22079,7 @@
         "state": "1",
         "symbol": "JASMY_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -22749,7 +22749,7 @@
         "etf_mark": 0,
         "fullName": "Kaia",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -22759,7 +22759,7 @@
         "state": "1",
         "symbol": "KAIA_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -25945,7 +25945,7 @@
         "etf_mark": 0,
         "fullName": "Litecoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -25955,7 +25955,7 @@
         "state": "1",
         "symbol": "LTC_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -26217,7 +26217,7 @@
         "etf_mark": 0,
         "fullName": "Terra",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -26227,7 +26227,7 @@
         "state": "1",
         "symbol": "LUNA_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -26268,7 +26268,7 @@
         "etf_mark": 0,
         "fullName": "Terra Classic",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -26278,7 +26278,7 @@
         "state": "1",
         "symbol": "LUNC_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -28223,7 +28223,7 @@
         "etf_mark": 0,
         "fullName": "Mina Protocol",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -28233,7 +28233,7 @@
         "state": "1",
         "symbol": "MINA_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -29957,7 +29957,7 @@
         "etf_mark": 0,
         "fullName": "MX Token",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -29967,7 +29967,7 @@
         "state": "1",
         "symbol": "MX_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -30450,7 +30450,7 @@
         "etf_mark": 0,
         "fullName": "NEAR",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -30460,7 +30460,7 @@
         "state": "1",
         "symbol": "NEAR_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -32592,7 +32592,7 @@
         "etf_mark": 0,
         "fullName": "OpenLeverage",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -32602,7 +32602,7 @@
         "state": "1",
         "symbol": "OLE_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -33136,7 +33136,7 @@
         "etf_mark": 0,
         "fullName": "OP",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -33146,7 +33146,7 @@
         "state": "1",
         "symbol": "OP_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -36934,11 +36934,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "RAI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -37046,7 +37046,7 @@
         "etf_mark": 0,
         "fullName": "Raydium",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -37056,7 +37056,7 @@
         "state": "1",
         "symbol": "RAY_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -40344,7 +40344,7 @@
         "etf_mark": 0,
         "fullName": "SHIBAINU",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -40354,7 +40354,7 @@
         "state": "1",
         "symbol": "SHIB_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -41755,7 +41755,7 @@
         "etf_mark": 0,
         "fullName": "Solana",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -41765,7 +41765,7 @@
         "state": "1",
         "symbol": "SOL_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -42894,7 +42894,7 @@
         "etf_mark": 0,
         "fullName": "STEPN",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -42904,7 +42904,7 @@
         "state": "1",
         "symbol": "STEPN_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -42928,7 +42928,7 @@
         "etf_mark": 0,
         "fullName": "Lido Staked ETH",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -42938,7 +42938,7 @@
         "state": "1",
         "symbol": "STETH_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -46345,7 +46345,7 @@
         "etf_mark": 0,
         "fullName": "Tron",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -46355,7 +46355,7 @@
         "state": "1",
         "symbol": "TRX_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -47297,7 +47297,7 @@
         "etf_mark": 0,
         "fullName": "UNISWAP",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -47307,7 +47307,7 @@
         "state": "1",
         "symbol": "UNI_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -47552,7 +47552,7 @@
         "etf_mark": 0,
         "fullName": "USDCoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -47562,14 +47562,14 @@
         "state": "1",
         "symbol": "USDC_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
         "etf_mark": 0,
         "fullName": "USDCoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "2000000",
         "max_amount_market": "2000000",
         "min_amount": "1",
@@ -47579,7 +47579,7 @@
         "state": "1",
         "symbol": "USDC_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -49048,7 +49048,7 @@
         "etf_mark": 0,
         "fullName": "Waves",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -49058,7 +49058,7 @@
         "state": "1",
         "symbol": "WAVES_USDC",
         "symbol_partition": "USDC",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -49150,7 +49150,7 @@
         "etf_mark": 0,
         "fullName": "Wrapped BTC",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -49160,7 +49160,7 @@
         "state": "1",
         "symbol": "WBTC_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -50680,7 +50680,7 @@
         "etf_mark": 0,
         "fullName": "XEN Crypto",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -50690,7 +50690,7 @@
         "state": "1",
         "symbol": "XEN_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -51530,7 +51530,7 @@
         "etf_mark": 0,
         "fullName": "X World Games",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "100000",
         "max_amount_market": "100000",
         "min_amount": "1",
@@ -51540,7 +51540,7 @@
         "state": "1",
         "symbol": "XWG_USDC",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
