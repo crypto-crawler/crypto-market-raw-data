@@ -8138,7 +8138,11 @@
         "futureType": 1,
         "id": 894,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BINANCE",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -8146,7 +8150,7 @@
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
-        "limitMaxVol": 333,
+        "limitMaxVol": 2200,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -8157,22 +8161,22 @@
             200,
             50
         ],
-        "maxVol": 333,
+        "maxVol": 2200,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1735899000448,
+        "openingTime": 1735895460448,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 2200,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 2200,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
@@ -9311,7 +9315,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -9335,7 +9339,7 @@
         "initialMarginRate": 0.00333,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -9344,7 +9348,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 300,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -16921,7 +16925,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -16945,7 +16949,7 @@
         "initialMarginRate": 0.00333,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -16954,7 +16958,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 300,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -17784,12 +17788,8 @@
         "baseCoinId": "0c93387197d747fbb3f51a1fb666f125",
         "baseCoinName": "FLOCK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1735296163000,
@@ -17808,7 +17808,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 5500,
         "maintenanceMarginRate": 0.01,
@@ -46231,7 +46231,7 @@
         "indexOrigin": [
             "BINANCE"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": true,
         "isMaxLeverage": false,
@@ -46243,7 +46243,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
