@@ -690,6 +690,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 3,
+        "base": "ACX",
+        "buy_start": 1669694400,
+        "fee": "0.2",
+        "id": "ACX_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "ACX",
         "buy_start": 1669694400,
@@ -6056,6 +6071,21 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "BEAMX",
+        "buy_start": 1699430400,
+        "fee": "0.2",
+        "id": "BEAMX_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 4,
+        "quote": "TRY",
+        "sell_start": 1607313600,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -22248,7 +22278,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -31432,6 +31462,21 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 4,
+        "base": "MOVE",
+        "buy_start": 1733745600,
+        "fee": "0.2",
+        "id": "MOVE_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -48073,6 +48118,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "THE",
+        "buy_start": 1732690800,
+        "fee": "0.2",
+        "id": "THE_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "THE",
         "buy_start": 1732690800,
@@ -50801,6 +50861,21 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1597379400,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 5,
+        "base": "VANA",
+        "buy_start": 1734348600,
+        "fee": "0.2",
+        "id": "VANA_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.00001",
+        "min_quote_amount": "30",
+        "precision": 1,
+        "quote": "TRY",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },

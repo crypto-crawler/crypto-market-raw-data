@@ -13659,7 +13659,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "DUNA_USDT",
@@ -20444,11 +20444,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "HINT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -20748,7 +20748,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HOLD_USDT",
@@ -25510,11 +25510,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "LGCT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41209,23 +41209,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Shiryo",
-        "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
-        "max_amount": "100000",
-        "max_amount_market": "100000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 15,
-        "quantity_scale": 0,
-        "state": "1",
-        "symbol": "SHIRYO_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Shitcoin",
         "limited": false,
         "maker_fee_rate": "0.000500000000000000",
@@ -47251,7 +47234,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TRUST_USDT",
