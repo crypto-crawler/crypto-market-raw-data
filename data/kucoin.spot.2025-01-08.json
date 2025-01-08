@@ -33451,5 +33451,32 @@
         "st": false,
         "symbol": "ACX-USDT",
         "tradingStartTime": 1736334000000
+    },
+    {
+        "baseCurrency": "CLOUD",
+        "baseIncrement": "0.01",
+        "baseMaxSize": "10000000000",
+        "baseMinSize": "1",
+        "callauctionFirstStageStartTime": 1736323200000,
+        "callauctionIsEnabled": true,
+        "callauctionPriceCeiling": "1",
+        "callauctionPriceFloor": "0.0001",
+        "callauctionSecondStageStartTime": 1736325900000,
+        "callauctionThirdStageStartTime": 1736326500000,
+        "enableTrading": false,
+        "feeCurrency": "USDT",
+        "isMarginEnabled": false,
+        "market": "USDS",
+        "minFunds": "0.1",
+        "name": "CLOUD-USDT",
+        "priceIncrement": "0.0001",
+        "priceLimitRate": "0.1",
+        "quoteCurrency": "USDT",
+        "quoteIncrement": "0.0001",
+        "quoteMaxSize": "99999999",
+        "quoteMinSize": "0.1",
+        "st": false,
+        "symbol": "CLOUD-USDT",
+        "tradingStartTime": 1736326800000
     }
 ]
