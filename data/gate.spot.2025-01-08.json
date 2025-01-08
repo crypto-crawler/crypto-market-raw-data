@@ -7879,6 +7879,21 @@
     },
     {
         "amount_precision": 2,
+        "base": "BUZZ",
+        "buy_start": 1736330400,
+        "fee": "0.2",
+        "id": "BUZZ_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "BUZ",
         "buy_start": 1724313600,
         "fee": "0.2",
@@ -8360,17 +8375,17 @@
     {
         "amount_precision": 2,
         "base": "CATGOLD",
-        "buy_start": 1733212800,
+        "buy_start": 1736416800,
         "fee": "0.2",
         "id": "CATGOLD_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 5,
+        "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "untradable",
-        "type": "premarket"
+        "trade_status": "sellable",
+        "type": "normal"
     },
     {
         "amount_precision": 1,
@@ -22938,7 +22953,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1596702900,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -26992,6 +27007,21 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 4,
+        "base": "MORPHO",
+        "buy_start": 1732183200,
+        "fee": "0.2",
+        "id": "MORPHO_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -33056,6 +33086,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "POWER",
+        "buy_start": 1736499600,
+        "fee": "0.2",
+        "id": "POWER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 3,
         "base": "POWR",
         "buy_start": 1510704000,
@@ -33742,7 +33787,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -43455,6 +43500,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "UXLINK",
+        "buy_start": 1721289600,
+        "fee": "0.2",
+        "id": "UXLINK_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "UXLINK",
         "buy_start": 1721289600,
@@ -44921,7 +44981,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -46345,21 +46405,6 @@
         "min_quote_amount": "3",
         "precision": 5,
         "quote": "USDT",
-        "sell_start": 0,
-        "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 3,
-        "base": "XMC",
-        "buy_start": 1524528000,
-        "fee": "0.2",
-        "id": "XMC_BTC",
-        "max_quote_amount": "100",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.00001",
-        "precision": 8,
-        "quote": "BTC",
         "sell_start": 0,
         "trade_status": "tradable",
         "type": "normal"
