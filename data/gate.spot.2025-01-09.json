@@ -3646,21 +3646,6 @@
     },
     {
         "amount_precision": 2,
-        "base": "ATD",
-        "buy_start": 1616580000,
-        "fee": "0.2",
-        "id": "ATD_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
         "base": "ATEAM",
         "buy_start": 1658743200,
         "fee": "0.2",
@@ -8190,6 +8175,21 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CAM",
+        "buy_start": 1737108000,
+        "fee": "0.2",
+        "id": "CAM_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -20812,21 +20812,6 @@
         "type": "normal"
     },
     {
-        "amount_precision": 1,
-        "base": "ISKY",
-        "buy_start": 1642150800,
-        "fee": "0.2",
-        "id": "ISKY_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
-        "type": "normal"
-    },
-    {
         "amount_precision": 2,
         "base": "ISK",
         "buy_start": 1664442000,
@@ -26198,6 +26183,21 @@
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "MIDLE",
+        "buy_start": 1737550800,
+        "fee": "0.2",
+        "id": "MIDLE_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -44997,21 +44997,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "WBT",
-        "buy_start": 1666692000,
-        "fee": "0.2",
-        "id": "WBT_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 3,
-        "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
