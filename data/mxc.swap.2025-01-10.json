@@ -6051,13 +6051,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "AVAAI",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241116152355913e3GaFftZt0IyjB.png",
         "baseCoinId": "e9962db3eedb492fbb77b3b293d931b7",
         "baseCoinName": "AVAAI",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-ai"
         ],
@@ -6076,7 +6076,9 @@
         "futureType": 1,
         "id": 900,
         "indexOrigin": [
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -11053,7 +11055,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -17640,7 +17642,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
