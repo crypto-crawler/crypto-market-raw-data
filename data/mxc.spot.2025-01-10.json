@@ -3546,11 +3546,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ASTRAAI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -14230,6 +14230,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Effect AI",
+        "limited": false,
+        "maker_fee_rate": "0.000500000000000000",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "EFFECT_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "End Federal Reserve",
         "limited": false,
         "maker_fee_rate": "0.000500000000000000",
@@ -20512,11 +20529,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "HENAI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -42484,23 +42501,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "StrategicMemeReserve",
-        "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
-        "max_amount": "100000",
-        "max_amount_market": "100000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "SMR1_USDT",
-        "symbol_partition": "ASSESS",
-        "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Shimmer",
         "limited": false,
         "maker_fee_rate": "0.000500000000000000",
@@ -50466,11 +50466,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
-        "symbol": "WANDER_USDC",
+        "state": "1",
+        "symbol": "WANDER_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
