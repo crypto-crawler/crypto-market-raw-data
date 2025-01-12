@@ -9470,7 +9470,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -9494,7 +9494,7 @@
         "initialMarginRate": 0.00333,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -9503,7 +9503,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 300,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -17458,7 +17458,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -17482,7 +17482,7 @@
         "initialMarginRate": 0.00333,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -17491,7 +17491,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 300,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
