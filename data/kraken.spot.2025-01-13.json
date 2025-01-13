@@ -28047,17 +28047,9 @@
                 0.0
             ]
         ],
-        "leverage_buy": [
-            2,
-            3,
-            4
-        ],
-        "leverage_sell": [
-            2,
-            3,
-            4
-        ],
-        "long_position_limit": 90000,
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "long_position_limit": 0,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -28066,8 +28058,8 @@
         "ordermin": "5",
         "pair_decimals": 4,
         "quote": "ZEUR",
-        "short_position_limit": 90000,
-        "status": "reduce_only",
+        "short_position_limit": 0,
+        "status": "online",
         "tick_size": "0.0001",
         "wsname": "FTM/EUR"
     },
@@ -28163,17 +28155,9 @@
                 0.0
             ]
         ],
-        "leverage_buy": [
-            2,
-            3,
-            4
-        ],
-        "leverage_sell": [
-            2,
-            3,
-            4
-        ],
-        "long_position_limit": 150000,
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "long_position_limit": 0,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -28182,8 +28166,8 @@
         "ordermin": "5",
         "pair_decimals": 4,
         "quote": "ZUSD",
-        "short_position_limit": 150000,
-        "status": "reduce_only",
+        "short_position_limit": 0,
+        "status": "online",
         "tick_size": "0.0001",
         "wsname": "FTM/USD"
     },
