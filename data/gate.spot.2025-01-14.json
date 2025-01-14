@@ -9409,6 +9409,21 @@
     },
     {
         "amount_precision": 1,
+        "base": "CLAY",
+        "buy_start": 1737032400,
+        "fee": "0.2",
+        "id": "CLAY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 1,
         "base": "CLH",
         "buy_start": 1641565800,
         "fee": "0.2",
@@ -37554,7 +37569,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -37824,7 +37839,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -43273,6 +43288,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "UNILAYER",
+        "buy_start": 1736920800,
+        "fee": "0.2",
+        "id": "UNILAYER_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 1,
         "base": "UNIO",
         "buy_start": 1727690400,
@@ -44681,7 +44711,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -47426,7 +47456,7 @@
         "precision": 7,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
