@@ -18248,6 +18248,21 @@
     },
     {
         "amount_precision": 2,
+        "base": "GPS",
+        "buy_start": 1737021600,
+        "fee": "0.2",
+        "id": "GPS_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "GPT",
         "buy_start": 1709121600,
         "fee": "0.2",
@@ -23358,7 +23373,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -38608,6 +38623,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "SOLV",
+        "buy_start": 1737108000,
+        "fee": "0.2",
+        "id": "SOLV_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 4,
         "base": "SOL",
         "buy_start": 1593059700,
@@ -44082,6 +44112,21 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "VERT",
+        "buy_start": 1737118800,
+        "fee": "0.2",
+        "id": "VERT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
