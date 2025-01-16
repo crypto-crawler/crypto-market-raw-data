@@ -4760,12 +4760,12 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1737021689,
+        "config_change_time": 1737033051,
         "create_time": 1737021679,
         "cross_leverage_default": "10",
         "enable_bonus": true,
         "enable_credit": true,
-        "funding_cap_ratio": "3",
+        "funding_cap_ratio": "2",
         "funding_impact_value": "5000",
         "funding_interval": 14400,
         "funding_offset": 0,
@@ -8871,7 +8871,7 @@
         "risk_limit_step": "990000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "0"
+        "voucher_leverage": "2"
     },
     {
         "config_change_time": 1735524422,
@@ -10875,6 +10875,40 @@
         "risk_limit_base": "5000",
         "risk_limit_max": "500000",
         "risk_limit_step": "495000",
+        "taker_fee_rate": "0.00075",
+        "type": "direct",
+        "voucher_leverage": "0"
+    },
+    {
+        "config_change_time": 1737033067,
+        "create_time": 1737033035,
+        "cross_leverage_default": "10",
+        "enable_bonus": true,
+        "enable_credit": true,
+        "funding_cap_ratio": "2",
+        "funding_impact_value": "5000",
+        "funding_interval": 14400,
+        "funding_offset": 0,
+        "in_delisting": false,
+        "interest_rate": "0.0003",
+        "leverage_max": "50",
+        "leverage_min": "1",
+        "maintenance_rate": "0.01",
+        "maker_fee_rate": "-0.0001",
+        "mark_price_round": "0.0000001",
+        "mark_type": "index",
+        "name": "CLAY_USDT",
+        "order_price_deviate": "0.5",
+        "order_price_round": "0.0000001",
+        "order_size_max": 1000000,
+        "order_size_min": 1,
+        "orders_limit": 100,
+        "quanto_multiplier": "10000",
+        "ref_discount_rate": "0",
+        "ref_rebate_rate": "0.2",
+        "risk_limit_base": "10000",
+        "risk_limit_max": "500000",
+        "risk_limit_step": "490000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
         "voucher_leverage": "0"
@@ -13393,7 +13427,7 @@
         "risk_limit_step": "495000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "2"
+        "voucher_leverage": "0"
     },
     {
         "config_change_time": 1733798750,
