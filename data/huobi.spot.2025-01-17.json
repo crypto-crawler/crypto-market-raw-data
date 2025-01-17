@@ -17791,7 +17791,7 @@
         "state": "online",
         "symbol": "lesterusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -22345,6 +22345,26 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "nestusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "neur",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 5,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "pre-online",
+        "symbol": "neurusdt",
         "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
