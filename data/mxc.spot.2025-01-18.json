@@ -3512,11 +3512,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ART_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -4192,11 +4192,11 @@
         "min_amount_market": "1",
         "price_scale": 2,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AVAX_EUR",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -8124,6 +8124,23 @@
         "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "BULLS",
+        "limited": false,
+        "maker_fee_rate": "0.000500000000000000",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "BULLS_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -20068,13 +20085,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "GRIFT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -26341,7 +26358,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 20,
+        "price_scale": 22,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "LEOT_USDT",
@@ -27482,11 +27499,11 @@
         "min_amount_market": "1",
         "price_scale": 2,
         "quantity_scale": 4,
-        "state": "2",
+        "state": "1",
         "symbol": "LTC_EUR",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -42663,11 +42680,11 @@
         "min_amount_market": "1",
         "price_scale": 8,
         "quantity_scale": 0,
-        "state": "2",
+        "state": "1",
         "symbol": "SHIB_EUR",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -48560,7 +48577,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "TREAT_USDT",
@@ -52353,11 +52370,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "WIF_EUR",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -55207,7 +55224,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 15,
+        "price_scale": 17,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ZENIX_USDT",
@@ -55226,11 +55243,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "1",
+        "state": "2",
         "symbol": "ZENQ_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,

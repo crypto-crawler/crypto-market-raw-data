@@ -3266,7 +3266,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -13139,7 +13139,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -29711,15 +29711,15 @@
         "type": "normal"
     },
     {
-        "amount_precision": 3,
+        "amount_precision": 2,
         "base": "OBT",
-        "buy_start": 1707391800,
+        "buy_start": 1737367200,
         "fee": "0.2",
         "id": "OBT_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "0.001",
+        "min_base_amount": "0.01",
         "min_quote_amount": "3",
-        "precision": 4,
+        "precision": 5,
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "untradable",
@@ -42534,7 +42534,7 @@
         "precision": 3,
         "quote": "USDT",
         "sell_start": 1607313600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
