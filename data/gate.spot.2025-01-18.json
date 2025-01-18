@@ -30431,6 +30431,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "OOBIT",
+        "buy_start": 1737266400,
+        "fee": "0.2",
+        "id": "OOBIT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 1,
         "base": "OOE",
         "buy_start": 1626148800,
@@ -40944,7 +40959,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -42525,7 +42540,7 @@
     {
         "amount_precision": 2,
         "base": "TRUMP",
-        "buy_start": 1722610800,
+        "buy_start": 1737205200,
         "fee": "0.2",
         "id": "TRUMP_USDT",
         "max_quote_amount": "5000000",
@@ -42533,8 +42548,8 @@
         "min_quote_amount": "3",
         "precision": 3,
         "quote": "USDT",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
+        "sell_start": 0,
+        "trade_status": "tradable",
         "type": "normal"
     },
     {

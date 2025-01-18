@@ -6843,12 +6843,8 @@
         "baseCoinId": "6a2c2fb488a7430a8563a61bc810ffb2",
         "baseCoinName": "AVB",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736599165000,
@@ -6867,7 +6863,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 3000,
         "maintenanceMarginRate": 0.01,
@@ -9598,7 +9594,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 19352,
+        "threshold": 17527,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -10172,7 +10168,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10196,7 +10192,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10205,7 +10201,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -18301,7 +18297,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18325,7 +18321,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18334,7 +18330,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -26594,7 +26590,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 1529107,
+        "threshold": 42134,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -42071,7 +42067,7 @@
             "HTX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -42083,7 +42079,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -51085,7 +51081,7 @@
         "baseCoin": "TRUMPOFFICIAL",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250118110413810TOihgQk8k0B2el.png",
         "baseCoinId": "10b0afc1bd53460a92cfd3eab4a4f9b4",
-        "baseCoinName": "TRUMPOFFICIAL",
+        "baseCoinName": "TRUMP",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new"
@@ -51100,14 +51096,15 @@
             "0.001",
             "0.01"
         ],
-        "displayName": "TRUMPOFFICIAL_USDT\u6c38\u7eed",
-        "displayNameEn": "TRUMPOFFICIAL_USDT PERPETUAL",
+        "displayName": "TRUMP_USDT\u6c38\u7eed",
+        "displayNameEn": "TRUMP_USDT PERPETUAL",
         "futureType": 1,
         "id": 981,
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HTX"
+            "HTX",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -51115,7 +51112,7 @@
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
-        "limitMaxVol": 900,
+        "limitMaxVol": 16000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -51126,21 +51123,21 @@
             200,
             50
         ],
-        "maxVol": 900,
+        "maxVol": 16000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
         "openingTime": 0,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 900,
+        "riskBaseVol": 16000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 900,
+        "riskIncrVol": 16000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
