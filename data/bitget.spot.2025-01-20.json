@@ -2272,7 +2272,7 @@
         "base_currency": "GAME",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "GAME_USDT",
         "tick_size": "5"
     },
@@ -2356,6 +2356,15 @@
         "status": "online",
         "symbol": "CLAY_USDT",
         "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "TRUMP",
+        "quote_currency": "USDC",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "TRUMP_USDC",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "2",
