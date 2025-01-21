@@ -7553,12 +7553,8 @@
         "baseCoinId": "622c292901fe441eb5e2e2a53ed26cb4",
         "baseCoinName": "BANANAS31",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1000,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736866744000,
@@ -7577,7 +7573,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 340,
         "maintenanceMarginRate": 0.01,
@@ -9750,7 +9746,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 14150,
+        "threshold": 14709,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -27134,7 +27130,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 38839,
+        "threshold": 40723,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -31963,10 +31959,12 @@
         "baseCoinName": "MELANIA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
@@ -42384,7 +42382,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 27500,
+        "limitMaxVol": 33000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -42395,7 +42393,7 @@
             200,
             50
         ],
-        "maxVol": 27500,
+        "maxVol": 33000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -42406,10 +42404,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 27500,
+        "riskBaseVol": 33000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 27500,
+        "riskIncrVol": 33000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -51875,10 +51873,12 @@
         "baseCoinName": "TRUMP",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
@@ -54783,7 +54783,7 @@
         "indexOrigin": [
             "BINANCE"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -54795,7 +54795,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
