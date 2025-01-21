@@ -611,7 +611,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -1692,6 +1692,21 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 1,
+        "base": "AKUMA",
+        "buy_start": 1737723600,
+        "fee": "0.2",
+        "id": "AKUMA_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 0,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -6596,7 +6611,7 @@
         "precision": 6,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -32902,7 +32917,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -42966,7 +42981,7 @@
         "max_quote_amount": "5000000",
         "min_base_amount": "0.1",
         "min_quote_amount": "3",
-        "precision": 9,
+        "precision": 10,
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable",
