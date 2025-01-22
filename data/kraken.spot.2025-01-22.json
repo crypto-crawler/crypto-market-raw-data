@@ -2710,6 +2710,430 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "AI16ZEUR",
+        "base": "AI16Z",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "AI16Z/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "AI16ZUSD",
+        "base": "AI16Z",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "AI16Z/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "AI16ZUSDC",
+        "base": "AI16Z",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "USDC",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "AI16Z/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "AI16ZUSDT",
+        "base": "AI16Z",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "USDT",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "AI16Z/USDT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "AIREUR",
         "base": "AIR",
         "cost_decimals": 6,
@@ -26324,6 +26748,430 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "FARTCOINEUR",
+        "base": "FARTCOIN",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "FARTCOIN/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "FARTCOINUSD",
+        "base": "FARTCOIN",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "FARTCOIN/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "FARTCOINUSDC",
+        "base": "FARTCOIN",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "USDC",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "FARTCOIN/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "FARTCOINUSDT",
+        "base": "FARTCOIN",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "USDT",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "FARTCOIN/USDT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "FETEUR",
         "base": "FET",
         "cost_decimals": 6,
@@ -31578,6 +32426,218 @@
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "GOAT/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "GRIFFAINEUR",
+        "base": "GRIFFAIN",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "GRIFFAIN/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "GRIFFAINUSD",
+        "base": "GRIFFAIN",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "GRIFFAIN/USD"
     },
     {
         "aclass_base": "currency",
