@@ -2914,12 +2914,8 @@
         "baseCoinId": "dc04b3a96efa4456a3ba7f89335c777a",
         "baseCoinName": "AIPUMP",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736910694000,
@@ -2938,7 +2934,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750,
         "maintenanceMarginRate": 0.01,
@@ -9746,7 +9742,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 14709,
+        "threshold": 15127,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -10320,7 +10316,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10344,7 +10340,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10353,7 +10349,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -16779,12 +16775,8 @@
         "baseCoinId": "90264d91e44d4861bed3d95d0e1bbbc1",
         "baseCoinName": "DUCK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1000,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736908620000,
@@ -16806,7 +16798,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 150,
         "maintenanceMarginRate": 0.01,
@@ -18678,7 +18670,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18702,7 +18694,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18711,7 +18703,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -21491,12 +21483,8 @@
         "baseCoinId": "f8f1d8681cc3401695aea38a49d93aa1",
         "baseCoinName": "GENE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1648887684000,
@@ -21515,7 +21503,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 65000,
         "maintenanceMarginRate": 0.01,
@@ -23361,12 +23349,8 @@
         "baseCoinId": "7a1e2cb137434778b95ac08046001413",
         "baseCoinName": "GRPH",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736912779000,
@@ -23385,7 +23369,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1000,
         "maintenanceMarginRate": 0.01,
@@ -24858,8 +24842,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1734097287000,
         "depthStepList": [
-            "0.000001",
-            "0.00001"
+            "0.0000001",
+            "0.000001"
         ],
         "displayName": "HOLD_USDT\u6c38\u7eed",
         "displayNameEn": "HOLD_USDT PERPETUAL",
@@ -24892,8 +24876,8 @@
         "openingTime": 1734354000000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1400,
@@ -27130,7 +27114,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 40723,
+        "threshold": 41374,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -38031,7 +38015,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": true,
-        "limitMaxVol": 240000,
+        "limitMaxVol": 300000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -38042,7 +38026,7 @@
             200,
             50
         ],
-        "maxVol": 240000,
+        "maxVol": 300000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -38053,7 +38037,7 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 240000,
+        "riskBaseVol": 300000,
         "riskIncrImr": 0.095,
         "riskIncrMmr": 0.056,
         "riskIncrVol": 1200000,
