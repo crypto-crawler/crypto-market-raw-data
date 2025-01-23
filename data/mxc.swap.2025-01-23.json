@@ -5572,12 +5572,8 @@
         "baseCoinId": "6ec85af5c6cb44f887c27a8eacabe617",
         "baseCoinName": "ART",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737017152000,
@@ -5596,7 +5592,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 4500,
         "maintenanceMarginRate": 0.01,
@@ -10307,7 +10303,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10331,7 +10327,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10340,7 +10336,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -16040,13 +16036,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "DOGEAI",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250122170019277QQBJVTxu7IPUm2.jpg",
         "baseCoinId": "eaec563015da43a2a3853532054128fb",
         "baseCoinName": "DOGEAI",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-contract-new"
         ],
@@ -16310,7 +16306,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -18741,7 +18737,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18765,7 +18761,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18774,7 +18770,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -53711,13 +53707,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "VANA",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241215174024841yHemJunKtE5tCc.jpeg",
         "baseCoinId": "8b8e994927da47a5a6ca9d336855e8e1",
         "baseCoinName": "VANA",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.1,
@@ -53737,7 +53733,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -53749,7 +53745,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -54437,7 +54433,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
@@ -54884,12 +54880,8 @@
         "baseCoinId": "1a1160a1cbd641aca3f1243d28874de6",
         "baseCoinName": "VR",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737027326000,
@@ -54910,7 +54902,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1800,
         "maintenanceMarginRate": 0.01,
@@ -58088,12 +58080,12 @@
         "conceptPlateId": [
             -1
         ],
-        "contractSize": 1,
+        "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737459758000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "YULI_USDT\u6c38\u7eed",
         "displayNameEn": "YULI_USDT PERPETUAL",
@@ -58108,7 +58100,7 @@
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
-        "limitMaxVol": 333,
+        "limitMaxVol": 2850,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -58119,21 +58111,21 @@
             200,
             50
         ],
-        "maxVol": 333,
+        "maxVol": 2850,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1737634200000,
+        "openingTime": 1737633840000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 2850,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 2850,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,

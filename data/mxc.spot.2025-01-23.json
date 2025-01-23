@@ -768,7 +768,7 @@
         "etf_mark": 0,
         "fullName": "Cardano",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -778,7 +778,7 @@
         "state": "1",
         "symbol": "ADA_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -3063,7 +3063,7 @@
         "etf_mark": 0,
         "fullName": "Aptos",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "600000",
         "max_amount_market": "600000",
         "min_amount": "1",
@@ -3073,7 +3073,7 @@
         "state": "1",
         "symbol": "APT_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -3886,11 +3886,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ASV_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -8061,7 +8061,7 @@
         "etf_mark": 0,
         "fullName": "Bitcoin",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -8071,7 +8071,7 @@
         "state": "1",
         "symbol": "BTC_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -13824,7 +13824,7 @@
         "etf_mark": 0,
         "fullName": "DOGE",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -13834,7 +13834,7 @@
         "state": "1",
         "symbol": "DOGE_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -14511,11 +14511,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DSYNC_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -15718,11 +15718,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ENA_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -16170,7 +16170,7 @@
         "etf_mark": 0,
         "fullName": "Ethereum",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -16180,7 +16180,7 @@
         "state": "1",
         "symbol": "ETH_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -20257,11 +20257,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "GPTW_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -22407,6 +22407,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "HQ Trivia",
+        "limited": false,
+        "maker_fee_rate": "0.000500000000000000",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "HQTRIVIA_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "The Winners Circle",
         "limited": false,
         "maker_fee_rate": "0.000500000000000000",
@@ -22656,7 +22673,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HYCO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -22858,11 +22875,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ICP_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -24925,7 +24942,7 @@
         "etf_mark": 0,
         "fullName": "Kaspa",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -24935,7 +24952,7 @@
         "state": "1",
         "symbol": "KAS_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -27278,11 +27295,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "LINGO_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -34350,11 +34367,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "NOW_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -34384,11 +34401,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "NPC_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -35242,7 +35259,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Origyn Foundation",
+        "fullName": "ORIGYN",
         "limited": false,
         "maker_fee_rate": "0.000500000000000000",
         "max_amount": "100000",
@@ -37138,11 +37155,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PEAQ_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -37291,11 +37308,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PENGU_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -37488,7 +37505,7 @@
         "etf_mark": 0,
         "fullName": "Pepe",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -37498,7 +37515,7 @@
         "state": "1",
         "symbol": "PEPE_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -40859,7 +40876,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "RETIK_USDT",
@@ -41262,7 +41279,7 @@
         "etf_mark": 0,
         "fullName": "Realio",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -41272,7 +41289,7 @@
         "state": "1",
         "symbol": "RIO_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -41286,11 +41303,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "RIO_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -43275,11 +43292,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SEN_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -45325,7 +45342,7 @@
         "etf_mark": 0,
         "fullName": "Solana",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -45335,7 +45352,7 @@
         "state": "1",
         "symbol": "SOL_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -48419,7 +48436,7 @@
         "etf_mark": 0,
         "fullName": "Bittensor",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -48429,7 +48446,7 @@
         "state": "1",
         "symbol": "TAO_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -51819,7 +51836,7 @@
         "etf_mark": 0,
         "fullName": "Tether",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -51829,7 +51846,7 @@
         "state": "1",
         "symbol": "USDT_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -55729,7 +55746,7 @@
         "etf_mark": 0,
         "fullName": "XRP",
         "limited": false,
-        "maker_fee_rate": "0.000500000000000000",
+        "maker_fee_rate": "0E-18",
         "max_amount": "500000",
         "max_amount_market": "500000",
         "min_amount": "1",
@@ -55739,7 +55756,7 @@
         "state": "1",
         "symbol": "XRP_EUR",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -56059,11 +56076,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "XYRO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -56484,11 +56501,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "YULI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
