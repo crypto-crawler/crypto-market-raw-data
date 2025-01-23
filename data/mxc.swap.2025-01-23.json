@@ -4395,13 +4395,18 @@
         "futureType": 1,
         "id": 997,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BYBIT",
+            "BINANCE",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": false,
+        "isNew": true,
         "isZeroFeeRate": false,
         "limitMaxVol": 180000,
         "maintenanceMarginRate": 0.01,
@@ -4420,7 +4425,7 @@
         "openingCountdownOption": 1,
         "openingTime": 1737638400000,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -8796,7 +8801,7 @@
         "automaticDelivery": 0,
         "baseCoin": "BID",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250123201239663WX2JFoHpiL8nfh.png",
-        "baseCoinId": "",
+        "baseCoinId": "eb73ae2f0de942b68436e8b5e2954dba",
         "baseCoinName": "BID",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
@@ -8847,10 +8852,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 200,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 200,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -10381,7 +10386,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10405,7 +10410,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10414,7 +10419,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -18815,7 +18820,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18839,7 +18844,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18848,7 +18853,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
