@@ -2367,20 +2367,29 @@
         "tick_size": "7"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
+        "base_currency": "ANIME",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "ANIME_USDT",
+        "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "SKY",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "SKY_USDT",
-        "tick_size": "0"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "0",
         "base_currency": "MDOGS",
         "quote_currency": "USDT",
         "size_increment": "0",
-        "status": "gray",
+        "status": "online",
         "symbol": "MDOGS_USDT",
         "tick_size": "9"
     },
