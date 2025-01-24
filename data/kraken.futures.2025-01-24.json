@@ -6162,7 +6162,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 10000,
+        "impactMidSize": 10000.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -6191,11 +6191,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 30000000,
+        "maxPositionSize": 30000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-24T15:23:59.352Z",
+        "openingDate": "2025-01-24T15:23:59.000Z",
         "pair": "ANIME:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -53644,7 +53644,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3000,
+        "impactMidSize": 3000.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -53673,11 +53673,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 9000000,
+        "maxPositionSize": 9000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-24T15:23:56.450Z",
+        "openingDate": "2025-01-24T15:23:56.000Z",
         "pair": "VINE:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
