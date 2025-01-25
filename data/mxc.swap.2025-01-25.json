@@ -7774,13 +7774,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "BAN",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241027193544938kKqrcbyPi0qd2j.png",
         "baseCoinId": "7a45612852e34990b00c67317bb618f1",
         "baseCoinName": "BAN",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-MEME"
         ],
@@ -7800,10 +7800,12 @@
         "id": 774,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -7815,7 +7817,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -40394,7 +40396,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "PNUT",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241103154252797M0kvFRLou00cQa.jpeg",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250125152643217If6ShuO14NssGx.jpg",
         "baseCoinId": "f4a3fd97f19c4d06961600322fb4c297",
         "baseCoinName": "PNUT",
         "bidLimitPriceRate": 0.2,
@@ -46553,7 +46555,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "SNEK",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230701203735571X7vUwAsNTpaXNR.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F202501251440177082rw40ua6T8i6zx.jpg",
         "baseCoinId": "7c22db606b124d639309570ef6470a0d",
         "baseCoinName": "SNEK",
         "bidLimitPriceRate": 0.2,
