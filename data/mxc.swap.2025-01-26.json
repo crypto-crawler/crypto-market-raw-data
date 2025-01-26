@@ -10380,7 +10380,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10404,7 +10404,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10413,7 +10413,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -14349,12 +14349,8 @@
         "baseCoinId": "20b53729bbe54fefab55b46340dd001c",
         "baseCoinName": "CULT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1000,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737261905000,
@@ -14373,7 +14369,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 800,
         "maintenanceMarginRate": 0.01,
@@ -17936,12 +17932,8 @@
         "baseCoinId": "77c925fbd5ac42a084d3443434aa834d",
         "baseCoinName": "ELONSOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737268166000,
@@ -17960,7 +17952,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1350,
         "maintenanceMarginRate": 0.01,
@@ -18820,7 +18812,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18844,7 +18836,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18853,7 +18845,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -23193,12 +23185,8 @@
         "baseCoinId": "e21910cfb57a4bccb79d4350cbd79ca1",
         "baseCoinName": "GRIFT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737261853000,
@@ -23217,7 +23205,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1600,
         "maintenanceMarginRate": 0.01,
@@ -54677,7 +54665,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": true,
         "isMaxLeverage": false,
@@ -54689,7 +54677,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -58405,8 +58393,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737452512000,
         "depthStepList": [
-            "0.000001",
-            "0.00001"
+            "0.0000001",
+            "0.000001"
         ],
         "displayName": "ZACHXBT_USDT\u6c38\u7eed",
         "displayNameEn": "ZACHXBT_USDT PERPETUAL",
@@ -58439,8 +58427,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 6,
-        "priceUnit": 1e-06,
+        "priceScale": 7,
+        "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1650,
