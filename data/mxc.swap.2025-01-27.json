@@ -17326,7 +17326,7 @@
         "indexOrigin": [
             "BINANCE"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -17338,7 +17338,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -17354,11 +17354,11 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2100,
+        "riskBaseVol": 10500,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 2100,
-        "riskLevelLimit": 5,
+        "riskIncrVol": 10500,
+        "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
         "settleCoin": "USDT",
