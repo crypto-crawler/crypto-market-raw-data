@@ -9603,6 +9603,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "CLEAR",
+        "buy_start": 1738062000,
+        "fee": "0.2",
+        "id": "CLEAR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 1,
         "base": "CLH",
         "buy_start": 1641565800,
@@ -13413,6 +13428,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 1,
+        "base": "DYOR",
+        "buy_start": 1738137600,
+        "fee": "0.2",
+        "id": "DYOR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "DYP",
         "buy_start": 1614744000,
@@ -13935,6 +13965,21 @@
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 1,
+        "base": "ELY",
+        "buy_start": 1738216800,
+        "fee": "0.2",
+        "id": "ELY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -20028,7 +20073,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -21836,6 +21881,21 @@
         "base": "J",
         "buy_start": 1737540000,
         "fee": "0.2",
+        "id": "J_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "J",
+        "buy_start": 1737540000,
+        "fee": "0.2",
         "id": "J_USDT",
         "max_quote_amount": "5000000",
         "min_base_amount": "0.01",
@@ -23344,21 +23404,6 @@
         "quote": "USDT",
         "sell_start": 1520614800,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "LAVAELYSIUM",
-        "buy_start": 1736478000,
-        "fee": "0.2",
-        "id": "LAVAELYSIUM_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1577808000,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -45537,21 +45582,6 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 1,
-        "base": "WAR",
-        "buy_start": 1619701200,
-        "fee": "0.2",
-        "id": "WAR_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "sell_start": 1609434000,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
