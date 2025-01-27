@@ -1540,7 +1540,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.008,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -1552,7 +1552,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 125,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -29090,8 +29090,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736346832000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "LLM_USDT\u6c38\u7eed",
         "displayNameEn": "LLM_USDT PERPETUAL",
@@ -29124,8 +29124,8 @@
         "openingTime": 1736348340000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 6000,
@@ -36644,12 +36644,8 @@
         "baseCoinId": "235ea367802f49d8a39a743c1b318663",
         "baseCoinName": "OBT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737352188000,
@@ -36668,7 +36664,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1000,
         "maintenanceMarginRate": 0.01,
@@ -51869,7 +51865,7 @@
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -57545,7 +57541,7 @@
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
