@@ -5342,7 +5342,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6250,
+        "impactMidSize": 6250.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -5371,11 +5371,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 18500000,
+        "maxPositionSize": 18500000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:29:03.148Z",
+        "openingDate": "2025-01-28T10:29:03.000Z",
         "pair": "ALCH:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -7340,7 +7340,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2250,
+        "impactMidSize": 2250.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -7369,11 +7369,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 6500000,
+        "maxPositionSize": 6500000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:29:31.565Z",
+        "openingDate": "2025-01-28T10:29:32.000Z",
         "pair": "ARC:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -8797,81 +8797,6 @@
         "symbol": "PF_AUDIOUSD",
         "tags": [],
         "tickSize": 1e-05,
-        "tradeable": true,
-        "type": "flexible_futures"
-    },
-    {
-        "base": "AVA",
-        "category": "Payment and value",
-        "contractSize": 1,
-        "contractValueTradePrecision": 0,
-        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
-        "fundingRateCoefficient": 24,
-        "impactMidSize": 900,
-        "marginLevels": [
-            {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
-            },
-            {
-                "initialMargin": 0.2,
-                "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
-            },
-            {
-                "initialMargin": 0.3,
-                "maintenanceMargin": 0.15,
-                "numNonContractUnits": 1000000.0
-            },
-            {
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
-            }
-        ],
-        "marginSchedules": {},
-        "maxPositionSize": 2700000,
-        "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:30:02.648Z",
-        "pair": "AVA:USD",
-        "postOnly": true,
-        "quote": "USD",
-        "retailMarginLevels": [
-            {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
-                "initialMargin": 0.1,
-                "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
-            },
-            {
-                "initialMargin": 0.2,
-                "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
-            },
-            {
-                "initialMargin": 0.3,
-                "maintenanceMargin": 0.15,
-                "numNonContractUnits": 1000000.0
-            },
-            {
-                "initialMargin": 0.5,
-                "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
-            }
-        ],
-        "symbol": "PF_AVAUSD",
-        "tags": [],
-        "tickSize": 0.0001,
         "tradeable": true,
         "type": "flexible_futures"
     },
@@ -11450,7 +11375,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2250,
+        "impactMidSize": 2250.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -11479,11 +11404,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 7000000,
+        "maxPositionSize": 7000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:36:40.148Z",
+        "openingDate": "2025-01-28T10:36:40.000Z",
         "pair": "BIO:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -14161,7 +14086,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2250,
+        "impactMidSize": 2250.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -14190,11 +14115,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 7000000,
+        "maxPositionSize": 7000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:31:14.335Z",
+        "openingDate": "2025-01-28T10:31:14.000Z",
         "pair": "CGPT:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -25444,7 +25369,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2500,
+        "impactMidSize": 2500.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -25473,11 +25398,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 7500000,
+        "maxPositionSize": 7500000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:28:05.016Z",
+        "openingDate": "2025-01-28T10:28:05.000Z",
         "pair": "HIVE:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -27470,7 +27395,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 375,
+        "impactMidSize": 375.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -27499,11 +27424,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 1100000,
+        "maxPositionSize": 1100000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:27:56.359Z",
+        "openingDate": "2025-01-28T10:27:56.000Z",
         "pair": "IO:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -46021,7 +45946,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20000,
+        "impactMidSize": 20000.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -46050,11 +45975,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 60000000,
+        "maxPositionSize": 60000000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:36:33.653Z",
+        "openingDate": "2025-01-28T10:36:34.000Z",
         "pair": "SKL:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -46748,7 +46673,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1375,
+        "impactMidSize": 1375.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -46777,11 +46702,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 4500000,
+        "maxPositionSize": 4500000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:33:23.149Z",
+        "openingDate": "2025-01-28T10:33:23.000Z",
         "pair": "SONIC:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -55994,7 +55919,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 30000,
+        "impactMidSize": 30000.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -56023,11 +55948,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 88200000,
+        "maxPositionSize": 88200000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-01-28T10:26:46.548Z",
+        "openingDate": "2025-01-28T10:26:47.000Z",
         "pair": "XCN:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
