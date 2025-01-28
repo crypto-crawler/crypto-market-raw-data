@@ -7230,6 +7230,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 1,
+        "base": "BOTIFY",
+        "buy_start": 1738584000,
+        "fee": "0.2",
+        "id": "BOTIFY_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "BOX",
         "buy_start": 1726488000,
@@ -9614,7 +9629,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -10590,6 +10605,21 @@
         "quote": "USDT",
         "sell_start": 1597381200,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "CRWN",
+        "buy_start": 1738231200,
+        "fee": "0.2",
+        "id": "CRWN_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -30022,7 +30052,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -47231,7 +47261,7 @@
         "precision": 4,
         "quote": "USDT",
         "sell_start": 0,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {

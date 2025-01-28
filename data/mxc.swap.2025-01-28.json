@@ -19522,8 +19522,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1715252452000,
         "depthStepList": [
-            "0.001",
-            "0.01"
+            "0.0001",
+            "0.001"
         ],
         "displayName": "FIRE_USDT\u6c38\u7eed",
         "displayNameEn": "FIRE_USDT PERPETUAL",
@@ -19558,8 +19558,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 3,
-        "priceUnit": 0.001,
+        "priceScale": 4,
+        "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 60000,
@@ -25786,7 +25786,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": true,
-        "limitMaxVol": 43000,
+        "limitMaxVol": 21000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -25797,7 +25797,7 @@
             200,
             50
         ],
-        "maxVol": 43000,
+        "maxVol": 21000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -25808,10 +25808,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 43000,
+        "riskBaseVol": 21000,
         "riskIncrImr": 0.095,
         "riskIncrMmr": 0.056,
-        "riskIncrVol": 43000,
+        "riskIncrVol": 21000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -26942,12 +26942,8 @@
         "baseCoinId": "1d5499e9980f43cb82cdd4e233e79d3d",
         "baseCoinName": "J",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737448674000,
@@ -26970,7 +26966,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 4700,
         "maintenanceMarginRate": 0.005,
@@ -40374,12 +40370,8 @@
         "baseCoinId": "f82cbf758c6a4315b3fefa2006d40dd0",
         "baseCoinName": "PLUME",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737384364000,
@@ -40401,7 +40393,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1250,
         "maintenanceMarginRate": 0.01,
@@ -58603,12 +58595,8 @@
         "baseCoinId": "9673467ab46b4b21b11a73cc7c3b5081",
         "baseCoinName": "YULI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737459758000,
@@ -58627,7 +58615,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 2850,
         "maintenanceMarginRate": 0.01,
@@ -58681,12 +58669,8 @@
         "baseCoinId": "a5a1bc08e65e4bc78daff7d540e377da",
         "baseCoinName": "ZACHXBT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737452512000,
@@ -58705,7 +58689,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1650,
         "maintenanceMarginRate": 0.02,
