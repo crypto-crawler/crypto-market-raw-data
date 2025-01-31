@@ -2742,9 +2742,9 @@
         "in_delisting": false,
         "interest_rate": "0.0003",
         "is_pre_market": false,
-        "leverage_max": "25",
+        "leverage_max": "10",
         "leverage_min": "1",
-        "maintenance_rate": "0.03",
+        "maintenance_rate": "0.08",
         "maker_fee_rate": "-0.0001",
         "mark_price_round": "0.0000001",
         "mark_type": "index",
@@ -4232,7 +4232,7 @@
         "risk_limit_step": "490000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "0"
+        "voucher_leverage": "2"
     },
     {
         "config_change_time": 1733798748,
@@ -5877,7 +5877,7 @@
         "risk_limit_step": "990000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "0"
+        "voucher_leverage": "2"
     },
     {
         "config_change_time": 1733798748,
@@ -6087,7 +6087,7 @@
         "risk_limit_step": "990000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "0"
+        "voucher_leverage": "2"
     },
     {
         "config_change_time": 1733798748,
@@ -9867,7 +9867,7 @@
         "risk_limit_step": "999000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "0"
+        "voucher_leverage": "2"
     },
     {
         "config_change_time": 1733798749,
@@ -13017,7 +13017,7 @@
         "risk_limit_step": "4980000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "2"
+        "voucher_leverage": "0"
     },
     {
         "config_change_time": 1733798750,
@@ -13720,7 +13720,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1736734514,
+        "config_change_time": 1736734752,
         "create_time": 1736500882,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -15995,7 +15995,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1737280923,
+        "config_change_time": 1737280922,
         "create_time": 1737197557,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -18022,7 +18022,7 @@
         "risk_limit_step": "999000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
-        "voucher_leverage": "2"
+        "voucher_leverage": "0"
     },
     {
         "config_change_time": 1733798751,
