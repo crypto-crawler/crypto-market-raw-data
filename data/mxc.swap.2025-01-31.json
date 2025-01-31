@@ -5321,7 +5321,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "ARKM",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230718143242875FvDo9rKL5LrsCI.jpg",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250131172501490JEQyw3yRVP4wGE.png",
         "baseCoinId": "d00543d88ede45beac995f3b88535ebb",
         "baseCoinName": "ARKM",
         "bidLimitPriceRate": 0.2,
@@ -10364,7 +10364,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10388,7 +10388,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10397,7 +10397,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -18557,7 +18557,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18581,7 +18581,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18590,7 +18590,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -38241,12 +38241,8 @@
         "baseCoinId": "00551ab484fd4f24835305d9015029eb",
         "baseCoinName": "PASTERNAK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737707610000,
@@ -38265,7 +38261,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 950,
         "maintenanceMarginRate": 0.02,
@@ -44091,12 +44087,8 @@
         "baseCoinId": "260225dc5e6e46c787c89bc0ae5ca837",
         "baseCoinName": "SAFEMOONSOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737712625000,
@@ -44115,7 +44107,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1000,
         "maintenanceMarginRate": 0.02,
@@ -54898,13 +54890,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "VTHO",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20210423121858381qU34VCYEZCSXCR.png",
         "baseCoinId": "aff6ed9b813e4a6f8f64da3acc5e29fb",
         "baseCoinName": "VTHO",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 1000,
@@ -54919,7 +54911,10 @@
         "futureType": 1,
         "id": 540,
         "indexOrigin": [
-            "BINANCE"
+            "BITGET",
+            "BINANCE",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
