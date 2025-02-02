@@ -10364,7 +10364,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10388,7 +10388,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10397,7 +10397,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -11143,6 +11143,8 @@
         "futureType": 1,
         "id": 914,
         "indexOrigin": [
+            "BITGET",
+            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -18557,7 +18559,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18581,7 +18583,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18590,7 +18592,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -29044,13 +29046,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.5,
+        "askLimitPriceRate": 0.7,
         "automaticDelivery": 0,
         "baseCoin": "LIT",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20210517142836903B3DC7nokmELPLU.png",
         "baseCoinId": "cca83b0d37d94a0781954ed4c4e0193b",
         "baseCoinName": "LIT",
-        "bidLimitPriceRate": 0.5,
+        "bidLimitPriceRate": 0.7,
         "conceptPlate": [
             "mc-trade-zone-web3",
             "mc-trade-zone-privity"
