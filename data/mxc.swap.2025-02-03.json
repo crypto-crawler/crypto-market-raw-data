@@ -2527,8 +2527,12 @@
         "baseCoinId": "2b8470c517fa48698da99f2dae11896d",
         "baseCoinName": "AI16Z",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1734580041000,
@@ -2548,7 +2552,7 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
+        "isZeroFeeRate": true,
         "limitMaxVol": 81000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
@@ -2583,7 +2587,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "AI16Z_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -16336,9 +16340,11 @@
         "baseCoinName": "DOGE",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
+            45,
             29
         ],
         "contractSize": 100,
@@ -16367,7 +16373,7 @@
         "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
+        "isZeroFeeRate": true,
         "limitMaxVol": 130000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -16402,7 +16408,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "DOGE_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -33556,9 +33562,11 @@
         "baseCoinName": "MOODENG",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
+            45,
             29
         ],
         "contractSize": 10,
@@ -33582,7 +33590,7 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
+        "isZeroFeeRate": true,
         "limitMaxVol": 100000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -33617,7 +33625,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "MOODENG_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -39795,12 +39803,8 @@
         "baseCoinId": "c09d2856ee4f46be8039f8ef19f9c8b5",
         "baseCoinName": "PINEYE",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737725967000,
@@ -39819,7 +39823,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 600,
         "maintenanceMarginRate": 0.01,
@@ -45724,9 +45728,11 @@
         "baseCoinName": "SHIB",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
+            45,
             29
         ],
         "contractSize": 1000,
@@ -45752,7 +45758,7 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
+        "isZeroFeeRate": true,
         "limitMaxVol": 90000000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -45787,7 +45793,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SHIB_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -55511,8 +55517,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1738029155000,
         "depthStepList": [
-            "0.01",
-            "0.1"
+            "0.001",
+            "0.01"
         ],
         "displayName": "VVV_USDT\u6c38\u7eed",
         "displayNameEn": "VVV_USDT PERPETUAL",
@@ -55545,8 +55551,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
-        "priceScale": 2,
-        "priceUnit": 0.01,
+        "priceScale": 3,
+        "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1250,
