@@ -3832,7 +3832,7 @@
         "automaticDelivery": 0,
         "baseCoin": "ALPHAOFSOL",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250130123459750i39zznt5NY9O0r.jpeg",
-        "baseCoinId": "",
+        "baseCoinId": "e999c0c742074d0d9cab5fc62b464022",
         "baseCoinName": "ALPHAOFSOL",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
@@ -10442,7 +10442,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10466,7 +10466,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10475,7 +10475,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -18637,7 +18637,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18661,7 +18661,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18670,7 +18670,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -30490,8 +30490,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1735786395000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "LUNAI_USDT\u6c38\u7eed",
         "displayNameEn": "LUNAI_USDT PERPETUAL",
@@ -30524,8 +30524,8 @@
         "openingTime": 1735787760000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 3900,
@@ -34502,8 +34502,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737373433000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "N3_USDT\u6c38\u7eed",
         "displayNameEn": "N3_USDT PERPETUAL",
@@ -34536,8 +34536,8 @@
         "openingTime": 1737533040000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 4,
-        "priceUnit": 0.0001,
+        "priceScale": 5,
+        "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1200,
@@ -39316,7 +39316,7 @@
         "automaticDelivery": 0,
         "baseCoin": "PEPU",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202412161155583783USO0GItrDPx68.jpeg",
-        "baseCoinId": "",
+        "baseCoinId": "273d0eea86044f7bbbaa0499fc4f8344",
         "baseCoinName": "PEPU",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
@@ -43366,13 +43366,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "REN",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230701202016363fDcP4MmDtdMqRW.png",
         "baseCoinId": "6712c4a0dd914612b50d26c6bef27542",
         "baseCoinName": "REN",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 10,
@@ -44472,8 +44472,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1737712625000,
         "depthStepList": [
-            "0.00001",
-            "0.0001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "SAFEMOONSOL_USDT\u6c38\u7eed",
         "displayNameEn": "SAFEMOONSOL_USDT PERPETUAL",
@@ -44506,8 +44506,8 @@
         "openingTime": 0,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 1000,
@@ -56675,7 +56675,7 @@
         "automaticDelivery": 0,
         "baseCoin": "XAUT",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20221017105751925Cz3pvBMErm0SPV.png",
-        "baseCoinId": "",
+        "baseCoinId": "da0e8daab98b485eb8fce727907e4098",
         "baseCoinName": "XAUT",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
