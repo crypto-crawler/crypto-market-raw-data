@@ -13720,7 +13720,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1736734514,
+        "config_change_time": 1736734752,
         "create_time": 1736500882,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -15995,7 +15995,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1737280923,
+        "config_change_time": 1737280922,
         "create_time": 1737197557,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -16567,9 +16567,9 @@
         "in_delisting": false,
         "interest_rate": "0.0003",
         "is_pre_market": false,
-        "leverage_max": "50",
+        "leverage_max": "20",
         "leverage_min": "1",
-        "maintenance_rate": "0.01",
+        "maintenance_rate": "0.035",
         "maker_fee_rate": "-0.0001",
         "mark_price_round": "0.00001",
         "mark_type": "index",
@@ -16582,9 +16582,9 @@
         "quanto_multiplier": "10",
         "ref_discount_rate": "0",
         "ref_rebate_rate": "0.2",
-        "risk_limit_base": "5000",
+        "risk_limit_base": "10000",
         "risk_limit_max": "2000000",
-        "risk_limit_step": "1995000",
+        "risk_limit_step": "1990000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
         "voucher_leverage": "0"
