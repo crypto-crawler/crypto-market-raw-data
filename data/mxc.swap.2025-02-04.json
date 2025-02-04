@@ -9892,7 +9892,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 11477,
+        "threshold": 12385,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -10458,7 +10458,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10482,7 +10482,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10491,7 +10491,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -18662,7 +18662,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18686,7 +18686,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18695,7 +18695,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -22755,7 +22755,6 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -27335,7 +27334,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 439383,
+        "threshold": 485081,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -47473,11 +47472,9 @@
         "baseCoinName": "SPA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-Arbitrum"
         ],
         "conceptPlateId": [
-            -1,
             24
         ],
         "contractSize": 100,
@@ -47498,7 +47495,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 850,
         "maintenanceMarginRate": 0.02,
@@ -51297,12 +51294,8 @@
         "baseCoinId": "597a131b270e40b89ba7b664eeea4c0a",
         "baseCoinName": "TICO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1738033149000,
@@ -51321,7 +51314,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1200,
         "maintenanceMarginRate": 0.01,
@@ -55568,12 +55561,8 @@
         "baseCoinId": "5360123869014e40a4d9913a2d141b1a",
         "baseCoinName": "VVV",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1738029155000,
@@ -55592,7 +55581,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 1250,
         "maintenanceMarginRate": 0.01,
