@@ -2346,7 +2346,7 @@
         "size_increment": "2",
         "status": "online",
         "symbol": "MXNA_USDT",
-        "tick_size": "4"
+        "tick_size": "5"
     },
     {
         "base_asset_precision": "2",
@@ -2682,13 +2682,13 @@
         "tick_size": "7"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
         "base_currency": "POL",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "1",
         "status": "gray",
         "symbol": "POL_USDC",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "1",
@@ -2700,22 +2700,22 @@
         "tick_size": "8"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "USDE",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "USDE_USDC",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "ICP",
         "quote_currency": "USDC",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "ICP_USDC",
-        "tick_size": "0"
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "1",
@@ -3796,6 +3796,15 @@
         "status": "online",
         "symbol": "DOGE_USDC",
         "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "3",
+        "base_currency": "BCH",
+        "quote_currency": "USDC",
+        "size_increment": "3",
+        "status": "gray",
+        "symbol": "BCH_USDC",
+        "tick_size": "1"
     },
     {
         "base_asset_precision": "0",
@@ -5182,6 +5191,15 @@
         "status": "online",
         "symbol": "PPT_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "UNI",
+        "quote_currency": "USDC",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "UNI_USDC",
+        "tick_size": "3"
     },
     {
         "base_asset_precision": "2",
