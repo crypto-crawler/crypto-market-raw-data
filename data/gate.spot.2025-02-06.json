@@ -5521,6 +5521,21 @@
     },
     {
         "amount_precision": 1,
+        "base": "BDG",
+        "buy_start": 1740644160,
+        "fee": "0.2",
+        "id": "BDG_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 7,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 1,
         "base": "BDIN",
         "buy_start": 1704549600,
         "fee": "0.2",
@@ -8684,7 +8699,7 @@
         "precision": 8,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -12360,6 +12375,21 @@
         "quote": "USDT",
         "sell_start": 1607313600,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "DNOW",
+        "buy_start": 1738940400,
+        "fee": "0.2",
+        "id": "DNOW_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
@@ -33188,6 +33218,21 @@
         "quote": "USDT",
         "sell_start": 1577808000,
         "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PNDO",
+        "buy_start": 1739188800,
+        "fee": "0.2",
+        "id": "PNDO_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
         "type": "normal"
     },
     {
