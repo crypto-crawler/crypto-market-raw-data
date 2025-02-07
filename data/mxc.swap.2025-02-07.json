@@ -9905,7 +9905,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 12293,
+        "threshold": 12807,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -10471,7 +10471,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10495,7 +10495,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10504,7 +10504,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -11387,13 +11387,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "CATS",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241005180409557Nf0FdYK0LY9zss.jpeg",
         "baseCoinId": "a499c60448204180b3eedcc5ff464743",
         "baseCoinName": "CATS",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-GameFi"
         ],
@@ -18675,7 +18675,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18699,7 +18699,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18708,7 +18708,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -19537,7 +19537,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "FIS",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241119110944100oO7SS4dmLdhg5D.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241120120545319syYNo8d7CKoKIC.jpeg",
         "baseCoinId": "68f20f99ee36450b94b9cf117e80f81a",
         "baseCoinName": "FIS",
         "bidLimitPriceRate": 0.2,
@@ -19557,7 +19557,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
-            "HTX"
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -21186,12 +21186,8 @@
         "baseCoinId": "ad369ba8bd0c44bc8cce7c4d0a55fa25",
         "baseCoinName": "GANG",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1738337751000,
@@ -21210,7 +21206,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 400,
         "maintenanceMarginRate": 0.01,
@@ -27265,7 +27261,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 386996,
+        "threshold": 420260,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -32894,7 +32890,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "MNT",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230717115445632Me6pYyNRPQyVIv.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F202502072153236360rrXNV2BFR9u6s.jpg",
         "baseCoinId": "c9c5c93511724e2781ea6915c977aa89",
         "baseCoinName": "MNT",
         "bidLimitPriceRate": 0.2,
