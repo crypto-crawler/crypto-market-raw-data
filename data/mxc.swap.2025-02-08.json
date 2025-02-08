@@ -2391,7 +2391,7 @@
             "OKX",
             "MEXC"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -2403,7 +2403,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -6133,8 +6133,7 @@
         "createTime": 1630380859000,
         "depthStepList": [
             "0.0001",
-            "0.001",
-            "0.01"
+            "0.001"
         ],
         "displayName": "ATA_USDT\u6c38\u7eed",
         "displayNameEn": "ATA_USDT PERPETUAL",
@@ -10471,7 +10470,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10495,7 +10494,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10504,7 +10503,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -11497,7 +11496,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
@@ -17649,8 +17648,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1735612107000,
         "depthStepList": [
-            "0.0001",
-            "0.001"
+            "0.00001",
+            "0.0001"
         ],
         "displayName": "ELIZA_USDT\u6c38\u7eed",
         "displayNameEn": "ELIZA_USDT PERPETUAL",
@@ -18675,7 +18674,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -18699,7 +18698,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -18708,7 +18707,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -19617,12 +19616,8 @@
         "baseCoinId": "ec3d3edf825f4d2891a0fe2529f0ce00",
         "baseCoinName": "FLAY",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1738386122000,
@@ -19641,7 +19636,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 300,
         "maintenanceMarginRate": 0.02,
@@ -22736,13 +22731,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.5,
+        "askLimitPriceRate": 0.7,
         "automaticDelivery": 0,
         "baseCoin": "GODS",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202307011913364675xn5Pmdo2kW2gh.png",
         "baseCoinId": "950ddec97da34006b96258189642f99a",
         "baseCoinName": "GODS",
-        "bidLimitPriceRate": 0.5,
+        "bidLimitPriceRate": 0.7,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 1,
@@ -36125,7 +36120,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -36137,7 +36132,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -52100,7 +52095,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": true,
