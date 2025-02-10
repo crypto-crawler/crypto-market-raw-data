@@ -37987,8 +37987,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 30000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -37997,6 +38004,7 @@
         "ordermin": "2",
         "pair_decimals": 3,
         "quote": "ZUSD",
+        "short_position_limit": 30000,
         "status": "online",
         "tick_size": "0.001",
         "wsname": "IMX/USD"
@@ -41651,8 +41659,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 60000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -41661,6 +41676,7 @@
         "ordermin": "8",
         "pair_decimals": 4,
         "quote": "ZUSD",
+        "short_position_limit": 60000,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "KNC/USD"
@@ -63057,8 +63073,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 110000,
         "lot": "unit5",
         "lot_decimals": 5,
         "lot_multiplier": 1,
@@ -63067,6 +63090,7 @@
         "ordermin": "9",
         "pair_decimals": 5,
         "quote": "ZUSD",
+        "short_position_limit": 110000,
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "PYTH/USD"
@@ -63661,8 +63685,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 11000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -63671,6 +63702,7 @@
         "ordermin": "1.2",
         "pair_decimals": 5,
         "quote": "ZUSD",
+        "short_position_limit": 11000,
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "QTUM/USD"
@@ -64509,8 +64541,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 5000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -64519,6 +64558,7 @@
         "ordermin": "0.85",
         "pair_decimals": 3,
         "quote": "ZUSD",
+        "short_position_limit": 5000,
         "status": "online",
         "tick_size": "0.001",
         "wsname": "RAY/USD"
@@ -67499,8 +67539,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 30000,
         "lot": "unit5",
         "lot_decimals": 5,
         "lot_multiplier": 1,
@@ -67509,6 +67556,7 @@
         "ordermin": "2",
         "pair_decimals": 3,
         "quote": "ZUSD",
+        "short_position_limit": 30000,
         "status": "online",
         "tick_size": "0.001",
         "wsname": "SAGA/USD"
@@ -72395,8 +72443,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 30000,
         "lot": "unit5",
         "lot_decimals": 5,
         "lot_multiplier": 1,
@@ -72405,6 +72460,7 @@
         "ordermin": "3.5",
         "pair_decimals": 4,
         "quote": "ZUSD",
+        "short_position_limit": 30000,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "SPX/USD"
@@ -87343,8 +87399,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 800000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -87353,6 +87416,7 @@
         "ordermin": "165",
         "pair_decimals": 5,
         "quote": "ZUSD",
+        "short_position_limit": 800000,
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "XCN/USD"

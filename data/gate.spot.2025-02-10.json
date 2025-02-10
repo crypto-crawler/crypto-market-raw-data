@@ -2531,7 +2531,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -5940,13 +5940,13 @@
         "type": "normal"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 1,
         "base": "BEYOND",
         "buy_start": 1642384800,
         "fee": "0.2",
         "id": "BEYOND_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.1",
         "min_quote_amount": "3",
         "precision": 7,
         "quote": "USDT",
@@ -21607,6 +21607,21 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "JAILSTOOL",
+        "buy_start": 1739178900,
+        "fee": "0.2",
+        "id": "JAILSTOOL_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 0,
         "base": "JAM",
         "buy_start": 1675342800,
@@ -33292,7 +33307,7 @@
         "precision": 5,
         "quote": "USDT",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
