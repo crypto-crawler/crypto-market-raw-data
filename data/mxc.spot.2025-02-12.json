@@ -2024,23 +2024,6 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Kaon",
-        "limited": false,
-        "maker_fee_rate": "0E-18",
-        "max_amount": "200000",
-        "max_amount_market": "200000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "AKRO_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
         "fullName": "Akuma Inu",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -4447,11 +4430,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AVL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -14866,7 +14849,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "EKU_USDT",
@@ -18251,11 +18234,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "G7_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -24118,6 +24101,23 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KANG_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Kaon",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "200000",
+        "max_amount_market": "200000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 7,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "KAON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
@@ -41252,11 +41252,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SCOT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46063,11 +46063,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SVTS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -48162,6 +48162,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "TracyAI by Virtuals",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "TRACY_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "TRAC",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -48485,7 +48502,7 @@
     },
     {
         "etf_mark": 0,
-        "fullName": "Truflation",
+        "fullName": "TRUF.Network",
         "limited": false,
         "maker_fee_rate": "0E-18",
         "max_amount": "100000",
