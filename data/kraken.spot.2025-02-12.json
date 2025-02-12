@@ -21340,6 +21340,218 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "DOGSEUR",
+        "base": "DOGS",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5000",
+        "pair_decimals": 7,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.0000001",
+        "wsname": "DOGS/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "DOGSUSD",
+        "base": "DOGS",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5000",
+        "pair_decimals": 7,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0000001",
+        "wsname": "DOGS/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "DOTETH",
         "base": "DOT",
         "cost_decimals": 8,
@@ -55150,6 +55362,218 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "NOTEUR",
+        "base": "NOT",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1000",
+        "pair_decimals": 6,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.000001",
+        "wsname": "NOT/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "NOTUSD",
+        "base": "NOT",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "1000",
+        "pair_decimals": 6,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.000001",
+        "wsname": "NOT/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "NTRNEUR",
         "base": "NTRN",
         "cost_decimals": 8,
@@ -77828,6 +78252,112 @@
         "status": "online",
         "tick_size": "0.001",
         "wsname": "TON/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "TONUSDT",
+        "base": "TON",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "0.75",
+        "pair_decimals": 3,
+        "quote": "USDT",
+        "status": "post_only",
+        "tick_size": "0.001",
+        "wsname": "TON/USDT"
     },
     {
         "aclass_base": "currency",
