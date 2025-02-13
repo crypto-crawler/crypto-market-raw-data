@@ -3605,6 +3605,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "AskJimmy",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "ASKJ_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "AsMatch",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -6079,11 +6096,11 @@
         "min_amount_market": "1",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BERAFI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -7747,7 +7764,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BROWNIE_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -10281,6 +10298,23 @@
         "state": "1",
         "symbol": "CLEAR_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "CLEO",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 12,
+        "quantity_scale": 0,
+        "state": "1",
+        "symbol": "CLEO_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -42389,13 +42423,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SHELL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
