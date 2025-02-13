@@ -16860,10 +16860,10 @@
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "kaonusdt",
         "symbol-partition": "main",
-        "tags": "activities",
+        "tags": "st,activities",
         "value-precision": 8
     },
     {
@@ -25109,7 +25109,7 @@
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 0.01,
-        "state": "suspend",
+        "state": "offline",
         "symbol": "piusdt",
         "symbol-partition": "main",
         "tags": "",
