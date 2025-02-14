@@ -4105,6 +4105,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "PI",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "PI_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "SHELL",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -5353,6 +5362,15 @@
         "status": "online",
         "symbol": "AERGO_USDT",
         "tick_size": "4"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "KAON",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "KAON_USDT",
+        "tick_size": "7"
     },
     {
         "base_asset_precision": "4",
