@@ -1395,6 +1395,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Aicean",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "AICE_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "AICODE",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -1545,6 +1562,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "AIgoAgent",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "AIGO_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -6793,11 +6827,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BLEND_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -13066,11 +13100,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DIN_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -21583,11 +21617,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "HOL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -24646,6 +24680,23 @@
         "state": "1",
         "symbol": "KERMIT_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "yellow ket",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "KET_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -39469,7 +39520,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "RETARDIO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -42784,7 +42835,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SIGMA_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -44497,7 +44548,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SPN_USDT",
@@ -52220,6 +52271,23 @@
         "state": "1",
         "symbol": "WING_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Wink",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "WINK_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
