@@ -1628,7 +1628,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 16000,
+        "limitMaxVol": 10000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -1639,7 +1639,7 @@
             200,
             50
         ],
-        "maxVol": 16000,
+        "maxVol": 10000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -1650,10 +1650,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 16000,
+        "riskBaseVol": 10000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 16000,
+        "riskIncrVol": 10000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -10712,7 +10712,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10736,7 +10736,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10745,7 +10745,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -19182,7 +19182,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19206,7 +19206,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -19215,7 +19215,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -27023,7 +27023,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -27035,7 +27035,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -27312,12 +27312,8 @@
         "baseCoinId": "8e586a99ab8341eb958cb417eabed446",
         "baseCoinName": "JAILSTOOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1739076156000,
@@ -27339,7 +27335,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 24000,
         "maintenanceMarginRate": 0.01,
@@ -27495,7 +27491,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 160000,
+        "limitMaxVol": 67000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -27506,7 +27502,7 @@
             200,
             50
         ],
-        "maxVol": 160000,
+        "maxVol": 67000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -27517,10 +27513,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 160000,
+        "riskBaseVol": 67000,
         "riskIncrImr": 0.01,
         "riskIncrMmr": 0.01,
-        "riskIncrVol": 160000,
+        "riskIncrVol": 67000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -29554,7 +29550,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 50000,
+        "limitMaxVol": 34000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -29565,7 +29561,7 @@
             200,
             50
         ],
-        "maxVol": 50000,
+        "maxVol": 34000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -29576,10 +29572,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 50000,
+        "riskBaseVol": 34000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 50000,
+        "riskIncrVol": 34000,
         "riskLevelLimit": 1,
         "riskLimitType": "BY_VOLUME",
         "riskLongShortSwitch": 0,
@@ -34779,7 +34775,7 @@
             "GATEIO",
             "MEXC"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -34791,7 +34787,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -53043,7 +53039,7 @@
         "indexOrigin": [
             "BINANCE"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -53055,7 +53051,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -58101,7 +58097,7 @@
         "askLimitPriceRate": 0.1,
         "automaticDelivery": 0,
         "baseCoin": "XMR",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20191209161141495moPm87vNVq9Xqk.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250216142510753GW866gl5aRPLTW.jpeg",
         "baseCoinId": "0bc91edc5cba497aa1788d726eab49bf",
         "baseCoinName": "XMR",
         "bidLimitPriceRate": 0.1,
