@@ -5441,6 +5441,23 @@
     },
     {
         "amount_precision": 2,
+        "base": "BADAI",
+        "base_name": "BAD AI",
+        "buy_start": 1740060000,
+        "fee": "0.2",
+        "id": "BADAI_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "BADGER",
         "base_name": "Badger DAO",
         "buy_start": 1607155200,
@@ -40798,7 +40815,7 @@
     {
         "amount_precision": 2,
         "base": "RIZ",
-        "base_name": "Rivalz",
+        "base_name": "Rivalz Network",
         "buy_start": 1740142800,
         "fee": "0.2",
         "id": "RIZ_USDT",
