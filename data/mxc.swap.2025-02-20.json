@@ -10230,12 +10230,8 @@
         "baseCoinId": "92603593fbb14904981efa873532e7b7",
         "baseCoinName": "BROCCOLI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1739467160000,
@@ -10256,7 +10252,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 55000,
         "maintenanceMarginRate": 0.01,
@@ -10705,7 +10701,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10729,7 +10725,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10738,7 +10734,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -19010,7 +19006,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 200,
+        "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19034,7 +19030,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": false,
+        "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -19043,7 +19039,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 400,
         "maxNumOrders": [
             200,
             50
@@ -36794,7 +36790,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -38031,7 +38027,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
