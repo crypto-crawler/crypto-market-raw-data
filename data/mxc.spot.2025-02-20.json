@@ -32427,7 +32427,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 8,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NFC_USDT",
@@ -36687,6 +36687,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Pi Network",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "PI_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0E-18",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "PUMPKIN",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -38107,11 +38124,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PYTHON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
