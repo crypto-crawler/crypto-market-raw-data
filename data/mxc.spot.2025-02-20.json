@@ -1844,7 +1844,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "2",
         "symbol": "AIST_USDT",
@@ -5093,11 +5093,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BADAI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -16515,7 +16515,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "2",
         "symbol": "FARTBOY_USDT",
@@ -28519,11 +28519,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "MA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -42263,6 +42263,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Shadow",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 2,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "SHADOW_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Shark Cat",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -52132,11 +52149,11 @@
         "min_amount_market": "1",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "WINX_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,

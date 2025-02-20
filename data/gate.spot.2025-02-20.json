@@ -5470,7 +5470,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -25248,7 +25248,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -29723,7 +29723,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -37237,6 +37237,40 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PI3L",
+        "base_name": "PI3xLong",
+        "buy_start": 1740060000,
+        "fee": "0.2",
+        "id": "PI3L_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "PI3S",
+        "base_name": "PI3xShort",
+        "buy_start": 1740060000,
+        "fee": "0.2",
+        "id": "PI3S_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
