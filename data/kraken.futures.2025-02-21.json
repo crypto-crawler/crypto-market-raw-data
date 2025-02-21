@@ -700,7 +700,7 @@
             }
         },
         "maxPositionSize": 8000.0,
-        "openingDate": "2025-02-21T08:00:00.283Z",
+        "openingDate": "2025-02-21T08:00:00.000Z",
         "pair": "ETH:USD",
         "postOnly": false,
         "quote": "USD",
@@ -1822,7 +1822,7 @@
             }
         },
         "maxPositionSize": 600.0,
-        "openingDate": "2025-02-21T08:00:00.132Z",
+        "openingDate": "2025-02-21T08:00:00.000Z",
         "pair": "BTC:USD",
         "postOnly": false,
         "quote": "USD",
@@ -46753,34 +46753,29 @@
         "impactMidSize": 9000.0,
         "marginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "marginSchedules": {
@@ -46875,34 +46870,29 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "symbol": "PF_STORJUSD",
@@ -48375,14 +48365,9 @@
         "impactMidSize": 215000.0,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -48397,7 +48382,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -48492,14 +48477,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -48514,7 +48494,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_SWEATUSD",

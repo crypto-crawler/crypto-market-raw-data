@@ -4326,9 +4326,9 @@
         "futureType": 1,
         "id": 357,
         "indexOrigin": [
+            "BINANCE",
             "GATEIO",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -7411,7 +7411,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
@@ -36790,7 +36790,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -56748,12 +56748,8 @@
         "baseCoinId": "0daf638e31da48648c5bb4394cb5f3fe",
         "baseCoinName": "WINK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1739526119000,
@@ -56772,7 +56768,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 500,
         "maintenanceMarginRate": 0.01,
