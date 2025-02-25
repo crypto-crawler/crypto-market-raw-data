@@ -6293,7 +6293,7 @@
         "amount_precision": 1,
         "base": "BDG",
         "base_name": "Beyond Gaming",
-        "buy_start": 1740644160,
+        "buy_start": 1740816960,
         "fee": "0.2",
         "id": "BDG_USDT",
         "max_quote_amount": "5000000",
@@ -11508,7 +11508,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1598943600,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -18605,6 +18605,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 1,
+        "base": "FORM",
+        "base_name": "Form",
+        "buy_start": 1740657600,
+        "fee": "0.2",
+        "id": "FORM_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.1",
+        "min_quote_amount": "3",
+        "precision": 6,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1607313600,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 3,
         "base": "FORTH",
         "base_name": "Ampleforth",
@@ -23569,14 +23586,14 @@
         "type": "normal"
     },
     {
-        "amount_precision": 0,
+        "amount_precision": 1,
         "base": "IHT",
         "base_name": "IHT",
         "buy_start": 1522044000,
         "fee": "0.2",
         "id": "IHT_USDT",
         "max_quote_amount": "5000000",
-        "min_base_amount": "1",
+        "min_base_amount": "0.1",
         "min_quote_amount": "3",
         "precision": 8,
         "quote": "USDT",
@@ -36272,6 +36289,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "PAIN",
+        "base_name": "Pain",
+        "buy_start": 1740038400,
+        "fee": "0.2",
+        "id": "PAIN_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "PAIN",
         "base_name": "Pain",
@@ -41234,6 +41268,23 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "RIZ",
+        "base_name": "Rivalz Network",
+        "buy_start": 1740142800,
+        "fee": "0.2",
+        "id": "RIZ_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 4,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -55618,7 +55669,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
