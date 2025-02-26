@@ -5737,13 +5737,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BDCA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -8566,6 +8566,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Bazaars",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "BZR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -17270,6 +17287,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Form",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "FORM_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -49471,6 +49505,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Ethena USDe",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "USDE_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0E-18",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "USD Mapped Token",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -49501,23 +49552,6 @@
         "symbol": "USDP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "Tether",
-        "limited": false,
-        "maker_fee_rate": "0E-18",
-        "max_amount": "500000",
-        "max_amount_market": "500000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "USDT_EUR",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
