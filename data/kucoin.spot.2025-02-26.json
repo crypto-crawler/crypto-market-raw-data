@@ -10299,7 +10299,7 @@
         "callauctionThirdStageStartTime": null,
         "enableTrading": true,
         "feeCurrency": "USDT",
-        "isMarginEnabled": true,
+        "isMarginEnabled": false,
         "market": "USDS",
         "minFunds": "0.1",
         "name": "CLV-USDT",
@@ -34614,10 +34614,10 @@
         "tradingStartTime": 1740474000000
     },
     {
-        "baseCurrency": "NVG8",
-        "baseIncrement": "0.1",
+        "baseCurrency": "FORM",
+        "baseIncrement": "1",
         "baseMaxSize": "10000000000",
-        "baseMinSize": "10",
+        "baseMinSize": "100",
         "callauctionFirstStageStartTime": null,
         "callauctionIsEnabled": false,
         "callauctionPriceCeiling": null,
@@ -34629,15 +34629,15 @@
         "isMarginEnabled": false,
         "market": "USDS",
         "minFunds": "0.1",
-        "name": "NVG8-USDT",
-        "priceIncrement": "0.00001",
+        "name": "FORM-USDT",
+        "priceIncrement": "0.000001",
         "priceLimitRate": "0.1",
         "quoteCurrency": "USDT",
-        "quoteIncrement": "0.00001",
+        "quoteIncrement": "0.000001",
         "quoteMaxSize": "99999999",
         "quoteMinSize": "0.1",
         "st": false,
-        "symbol": "NVG8-USDT",
-        "tradingStartTime": 1740571200000
+        "symbol": "FORM-USDT",
+        "tradingStartTime": 1740657600000
     }
 ]
