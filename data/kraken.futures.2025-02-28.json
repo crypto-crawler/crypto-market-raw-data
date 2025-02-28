@@ -2200,6 +2200,73 @@
         "underlying": "rr_ethusd"
     },
     {
+        "base": "ETH",
+        "category": "Layer 1",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
+        "impactMidSize": 1000,
+        "isTradfi": false,
+        "isin": "GB00BSRJMM18",
+        "lastTradingTime": "2025-09-26T15:00:00.000Z",
+        "marginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 500000,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 1500000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 3000000,
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 20000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 50000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 15000000,
+        "openingDate": "2025-02-28T16:23:09.000Z",
+        "pair": "ETH:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "symbol": "FI_ETHUSD_250926",
+        "tags": [],
+        "tickSize": 0.05,
+        "tradeable": true,
+        "type": "futures_inverse",
+        "underlying": "rr_ethusd"
+    },
+    {
         "base": "LTC",
         "category": "",
         "contractSize": 1,
@@ -2338,6 +2405,68 @@
             }
         ],
         "symbol": "FI_LTCUSD_250328",
+        "tags": [],
+        "tickSize": 0.01,
+        "tradeable": true,
+        "type": "futures_inverse",
+        "underlying": "rr_ltcusd"
+    },
+    {
+        "base": "LTC",
+        "category": "Layer 1",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
+        "impactMidSize": 1000.0,
+        "isTradfi": false,
+        "isin": "GB00BSRJLZ71",
+        "lastTradingTime": "2025-06-27T15:00:00.000Z",
+        "marginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 750000,
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05
+            },
+            {
+                "contracts": 2000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 5000000.0,
+        "openingDate": "2025-02-28T16:28:42.000Z",
+        "pair": "LTC:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "symbol": "FI_LTCUSD_250627",
         "tags": [],
         "tickSize": 0.01,
         "tradeable": true,
@@ -2665,6 +2794,73 @@
         "underlying": "rr_xbtusd"
     },
     {
+        "base": "BTC",
+        "category": "Layer 1",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
+        "impactMidSize": 1000,
+        "isTradfi": false,
+        "isin": "GB00BSRJML01",
+        "lastTradingTime": "2025-09-26T15:00:00.000Z",
+        "marginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01
+            },
+            {
+                "contracts": 500000,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 1500000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 3000000,
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 20000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 50000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 40000000,
+        "openingDate": "2025-02-28T16:19:33.000Z",
+        "pair": "BTC:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "symbol": "FI_XBTUSD_250926",
+        "tags": [],
+        "tickSize": 0.5,
+        "tradeable": true,
+        "type": "futures_inverse",
+        "underlying": "rr_xbtusd"
+    },
+    {
         "base": "XRP",
         "category": "",
         "contractSize": 1,
@@ -2803,6 +2999,68 @@
             }
         ],
         "symbol": "FI_XRPUSD_250328",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "futures_inverse",
+        "underlying": "rr_xrpusd"
+    },
+    {
+        "base": "XRP",
+        "category": "Layer 1",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "a6cbc326-9477-4a6c-911a-d4cb3ed7481e",
+        "impactMidSize": 1000,
+        "isTradfi": false,
+        "isin": "GB00BSRJM099",
+        "lastTradingTime": "2025-06-27T15:00:00.000Z",
+        "marginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02
+            },
+            {
+                "contracts": 250000,
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025
+            },
+            {
+                "contracts": 750000,
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05
+            },
+            {
+                "contracts": 2000000,
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1
+            },
+            {
+                "contracts": 5000000,
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15
+            },
+            {
+                "contracts": 10000000,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 3000000,
+        "openingDate": "2025-02-28T16:28:49.000Z",
+        "pair": "XRP:USD",
+        "postOnly": false,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "contracts": 0,
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25
+            }
+        ],
+        "symbol": "FI_XRPUSD_250627",
         "tags": [],
         "tickSize": 0.0001,
         "tradeable": true,
