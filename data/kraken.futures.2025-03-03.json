@@ -3074,7 +3074,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -3243,7 +3243,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 16.0,
+        "impactMidSize": 19,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -3432,7 +3432,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2350.0,
+        "impactMidSize": 2050,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -3581,7 +3581,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 65000.0,
+        "impactMidSize": 70000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -3730,38 +3730,33 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15750.0,
+        "impactMidSize": 15750,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "marginSchedules": {
@@ -3856,34 +3851,29 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "symbol": "PF_ACTUSD",
@@ -3899,7 +3889,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5500.0,
+        "impactMidSize": 4200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4088,7 +4078,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 19500.0,
+        "impactMidSize": 19500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4257,7 +4247,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2625.0,
+        "impactMidSize": 2325,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4426,7 +4416,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6500.0,
+        "impactMidSize": 4500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4575,7 +4565,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7000.0,
+        "impactMidSize": 8500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4724,7 +4714,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500.0,
+        "impactMidSize": 9000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -4873,7 +4863,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1000.0,
+        "impactMidSize": 1250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5022,7 +5012,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 70000.0,
+        "impactMidSize": 35000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5098,7 +5088,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15000.0,
+        "impactMidSize": 15000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5287,7 +5277,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2950.0,
+        "impactMidSize": 3000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5436,7 +5426,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 67500.0,
+        "impactMidSize": 67500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5605,7 +5595,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 60000.0,
+        "impactMidSize": 67500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5774,7 +5764,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 70000.0,
+        "impactMidSize": 85000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5850,7 +5840,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 90000.0,
+        "impactMidSize": 95000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -5999,7 +5989,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5900.0,
+        "impactMidSize": 6400,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -6188,7 +6178,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3600.0,
+        "impactMidSize": 3975,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -6357,7 +6347,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 680.0,
+        "impactMidSize": 630,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -6546,18 +6536,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9500000.0,
+        "impactMidSize": 10000000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -6572,7 +6557,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -6657,14 +6642,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -6679,7 +6659,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_APUUSD",
@@ -6695,7 +6675,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000.0,
+        "impactMidSize": 9000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -6884,7 +6864,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 11500.0,
+        "impactMidSize": 8500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -6960,7 +6940,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2700.0,
+        "impactMidSize": 3150,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7109,7 +7089,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 5000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7258,7 +7238,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 60000.0,
+        "impactMidSize": 60000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7407,7 +7387,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 300.0,
+        "impactMidSize": 360,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7576,7 +7556,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50000.0,
+        "impactMidSize": 55000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7725,7 +7705,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 55000.0,
+        "impactMidSize": 55000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -7874,7 +7854,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 900,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -8063,7 +8043,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 230.0,
+        "impactMidSize": 140,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -8212,7 +8192,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 19500.0,
+        "impactMidSize": 22500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -8361,7 +8341,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 160.0,
+        "impactMidSize": 170,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -8550,7 +8530,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 750.0,
+        "impactMidSize": 825,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -8719,18 +8699,13 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 600.0,
+        "impactMidSize": 550,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -8745,7 +8720,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -8830,14 +8805,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -8852,7 +8822,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_BADGERUSD",
@@ -8868,7 +8838,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 14500.0,
+        "impactMidSize": 12500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9017,7 +8987,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1575.0,
+        "impactMidSize": 1650,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9186,7 +9156,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 90.0,
+        "impactMidSize": 115,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9335,7 +9305,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3375.0,
+        "impactMidSize": 2925,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9504,7 +9474,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 29500.0,
+        "impactMidSize": 29500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9653,7 +9623,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17250.0,
+        "impactMidSize": 18000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -9822,38 +9792,33 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17250.0,
+        "impactMidSize": 18000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "marginSchedules": {
@@ -9948,34 +9913,29 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "symbol": "PF_BBUSD",
@@ -9991,7 +9951,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "723888f7-0a8e-4183-8648-f920a22339e3",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12,
+        "impactMidSize": 13,
         "isTradfi": false,
         "isin": "GB00BQ84JW06",
         "marginLevels": [
@@ -10133,9 +10093,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "contracts": 0,
                 "initialMargin": 0.5,
-                "maintenanceMargin": 0.25
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 0.0
             }
         ],
         "symbol": "PF_BCHUSD",
@@ -10151,7 +10111,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 195000.0,
+        "impactMidSize": 245000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10300,7 +10260,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1175.0,
+        "impactMidSize": 975,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10439,7 +10399,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 400.0,
+        "impactMidSize": 260,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10515,7 +10475,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 12500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10664,7 +10624,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 49500.0,
+        "impactMidSize": 48000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10833,7 +10793,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15000.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -10909,7 +10869,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 500000.0,
+        "impactMidSize": 500000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -11058,7 +11018,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 14500.0,
+        "impactMidSize": 15000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -11396,7 +11356,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3750.0,
+        "impactMidSize": 4000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -11545,7 +11505,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6000.0,
+        "impactMidSize": 1125,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -11684,7 +11644,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1500000.0,
+        "impactMidSize": 1500000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -11853,7 +11813,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 230000000.0,
+        "impactMidSize": 280000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12042,7 +12002,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 40000.0,
+        "impactMidSize": 45000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12191,7 +12151,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 22500.0,
+        "impactMidSize": 23500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12340,7 +12300,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1400.0,
+        "impactMidSize": 1100,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12489,7 +12449,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13500.0,
+        "impactMidSize": 13000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12638,7 +12598,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 205000000.0,
+        "impactMidSize": 205000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -12787,18 +12747,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 5000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -12813,7 +12768,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -12898,14 +12853,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -12920,7 +12870,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_CELOUSD",
@@ -12936,7 +12886,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 175000.0,
+        "impactMidSize": 160000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13085,7 +13035,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15500.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13234,7 +13184,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 27000.0,
+        "impactMidSize": 26250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13403,7 +13353,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13500.0,
+        "impactMidSize": 14500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13479,7 +13429,7 @@
         "contractValueTradePrecision": -6,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2500000000.0,
+        "impactMidSize": 2400000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13628,7 +13578,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 65000.0,
+        "impactMidSize": 55000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -13777,18 +13727,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17000.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -13803,7 +13748,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -13888,14 +13833,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -13910,7 +13850,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_CHRUSD",
@@ -13926,7 +13866,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 54000.0,
+        "impactMidSize": 59250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14095,7 +14035,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 480000.0,
+        "impactMidSize": 465000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14264,7 +14204,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 60.0,
+        "impactMidSize": 58.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14433,7 +14373,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 9000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14509,7 +14449,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 450000.0,
+        "impactMidSize": 450000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14658,7 +14598,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 28500.0,
+        "impactMidSize": 22500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14807,7 +14747,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 6000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -14956,7 +14896,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20500.0,
+        "impactMidSize": 24000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15105,7 +15045,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8000.0,
+        "impactMidSize": 8000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15294,7 +15234,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 170000.0,
+        "impactMidSize": 160000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15443,7 +15383,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 20000.0,
+        "impactMidSize": 22000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15592,7 +15532,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 850,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15741,7 +15681,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 600.0,
+        "impactMidSize": 650,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -15880,7 +15820,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 120.0,
+        "impactMidSize": 112.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16049,7 +15989,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 11000.0,
+        "impactMidSize": 13000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16198,7 +16138,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 500000.0,
+        "impactMidSize": 400000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16347,7 +16287,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2400000.0,
+        "impactMidSize": 2200000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16496,7 +16436,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 95.0,
+        "impactMidSize": 110,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16572,7 +16512,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 27000.0,
+        "impactMidSize": 26500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -16837,7 +16777,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17250000.0,
+        "impactMidSize": 16500000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17006,7 +16946,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 650000.0,
+        "impactMidSize": 900000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17155,7 +17095,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 800,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17344,7 +17284,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2850.0,
+        "impactMidSize": 2950,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17493,7 +17433,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 690000.0,
+        "impactMidSize": 600000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17569,7 +17509,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17500.0,
+        "impactMidSize": 16000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17718,7 +17658,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4125.0,
+        "impactMidSize": 4050,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -17887,7 +17827,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3550.0,
+        "impactMidSize": 5000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18036,7 +17976,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 135.0,
+        "impactMidSize": 120,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18205,7 +18145,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1725.0,
+        "impactMidSize": 1800,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18374,7 +18314,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5775.0,
+        "impactMidSize": 7500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18543,7 +18483,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17000.0,
+        "impactMidSize": 17500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18692,7 +18632,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 150.0,
+        "impactMidSize": 180,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -18881,7 +18821,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6700.0,
+        "impactMidSize": 6600,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -19070,7 +19010,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 200.0,
+        "impactMidSize": 200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -19259,7 +19199,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2625.0,
+        "impactMidSize": 3075,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -19617,7 +19557,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 525.0,
+        "impactMidSize": 550,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -19746,33 +19686,38 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3800.0,
+        "impactMidSize": 8250,
         "isTradfi": false,
         "marginLevels": [
             {
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 750000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 2000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 1000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 10000000.0
             }
         ],
         "marginSchedules": {
@@ -19857,29 +19802,34 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
+                "initialMargin": 0.04,
+                "maintenanceMargin": 0.02,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 750000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 2000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 1000000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 10000000.0
             }
         ],
         "symbol": "PF_FARTCOINUSD",
@@ -19895,7 +19845,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4050.0,
+        "impactMidSize": 4200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20064,7 +20014,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 14000.0,
+        "impactMidSize": 15500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20213,7 +20163,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1200.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20402,7 +20352,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 90000.0,
+        "impactMidSize": 90000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20551,7 +20501,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 55000.0,
+        "impactMidSize": 50000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20700,7 +20650,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 33000000.0,
+        "impactMidSize": 36000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -20869,7 +20819,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6000.0,
+        "impactMidSize": 6000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21038,7 +20988,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 47500.0,
+        "impactMidSize": 57500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21167,7 +21117,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 5500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21316,7 +21266,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1200.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21465,7 +21415,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 135000.0,
+        "impactMidSize": 142500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21634,7 +21584,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 550.0,
+        "impactMidSize": 600,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -21783,18 +21733,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50000.0,
+        "impactMidSize": 95000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -21809,7 +21754,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -21894,14 +21839,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -21916,7 +21856,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_GIGAUSD",
@@ -21932,7 +21872,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8000.0,
+        "impactMidSize": 8250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22071,7 +22011,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8500.0,
+        "impactMidSize": 6000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22220,7 +22160,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 45750.0,
+        "impactMidSize": 50250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22389,7 +22329,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 115.0,
+        "impactMidSize": 115,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22538,7 +22478,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 32000.0,
+        "impactMidSize": 41000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22727,7 +22667,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2400.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -22896,7 +22836,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13500.0,
+        "impactMidSize": 29000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23045,7 +22985,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 22500.0,
+        "impactMidSize": 24750,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23214,7 +23154,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 4500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23363,7 +23303,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 105000.0,
+        "impactMidSize": 105000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23512,7 +23452,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 17000.0,
+        "impactMidSize": 16000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23701,7 +23641,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 19500.0,
+        "impactMidSize": 22000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -23850,18 +23790,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2400.0,
+        "impactMidSize": 2350,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -23876,7 +23811,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -23961,14 +23896,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -23983,7 +23913,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_HIGHUSD",
@@ -23999,7 +23929,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 400000.0,
+        "impactMidSize": 450000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24148,7 +24078,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6500.0,
+        "impactMidSize": 7000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24224,7 +24154,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1250000.0,
+        "impactMidSize": 950000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24373,7 +24303,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 11000.0,
+        "impactMidSize": 9500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24522,7 +24452,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1300000.0,
+        "impactMidSize": 1400000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24671,7 +24601,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 85.0,
+        "impactMidSize": 105,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24747,7 +24677,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 580.0,
+        "impactMidSize": 590,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -24936,7 +24866,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 16000.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25085,7 +25015,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500.0,
+        "impactMidSize": 7500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25161,7 +25091,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3825.0,
+        "impactMidSize": 4275,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25330,7 +25260,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 290.0,
+        "impactMidSize": 300,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25519,7 +25449,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 400000.0,
+        "impactMidSize": 400000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25668,7 +25598,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000.0,
+        "impactMidSize": 8500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25817,7 +25747,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 95000.0,
+        "impactMidSize": 105000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -25966,7 +25896,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1350.0,
+        "impactMidSize": 1550,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26042,7 +25972,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 135000.0,
+        "impactMidSize": 157500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26211,7 +26141,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1125.0,
+        "impactMidSize": 1125,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26380,7 +26310,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3525.0,
+        "impactMidSize": 3975,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26549,7 +26479,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 14500.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26698,7 +26628,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 34500.0,
+        "impactMidSize": 36000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26867,7 +26797,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6750.0,
+        "impactMidSize": 6750,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27036,7 +26966,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1875.0,
+        "impactMidSize": 1850,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27175,7 +27105,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500.0,
+        "impactMidSize": 7500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27344,7 +27274,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 65000.0,
+        "impactMidSize": 50000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27493,7 +27423,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 157.5,
+        "impactMidSize": 150,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27662,18 +27592,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2350.0,
+        "impactMidSize": 2100,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -27688,7 +27613,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {},
@@ -27700,14 +27625,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -27722,7 +27642,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_LAYERUSD",
@@ -27738,7 +27658,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2300.0,
+        "impactMidSize": 3100,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -27927,7 +27847,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 875000.0,
+        "impactMidSize": 800000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28066,7 +27986,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 850000.0,
+        "impactMidSize": 850000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28215,7 +28135,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 210.0,
+        "impactMidSize": 250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28404,7 +28324,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 100000.0,
+        "impactMidSize": 115000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28553,7 +28473,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 375.0,
+        "impactMidSize": 427.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28722,7 +28642,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1950.0,
+        "impactMidSize": 2300,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -28871,7 +28791,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 23250.0,
+        "impactMidSize": 24750,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29040,7 +28960,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4275.0,
+        "impactMidSize": 4575,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29209,7 +29129,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "723888f7-0a8e-4183-8648-f920a22339e3",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 38,
+        "impactMidSize": 34,
         "isTradfi": false,
         "isin": "GB00BQ84KF04",
         "marginLevels": [
@@ -29351,9 +29271,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "contracts": 0,
                 "initialMargin": 0.5,
-                "maintenanceMargin": 0.25
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 0.0
             }
         ],
         "symbol": "PF_LTCUSD",
@@ -29369,7 +29289,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3500.0,
+        "impactMidSize": 4500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29518,7 +29438,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4000.0,
+        "impactMidSize": 4250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29647,7 +29567,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000.0,
+        "impactMidSize": 9500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29796,7 +29716,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -29945,7 +29865,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13000.0,
+        "impactMidSize": 13000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -30134,7 +30054,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1350.0,
+        "impactMidSize": 1350,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -30303,18 +30223,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 23500.0,
+        "impactMidSize": 24500,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -30329,7 +30244,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -30414,14 +30329,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -30436,7 +30346,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_MAVUSD",
@@ -30452,7 +30362,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1300.0,
+        "impactMidSize": 2350,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -30601,18 +30511,13 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1450000.0,
+        "impactMidSize": 1550000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -30627,7 +30532,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -30712,14 +30617,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -30734,7 +30634,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_MEMEFIUSD",
@@ -30750,7 +30650,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 675000.0,
+        "impactMidSize": 825000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -30919,7 +30819,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 85.0,
+        "impactMidSize": 90,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31068,7 +30968,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1550.0,
+        "impactMidSize": 1500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31217,7 +31117,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1400000.0,
+        "impactMidSize": 1600000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31406,7 +31306,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6000.0,
+        "impactMidSize": 6500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31555,7 +31455,7 @@
         "contractValueTradePrecision": 3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3.3,
+        "impactMidSize": 2.025,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31724,7 +31624,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 14000.0,
+        "impactMidSize": 16500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -31873,7 +31773,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2400000000.0,
+        "impactMidSize": 3000000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32022,7 +31922,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 61000.0,
+        "impactMidSize": 70000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32211,7 +32111,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1050.0,
+        "impactMidSize": 1000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32360,7 +32260,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3350.0,
+        "impactMidSize": 4000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32509,7 +32409,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 290.0,
+        "impactMidSize": 275,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32658,7 +32558,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2250.0,
+        "impactMidSize": 2200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32807,7 +32707,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 110000.0,
+        "impactMidSize": 90000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -32956,7 +32856,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 45000.0,
+        "impactMidSize": 29000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33032,7 +32932,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1200.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33221,7 +33121,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 110000.0,
+        "impactMidSize": 70000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33370,7 +33270,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000000.0,
+        "impactMidSize": 8250000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33539,7 +33439,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 285.0,
+        "impactMidSize": 315,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33708,7 +33608,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 200.0,
+        "impactMidSize": 195,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -33857,7 +33757,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1125000.0,
+        "impactMidSize": 1050000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34026,7 +33926,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 28000.0,
+        "impactMidSize": 27500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34175,7 +34075,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 25000.0,
+        "impactMidSize": 25500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34324,7 +34224,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 400.0,
+        "impactMidSize": 450,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34473,7 +34373,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 340.0,
+        "impactMidSize": 270,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34622,7 +34522,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2900.0,
+        "impactMidSize": 3600,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34811,7 +34711,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 140000.0,
+        "impactMidSize": 135000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -34887,7 +34787,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8000.0,
+        "impactMidSize": 8000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35036,7 +34936,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 10500.0,
+        "impactMidSize": 11500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35185,7 +35085,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2775.0,
+        "impactMidSize": 2775,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35354,7 +35254,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 950.0,
+        "impactMidSize": 1050,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35503,7 +35403,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 262.5,
+        "impactMidSize": 247.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35672,7 +35572,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 11250.0,
+        "impactMidSize": 11000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -35960,7 +35860,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 1050,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36129,7 +36029,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 277500.0,
+        "impactMidSize": 360000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36298,7 +36198,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 210000.0,
+        "impactMidSize": 180000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36487,7 +36387,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 420000000.0,
+        "impactMidSize": 490000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36676,7 +36576,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4500.0,
+        "impactMidSize": 4500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36825,7 +36725,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 75000.0,
+        "impactMidSize": 65000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -36901,38 +36801,33 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 45750.0,
+        "impactMidSize": 55500,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "marginSchedules": {
@@ -37027,34 +36922,29 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "symbol": "PF_PIXELUSD",
@@ -37070,7 +36960,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 18000.0,
+        "impactMidSize": 13500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -37239,7 +37129,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13000.0,
+        "impactMidSize": 14000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -37428,7 +37318,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 11500.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -37577,38 +37467,33 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 23250.0,
+        "impactMidSize": 21750,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "marginSchedules": {
@@ -37703,34 +37588,29 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.04,
-                "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 25000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 250000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 1000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 3000000.0
             }
         ],
         "symbol": "PF_PONKEUSD",
@@ -37746,7 +37626,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 18000.0,
+        "impactMidSize": 14000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -37935,18 +37815,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15000.0,
+        "impactMidSize": 15500,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -37961,7 +37836,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -38046,14 +37921,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -38068,7 +37938,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_PORTALUSD",
@@ -38084,7 +37954,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9500.0,
+        "impactMidSize": 10500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -38233,7 +38103,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12500.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -38382,7 +38252,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15750.0,
+        "impactMidSize": 15000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -38551,7 +38421,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 22.5,
+        "impactMidSize": 21.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -38700,7 +38570,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -38869,7 +38739,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 85000.0,
+        "impactMidSize": 80000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -39018,18 +38888,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2400.0,
+        "impactMidSize": 2350,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -39044,7 +38909,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -39129,14 +38994,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -39151,7 +39011,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_RADUSD",
@@ -39167,7 +39027,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 30000.0,
+        "impactMidSize": 35000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -39316,7 +39176,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 115000000.0,
+        "impactMidSize": 65000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -39465,7 +39325,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 375.0,
+        "impactMidSize": 800,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -39614,7 +39474,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 900.0,
+        "impactMidSize": 1000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -39803,18 +39663,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 105000.0,
+        "impactMidSize": 115000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -39829,7 +39684,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -39914,14 +39769,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -39936,7 +39786,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_RENUSD",
@@ -39952,7 +39802,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 130000.0,
+        "impactMidSize": 100000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40101,7 +39951,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 800.0,
+        "impactMidSize": 800,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40230,7 +40080,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50000.0,
+        "impactMidSize": 50000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40379,7 +40229,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 235000.0,
+        "impactMidSize": 260000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40528,7 +40378,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3000.0,
+        "impactMidSize": 2900,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40717,7 +40567,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4275.0,
+        "impactMidSize": 5775,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -40886,7 +40736,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500.0,
+        "impactMidSize": 9000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41055,7 +40905,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9999999999.0,
+        "impactMidSize": 31000000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41244,7 +41094,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3750.0,
+        "impactMidSize": 3600,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41393,7 +41243,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 500000.0,
+        "impactMidSize": 550000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41542,7 +41392,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12750.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41711,7 +41561,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 260000000.0,
+        "impactMidSize": 280000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41900,7 +41750,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50000.0,
+        "impactMidSize": 60000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -41976,7 +41826,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 19500.0,
+        "impactMidSize": 26000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42125,7 +41975,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 950000.0,
+        "impactMidSize": 950000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42274,7 +42124,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3000.0,
+        "impactMidSize": 3150,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42632,7 +42482,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 55000.0,
+        "impactMidSize": 50000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42708,7 +42558,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7000.0,
+        "impactMidSize": 6500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42784,7 +42634,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1850000.0,
+        "impactMidSize": 2550000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -42933,7 +42783,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3050.0,
+        "impactMidSize": 3250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43082,7 +42932,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 170.0,
+        "impactMidSize": 180,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43231,7 +43081,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 13000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43380,7 +43230,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3750.0,
+        "impactMidSize": 4000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43509,7 +43359,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000.0,
+        "impactMidSize": 6000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43668,7 +43518,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 27000.0,
+        "impactMidSize": 19000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43744,7 +43594,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12750.0,
+        "impactMidSize": 14250,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -43913,7 +43763,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4300.0,
+        "impactMidSize": 4900,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44102,7 +43952,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1200.0,
+        "impactMidSize": 1400,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44291,7 +44141,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 65000.0,
+        "impactMidSize": 40000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44440,7 +44290,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 110000.0,
+        "impactMidSize": 115000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44589,7 +44439,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2950.0,
+        "impactMidSize": 3300,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44738,7 +44588,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4500.0,
+        "impactMidSize": 2950,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -44887,7 +44737,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3525.0,
+        "impactMidSize": 3600,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45056,7 +44906,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 55000.0,
+        "impactMidSize": 27000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45132,7 +44982,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 215000.0,
+        "impactMidSize": 160000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45281,7 +45131,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 165000.0,
+        "impactMidSize": 155000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45430,7 +45280,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 13500.0,
+        "impactMidSize": 13500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45599,7 +45449,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6000.0,
+        "impactMidSize": 6500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45748,7 +45598,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1900.0,
+        "impactMidSize": 2100,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -45897,7 +45747,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12.0,
+        "impactMidSize": 12,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46086,7 +45936,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2250.0,
+        "impactMidSize": 2475,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46255,7 +46105,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2000.0,
+        "impactMidSize": 1850,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46394,7 +46244,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1300.0,
+        "impactMidSize": 1100,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46583,7 +46433,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 310000.0,
+        "impactMidSize": 290000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46732,7 +46582,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6500.0,
+        "impactMidSize": 4500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -46881,7 +46731,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 75000.0,
+        "impactMidSize": 95000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47030,7 +46880,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1100.0,
+        "impactMidSize": 1200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47219,7 +47069,7 @@
         "contractValueTradePrecision": -3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 2750000.0,
+        "impactMidSize": 4000000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47295,7 +47145,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 90.0,
+        "impactMidSize": 82.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47464,7 +47314,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1550000.0,
+        "impactMidSize": 1350000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47613,38 +47463,43 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 172.5,
+        "impactMidSize": 270,
         "isTradfi": false,
         "marginLevels": [
             {
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 1500000.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 3000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 20000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 50000000.0
             }
         ],
         "marginSchedules": {
@@ -47739,34 +47594,39 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
+                "initialMargin": 0.02,
+                "maintenanceMargin": 0.01,
+                "numNonContractUnits": 0.0
+            },
+            {
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02,
-                "numNonContractUnits": 0.0
+                "numNonContractUnits": 500000.0
             },
             {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 250000.0
+                "numNonContractUnits": 1500000.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 750000.0
+                "numNonContractUnits": 3000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 2000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 5000000.0
+                "numNonContractUnits": 20000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 50000000.0
             }
         ],
         "symbol": "PF_TRUMPUSD",
@@ -47782,7 +47642,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 50000.0,
+        "impactMidSize": 45000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -47931,7 +47791,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 18000.0,
+        "impactMidSize": 16000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48120,7 +47980,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 25500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48196,7 +48056,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 825000.0,
+        "impactMidSize": 900000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48365,7 +48225,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 95000.0,
+        "impactMidSize": 100000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48514,7 +48374,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1875.0,
+        "impactMidSize": 2025,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48683,7 +48543,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 440.0,
+        "impactMidSize": 510,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -48872,7 +48732,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4000.0,
+        "impactMidSize": 4000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49061,7 +48921,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4000.0,
+        "impactMidSize": 4000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49250,7 +49110,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500.0,
+        "impactMidSize": 8500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49399,7 +49259,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3150.0,
+        "impactMidSize": 3450,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49548,7 +49408,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 340.0,
+        "impactMidSize": 260,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49697,7 +49557,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 115000.0,
+        "impactMidSize": 115000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49773,7 +49633,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 60000.0,
+        "impactMidSize": 65000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49922,7 +49782,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 15500.0,
+        "impactMidSize": 50000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -49998,7 +49858,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1600.0,
+        "impactMidSize": 1800,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50147,7 +50007,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 21500.0,
+        "impactMidSize": 19500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50296,7 +50156,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 250.0,
+        "impactMidSize": 550,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50372,7 +50232,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5400.0,
+        "impactMidSize": 5200,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50561,7 +50421,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 3200.0,
+        "impactMidSize": 3300,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50750,7 +50610,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 8750.0,
+        "impactMidSize": 8750,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -50879,7 +50739,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 18000.0,
+        "impactMidSize": 22500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -51237,7 +51097,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 70000.0,
+        "impactMidSize": 105000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -51313,7 +51173,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 12000.0,
+        "impactMidSize": 12000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -51502,7 +51362,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 18.0,
+        "impactMidSize": 17,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -51691,7 +51551,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "723888f7-0a8e-4183-8648-f920a22339e3",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1700,
+        "impactMidSize": 1875,
         "isTradfi": false,
         "isin": "GB00BQ84KV61",
         "marginLevels": [
@@ -51703,32 +51563,32 @@
             {
                 "initialMargin": 0.04,
                 "maintenanceMargin": 0.02,
-                "numNonContractUnits": 500000.0
+                "numNonContractUnits": 2000000.0
             },
             {
                 "initialMargin": 0.05,
                 "maintenanceMargin": 0.025,
-                "numNonContractUnits": 1500000.0
+                "numNonContractUnits": 5000000.0
             },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 10000000.0
             },
             {
                 "initialMargin": 0.2,
                 "maintenanceMargin": 0.1,
-                "numNonContractUnits": 10000000.0
+                "numNonContractUnits": 30000000.0
             },
             {
                 "initialMargin": 0.3,
                 "maintenanceMargin": 0.15,
-                "numNonContractUnits": 20000000.0
+                "numNonContractUnits": 50000000.0
             },
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 50000000.0
+                "numNonContractUnits": 150000000.0
             }
         ],
         "marginSchedules": {
@@ -51833,9 +51693,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "contracts": 0,
                 "initialMargin": 0.5,
-                "maintenanceMargin": 0.25
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 0.0
             }
         ],
         "symbol": "PF_XRPUSD",
@@ -51851,7 +51711,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4700.0,
+        "impactMidSize": 4900,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52040,18 +51900,13 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 35000000.0,
+        "impactMidSize": 36000000,
         "isTradfi": false,
         "marginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -52066,7 +51921,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
@@ -52151,14 +52006,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -52173,7 +52023,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_XUSD",
@@ -52189,7 +52039,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 315000.0,
+        "impactMidSize": 330000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52338,7 +52188,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 250.0,
+        "impactMidSize": 305,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52414,7 +52264,7 @@
         "contractValueTradePrecision": 4,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 0.52,
+        "impactMidSize": 0.5325,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52583,7 +52433,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 9000.0,
+        "impactMidSize": 7500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52732,7 +52582,7 @@
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 97.5,
+        "impactMidSize": 75,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -52901,7 +52751,7 @@
         "contractValueTradePrecision": 1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 255.0,
+        "impactMidSize": 232.5,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53070,7 +52920,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 40000.0,
+        "impactMidSize": 37500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53219,7 +53069,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7000.0,
+        "impactMidSize": 7000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53368,7 +53218,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 5000.0,
+        "impactMidSize": 5500,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53517,7 +53367,7 @@
         "contractValueTradePrecision": -1,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 145000.0,
+        "impactMidSize": 145000,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53666,7 +53516,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 27750.0,
+        "impactMidSize": 30750,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -53835,7 +53685,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1050.0,
+        "impactMidSize": 1125,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -54004,7 +53854,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 6500.0,
+        "impactMidSize": 7000,
         "isTradfi": false,
         "marginLevels": [
             {
