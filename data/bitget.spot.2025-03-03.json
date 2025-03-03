@@ -4212,6 +4212,15 @@
         "tick_size": "3"
     },
     {
+        "base_asset_precision": "2",
+        "base_currency": "DEUSD",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "gray",
+        "symbol": "DEUSD_USDT",
+        "tick_size": "4"
+    },
+    {
         "base_asset_precision": "4",
         "base_currency": "CELO",
         "quote_currency": "USDT",
@@ -4221,13 +4230,13 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "2",
         "base_currency": "AB",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "AB_USDT",
-        "tick_size": "0"
+        "tick_size": "6"
     },
     {
         "base_asset_precision": "4",
@@ -4684,7 +4693,7 @@
         "base_currency": "OPEN",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "OPEN_USDT",
         "tick_size": "6"
     },
