@@ -10822,11 +10822,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "CPK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -18132,11 +18132,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "GASP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -20809,6 +20809,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "HIPPOP",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 7,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "HIPPOP_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Hippo Swap",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -20854,23 +20871,6 @@
         "quantity_scale": 0,
         "state": "1",
         "symbol": "HIPP_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "HIPPOP",
-        "limited": false,
-        "maker_fee_rate": "0E-18",
-        "max_amount": "100000",
-        "max_amount_market": "100000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 7,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "HIP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
@@ -37112,6 +37112,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "PWEASE",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "PWEASE_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "PointPay",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -45058,7 +45075,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SXCH_USDT",
