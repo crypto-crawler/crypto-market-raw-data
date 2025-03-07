@@ -603,7 +603,7 @@
         "max_amount_market": "200000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 3,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ACM_USDT",
@@ -3532,7 +3532,7 @@
         "state": "1",
         "symbol": "AR_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -10774,7 +10774,7 @@
         "state": "1",
         "symbol": "COTI_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -14866,7 +14866,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 4,
         "quantity_scale": 2,
         "state": "2",
         "symbol": "ELX_USDT",
@@ -19551,6 +19551,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "GREED 3",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "GREED3_USDT",
+        "symbol_partition": "ASSESS",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Green Bitcoin",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -19648,6 +19665,23 @@
         "state": "1",
         "symbol": "GROKAI_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "GrokCoin",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "GROKCOIN_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -26941,7 +26975,7 @@
         "state": "1",
         "symbol": "LUNC_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -29029,11 +29063,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "MINT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -31968,7 +32002,7 @@
         "max_amount_market": "200000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 2,
+        "price_scale": 3,
         "quantity_scale": 3,
         "state": "1",
         "symbol": "NMR_USDT",
@@ -35067,7 +35101,7 @@
         "state": "1",
         "symbol": "PEN_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -43351,6 +43385,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "SPLASH",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "SPLASH_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Sapiens AI",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -48871,7 +48922,7 @@
         "state": "1",
         "symbol": "USUAL_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
