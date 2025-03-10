@@ -29510,6 +29510,276 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "EUROPEUR",
+        "base": "EUROP",
+        "cost_decimals": 8,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "EUROP/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "EUROPUSD",
+        "base": "EUROP",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "EUROP/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "EUROPUSDC",
+        "base": "EUROP",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "USDC",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "EUROP/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "EURQEUR",
         "base": "EURQ",
         "cost_decimals": 8,
@@ -85395,8 +85665,17 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3,
+            4
+        ],
+        "leverage_sell": [
+            2,
+            3,
+            4
+        ],
+        "long_position_limit": 100000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -85405,6 +85684,7 @@
         "ordermin": "5",
         "pair_decimals": 4,
         "quote": "ZCAD",
+        "short_position_limit": 100000,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "USDC/CAD"
@@ -85485,8 +85765,17 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3,
+            4
+        ],
+        "leverage_sell": [
+            2,
+            3,
+            4
+        ],
+        "long_position_limit": 400000,
         "lot": "unit",
         "lot_decimals": 8,
         "lot_multiplier": 1,
@@ -85495,6 +85784,7 @@
         "ordermin": "5",
         "pair_decimals": 4,
         "quote": "CHF",
+        "short_position_limit": 400000,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "USDC/CHF"

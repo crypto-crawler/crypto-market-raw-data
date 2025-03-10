@@ -10833,7 +10833,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10857,7 +10857,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10866,7 +10866,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -10919,8 +10919,8 @@
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1735960372000,
         "depthStepList": [
-            "0.00001",
-            "0.0001"
+            "0.000001",
+            "0.00001"
         ],
         "displayName": "BULLY_USDT\u6c38\u7eed",
         "displayNameEn": "BULLY_USDT PERPETUAL",
@@ -10953,8 +10953,8 @@
         "openingTime": 1735962120000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
-        "priceScale": 5,
-        "priceUnit": 1e-05,
+        "priceScale": 6,
+        "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
         "riskBaseVol": 130000,
@@ -19305,7 +19305,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19329,7 +19329,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -19338,7 +19338,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
