@@ -26751,7 +26751,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 1500,
+        "impactMidSize": 1500.0,
         "isTradfi": false,
         "marginLevels": [
             {
@@ -26781,11 +26781,11 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 2200000,
+        "maxPositionSize": 2200000.0,
         "maxRelativeFundingRate": 0.0025,
-        "openingDate": "2025-03-11T12:50:34.344Z",
+        "openingDate": "2025-03-11T12:50:34.000Z",
         "pair": "KAITO:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {

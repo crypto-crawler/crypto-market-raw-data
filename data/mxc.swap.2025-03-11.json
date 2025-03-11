@@ -7641,13 +7641,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "BANANA",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20240720195940855Pw7EKtoJEbS27p.png",
         "baseCoinId": "ef691b0d4c2f4d46bbbf847b8c24331f",
         "baseCoinName": "BANANA",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [
             "mc-trade-zone-MEME"
         ],
@@ -7672,7 +7672,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -7684,7 +7684,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -10912,7 +10912,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -10936,7 +10936,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 10000000,
@@ -10945,7 +10945,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -19386,7 +19386,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19410,7 +19410,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "limitMaxVol": 750000,
@@ -19419,7 +19419,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 400,
+        "maxLeverage": 200,
         "maxNumOrders": [
             200,
             50
@@ -56596,13 +56596,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "WINK",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250214164512840uRSK4mj4XdrbTr.jpeg",
         "baseCoinId": "0daf638e31da48648c5bb4394cb5f3fe",
         "baseCoinName": "WINK",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 10,
