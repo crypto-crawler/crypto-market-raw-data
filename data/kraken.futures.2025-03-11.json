@@ -26745,6 +26745,82 @@
         "type": "flexible_futures"
     },
     {
+        "base": "KAITO",
+        "category": "AI",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 1500,
+        "isTradfi": false,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 2200000,
+        "maxRelativeFundingRate": 0.0025,
+        "openingDate": "2025-03-11T12:50:34.344Z",
+        "pair": "KAITO:USD",
+        "postOnly": true,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "symbol": "PF_KAITOUSD",
+        "tags": [],
+        "tickSize": 0.0001,
+        "tradeable": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "KAS",
         "category": "Layer 1",
         "contractSize": 1,
