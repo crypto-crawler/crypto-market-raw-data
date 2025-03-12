@@ -26521,6 +26521,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Levva Protocol Token",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "LVVA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "LandWolf",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -32429,11 +32446,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "OIK_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -36223,6 +36240,23 @@
         "state": "1",
         "symbol": "PTH_USDT",
         "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Public",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "PUBLIC_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -41901,7 +41935,7 @@
         "state": "1",
         "symbol": "SONIC_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
+        "taker_fee_rate": "0E-18",
         "tradeSideType": 1
     },
     {
@@ -45976,13 +46010,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TRC_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
