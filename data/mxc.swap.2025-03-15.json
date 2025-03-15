@@ -54990,7 +54990,7 @@
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
-        "limitMaxVol": 9000,
+        "limitMaxVol": 6500,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -55001,7 +55001,7 @@
             200,
             50
         ],
-        "maxVol": 9000,
+        "maxVol": 6500,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -55012,10 +55012,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 9000,
+        "riskBaseVol": 6500,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 9000,
+        "riskIncrVol": 6500,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -59816,7 +59816,7 @@
             "MEXC",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.005,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -59828,7 +59828,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 200,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
