@@ -4421,23 +4421,6 @@
         "type": "normal"
     },
     {
-        "amount_precision": 2,
-        "base": "DROPS",
-        "base_name": "Drops Ownership Power",
-        "buy_start": 1720180800,
-        "fee": "0.2",
-        "id": "DROPS_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
-        "type": "normal"
-    },
-    {
         "amount_precision": 0,
         "base": "ORO",
         "base_name": "Operon Origins",
@@ -9269,23 +9252,6 @@
         "type": "normal"
     },
     {
-        "amount_precision": 1,
-        "base": "ETHA",
-        "base_name": "ETHA Lend",
-        "buy_start": 1615204800,
-        "fee": "0.2",
-        "id": "ETHA_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
-        "type": "normal"
-    },
-    {
         "amount_precision": 2,
         "base": "SWAP",
         "base_name": "TrustSwap",
@@ -11376,6 +11342,23 @@
         "quote": "TRY",
         "quote_name": "",
         "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 4,
+        "base": "MNT",
+        "base_name": "Mantle",
+        "buy_start": 1690790400,
+        "fee": "0.2",
+        "id": "MNT_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1607313600,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -13739,7 +13722,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -14591,23 +14574,6 @@
         "quote_name": "Tether",
         "sell_start": 1597636800,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "PRQ",
-        "base_name": "PARSIQ Token",
-        "buy_start": 1606881600,
-        "fee": "0.2",
-        "id": "PRQ_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1606795200,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -17583,23 +17549,6 @@
         "quote_name": "Tether",
         "sell_start": 1607313600,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "FX",
-        "base_name": "Function X",
-        "buy_start": 1633582800,
-        "fee": "0.2",
-        "id": "FX_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 5,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -20748,6 +20697,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "QTUM",
+        "base_name": "Qtum",
+        "buy_start": 0,
+        "fee": "0.2",
+        "id": "QTUM_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 0,
         "base": "OME",
         "base_name": "o-mee token",
@@ -21187,23 +21153,6 @@
         "quote_name": "Tether",
         "sell_start": 1582704000,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "OPEN",
-        "base_name": "Open Custody Protocol",
-        "buy_start": 1713942000,
-        "fee": "0.2",
-        "id": "OPEN_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 6,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -27923,6 +27872,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "MOVR",
+        "base_name": "Moonriver",
+        "buy_start": 1630054860,
+        "fee": "0.2",
+        "id": "MOVR_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "BROCCOLI",
         "base_name": "CZ'S DOG",
@@ -32275,6 +32241,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 4,
+        "base": "RPL",
+        "base_name": "Rocket Pool",
+        "buy_start": 1673344800,
+        "fee": "0.2",
+        "id": "RPL_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.0001",
+        "min_quote_amount": "30",
+        "precision": 2,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "XLM3S",
         "base_name": "XLM3xShort",
@@ -32510,23 +32493,6 @@
         "quote_name": "USDCoin",
         "sell_start": 1609434000,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 2,
-        "base": "SCLP",
-        "base_name": "Scallop",
-        "buy_start": 1635418920,
-        "fee": "0.2",
-        "id": "SCLP_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.01",
-        "min_quote_amount": "3",
-        "precision": 4,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -33206,7 +33172,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -44838,6 +44804,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 2,
+        "base": "BR",
+        "base_name": "Bedrock",
+        "buy_start": 1742475600,
+        "fee": "0.2",
+        "id": "BR_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 0,
         "base": "WOOF",
         "base_name": "WoofWork.io",
@@ -45685,23 +45668,6 @@
         "quote_name": "Tether",
         "sell_start": 1607313600,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 3,
-        "base": "ETHA",
-        "base_name": "ETHA Lend",
-        "buy_start": 1615204800,
-        "fee": "0.2",
-        "id": "ETHA_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 9,
-        "quote": "ETH",
-        "quote_name": "Ethereum",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -47112,6 +47078,23 @@
         "quote": "BTC",
         "quote_name": "Bitcoin",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 3,
+        "base": "GLM",
+        "base_name": "Golem",
+        "buy_start": 1607162400,
+        "fee": "0.2",
+        "id": "GLM_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1607140800,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -55222,23 +55205,6 @@
         "quote_name": "Tether",
         "sell_start": 1596702900,
         "trade_status": "tradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 3,
-        "base": "SCLP",
-        "base_name": "Scallop",
-        "buy_start": 1635418920,
-        "fee": "0.2",
-        "id": "SCLP_ETH",
-        "max_quote_amount": "1000",
-        "min_base_amount": "0.001",
-        "min_quote_amount": "0.001",
-        "precision": 8,
-        "quote": "ETH",
-        "quote_name": "Ethereum",
-        "sell_start": 1607313600,
-        "trade_status": "untradable",
         "type": "normal"
     },
     {
