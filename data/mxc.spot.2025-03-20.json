@@ -25,13 +25,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "1DOLLAR_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -450,7 +450,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ABI_USDT",
@@ -3019,11 +3019,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "APT_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -3869,11 +3869,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ATN_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -6419,11 +6419,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "BKN_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -6931,7 +6931,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BNBXBT_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -8071,6 +8071,23 @@
         "state": "1",
         "symbol": "BUBBLE_USDT",
         "symbol_partition": "USDT",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Bubb",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 6,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "BUBB_USDT",
+        "symbol_partition": "ASSESS",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -15720,7 +15737,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FAFO_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -16721,11 +16738,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "FNFS_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -17114,7 +17131,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FROC_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -17352,7 +17369,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FULLSEND_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -20837,7 +20854,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "HOOD_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -22244,7 +22261,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "IVFUN_USDT",
@@ -23910,7 +23927,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KLS_USDT",
@@ -32021,11 +32038,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "OBT_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -32514,11 +32531,11 @@
         "min_amount_market": "1",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "OMI_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -34556,7 +34573,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "PERRY_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -37410,11 +37427,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "RED_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -39788,7 +39805,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SELO_USDT",
@@ -40298,7 +40315,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SHARKCAT_USDT",
@@ -45162,11 +45179,11 @@
         "min_amount_market": "1",
         "price_scale": 3,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TIA_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49465,7 +49482,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "WEPE_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
