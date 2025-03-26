@@ -9576,6 +9576,23 @@
     },
     {
         "amount_precision": 2,
+        "base": "BID",
+        "base_name": "Creator Bid",
+        "buy_start": 1742997600,
+        "fee": "0.2",
+        "id": "BID_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "WAXP",
         "base_name": "WAX",
         "buy_start": 1629712800,

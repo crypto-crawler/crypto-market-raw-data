@@ -3745,7 +3745,7 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1741771164,
+        "config_change_time": 1743002894,
         "create_time": 1738226163,
         "cross_leverage_default": "10",
         "enable_bonus": true,
@@ -3773,8 +3773,8 @@
         "ref_discount_rate": "0",
         "ref_rebate_rate": "0.2",
         "risk_limit_base": "10000",
-        "risk_limit_max": "1000000",
-        "risk_limit_step": "990000",
+        "risk_limit_max": "2500000",
+        "risk_limit_step": "2490000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
         "voucher_leverage": "2"
@@ -10387,9 +10387,9 @@
         "quanto_multiplier": "1",
         "ref_discount_rate": "0",
         "ref_rebate_rate": "0.2",
-        "risk_limit_base": "1000",
-        "risk_limit_max": "1000000",
-        "risk_limit_step": "999000",
+        "risk_limit_base": "5000",
+        "risk_limit_max": "2500000",
+        "risk_limit_step": "2495000",
         "taker_fee_rate": "0.00075",
         "type": "direct",
         "voucher_leverage": "0"
