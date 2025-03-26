@@ -42797,8 +42797,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 20000,
         "lot": "unit5",
         "lot_decimals": 5,
         "lot_multiplier": 1,
@@ -42807,6 +42814,7 @@
         "ordermin": "2.5",
         "pair_decimals": 4,
         "quote": "ZUSD",
+        "short_position_limit": 20000,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "KAITO/USD"
@@ -61111,8 +61119,15 @@
                 0.0
             ]
         ],
-        "leverage_buy": [],
-        "leverage_sell": [],
+        "leverage_buy": [
+            2,
+            3
+        ],
+        "leverage_sell": [
+            2,
+            3
+        ],
+        "long_position_limit": 4600,
         "lot": "unit5",
         "lot_decimals": 5,
         "lot_multiplier": 1,
@@ -61121,6 +61136,7 @@
         "ordermin": "0.1",
         "pair_decimals": 4,
         "quote": "ZUSD",
+        "short_position_limit": 4600,
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "OM/USD"
