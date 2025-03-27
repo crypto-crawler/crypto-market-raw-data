@@ -1574,11 +1574,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AIL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -3209,7 +3209,7 @@
         "state": "1",
         "symbol": "ARB_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -3362,7 +3362,7 @@
         "state": "1",
         "symbol": "ARKM_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -6200,7 +6200,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BID_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -10246,7 +10246,7 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "COLLAT_USDT",
-        "symbol_partition": "ASSESS",
+        "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
@@ -13239,7 +13239,7 @@
         "state": "1",
         "symbol": "DOT_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -16027,7 +16027,7 @@
         "state": "1",
         "symbol": "FET_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -16435,7 +16435,7 @@
         "state": "1",
         "symbol": "FLOKI_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -20061,6 +20061,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Happy Balloon Dog",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "HBD_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Hydranet",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -21583,11 +21600,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "IMT_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -21722,7 +21739,7 @@
         "state": "1",
         "symbol": "INJ_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -23625,6 +23642,40 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "KIKI_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "KiloEx",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "KILO_USDC",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0E-18",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "KiloEx",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "KILO_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
@@ -30341,7 +30392,7 @@
         "state": "1",
         "symbol": "NEAR_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -30812,7 +30863,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 13,
+        "price_scale": 14,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NFC_USDT",
@@ -31378,7 +31429,7 @@
         "state": "1",
         "symbol": "NOT_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -35373,7 +35424,7 @@
         "state": "1",
         "symbol": "PNUT_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -38688,7 +38739,7 @@
         "state": "1",
         "symbol": "RUNE_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -39759,7 +39810,7 @@
         "state": "1",
         "symbol": "SEI_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -42221,11 +42272,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SPEED_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -44337,6 +44388,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "CrypTalk",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 3,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "TALK_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Tamadoge",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -45165,7 +45233,7 @@
         "state": "1",
         "symbol": "TIA_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -49072,11 +49140,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "WAL_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49089,11 +49157,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "WAL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -49653,7 +49721,7 @@
         "state": "1",
         "symbol": "WIF_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -49823,7 +49891,7 @@
         "state": "1",
         "symbol": "WLD_USDT",
         "symbol_partition": "USDT",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
