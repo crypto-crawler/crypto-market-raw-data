@@ -10933,7 +10933,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -17990,7 +17990,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -25130,7 +25130,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -29845,23 +29845,6 @@
     },
     {
         "amount_precision": 1,
-        "base": "RAGDOLL",
-        "base_name": "Ragdoll",
-        "buy_start": 1731661200,
-        "fee": "0.2",
-        "id": "RAGDOLL_USDT",
-        "max_quote_amount": "5000000",
-        "min_base_amount": "0.1",
-        "min_quote_amount": "3",
-        "precision": 7,
-        "quote": "USDT",
-        "quote_name": "Tether",
-        "sell_start": 1577808000,
-        "trade_status": "untradable",
-        "type": "normal"
-    },
-    {
-        "amount_precision": 1,
         "base": "PSB",
         "base_name": "PlanetSandbox",
         "buy_start": 1639569600,
@@ -32458,7 +32441,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -33342,7 +33325,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 0,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -56381,6 +56364,23 @@
         "type": "normal"
     },
     {
+        "amount_precision": 5,
+        "base": "PAXG",
+        "base_name": "PAX Gold",
+        "buy_start": 1742544000,
+        "fee": "0.2",
+        "id": "PAXG_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.00001",
+        "min_quote_amount": "30",
+        "precision": 1,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1577808000,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
         "amount_precision": 2,
         "base": "SCR",
         "base_name": "Scroll",
@@ -56955,6 +56955,23 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 3,
+        "base": "WAL",
+        "base_name": "Walrus",
+        "buy_start": 1743069600,
+        "fee": "0.2",
+        "id": "WAL_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.001",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
