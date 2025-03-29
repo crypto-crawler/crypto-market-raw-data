@@ -9703,12 +9703,8 @@
         "baseCoinId": "7a4fc73c31f647b4a7cd41326fbfc0ad",
         "baseCoinName": "BNBCARD",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742624389000,
@@ -9727,7 +9723,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 270,
@@ -37795,7 +37791,10 @@
         "futureType": 1,
         "id": 989,
         "indexOrigin": [
-            "BYBIT"
+            "BYBIT",
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -46821,7 +46820,7 @@
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1743502200000,
+        "openingTime": 1743761400000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
         "priceScale": 4,
@@ -48811,7 +48810,9 @@
         "futureType": 1,
         "id": 998,
         "indexOrigin": [
-            "BYBIT"
+            "BYBIT",
+            "GATEIO",
+            "MEXC"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
