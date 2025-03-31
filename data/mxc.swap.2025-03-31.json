@@ -765,12 +765,9 @@
         "futureType": 1,
         "id": 1130,
         "indexOrigin": [
-            "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -5344,9 +5341,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -9796,7 +9791,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -10181,11 +10175,9 @@
         "baseCoinName": "BOME",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new",
             "mc-trade-zone-SOL"
         ],
         "conceptPlateId": [
-            -1,
             37
         ],
         "contractSize": 1000,
@@ -10205,7 +10197,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 3500,
@@ -11143,12 +11135,8 @@
         "baseCoinId": "febc9973be4d4d53bb374476239eb219",
         "baseCoinName": "BTC",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 0.0001,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742798201000,
@@ -11174,7 +11162,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 110000,
@@ -14647,12 +14635,9 @@
         "futureType": 1,
         "id": 1128,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
             "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "GATEIO",
+            "OKX"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -18969,7 +18954,6 @@
         "id": 1112,
         "indexOrigin": [
             "BITGET",
-            "BYBIT",
             "BINANCE",
             "MEXC",
             "KUCOIN"
@@ -19533,12 +19517,8 @@
         "baseCoinId": "754569c440f74c82abf0d17a8f3c7dd8",
         "baseCoinName": "ETHFI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742790763000,
@@ -19558,7 +19538,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 7000,
@@ -19860,12 +19840,8 @@
         "baseCoinId": "93c38b0169214f8689763ce9a63a73ff",
         "baseCoinName": "ETH",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 0.01,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742798318000,
@@ -19890,7 +19866,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 48000,
@@ -20747,8 +20723,7 @@
             "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -20779,10 +20754,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDC",
         "quoteCoinName": "USDC",
-        "riskBaseVol": 0,
+        "riskBaseVol": 1800,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 0,
+        "riskIncrVol": 1800,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -25295,8 +25270,6 @@
         "futureType": 1,
         "id": 1118,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
             "BINANCE",
             "OKX",
             "MEXC",
@@ -26122,7 +26095,7 @@
         "isNew": false,
         "isZeroFeeRate": true,
         "isZeroFeeSymbol": true,
-        "limitMaxVol": 7500,
+        "limitMaxVol": 4000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -26133,7 +26106,7 @@
             200,
             50
         ],
-        "maxVol": 7500,
+        "maxVol": 4000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -26144,10 +26117,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 7500,
+        "riskBaseVol": 4000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 7500,
+        "riskIncrVol": 4000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -27580,11 +27553,7 @@
         "futureType": 1,
         "id": 1146,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "BINANCE"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -27608,17 +27577,17 @@
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1743401700000,
+        "openingTime": 1743401220000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDC",
         "quoteCoinName": "USDC",
-        "riskBaseVol": 0,
+        "riskBaseVol": 10000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 0,
+        "riskIncrVol": 10000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -28801,11 +28770,7 @@
         "futureType": 1,
         "id": 1145,
         "indexOrigin": [
-            "BITGET",
-            "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "BINANCE"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -28829,17 +28794,17 @@
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1743401700000,
+        "openingTime": 1743400860000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDC",
         "quoteCoinName": "USDC",
-        "riskBaseVol": 0,
+        "riskBaseVol": 4700,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 0,
+        "riskIncrVol": 4700,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -31980,8 +31945,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "GATEIO",
-            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -32015,10 +31978,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDC",
         "quoteCoinName": "USDC",
-        "riskBaseVol": 0,
+        "riskBaseVol": 5800,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 0,
+        "riskIncrVol": 5800,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -36776,11 +36739,7 @@
         "futureType": 1,
         "id": 1142,
         "indexOrigin": [
-            "BITGET",
-            "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "BINANCE"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -36804,17 +36763,17 @@
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1743402600000,
+        "openingTime": 1743400920000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.2,
         "priceScale": 3,
         "priceUnit": 0.001,
         "quoteCoin": "USDC",
         "quoteCoinName": "USDC",
-        "riskBaseVol": 0,
+        "riskBaseVol": 8500,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 0,
+        "riskIncrVol": 8500,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -39667,12 +39626,7 @@
         "futureType": 1,
         "id": 1127,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
-            "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "BINANCE"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -41925,12 +41879,9 @@
         "futureType": 1,
         "id": 1126,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
             "BINANCE",
             "OKX",
-            "MEXC",
-            "KUCOIN"
+            "MEXC"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -48882,12 +48833,8 @@
         "baseCoinId": "8dedc95886d14867ad9a1668a38666db",
         "baseCoinName": "SOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742798424000,
@@ -48911,7 +48858,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 14000,
@@ -49025,10 +48972,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 700000,
+        "riskBaseVol": 800000,
         "riskIncrImr": 0.095,
         "riskIncrMmr": 0.056,
-        "riskIncrVol": 700000,
+        "riskIncrVol": 800000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -52937,7 +52884,7 @@
         "isNew": false,
         "isZeroFeeRate": true,
         "isZeroFeeSymbol": true,
-        "limitMaxVol": 1200000,
+        "limitMaxVol": 340000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -52948,7 +52895,7 @@
             200,
             50
         ],
-        "maxVol": 1200000,
+        "maxVol": 340000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 3,
@@ -52959,10 +52906,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1200000,
+        "riskBaseVol": 340000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 1200000,
+        "riskIncrVol": 340000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -53008,11 +52955,7 @@
         "futureType": 1,
         "id": 1119,
         "indexOrigin": [
-            "BITGET",
-            "BYBIT",
-            "BINANCE",
-            "OKX",
-            "MEXC"
+            "BINANCE"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -54377,7 +54320,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -58389,9 +58331,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "OKX",
-            "MEXC",
-            "KUCOIN"
+            "OKX"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
