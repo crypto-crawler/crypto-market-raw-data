@@ -747,10 +747,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
             -1,
+            45,
             29
         ],
         "contractSize": 100,
@@ -774,8 +776,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 3500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -811,7 +813,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "1000BONK_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -1836,7 +1838,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 155000,
+        "limitMaxVol": 300000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -1847,7 +1849,7 @@
             200,
             50
         ],
-        "maxVol": 155000,
+        "maxVol": 300000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -1858,10 +1860,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 155000,
+        "riskBaseVol": 300000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 155000,
+        "riskIncrVol": 300000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -2048,10 +2050,12 @@
         "baseCoinName": "ADA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
@@ -2077,8 +2081,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 6800,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -2114,7 +2118,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ADA_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -2705,6 +2709,8 @@
         "futureType": 1,
         "id": 886,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "MEXC"
         ],
         "initialMarginRate": 0.01,
@@ -5238,10 +5244,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-Arbitrum"
         ],
         "conceptPlateId": [
             -1,
+            45,
             24
         ],
         "contractSize": 1,
@@ -5266,8 +5274,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 12500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -5303,7 +5311,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ARB_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -6712,8 +6720,12 @@
         "baseCoinId": "758f878fcbf44e68806419920f71173c",
         "baseCoinName": "AVAX",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742879595000,
@@ -6738,8 +6750,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 4500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -6775,7 +6787,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "AVAX_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -10013,9 +10025,11 @@
         "baseCoinName": "BOME",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-SOL"
         ],
         "conceptPlateId": [
+            45,
             37
         ],
         "contractSize": 1000,
@@ -10036,8 +10050,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 3500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -10073,7 +10087,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "BOME_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -14455,10 +14469,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-Arbitrum"
         ],
         "conceptPlateId": [
             -1,
+            45,
             24
         ],
         "contractSize": 1,
@@ -14482,8 +14498,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 8500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -14519,7 +14535,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "CRV_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -18771,8 +18787,12 @@
         "baseCoinId": "5db5a74884c3400696d7d35a737dc101",
         "baseCoinName": "ENA",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742879444000,
@@ -18795,8 +18815,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 1250,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -18832,7 +18852,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "ENA_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -19349,8 +19369,12 @@
         "baseCoinId": "754569c440f74c82abf0d17a8f3c7dd8",
         "baseCoinName": "ETHFI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742790763000,
@@ -19371,8 +19395,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 7000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -19408,7 +19432,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ETHFI_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -20137,7 +20161,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -25092,10 +25116,12 @@
         "baseCoinName": "HBAR",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
@@ -25119,8 +25145,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 25500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -25156,7 +25182,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "HBAR_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -26793,12 +26819,8 @@
         "baseCoinId": "9a60204a0e5744e0a7f9b5bad9d598d7",
         "baseCoinName": "IMT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742898233000,
@@ -26817,7 +26839,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 550,
@@ -29586,7 +29608,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 160000,
+        "limitMaxVol": 240000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -29597,7 +29619,7 @@
             200,
             50
         ],
-        "maxVol": 160000,
+        "maxVol": 240000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -29608,10 +29630,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 160000,
+        "riskBaseVol": 240000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 160000,
+        "riskIncrVol": 240000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -29748,7 +29770,7 @@
         "isNew": true,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 750,
+        "limitMaxVol": 1100,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -29759,7 +29781,7 @@
             200,
             50
         ],
-        "maxVol": 750,
+        "maxVol": 1100,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -29770,10 +29792,10 @@
         "priceUnit": 0.01,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 750,
+        "riskBaseVol": 1100,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 750,
+        "riskIncrVol": 1100,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -30681,12 +30703,14 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-SOL",
             "mc-trade-zone-Arbitrum",
             "mc-trade-zone-web3"
         ],
         "conceptPlateId": [
             -1,
+            45,
             37,
             24,
             19
@@ -30715,8 +30739,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 3200,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -30752,7 +30776,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "LINK_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -31763,10 +31787,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-pow"
         ],
         "conceptPlateId": [
             -1,
+            45,
             12
         ],
         "contractSize": 0.01,
@@ -31793,8 +31819,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 5800,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -31830,7 +31856,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "LTC_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -33195,7 +33221,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 48000,
+        "limitMaxVol": 75000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -33206,7 +33232,7 @@
             200,
             50
         ],
-        "maxVol": 48000,
+        "maxVol": 75000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -33217,10 +33243,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 48000,
+        "riskBaseVol": 75000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 48000,
+        "riskIncrVol": 75000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -39620,10 +39646,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-BRC20"
         ],
         "conceptPlateId": [
             -1,
+            45,
             36
         ],
         "contractSize": 0.1,
@@ -39645,8 +39673,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 5200,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -39682,7 +39710,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ORDI_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -40814,9 +40842,11 @@
         "baseCoinName": "PEPE",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
+            45,
             29
         ],
         "contractSize": 10000000,
@@ -40843,8 +40873,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 65,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -40880,7 +40910,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "PEPE_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -41782,10 +41812,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
             -1,
+            45,
             29
         ],
         "contractSize": 10,
@@ -41809,8 +41841,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 2500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -41846,7 +41878,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "PNUT_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -45324,7 +45356,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 400000,
+        "limitMaxVol": 600000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -45335,7 +45367,7 @@
             200,
             50
         ],
-        "maxVol": 400000,
+        "maxVol": 600000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -45346,10 +45378,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 400000,
+        "riskBaseVol": 600000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 400000,
+        "riskIncrVol": 600000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -47555,10 +47587,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
             -1,
+            45,
             29
         ],
         "contractSize": 100000,
@@ -47585,8 +47619,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 3300,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -47622,7 +47656,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SHIB_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -48834,8 +48868,12 @@
         "baseCoinId": "8dedc95886d14867ad9a1668a38666db",
         "baseCoinName": "SOL",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742798424000,
@@ -48860,8 +48898,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 14000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -48897,7 +48935,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SOL_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -50542,10 +50580,12 @@
         "baseCoinName": "SUI",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
@@ -50571,8 +50611,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 1800,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -50608,7 +50648,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SUI_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -52088,7 +52128,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 75000,
+        "limitMaxVol": 110000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -52099,7 +52139,7 @@
             200,
             50
         ],
-        "maxVol": 75000,
+        "maxVol": 110000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -52110,10 +52150,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 75000,
+        "riskBaseVol": 110000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 75000,
+        "riskIncrVol": 110000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -52777,10 +52817,12 @@
         "baseCoinName": "TIA",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-contract-new"
+            "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees"
         ],
         "conceptPlateId": [
-            -1
+            -1,
+            45
         ],
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
@@ -52801,8 +52843,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 1350,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -52838,7 +52880,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "TIA_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -54137,8 +54179,12 @@
         "baseCoinId": "10b0afc1bd53460a92cfd3eab4a4f9b4",
         "baseCoinName": "TRUMP",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742879180000,
@@ -54162,8 +54208,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 4200,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -54199,7 +54245,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "TRUMP_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -57526,7 +57572,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
@@ -58229,10 +58275,12 @@
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
             "mc-trade-zone-contract-new",
+            "mc-trade-zone-0fees",
             "mc-trade-zone-ai"
         ],
         "conceptPlateId": [
             -1,
+            45,
             23
         ],
         "contractSize": 1,
@@ -58257,8 +58305,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 5200,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -58294,7 +58342,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "WLD_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
