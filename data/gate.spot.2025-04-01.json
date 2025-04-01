@@ -55413,6 +55413,23 @@
     },
     {
         "amount_precision": 2,
+        "base": "PUMP",
+        "base_name": "PumpBTC",
+        "buy_start": 1743533100,
+        "fee": "0.2",
+        "id": "PUMP_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1607313600,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "MTL",
         "base_name": "Metal",
         "buy_start": 1617156000,

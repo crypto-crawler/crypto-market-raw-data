@@ -72270,6 +72270,276 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "RLUSDEUR",
+        "base": "RLUSD",
+        "cost_decimals": 8,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 5,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "RLUSD/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "RLUSDUSD",
+        "base": "RLUSD",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 5,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "RLUSD/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "RLUSDUSDC",
+        "base": "RLUSD",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 5,
+        "quote": "USDC",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "RLUSD/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "ROOKEUR",
         "base": "ROOK",
         "cost_decimals": 5,
@@ -86210,6 +86480,112 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "TRXUSDD",
+        "base": "TRX",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "19",
+        "pair_decimals": 5,
+        "quote": "USDD",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "TRX/USDD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "TRXXBT",
         "base": "TRX",
         "cost_decimals": 10,
@@ -88988,6 +89364,96 @@
         "status": "online",
         "tick_size": "0.0001",
         "wsname": "USDC/USDT"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "USDDUSD",
+        "base": "USDD",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 4,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.0001",
+        "wsname": "USDD/USD"
     },
     {
         "aclass_base": "currency",
@@ -98778,6 +99244,112 @@
         "status": "online",
         "tick_size": "0.00001",
         "wsname": "XRP/GBP"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "XRPRLUSD",
+        "base": "XXRP",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit",
+        "lot_decimals": 8,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "2",
+        "pair_decimals": 5,
+        "quote": "RLUSD",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "XRP/RLUSD"
     },
     {
         "aclass_base": "currency",
