@@ -1833,7 +1833,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -4302,7 +4302,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -11072,7 +11072,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -11096,7 +11096,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
@@ -19692,7 +19692,7 @@
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19716,7 +19716,7 @@
         "initialMarginRate": 0.0025,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
@@ -35783,7 +35783,6 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "HTX",
             "MEXC",
             "KUCOIN"
         ],
