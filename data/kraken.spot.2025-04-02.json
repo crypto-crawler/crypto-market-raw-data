@@ -25745,7 +25745,7 @@
         "ordermin": "40",
         "pair_decimals": 5,
         "quote": "ZEUR",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.00001",
         "wsname": "EDGE/EUR"
     },
@@ -25851,7 +25851,7 @@
         "ordermin": "40",
         "pair_decimals": 5,
         "quote": "ZUSD",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.00001",
         "wsname": "EDGE/USD"
     },
@@ -72655,7 +72655,7 @@
         "ordermin": "5",
         "pair_decimals": 5,
         "quote": "ZUSD",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.00001",
         "wsname": "RLUSD/USD"
     },
@@ -72745,9 +72745,99 @@
         "ordermin": "5",
         "pair_decimals": 5,
         "quote": "USDC",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.00001",
         "wsname": "RLUSD/USDC"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "RLUSDUSDT",
+        "base": "RLUSD",
+        "cost_decimals": 8,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.01
+            ],
+            [
+                100000000,
+                0.001
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.2
+            ],
+            [
+                50000,
+                0.16
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.08
+            ],
+            [
+                500000,
+                0.04
+            ],
+            [
+                1000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ],
+            [
+                100000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "5",
+        "pair_decimals": 5,
+        "quote": "USDT",
+        "status": "online",
+        "tick_size": "0.00001",
+        "wsname": "RLUSD/USDT"
     },
     {
         "aclass_base": "currency",
@@ -99649,7 +99739,7 @@
         "ordermin": "2",
         "pair_decimals": 5,
         "quote": "RLUSD",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.00001",
         "wsname": "XRP/RLUSD"
     },
