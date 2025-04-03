@@ -18162,7 +18162,7 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -18175,7 +18175,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -21983,13 +21983,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "FUN",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230505214132379301nmsZTF6hzyo.png",
         "baseCoinId": "e43bfc8af8ef47e986e9ef3faf3b7108",
         "baseCoinName": "FUN",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 1000,
@@ -24323,7 +24323,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 12000,
+        "limitMaxVol": 4500,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -24334,7 +24334,7 @@
             200,
             50
         ],
-        "maxVol": 12000,
+        "maxVol": 4500,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -24345,10 +24345,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 12000,
+        "riskBaseVol": 4500,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 12000,
+        "riskIncrVol": 4500,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -49852,7 +49852,9 @@
         "futureType": 1,
         "id": 1150,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
