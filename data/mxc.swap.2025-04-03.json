@@ -2371,13 +2371,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.2,
+        "askLimitPriceRate": 0.3,
         "automaticDelivery": 0,
         "baseCoin": "AFT",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250321184214316Fw6iwfXcGqgHbW.png",
         "baseCoinId": "2950efa914ac467e90aba8adf12e0749",
         "baseCoinName": "AFT",
-        "bidLimitPriceRate": 0.2,
+        "bidLimitPriceRate": 0.3,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 10,
@@ -10250,7 +10250,7 @@
         "state": 0,
         "symbol": "BONE_USDT",
         "takerFeeRate": 0.0002,
-        "threshold": 1981,
+        "threshold": 1912,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -22776,12 +22776,8 @@
         "baseCoinId": "23204ed8a8b945fcbb21968379a22b58",
         "baseCoinName": "GHIBLI",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1743040841000,
@@ -22796,11 +22792,11 @@
         "indexOrigin": [
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 600,
@@ -22809,7 +22805,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
@@ -28744,7 +28740,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 290696,
+        "threshold": 280941,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
