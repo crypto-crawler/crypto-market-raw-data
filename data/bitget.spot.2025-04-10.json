@@ -1912,7 +1912,7 @@
         "base_currency": "MTOS",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "MTOS_USDT",
         "tick_size": "5"
     },
@@ -4113,20 +4113,29 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "0",
+        "base_asset_precision": "1",
+        "base_currency": "PROMPT",
+        "quote_currency": "USDT",
+        "size_increment": "1",
+        "status": "gray",
+        "symbol": "PROMPT_USDT",
+        "tick_size": "6"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "FHE",
         "quote_currency": "USDT",
-        "size_increment": "0",
+        "size_increment": "2",
         "status": "gray",
         "symbol": "FHE_USDT",
-        "tick_size": "0"
+        "tick_size": "4"
     },
     {
         "base_asset_precision": "1",
         "base_currency": "BABY",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "gray",
+        "status": "online",
         "symbol": "BABY_USDT",
         "tick_size": "6"
     },
@@ -5386,7 +5395,7 @@
         "base_currency": "SLT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "SLT_USDT",
         "tick_size": "5"
     },
@@ -6277,7 +6286,7 @@
         "base_currency": "LOOM",
         "quote_currency": "USDT",
         "size_increment": "1",
-        "status": "online",
+        "status": "halt",
         "symbol": "LOOM_USDT",
         "tick_size": "5"
     },
@@ -7078,7 +7087,7 @@
         "base_currency": "INVITE",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "INVITE_USDT",
         "tick_size": "6"
     },
@@ -7204,7 +7213,7 @@
         "base_currency": "RFRM",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "online",
+        "status": "halt",
         "symbol": "RFRM_USDT",
         "tick_size": "5"
     },
