@@ -45404,6 +45404,218 @@
     {
         "aclass_base": "currency",
         "aclass_quote": "currency",
+        "altname": "KERNELEUR",
+        "base": "KERNEL",
+        "cost_decimals": 5,
+        "costmin": "0.45",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 5,
+        "quote": "ZEUR",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "KERNEL/EUR"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
+        "altname": "KERNELUSD",
+        "base": "KERNEL",
+        "cost_decimals": 5,
+        "costmin": "0.5",
+        "fee_volume_currency": "ZUSD",
+        "fees": [
+            [
+                0,
+                0.4
+            ],
+            [
+                10000,
+                0.35
+            ],
+            [
+                50000,
+                0.24
+            ],
+            [
+                100000,
+                0.22
+            ],
+            [
+                250000,
+                0.2
+            ],
+            [
+                500000,
+                0.18
+            ],
+            [
+                1000000,
+                0.16
+            ],
+            [
+                2500000,
+                0.14
+            ],
+            [
+                5000000,
+                0.12
+            ],
+            [
+                10000000,
+                0.1
+            ]
+        ],
+        "fees_maker": [
+            [
+                0,
+                0.25
+            ],
+            [
+                10000,
+                0.2
+            ],
+            [
+                50000,
+                0.14
+            ],
+            [
+                100000,
+                0.12
+            ],
+            [
+                250000,
+                0.1
+            ],
+            [
+                500000,
+                0.08
+            ],
+            [
+                1000000,
+                0.06
+            ],
+            [
+                2500000,
+                0.04
+            ],
+            [
+                5000000,
+                0.02
+            ],
+            [
+                10000000,
+                0.0
+            ]
+        ],
+        "leverage_buy": [],
+        "leverage_sell": [],
+        "lot": "unit5",
+        "lot_decimals": 5,
+        "lot_multiplier": 1,
+        "margin_call": 80,
+        "margin_stop": 40,
+        "ordermin": "10",
+        "pair_decimals": 5,
+        "quote": "ZUSD",
+        "status": "post_only",
+        "tick_size": "0.00001",
+        "wsname": "KERNEL/USD"
+    },
+    {
+        "aclass_base": "currency",
+        "aclass_quote": "currency",
         "altname": "KEUR",
         "base": "K",
         "cost_decimals": 5,
@@ -80627,7 +80839,7 @@
         "ordermin": "0.5",
         "pair_decimals": 3,
         "quote": "ZEUR",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.001",
         "wsname": "SSV/EUR"
     },
@@ -80733,7 +80945,7 @@
         "ordermin": "0.5",
         "pair_decimals": 3,
         "quote": "ZUSD",
-        "status": "post_only",
+        "status": "online",
         "tick_size": "0.001",
         "wsname": "SSV/USD"
     },
