@@ -5186,6 +5186,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "BDTCOIN",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "BDTC_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Beldex",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -13030,7 +13047,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 4,
+        "price_scale": 5,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "ELX_USDT",
@@ -15631,7 +15648,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FYDE_USDT",
@@ -16721,11 +16738,11 @@
         "min_amount_market": "1",
         "price_scale": 2,
         "quantity_scale": 3,
-        "state": "2",
+        "state": "1",
         "symbol": "GOHOME_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -21090,11 +21107,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "KERNEL_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -21107,11 +21124,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "KERNEL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -25039,6 +25056,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Mey Network",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "MEY_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -33644,6 +33678,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Renta Network",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "RENTA_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Republic Protocol",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -39805,7 +39856,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SYNTH_USDT",

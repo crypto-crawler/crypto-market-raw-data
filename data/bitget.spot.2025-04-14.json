@@ -4168,10 +4168,19 @@
     },
     {
         "base_asset_precision": "2",
-        "base_currency": "KERNEL",
+        "base_currency": "WCT",
         "quote_currency": "USDT",
         "size_increment": "2",
         "status": "gray",
+        "symbol": "WCT_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
+        "base_currency": "KERNEL",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
         "symbol": "KERNEL_USDT",
         "tick_size": "4"
     },
