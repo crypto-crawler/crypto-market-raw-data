@@ -51114,17 +51114,12 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4500000.0,
+        "impactMidSize": 4500000,
         "marginLevels": [
-            {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
             {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -51139,21 +51134,16 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "marginSchedules": {
             "dlt": {
                 "professional": [
                     {
-                        "initialMargin": 0.05,
-                        "maintenanceMargin": 0.025,
-                        "numNonContractUnits": 0.0
-                    },
-                    {
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05,
-                        "numNonContractUnits": 25000.0
+                        "numNonContractUnits": 0.0
                     },
                     {
                         "initialMargin": 0.2,
@@ -51168,7 +51158,7 @@
                     {
                         "initialMargin": 0.5,
                         "maintenanceMargin": 0.25,
-                        "numNonContractUnits": 3000000.0
+                        "numNonContractUnits": 2000000.0
                     }
                 ],
                 "retail": [
@@ -51182,14 +51172,9 @@
             "dlt_onboarding": {
                 "professional": [
                     {
-                        "initialMargin": 0.05,
-                        "maintenanceMargin": 0.025,
-                        "numNonContractUnits": 0.0
-                    },
-                    {
                         "initialMargin": 0.1,
                         "maintenanceMargin": 0.05,
-                        "numNonContractUnits": 25000.0
+                        "numNonContractUnits": 0.0
                     },
                     {
                         "initialMargin": 0.2,
@@ -51204,7 +51189,7 @@
                     {
                         "initialMargin": 0.5,
                         "maintenanceMargin": 0.25,
-                        "numNonContractUnits": 3000000.0
+                        "numNonContractUnits": 2000000.0
                     }
                 ],
                 "retail": [
@@ -51216,7 +51201,7 @@
                 ]
             }
         },
-        "maxPositionSize": 1000000000.0,
+        "maxPositionSize": 1000000000,
         "maxRelativeFundingRate": 0.0025,
         "mtf": false,
         "openingDate": "2024-11-19T13:31:14.000Z",
@@ -51225,14 +51210,9 @@
         "quote": "USD",
         "retailMarginLevels": [
             {
-                "initialMargin": 0.05,
-                "maintenanceMargin": 0.025,
-                "numNonContractUnits": 0.0
-            },
-            {
                 "initialMargin": 0.1,
                 "maintenanceMargin": 0.05,
-                "numNonContractUnits": 25000.0
+                "numNonContractUnits": 0.0
             },
             {
                 "initialMargin": 0.2,
@@ -51247,7 +51227,7 @@
             {
                 "initialMargin": 0.5,
                 "maintenanceMargin": 0.25,
-                "numNonContractUnits": 3000000.0
+                "numNonContractUnits": 2000000.0
             }
         ],
         "symbol": "PF_TROYUSD",
