@@ -2934,11 +2934,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "AQA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -19024,6 +19024,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "HYPERSKIDS",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "HYPERSKIDS_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Hyperliquid",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -30287,11 +30304,11 @@
         "min_amount_market": "1",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PAWS_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -30304,11 +30321,11 @@
         "min_amount_market": "1",
         "price_scale": 7,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PAWS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -33430,7 +33447,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 5,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "RDT_USDT",
@@ -36592,7 +36609,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 6,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SHOOT_USDT",
@@ -38860,6 +38877,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "STO Chain",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "STOOS_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
