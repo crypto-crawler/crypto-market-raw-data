@@ -1719,7 +1719,7 @@
         "delivery_date": "",
         "delivery_time": "",
         "pair": "BIGTIME-USDT",
-        "price_tick": 0.0001,
+        "price_tick": 1e-05,
         "support_margin_mode": "all",
         "symbol": "BIGTIME",
         "trade_partition": "USDT"
@@ -1782,6 +1782,21 @@
         "price_tick": 1e-11,
         "support_margin_mode": "all",
         "symbol": "LADYS",
+        "trade_partition": "USDT"
+    },
+    {
+        "business_type": "swap",
+        "contract_code": "AERGO-USDT",
+        "contract_size": 10.0,
+        "contract_status": 1,
+        "contract_type": "swap",
+        "create_date": "20250418",
+        "delivery_date": "",
+        "delivery_time": "",
+        "pair": "AERGO-USDT",
+        "price_tick": 1e-05,
+        "support_margin_mode": "all",
+        "symbol": "AERGO",
         "trade_partition": "USDT"
     },
     {
