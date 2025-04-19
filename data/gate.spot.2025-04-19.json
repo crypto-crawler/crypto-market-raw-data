@@ -15139,6 +15139,23 @@
     },
     {
         "amount_precision": 2,
+        "base": "EPT",
+        "base_name": "Balance",
+        "buy_start": 1745236800,
+        "fee": "0.2",
+        "id": "EPT_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 4,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
+        "trade_status": "sellable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
         "base": "KOMA",
         "base_name": "Koma Inu",
         "buy_start": 1733486400,
@@ -20472,7 +20489,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1608782400,
-        "trade_status": "tradable",
+        "trade_status": "untradable",
         "type": "normal"
     },
     {
@@ -36113,6 +36130,23 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1596702900,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "KERNEL",
+        "base_name": "KernelDao",
+        "buy_start": 1744632000,
+        "fee": "0.2",
+        "id": "KERNEL_TRY",
+        "max_quote_amount": "30000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "30",
+        "precision": 3,
+        "quote": "TRY",
+        "quote_name": "",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
