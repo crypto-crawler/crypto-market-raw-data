@@ -5705,12 +5705,12 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1744278898,
+        "config_change_time": 1745148766,
         "create_time": 1617926400,
         "cross_leverage_default": "10",
         "enable_bonus": true,
         "enable_credit": true,
-        "funding_cap_ratio": "0.75",
+        "funding_cap_ratio": "2",
         "funding_impact_value": "5000",
         "funding_interval": 28800,
         "funding_offset": 0,
@@ -9380,14 +9380,14 @@
         "voucher_leverage": "0"
     },
     {
-        "config_change_time": 1745030083,
+        "config_change_time": 1745148728,
         "create_time": 1701771111,
         "cross_leverage_default": "10",
         "enable_bonus": true,
         "enable_credit": true,
         "funding_cap_ratio": "1.25",
         "funding_impact_value": "500",
-        "funding_interval": 14400,
+        "funding_interval": 3600,
         "funding_offset": 0,
         "in_delisting": false,
         "interest_rate": "0.0003",
