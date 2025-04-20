@@ -8493,7 +8493,7 @@
         "state": "online",
         "symbol": "darkusdt",
         "symbol-partition": "main",
-        "tags": "abnormalmarket",
+        "tags": "",
         "value-precision": 8
     },
     {
@@ -23155,17 +23155,17 @@
         "buy-limit-must-less-than": 1.1,
         "limit-order-min-order-amt": 1,
         "market-buy-order-rate-must-less-than": 0.1,
-        "market-sell-order-rate-must-less-than": 0.1,
+        "market-sell-order-rate-must-less-than": 0.03,
         "min-order-amt": 1,
         "min-order-value": 10,
         "price-precision": 5,
         "quote-currency": "usdt",
-        "sell-limit-must-greater-than": 0.9,
+        "sell-limit-must-greater-than": 0.97,
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "nimusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "st,abnormalmarket",
         "value-precision": 8
     },
     {
