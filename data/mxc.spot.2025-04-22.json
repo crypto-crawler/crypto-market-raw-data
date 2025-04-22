@@ -5924,7 +5924,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BLOCKWORLD_USDT",
@@ -9785,11 +9785,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "CSIGMA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41762,11 +41762,11 @@
         "min_amount_market": "1",
         "price_scale": 2,
         "quantity_scale": 4,
-        "state": "2",
+        "state": "1",
         "symbol": "ULTIMA_EUR",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -43290,13 +43290,13 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 7,
+        "price_scale": 8,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "VRL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46782,6 +46782,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Zora",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "ZORA_USDC",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0E-18",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
