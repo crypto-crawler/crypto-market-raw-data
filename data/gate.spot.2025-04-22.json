@@ -2750,7 +2750,7 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1577808000,
-        "trade_status": "sellable",
+        "trade_status": "tradable",
         "type": "normal"
     },
     {
@@ -14400,6 +14400,23 @@
         "quote": "ETH",
         "quote_name": "Ethereum",
         "sell_start": 0,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EPT3S",
+        "base_name": "EPT3xShort",
+        "buy_start": 1745308800,
+        "fee": "0.2",
+        "id": "EPT3S_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
@@ -41448,6 +41465,23 @@
         "quote": "USDT",
         "quote_name": "Tether",
         "sell_start": 1607313600,
+        "trade_status": "tradable",
+        "type": "normal"
+    },
+    {
+        "amount_precision": 2,
+        "base": "EPT3L",
+        "base_name": "EPT3xLong",
+        "buy_start": 1745308800,
+        "fee": "0.2",
+        "id": "EPT3L_USDT",
+        "max_quote_amount": "5000000",
+        "min_base_amount": "0.01",
+        "min_quote_amount": "3",
+        "precision": 5,
+        "quote": "USDT",
+        "quote_name": "Tether",
+        "sell_start": 1577808000,
         "trade_status": "tradable",
         "type": "normal"
     },
