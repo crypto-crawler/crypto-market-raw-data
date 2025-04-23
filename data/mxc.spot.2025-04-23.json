@@ -17280,7 +17280,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 4,
+        "price_scale": 7,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "GVL_USDT",
@@ -34647,6 +34647,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "SAL",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "SAL_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
+    },
+    {
+        "etf_mark": 0,
         "fullName": "Samoyedcoin",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -38948,6 +38965,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "SakuraUnitedPlatform",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "SUP1_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "SuperAI",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -39027,23 +39061,6 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "SUPR_USDT",
-        "symbol_partition": "NEW",
-        "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 1
-    },
-    {
-        "etf_mark": 0,
-        "fullName": "SakuraUnitedPlatform",
-        "limited": false,
-        "maker_fee_rate": "0E-18",
-        "max_amount": "100000",
-        "max_amount_market": "100000",
-        "min_amount": "1",
-        "min_amount_market": "1",
-        "price_scale": 4,
-        "quantity_scale": 2,
-        "state": "1",
-        "symbol": "SUP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
@@ -43326,11 +43343,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "VR1_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46862,11 +46879,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ZORA_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -46879,11 +46896,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "ZORA_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
