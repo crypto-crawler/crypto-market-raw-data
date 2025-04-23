@@ -1157,14 +1157,14 @@
     {
         "business_type": "swap",
         "contract_code": "EIGEN-USDT",
-        "contract_size": 1.0,
+        "contract_size": 1,
         "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20241001",
         "delivery_date": "",
         "delivery_time": "",
         "pair": "EIGEN-USDT",
-        "price_tick": 0.001,
+        "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "EIGEN",
         "trade_partition": "USDT"
@@ -1254,7 +1254,7 @@
         "delivery_date": "",
         "delivery_time": "",
         "pair": "APT-USDT",
-        "price_tick": 0.001,
+        "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "APT",
         "trade_partition": "USDT"
@@ -1262,7 +1262,7 @@
     {
         "business_type": "swap",
         "contract_code": "EPT-USDT",
-        "contract_size": 100,
+        "contract_size": 100.0,
         "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20250421",
@@ -1764,7 +1764,7 @@
         "delivery_date": "",
         "delivery_time": "",
         "pair": "ETHFI-USDT",
-        "price_tick": 0.001,
+        "price_tick": 0.0001,
         "support_margin_mode": "all",
         "symbol": "ETHFI",
         "trade_partition": "USDT"
@@ -1997,14 +1997,14 @@
     {
         "business_type": "swap",
         "contract_code": "AIXBT-USDT",
-        "contract_size": 10.0,
+        "contract_size": 10,
         "contract_status": 1,
         "contract_type": "swap",
         "create_date": "20250115",
         "delivery_date": "",
         "delivery_time": "",
         "pair": "AIXBT-USDT",
-        "price_tick": 0.0001,
+        "price_tick": 1e-05,
         "support_margin_mode": "all",
         "symbol": "AIXBT",
         "trade_partition": "USDT"
