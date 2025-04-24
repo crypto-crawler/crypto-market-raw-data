@@ -2830,7 +2830,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 4,
+        "price_scale": 6,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "AP_USDT",
@@ -5924,7 +5924,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 8,
+        "price_scale": 10,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "BLOCKWORLD_USDT",
@@ -11723,11 +11723,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DOLO_USDC",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0E-18",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -14836,6 +14836,23 @@
         "quantity_scale": 2,
         "state": "1",
         "symbol": "FNCY_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "FusedNFurious",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 9,
+        "quantity_scale": 0,
+        "state": "1",
+        "symbol": "FNFS_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
@@ -21928,6 +21945,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Lair Finance",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "LAIR_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
@@ -34877,11 +34911,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SAL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -39285,6 +39319,23 @@
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Sup",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "SUP_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,

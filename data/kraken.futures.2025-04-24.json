@@ -10305,7 +10305,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 7500,
+        "impactMidSize": 7500.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -10334,12 +10334,12 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 7500000,
-        "maxRelativeFundingRate": 0.0025,
+        "maxPositionSize": 7500000.0,
+        "maxRelativeFundingRate": 0.001,
         "mtf": false,
-        "openingDate": "2025-04-24T12:13:54.998Z",
+        "openingDate": "2025-04-24T12:13:55.000Z",
         "pair": "AUD:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -15844,7 +15844,7 @@
         "contractValueTradePrecision": 0,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 4500,
+        "impactMidSize": 4500.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -15873,12 +15873,12 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 4500000,
-        "maxRelativeFundingRate": 0.0025,
+        "maxPositionSize": 4500000.0,
+        "maxRelativeFundingRate": 0.001,
         "mtf": false,
-        "openingDate": "2025-04-24T12:14:04.051Z",
+        "openingDate": "2025-04-24T12:14:04.000Z",
         "pair": "CHF:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
@@ -29698,7 +29698,7 @@
         "contractValueTradePrecision": -2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "fundingRateCoefficient": 24,
-        "impactMidSize": 750000,
+        "impactMidSize": 750000.0,
         "marginLevels": [
             {
                 "initialMargin": 0.05,
@@ -29728,9 +29728,9 @@
         ],
         "marginSchedules": {},
         "maxPositionSize": 750000000,
-        "maxRelativeFundingRate": 0.0025,
+        "maxRelativeFundingRate": 0.001,
         "mtf": false,
-        "openingDate": "2025-04-24T12:14:10.710Z",
+        "openingDate": "2025-04-24T12:14:11.000Z",
         "pair": "JPY:USD",
         "postOnly": true,
         "quote": "USD",
