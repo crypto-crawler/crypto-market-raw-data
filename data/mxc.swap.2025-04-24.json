@@ -3824,13 +3824,13 @@
         "amountScale": 4,
         "apiAllowed": false,
         "appraisal": 0,
-        "askLimitPriceRate": 0.7,
+        "askLimitPriceRate": 0.5,
         "automaticDelivery": 0,
         "baseCoin": "ALPACA",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230701175208030gJFZLaPOnz7DnQ.png",
         "baseCoinId": "8557afb8908048e28ab67e0dcd07ae58",
         "baseCoinName": "ALPACA",
-        "bidLimitPriceRate": 0.7,
+        "bidLimitPriceRate": 0.5,
         "conceptPlate": [],
         "conceptPlateId": [],
         "contractSize": 10,
@@ -3849,7 +3849,7 @@
             "BINANCE",
             "MEXC"
         ],
-        "initialMarginRate": 0.02,
+        "initialMarginRate": 0.05,
         "isHidden": false,
         "isHot": true,
         "isMaxLeverage": false,
@@ -3862,7 +3862,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 50,
+        "maxLeverage": 20,
         "maxNumOrders": [
             200,
             50
