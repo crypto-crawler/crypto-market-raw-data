@@ -10299,6 +10299,83 @@
         "type": "flexible_futures"
     },
     {
+        "base": "AUD",
+        "category": "Forex",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 7500,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 7500000,
+        "maxRelativeFundingRate": 0.0025,
+        "mtf": false,
+        "openingDate": "2025-04-24T12:13:54.998Z",
+        "pair": "AUD:USD",
+        "postOnly": true,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "symbol": "PF_AUDUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "tradfi": true,
+        "type": "flexible_futures"
+    },
+    {
         "base": "AVAX",
         "category": "Layer 1",
         "contractSize": 1,
@@ -15758,6 +15835,83 @@
         "tickSize": 1e-10,
         "tradeable": true,
         "tradfi": false,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "CHF",
+        "category": "Forex",
+        "contractSize": 1,
+        "contractValueTradePrecision": 0,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 4500,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 4500000,
+        "maxRelativeFundingRate": 0.0025,
+        "mtf": false,
+        "openingDate": "2025-04-24T12:14:04.051Z",
+        "pair": "CHF:USD",
+        "postOnly": true,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "symbol": "PF_CHFUSD",
+        "tags": [],
+        "tickSize": 1e-05,
+        "tradeable": true,
+        "tradfi": true,
         "type": "flexible_futures"
     },
     {
@@ -29535,6 +29689,83 @@
         "tickSize": 1e-06,
         "tradeable": true,
         "tradfi": false,
+        "type": "flexible_futures"
+    },
+    {
+        "base": "JPY",
+        "category": "Forex",
+        "contractSize": 1,
+        "contractValueTradePrecision": -2,
+        "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
+        "fundingRateCoefficient": 24,
+        "impactMidSize": 750000,
+        "marginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "marginSchedules": {},
+        "maxPositionSize": 750000000,
+        "maxRelativeFundingRate": 0.0025,
+        "mtf": false,
+        "openingDate": "2025-04-24T12:14:10.710Z",
+        "pair": "JPY:USD",
+        "postOnly": true,
+        "quote": "USD",
+        "retailMarginLevels": [
+            {
+                "initialMargin": 0.05,
+                "maintenanceMargin": 0.025,
+                "numNonContractUnits": 0.0
+            },
+            {
+                "initialMargin": 0.1,
+                "maintenanceMargin": 0.05,
+                "numNonContractUnits": 25000.0
+            },
+            {
+                "initialMargin": 0.2,
+                "maintenanceMargin": 0.1,
+                "numNonContractUnits": 250000.0
+            },
+            {
+                "initialMargin": 0.3,
+                "maintenanceMargin": 0.15,
+                "numNonContractUnits": 1000000.0
+            },
+            {
+                "initialMargin": 0.5,
+                "maintenanceMargin": 0.25,
+                "numNonContractUnits": 3000000.0
+            }
+        ],
+        "symbol": "PF_JPYUSD",
+        "tags": [],
+        "tickSize": 1e-06,
+        "tradeable": true,
+        "tradfi": true,
         "type": "flexible_futures"
     },
     {

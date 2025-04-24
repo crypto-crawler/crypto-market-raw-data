@@ -2808,15 +2808,6 @@
         "tick_size": "4"
     },
     {
-        "base_asset_precision": "1",
-        "base_currency": "BIP1",
-        "quote_currency": "USDT",
-        "size_increment": "1",
-        "status": "online",
-        "symbol": "BIP1_USDT",
-        "tick_size": "4"
-    },
-    {
         "base_asset_precision": "2",
         "base_currency": "PROPC",
         "quote_currency": "USDT",
@@ -4176,6 +4167,15 @@
         "tick_size": "4"
     },
     {
+        "base_asset_precision": "0",
+        "base_currency": "DEEP",
+        "quote_currency": "USDT",
+        "size_increment": "0",
+        "status": "gray",
+        "symbol": "DEEP_USDT",
+        "tick_size": "0"
+    },
+    {
         "base_asset_precision": "2",
         "base_currency": "DOLO",
         "quote_currency": "USDT",
@@ -4189,7 +4189,7 @@
         "base_currency": "INIT",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "INIT_USDT",
         "tick_size": "5"
     },
