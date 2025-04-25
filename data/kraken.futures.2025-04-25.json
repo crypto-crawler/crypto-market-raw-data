@@ -6,6 +6,7 @@
         "contractValueTradePrecision": 3,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "impactMidSize": 1.75,
+        "isin": "GB00BQ84XJ54",
         "lastTradingTime": "2025-05-02T08:00:00.000Z",
         "marginLevels": [
             {
@@ -204,9 +205,9 @@
                 ]
             }
         },
-        "maxPositionSize": 8000.0,
+        "maxPositionSize": 8000,
         "mtf": true,
-        "openingDate": "2025-04-25T08:00:00.217Z",
+        "openingDate": "2025-04-25T08:00:00.000Z",
         "pair": "ETH:USD",
         "postOnly": false,
         "quote": "USD",
@@ -1028,7 +1029,8 @@
         "contractSize": 1,
         "contractValueTradePrecision": 2,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
-        "impactMidSize": 20.0,
+        "impactMidSize": 20,
+        "isin": "GB00BQ850B94",
         "lastTradingTime": "2025-05-30T08:00:00.000Z",
         "marginLevels": [
             {
@@ -1227,9 +1229,9 @@
                 ]
             }
         },
-        "maxPositionSize": 80000.0,
+        "maxPositionSize": 80000,
         "mtf": true,
-        "openingDate": "2025-04-25T08:00:00.185Z",
+        "openingDate": "2025-04-25T08:00:00.000Z",
         "pair": "SOL:USD",
         "postOnly": false,
         "quote": "USD",
@@ -1540,6 +1542,7 @@
         "contractValueTradePrecision": 4,
         "feeScheduleUid": "97ae0cc8-2964-43ea-91e9-d8e720b02b19",
         "impactMidSize": 0.05,
+        "isin": "GB00BQ84L807",
         "lastTradingTime": "2025-05-02T08:00:00.000Z",
         "marginLevels": [
             {
@@ -1738,9 +1741,9 @@
                 ]
             }
         },
-        "maxPositionSize": 600.0,
+        "maxPositionSize": 600,
         "mtf": true,
-        "openingDate": "2025-04-25T08:00:00.131Z",
+        "openingDate": "2025-04-25T08:00:00.000Z",
         "pair": "BTC:USD",
         "postOnly": false,
         "quote": "USD",
@@ -29724,12 +29727,12 @@
             }
         ],
         "marginSchedules": {},
-        "maxPositionSize": 750000000,
+        "maxPositionSize": 750000000.0,
         "maxRelativeFundingRate": 0.001,
         "mtf": false,
         "openingDate": "2025-04-24T12:14:11.000Z",
         "pair": "JPY:USD",
-        "postOnly": true,
+        "postOnly": false,
         "quote": "USD",
         "retailMarginLevels": [
             {
