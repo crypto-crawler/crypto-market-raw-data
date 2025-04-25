@@ -463,6 +463,23 @@
         "fullName": "Alchemy",
         "limited": false,
         "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 5,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "ACH_USDC",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0E-18",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Alchemy",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
         "max_amount": "200000",
         "max_amount_market": "200000",
         "min_amount": "1",
@@ -26800,7 +26817,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 15,
+        "price_scale": 16,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "NFC_USDT",
@@ -31647,11 +31664,11 @@
         "min_amount_market": "1",
         "price_scale": 4,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "PUNDIAI_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -38277,11 +38294,11 @@
         "min_amount_market": "1",
         "price_scale": 8,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "SUP_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41869,6 +41886,23 @@
         "symbol_partition": "USDT",
         "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
+        "fullName": "Verse",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 8,
+        "quantity_scale": 2,
+        "state": "2",
+        "symbol": "VERSE_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 4
     },
     {
         "etf_mark": 0,
