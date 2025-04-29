@@ -4168,6 +4168,15 @@
     },
     {
         "base_asset_precision": "2",
+        "base_currency": "MILK",
+        "quote_currency": "USDT",
+        "size_increment": "2",
+        "status": "online",
+        "symbol": "MILK_USDT",
+        "tick_size": "5"
+    },
+    {
+        "base_asset_precision": "2",
         "base_currency": "DEEP",
         "quote_currency": "USDT",
         "size_increment": "2",
@@ -4243,7 +4252,7 @@
         "base_currency": "HAEDAL",
         "quote_currency": "USDT",
         "size_increment": "2",
-        "status": "gray",
+        "status": "online",
         "symbol": "HAEDAL_USDT",
         "tick_size": "5"
     },

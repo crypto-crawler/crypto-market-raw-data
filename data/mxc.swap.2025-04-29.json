@@ -122,7 +122,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 120000,
+        "limitMaxVol": 95000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -133,7 +133,7 @@
             200,
             50
         ],
-        "maxVol": 120000,
+        "maxVol": 95000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -144,10 +144,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 120000,
+        "riskBaseVol": 95000,
         "riskIncrImr": 0.09,
         "riskIncrMmr": 0.055,
-        "riskIncrVol": 120000,
+        "riskIncrVol": 95000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -1427,7 +1427,10 @@
         "id": 62,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
+            "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -2158,6 +2161,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -2866,7 +2870,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "AIL",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250326101725544YbBhfnt5A2tltG.png",
         "baseCoinId": "9cfd723879fe489cbe81ed62b222488e",
@@ -2877,6 +2881,8 @@
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742977682000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800619,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -2917,10 +2923,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 15000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 15000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -3100,7 +3106,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "AITECH",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202308261756133930yGr9rmcdGx0k0.jpg",
         "baseCoinId": "79bd02ed87454afb915feb31f40e2851",
@@ -3111,6 +3117,8 @@
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1732502215000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800378,
         "depthStepList": [
             "0.0001",
             "0.001"
@@ -3153,10 +3161,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 10000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 10000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -3690,8 +3698,10 @@
         "futureType": 1,
         "id": 30,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -3868,7 +3878,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 1200,
+        "limitMaxVol": 500,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -3879,7 +3889,7 @@
             200,
             50
         ],
-        "maxVol": 1200,
+        "maxVol": 500,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -3890,10 +3900,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1200,
+        "riskBaseVol": 500,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 1200,
+        "riskIncrVol": 500,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -7109,6 +7119,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -7346,6 +7357,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -7357,7 +7369,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 100000,
+        "limitMaxVol": 80000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -7368,7 +7380,7 @@
             200,
             50
         ],
-        "maxVol": 100000,
+        "maxVol": 80000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 3,
@@ -7379,10 +7391,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 100000,
+        "riskBaseVol": 80000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 100000,
+        "riskIncrVol": 80000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -9049,6 +9061,8 @@
         "id": 477,
         "indexOrigin": [
             "BITGET",
+            "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -9771,7 +9785,7 @@
         "futureType": 1,
         "id": 377,
         "indexOrigin": [
-            "BYBIT",
+            "BITGET",
             "BINANCE",
             "HTX",
             "OKX",
@@ -10101,6 +10115,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HTX",
             "KUCOIN"
         ],
         "initialMarginRate": 0.005,
@@ -10420,7 +10435,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 60000,
+        "limitMaxVol": 90000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10431,7 +10446,7 @@
             200,
             50
         ],
-        "maxVol": 60000,
+        "maxVol": 90000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -10442,10 +10457,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 60000,
+        "riskBaseVol": 90000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 60000,
+        "riskIncrVol": 90000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -13207,6 +13222,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -13523,10 +13539,13 @@
         "futureType": 1,
         "id": 36,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14493,6 +14512,7 @@
         "futureType": 1,
         "id": 359,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "OKX",
             "MEXC",
@@ -16295,7 +16315,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "DHN",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250223120851948qMqNWtrLlMxkf7.png",
         "baseCoinId": "c0106e7e91db4140996477d920508705",
@@ -16306,6 +16326,8 @@
         "contractSize": 0.1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1740451469000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800910,
         "depthStepList": [
             "0.001",
             "0.01"
@@ -16346,10 +16368,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 1500,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 1500,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -16807,6 +16829,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -17719,6 +17742,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -18944,7 +18968,6 @@
         "id": 1083,
         "indexOrigin": [
             "BINANCE",
-            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -20123,7 +20146,7 @@
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -22315,6 +22338,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
             "KUCOIN"
         ],
@@ -24476,7 +24500,7 @@
         "conceptPlateId": [
             -1
         ],
-        "contractSize": 1,
+        "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1745825646000,
         "depthStepList": [
@@ -24488,7 +24512,10 @@
         "futureType": 1,
         "id": 1187,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BYBIT",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -24497,7 +24524,7 @@
         "isNew": true,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 3,
+        "limitMaxVol": 370,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -24508,7 +24535,7 @@
             200,
             50
         ],
-        "maxVol": 3,
+        "maxVol": 370,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -24519,10 +24546,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 370,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 370,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -24894,7 +24921,8 @@
             "BYBIT",
             "BINANCE",
             "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -24970,6 +24998,7 @@
         "futureType": 1,
         "id": 391,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
             "MEXC",
             "KUCOIN"
@@ -26434,6 +26463,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -26573,7 +26603,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "IMT",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250330103947085ZUinC3jC32APDT.png",
         "baseCoinId": "9a60204a0e5744e0a7f9b5bad9d598d7",
@@ -26584,6 +26614,8 @@
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742898233000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746428400089,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -26624,10 +26656,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 2000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -26929,7 +26961,9 @@
         "futureType": 1,
         "id": 57,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -27475,7 +27509,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "ISLAND",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241217132330724HiBFqDq2Zndt0D.jpeg",
         "baseCoinId": "dd9f09cdf3f84ac48cf09bdfd2f76c29",
@@ -27486,6 +27520,8 @@
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1734416290000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800452,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -27526,10 +27562,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 18000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 18000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -27989,6 +28025,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -29197,8 +29235,10 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -29360,6 +29400,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -33312,7 +33353,10 @@
         "futureType": 1,
         "id": 487,
         "indexOrigin": [
+            "BYBIT",
             "BINANCE",
+            "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -33868,7 +33912,7 @@
         "conceptPlateId": [
             -1
         ],
-        "contractSize": 1,
+        "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1745896240000,
         "depthStepList": [
@@ -33880,7 +33924,10 @@
         "futureType": 1,
         "id": 1188,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "BYBIT",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -33889,7 +33936,7 @@
         "isNew": true,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 3,
+        "limitMaxVol": 2200,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -33900,21 +33947,21 @@
             200,
             50
         ],
-        "maxVol": 3,
+        "maxVol": 2200,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
-        "openingTime": 1745928900000,
+        "openingTime": 1745921700000,
         "positionOpenType": 3,
         "priceCoefficientVariation": 0.05,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 0,
+        "riskBaseVol": 2200,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 0,
+        "riskIncrVol": 2200,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -36069,8 +36116,10 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.0133,
         "isHidden": false,
@@ -37089,7 +37138,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "OAS",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202404290959109624mYc5JCsvMLMyR.png",
         "baseCoinId": "6fcc6c9a7d52405baf3d22e0e5db7471",
@@ -37100,6 +37149,8 @@
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1733106691000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746428400019,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -37144,10 +37195,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6200,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 6200,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -37993,6 +38044,7 @@
             "BYBIT",
             "BINANCE",
             "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -38237,8 +38289,10 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -39584,7 +39638,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "PELL",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250311154634291Ccgnrk3nlC3ETl.png",
         "baseCoinId": "b662aa2a07464be2b337ea848be8d6c0",
@@ -39595,6 +39649,8 @@
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1741856212000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746428400486,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -39637,10 +39693,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 6500,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 6500,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -39910,7 +39966,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "PEPECOIN",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202312241113100152iUSAzXD4LQ8N1.png",
         "baseCoinId": "dcfa795fc83845e2bd2f36fa1dfc3882",
@@ -39921,6 +39977,8 @@
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1734490395000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800642,
         "depthStepList": [
             "0.001",
             "0.01"
@@ -39961,10 +40019,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 4000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 4000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -42167,7 +42225,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "PROM",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20231215121413370qZZfkj7eJEwAwX.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250115221436630S9EjIPQW7matmw.png",
         "baseCoinId": "3be200ae4bef4ff29e30dfa1479f9254",
         "baseCoinName": "PROM",
         "bidLimitPriceRate": 0.2,
@@ -42188,6 +42246,8 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.01,
@@ -42902,7 +42962,8 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -42982,8 +43043,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -43388,6 +43451,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -49290,8 +49354,10 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -52187,6 +52253,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -52592,7 +52659,7 @@
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": true,
@@ -53122,7 +53189,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "TRIAS",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20230830205231212avQVHSx8AOqFi4.png",
         "baseCoinId": "23b82126af574992bc3a3963d9096fea",
@@ -53133,6 +53200,8 @@
         "contractSize": 1,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1695180203000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746514800636,
         "depthStepList": [
             "0.001",
             "0.01"
@@ -53175,10 +53244,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 800,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 800,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -54129,10 +54198,11 @@
         "id": 337,
         "indexOrigin": [
             "BITGET",
-            "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -56396,7 +56466,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 640000,
+        "limitMaxVol": 520000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -56407,7 +56477,7 @@
             200,
             50
         ],
-        "maxVol": 640000,
+        "maxVol": 520000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -56418,10 +56488,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 640000,
+        "riskBaseVol": 520000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 640000,
+        "riskIncrVol": 520000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -56702,8 +56772,10 @@
         "futureType": 1,
         "id": 186,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC"
         ],
@@ -58559,8 +58631,10 @@
         "futureType": 1,
         "id": 65,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -59224,6 +59298,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -59439,7 +59514,7 @@
         "apiAllowed": false,
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
-        "automaticDelivery": 0,
+        "automaticDelivery": 1,
         "baseCoin": "XYRO",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250110181814302UjRGH0cS2DZhAq.jpeg",
         "baseCoinId": "4e71f9db4c5643a38815c36dbb78b041",
@@ -59450,6 +59525,8 @@
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1736740468000,
+        "deliveryPriceTrend": 2,
+        "deliveryTime": 1746428400036,
         "depthStepList": [
             "0.00001",
             "0.0001"
@@ -59490,10 +59567,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 4000,
+        "riskBaseVol": 0,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 4000,
+        "riskIncrVol": 0,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -60819,12 +60896,8 @@
         "baseCoinId": "c443aae44280489aa6f9d42f53094377",
         "baseCoinName": "ZORA",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1745312875000,
@@ -60846,7 +60919,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 14000,
