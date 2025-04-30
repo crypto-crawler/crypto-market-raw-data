@@ -1334,7 +1334,7 @@
         "max_amount_market": "100000",
         "min_amount": "1",
         "min_amount_market": "1",
-        "price_scale": 11,
+        "price_scale": 12,
         "quantity_scale": 2,
         "state": "1",
         "symbol": "AIGO_USDT",
@@ -6609,7 +6609,7 @@
         "state": "1",
         "symbol": "BRL_USDT",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -6949,7 +6949,7 @@
         "state": "1",
         "symbol": "BTC_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -11689,11 +11689,11 @@
         "min_amount_market": "1",
         "price_scale": 6,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "DON_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -13375,7 +13375,7 @@
         "state": "1",
         "symbol": "ETH_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -26295,7 +26295,7 @@
         "state": "1",
         "symbol": "MX_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -32046,6 +32046,23 @@
     },
     {
         "etf_mark": 0,
+        "fullName": "Pundi X",
+        "limited": false,
+        "maker_fee_rate": "0E-18",
+        "max_amount": "100000",
+        "max_amount_market": "100000",
+        "min_amount": "1",
+        "min_amount_market": "1",
+        "price_scale": 4,
+        "quantity_scale": 2,
+        "state": "1",
+        "symbol": "PUNDIX_USDT",
+        "symbol_partition": "NEW",
+        "taker_fee_rate": "0.000500000000000000",
+        "tradeSideType": 1
+    },
+    {
+        "etf_mark": 0,
         "fullName": "EPNS",
         "limited": false,
         "maker_fee_rate": "0E-18",
@@ -37005,7 +37022,7 @@
         "state": "1",
         "symbol": "SOL_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -39705,11 +39722,11 @@
         "min_amount_market": "1",
         "price_scale": 5,
         "quantity_scale": 2,
-        "state": "2",
+        "state": "1",
         "symbol": "TERMINAL_USDT",
         "symbol_partition": "NEW",
         "taker_fee_rate": "0.000500000000000000",
-        "tradeSideType": 4
+        "tradeSideType": 1
     },
     {
         "etf_mark": 0,
@@ -41884,7 +41901,7 @@
         "state": "1",
         "symbol": "USDC_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -42615,7 +42632,7 @@
         "state": "1",
         "symbol": "VINE_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
@@ -45284,7 +45301,7 @@
         "state": "1",
         "symbol": "XRP_BRL",
         "symbol_partition": "NEW",
-        "taker_fee_rate": "0E-18",
+        "taker_fee_rate": "0.000500000000000000",
         "tradeSideType": 1
     },
     {
