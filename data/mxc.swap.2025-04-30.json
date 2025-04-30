@@ -1266,8 +1266,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -1815,9 +1817,11 @@
         "baseCoinName": "ACT",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
+            "mc-trade-zone-0fees",
             "mc-trade-zone-MEME"
         ],
         "conceptPlateId": [
+            45,
             29
         ],
         "contractSize": 10,
@@ -1841,8 +1845,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 280000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
@@ -1878,7 +1882,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ACT_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -1911,8 +1915,10 @@
         "id": 855,
         "indexOrigin": [
             "BITGET",
-            "GATEIO",
-            "MEXC"
+            "BINANCE",
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -2242,8 +2248,12 @@
         "baseCoinId": "c0ee1a01ecf843f58797716887dfeb15",
         "baseCoinName": "AERGO",
         "bidLimitPriceRate": 0.5,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1700151530000,
@@ -2266,8 +2276,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 30000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -2303,7 +2313,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "AERGO_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -2976,13 +2986,13 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 600,
-        "maintenanceMarginRate": 0.01,
+        "limitMaxVol": 21000,
+        "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
@@ -2992,21 +3002,21 @@
             200,
             50
         ],
-        "maxVol": 600,
+        "maxVol": 21000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
         "openingTime": 1745576100000,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 5,
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 600,
+        "riskBaseVol": 21000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 600,
+        "riskIncrVol": 21000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -3383,7 +3393,7 @@
             "HTX",
             "KUCOIN"
         ],
-        "initialMarginRate": 0.01,
+        "initialMarginRate": 0.02,
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
@@ -3396,7 +3406,7 @@
         "marketOrderMaxLevel": 20,
         "marketOrderPriceLimitRate1": 0.2,
         "marketOrderPriceLimitRate2": 0.005,
-        "maxLeverage": 100,
+        "maxLeverage": 50,
         "maxNumOrders": [
             200,
             50
@@ -4265,7 +4275,8 @@
         "indexOrigin": [
             "BITGET",
             "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -5037,7 +5048,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "APT_USDT",
-        "takerFeeRate": 0.0001,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -5401,7 +5412,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "HTX",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -11206,7 +11220,8 @@
         "indexOrigin": [
             "BITGET",
             "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -12168,6 +12183,8 @@
         "id": 412,
         "indexOrigin": [
             "BITGET",
+            "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -12418,8 +12435,8 @@
         "id": 737,
         "indexOrigin": [
             "BITGET",
-            "GATEIO",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -16580,7 +16597,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "DOGE_USDT",
-        "takerFeeRate": 0.0001,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -18222,12 +18239,8 @@
         "baseCoinId": "5db5a74884c3400696d7d35a737dc101",
         "baseCoinName": "ENA",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-0fees"
-        ],
-        "conceptPlateId": [
-            45
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742879444000,
@@ -18250,8 +18263,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 2000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -18287,7 +18300,7 @@
         "showBeforeOpen": false,
         "state": 0,
         "symbol": "ENA_USDC",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -18305,12 +18318,8 @@
         "baseCoinId": "5db5a74884c3400696d7d35a737dc101",
         "baseCoinName": "ENA",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-0fees"
-        ],
-        "conceptPlateId": [
-            45
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1712055825000,
@@ -18335,8 +18344,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 500000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -18372,7 +18381,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ENA_USDT",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -18751,7 +18760,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 360000,
+        "limitMaxVol": 500000,
         "maintenanceMarginRate": 0.005,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -18762,7 +18771,7 @@
             200,
             50
         ],
-        "maxVol": 360000,
+        "maxVol": 500000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -18773,10 +18782,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 360000,
+        "riskBaseVol": 500000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 360000,
+        "riskIncrVol": 500000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -19295,8 +19304,12 @@
         "baseCoinId": "93c38b0169214f8689763ce9a63a73ff",
         "baseCoinName": "ETH",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 0.01,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1742798318000,
@@ -19322,8 +19335,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 48000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -19359,7 +19372,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ETH_USDC",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -19377,8 +19390,12 @@
         "baseCoinId": "93c38b0169214f8689763ce9a63a73ff",
         "baseCoinName": "ETH",
         "bidLimitPriceRate": 0.1,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 0.01,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1591243107000,
@@ -19406,8 +19423,8 @@
         "isHot": false,
         "isMaxLeverage": true,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 750000,
         "maintenanceMarginRate": 0.001,
         "makerFeeRate": 0,
@@ -19487,7 +19504,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "ETH_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -23480,7 +23497,10 @@
         "futureType": 1,
         "id": 873,
         "indexOrigin": [
-            "MEXC"
+            "BITGET",
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -24081,7 +24101,7 @@
         "openingCountdownOption": 1,
         "openingTime": 1745928900000,
         "positionOpenType": 3,
-        "priceCoefficientVariation": 0.05,
+        "priceCoefficientVariation": 0.2,
         "priceScale": 4,
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
@@ -28028,7 +28048,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 385112,
+        "threshold": 371437,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -29658,13 +29678,11 @@
         "baseCoinName": "LINK",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-0fees",
             "mc-trade-zone-SOL",
             "mc-trade-zone-Arbitrum",
             "mc-trade-zone-web3"
         ],
         "conceptPlateId": [
-            45,
             37,
             24,
             19
@@ -29693,8 +29711,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 3200,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -29730,7 +29748,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "LINK_USDC",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -29749,13 +29767,11 @@
         "baseCoinName": "LINK",
         "bidLimitPriceRate": 0.2,
         "conceptPlate": [
-            "mc-trade-zone-0fees",
             "mc-trade-zone-SOL",
             "mc-trade-zone-Arbitrum",
             "mc-trade-zone-web3"
         ],
         "conceptPlateId": [
-            45,
             37,
             24,
             19
@@ -29786,8 +29802,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 1280000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -29823,7 +29839,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "LINK_USDT",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -31107,7 +31123,6 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -33072,9 +33087,9 @@
         "futureType": 1,
         "id": 779,
         "indexOrigin": [
-            "BITGET",
             "GATEIO",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -33467,12 +33482,8 @@
         "baseCoinId": "c9c5c93511724e2781ea6915c977aa89",
         "baseCoinName": "MNT",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-0fees"
-        ],
-        "conceptPlateId": [
-            45
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1689589426000,
@@ -33495,8 +33506,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 30000,
         "maintenanceMarginRate": 0.02,
         "makerFeeRate": 0,
@@ -33532,7 +33543,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "MNT_USDT",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0002,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -33811,6 +33822,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -35176,7 +35188,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "NEON",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241206132930617KldeXuOWx6WBYw.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F202412091042159750ai5VN4VdVL2mC.jpeg",
         "baseCoinId": "5a8b1abbf7bf444a9b3325c8bceffb94",
         "baseCoinName": "NEON",
         "bidLimitPriceRate": 0.2,
@@ -35195,7 +35207,7 @@
         "id": 853,
         "indexOrigin": [
             "BYBIT",
-            "GATEIO",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -37094,8 +37106,12 @@
         "baseCoinId": "e76235bf244e42fea5c11a2b44a22b9a",
         "baseCoinName": "OM",
         "bidLimitPriceRate": 0.5,
-        "conceptPlate": [],
-        "conceptPlateId": [],
+        "conceptPlate": [
+            "mc-trade-zone-0fees"
+        ],
+        "conceptPlateId": [
+            45
+        ],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1707879533000,
@@ -37121,8 +37137,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": false,
-        "isZeroFeeSymbol": false,
+        "isZeroFeeRate": true,
+        "isZeroFeeSymbol": true,
         "limitMaxVol": 9200,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
@@ -37158,7 +37174,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "OM_USDT",
-        "takerFeeRate": 0.0002,
+        "takerFeeRate": 0,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -37440,8 +37456,8 @@
         "futureType": 1,
         "id": 504,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.02,
@@ -38329,12 +38345,8 @@
         "baseCoinId": "b38c15c24181495988987bc24f762339",
         "baseCoinName": "OZK",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 100,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1745417560000,
@@ -38353,7 +38365,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 2000,
@@ -38423,7 +38435,10 @@
         "futureType": 1,
         "id": 761,
         "indexOrigin": [
-            "MEXC"
+            "BYBIT",
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -39737,7 +39752,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 400000,
+        "limitMaxVol": 320000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -39748,7 +39763,7 @@
             200,
             50
         ],
-        "maxVol": 400000,
+        "maxVol": 320000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -39759,10 +39774,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 400000,
+        "riskBaseVol": 320000,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 400000,
+        "riskIncrVol": 320000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -40446,7 +40461,9 @@
         "futureType": 1,
         "id": 835,
         "indexOrigin": [
-            "MEXC"
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -45435,7 +45452,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "HTX",
+            "OKX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -46886,7 +46906,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 3300,
+        "limitMaxVol": 5000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -46897,7 +46917,7 @@
             200,
             50
         ],
-        "maxVol": 3300,
+        "maxVol": 5000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -46908,10 +46928,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 3300,
+        "riskBaseVol": 5000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 3300,
+        "riskIncrVol": 5000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -47535,8 +47555,8 @@
         "isHot": false,
         "isMaxLeverage": false,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 14000,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
@@ -47572,7 +47592,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SOL_USDC",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0001,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "34309140878b4ae99f195ac091d49bab",
@@ -47624,8 +47644,8 @@
         "isHot": true,
         "isMaxLeverage": true,
         "isNew": false,
-        "isZeroFeeRate": true,
-        "isZeroFeeSymbol": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
         "limitMaxVol": 900000,
         "maintenanceMarginRate": 0.0023,
         "makerFeeRate": 0,
@@ -47677,7 +47697,7 @@
         "showBeforeOpen": true,
         "state": 0,
         "symbol": "SOL_USDT",
-        "takerFeeRate": 0,
+        "takerFeeRate": 0.0001,
         "threshold": 0,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
@@ -50547,8 +50567,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -50924,7 +50946,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "TEL",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241122104354911kfT4wgkrSDMmLd.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241122163525488mHtmQSuHuAr5Fh.jpeg",
         "baseCoinId": "a326118690ac47f183c49c0d508320b2",
         "baseCoinName": "TEL",
         "bidLimitPriceRate": 0.2,
@@ -50944,6 +50966,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -54337,7 +54360,8 @@
         "futureType": 1,
         "id": 755,
         "indexOrigin": [
-            "GATEIO",
+            "BINANCE",
+            "HTX",
             "OKX",
             "MEXC"
         ],
@@ -58138,7 +58162,7 @@
         ],
         "initialMarginRate": 0.00333333,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": true,
         "isNew": false,
         "isZeroFeeRate": false,
