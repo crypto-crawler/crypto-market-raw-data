@@ -4651,6 +4651,86 @@
         "appraisal": 0,
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
+        "baseCoin": "ANON",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20250224154659317gW27qcv7KO2WiB.png",
+        "baseCoinId": "75696c2854764cd7966992ac75c826a1",
+        "baseCoinName": "ANON",
+        "bidLimitPriceRate": 0.2,
+        "conceptPlate": [
+            "mc-trade-zone-contract-new"
+        ],
+        "conceptPlateId": [
+            -1
+        ],
+        "contractSize": 0.1,
+        "countryConfigContractMaxLeverage": 0,
+        "createTime": 1746087974000,
+        "depthStepList": [
+            "0.001",
+            "0.01"
+        ],
+        "displayName": "ANON_USDT\u6c38\u7eed",
+        "displayNameEn": "ANON_USDT PERPETUAL",
+        "futureType": 1,
+        "id": 1191,
+        "indexOrigin": [
+            "MEXC"
+        ],
+        "initialMarginRate": 0.02,
+        "isHidden": false,
+        "isHot": false,
+        "isMaxLeverage": false,
+        "isNew": true,
+        "isZeroFeeRate": false,
+        "isZeroFeeSymbol": false,
+        "limitMaxVol": 850,
+        "maintenanceMarginRate": 0.01,
+        "makerFeeRate": 0,
+        "marketOrderMaxLevel": 20,
+        "marketOrderPriceLimitRate1": 0.2,
+        "marketOrderPriceLimitRate2": 0.005,
+        "maxLeverage": 50,
+        "maxNumOrders": [
+            200,
+            50
+        ],
+        "maxVol": 850,
+        "minLeverage": 1,
+        "minVol": 1,
+        "openingCountdownOption": 1,
+        "openingTime": 0,
+        "positionOpenType": 3,
+        "priceCoefficientVariation": 0.05,
+        "priceScale": 3,
+        "priceUnit": 0.001,
+        "quoteCoin": "USDT",
+        "quoteCoinName": "USDT",
+        "riskBaseVol": 850,
+        "riskIncrImr": 0.005,
+        "riskIncrMmr": 0.005,
+        "riskIncrVol": 850,
+        "riskLevelLimit": 1,
+        "riskLimitMode": "INCREASE",
+        "riskLimitType": "BY_VOLUME",
+        "riskLongShortSwitch": 0,
+        "settleCoin": "USDT",
+        "showAppraisalCountdown": 0,
+        "showBeforeOpen": false,
+        "state": 0,
+        "symbol": "ANON_USDT",
+        "takerFeeRate": 0.0002,
+        "threshold": 0,
+        "triggerProtect": 0.1,
+        "vid": "128f589271cb4951b03e71e6323eb7be",
+        "volScale": 0,
+        "volUnit": 1
+    },
+    {
+        "amountScale": 4,
+        "apiAllowed": false,
+        "appraisal": 0,
+        "askLimitPriceRate": 0.2,
+        "automaticDelivery": 0,
         "baseCoin": "AO",
         "baseCoinIconUrl": "https://public.mocortech.com/coin/F202503141120407399tKRMKu617Tf7l.png",
         "baseCoinId": "7fb7852b2aba4d869dde7bd0f1598568",
@@ -11863,7 +11943,9 @@
         "futureType": 1,
         "id": 669,
         "indexOrigin": [
-            "GATEIO",
+            "BYBIT",
+            "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -15104,7 +15186,6 @@
         "indexOrigin": [
             "BYBIT",
             "BINANCE",
-            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -15497,6 +15578,7 @@
         "futureType": 1,
         "id": 724,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "MEXC",
             "KUCOIN"
@@ -16287,7 +16369,9 @@
         "futureType": 1,
         "id": 804,
         "indexOrigin": [
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
@@ -16865,12 +16949,8 @@
         "baseCoinId": "d216af7e50ce40fe83300801f9f8ded9",
         "baseCoinName": "DOLO",
         "bidLimitPriceRate": 0.2,
-        "conceptPlate": [
-            "mc-trade-zone-contract-new"
-        ],
-        "conceptPlateId": [
-            -1
-        ],
+        "conceptPlate": [],
+        "conceptPlateId": [],
         "contractSize": 10,
         "countryConfigContractMaxLeverage": 0,
         "createTime": 1745494515000,
@@ -16892,7 +16972,7 @@
         "isHidden": false,
         "isHot": false,
         "isMaxLeverage": false,
-        "isNew": true,
+        "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
         "limitMaxVol": 94000,
@@ -21562,7 +21642,9 @@
         "futureType": 1,
         "id": 770,
         "indexOrigin": [
-            "MEXC"
+            "GATEIO",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -21727,6 +21809,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -24072,10 +24155,12 @@
         "id": 625,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
             "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -24803,7 +24888,9 @@
         "futureType": 1,
         "id": 712,
         "indexOrigin": [
+            "BITGET",
             "GATEIO",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -25597,7 +25684,7 @@
         "askLimitPriceRate": 0.2,
         "automaticDelivery": 0,
         "baseCoin": "HYPE",
-        "baseCoinIconUrl": "https://public.mocortech.com/coin/F20241219185202633fy8RLxouyEW44q.png",
+        "baseCoinIconUrl": "https://public.mocortech.com/coin/F202503241336210706ijr14IiYQu0Uz.jpeg",
         "baseCoinId": "8d31d4e96b01486ab8965b3b9e4b88e5",
         "baseCoinName": "HYPE",
         "bidLimitPriceRate": 0.2,
@@ -25620,6 +25707,7 @@
         "id": 887,
         "indexOrigin": [
             "BITGET",
+            "MEXC",
             "KUCOIN"
         ],
         "initialMarginRate": 0.02,
@@ -32602,8 +32690,10 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -33993,6 +34083,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -34795,6 +34886,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
@@ -38454,7 +38546,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 2000,
+        "limitMaxVol": 3000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -38465,7 +38557,7 @@
             200,
             50
         ],
-        "maxVol": 2000,
+        "maxVol": 3000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -38476,10 +38568,10 @@
         "priceUnit": 1e-06,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2000,
+        "riskBaseVol": 3000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 2000,
+        "riskIncrVol": 3000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -40468,7 +40560,9 @@
         "id": 752,
         "indexOrigin": [
             "BITGET",
+            "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -43521,10 +43615,13 @@
         "futureType": 1,
         "id": 630,
         "indexOrigin": [
+            "BITGET",
+            "BYBIT",
             "BINANCE",
             "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -52256,7 +52353,7 @@
         "futureType": 1,
         "id": 831,
         "indexOrigin": [
-            "GATEIO",
+            "BYBIT",
             "MEXC",
             "KUCOIN"
         ],
