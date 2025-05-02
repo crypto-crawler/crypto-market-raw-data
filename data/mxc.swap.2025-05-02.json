@@ -2749,7 +2749,8 @@
             "BITGET",
             "BYBIT",
             "HTX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -3881,7 +3882,6 @@
         "id": 472,
         "indexOrigin": [
             "BITGET",
-            "BINANCE",
             "GATEIO",
             "MEXC"
         ],
@@ -3892,7 +3892,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 60,
+        "limitMaxVol": 100,
         "maintenanceMarginRate": 0.004,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -3903,7 +3903,7 @@
             200,
             50
         ],
-        "maxVol": 60,
+        "maxVol": 100,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -3914,10 +3914,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 60,
+        "riskBaseVol": 100,
         "riskIncrImr": 0.004,
         "riskIncrMmr": 0.004,
-        "riskIncrVol": 60,
+        "riskIncrVol": 100,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -5754,7 +5754,7 @@
         "isNew": false,
         "isZeroFeeRate": true,
         "isZeroFeeSymbol": true,
-        "limitMaxVol": 330000,
+        "limitMaxVol": 270000,
         "maintenanceMarginRate": 0.007,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -5765,7 +5765,7 @@
             200,
             50
         ],
-        "maxVol": 330000,
+        "maxVol": 270000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -5776,10 +5776,10 @@
         "priceUnit": 0.001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 330000,
+        "riskBaseVol": 270000,
         "riskIncrImr": 0.0866,
         "riskIncrMmr": 0.053,
-        "riskIncrVol": 330000,
+        "riskIncrVol": 270000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -7380,8 +7380,8 @@
         "id": 1031,
         "indexOrigin": [
             "BYBIT",
-            "GATEIO",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.01,
         "isHidden": false,
@@ -10234,7 +10234,7 @@
         "isNew": true,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 2700,
+        "limitMaxVol": 5200,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -10245,7 +10245,7 @@
             200,
             50
         ],
-        "maxVol": 2700,
+        "maxVol": 5200,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -10256,10 +10256,10 @@
         "priceUnit": 0.0001,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 2700,
+        "riskBaseVol": 5200,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 2700,
+        "riskIncrVol": 5200,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -13410,7 +13410,8 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.05,
         "isHidden": false,
@@ -14949,7 +14950,9 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
-            "MEXC"
+            "HTX",
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.008,
         "isHidden": false,
@@ -15506,6 +15509,7 @@
         "id": 641,
         "indexOrigin": [
             "BINANCE",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -20352,8 +20356,10 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
-            "MEXC"
+            "MEXC",
+            "KUCOIN"
         ],
         "initialMarginRate": 0.005,
         "isHidden": false,
@@ -22546,7 +22552,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 7500,
+        "limitMaxVol": 4000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -22557,7 +22563,7 @@
             200,
             50
         ],
-        "maxVol": 7500,
+        "maxVol": 4000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -22568,10 +22574,10 @@
         "priceUnit": 1e-05,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 7500,
+        "riskBaseVol": 4000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 7500,
+        "riskIncrVol": 4000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -28303,7 +28309,7 @@
         "state": 0,
         "symbol": "KAS_USDT",
         "takerFeeRate": 0,
-        "threshold": 413942,
+        "threshold": 417165,
         "triggerProtect": 0.1,
         "vid": "128f589271cb4951b03e71e6323eb7be",
         "volScale": 0,
@@ -29222,6 +29228,7 @@
         "indexOrigin": [
             "BITGET",
             "BYBIT",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -38137,6 +38144,7 @@
         "indexOrigin": [
             "BITGET",
             "BINANCE",
+            "HTX",
             "MEXC",
             "KUCOIN"
         ],
@@ -39342,6 +39350,7 @@
             "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
             "OKX",
             "MEXC",
             "KUCOIN"
@@ -42013,7 +42022,7 @@
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
-        "limitMaxVol": 220000,
+        "limitMaxVol": 330000,
         "maintenanceMarginRate": 0.01,
         "makerFeeRate": 0,
         "marketOrderMaxLevel": 20,
@@ -42024,7 +42033,7 @@
             200,
             50
         ],
-        "maxVol": 220000,
+        "maxVol": 330000,
         "minLeverage": 1,
         "minVol": 1,
         "openingCountdownOption": 1,
@@ -42035,10 +42044,10 @@
         "priceUnit": 1e-07,
         "quoteCoin": "USDT",
         "quoteCoinName": "USDT",
-        "riskBaseVol": 220000,
+        "riskBaseVol": 330000,
         "riskIncrImr": 0.005,
         "riskIncrMmr": 0.005,
-        "riskIncrVol": 220000,
+        "riskIncrVol": 330000,
         "riskLevelLimit": 1,
         "riskLimitMode": "INCREASE",
         "riskLimitType": "BY_VOLUME",
@@ -44174,8 +44183,8 @@
         "futureType": 1,
         "id": 409,
         "indexOrigin": [
+            "BITGET",
             "BINANCE",
-            "GATEIO",
             "MEXC"
         ],
         "initialMarginRate": 0.005,
@@ -56821,8 +56830,11 @@
         "futureType": 1,
         "id": 452,
         "indexOrigin": [
+            "BITGET",
             "BYBIT",
             "BINANCE",
+            "HTX",
+            "OKX",
             "MEXC",
             "KUCOIN"
         ],
