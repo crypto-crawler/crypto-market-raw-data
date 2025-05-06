@@ -3725,7 +3725,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": false,
+        "isHot": true,
         "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
@@ -11167,7 +11167,7 @@
             12
         ],
         "contractSize": 0.0001,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591242684000,
         "depthStepList": [
             "0.1",
@@ -11191,7 +11191,7 @@
         "initialMarginRate": 0.002,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": false,
         "isZeroFeeSymbol": false,
@@ -19805,7 +19805,7 @@
             45
         ],
         "contractSize": 0.01,
-        "countryConfigContractMaxLeverage": 0,
+        "countryConfigContractMaxLeverage": 200,
         "createTime": 1591243107000,
         "depthStepList": [
             "0.01",
@@ -19829,7 +19829,7 @@
         "initialMarginRate": 0.002,
         "isHidden": false,
         "isHot": false,
-        "isMaxLeverage": true,
+        "isMaxLeverage": false,
         "isNew": false,
         "isZeroFeeRate": true,
         "isZeroFeeSymbol": true,
@@ -35296,7 +35296,7 @@
         ],
         "initialMarginRate": 0.02,
         "isHidden": false,
-        "isHot": true,
+        "isHot": false,
         "isMaxLeverage": false,
         "isNew": true,
         "isZeroFeeRate": false,
@@ -51071,7 +51071,8 @@
         "futureType": 1,
         "id": 837,
         "indexOrigin": [
-            "GATEIO",
+            "BITGET",
+            "BINANCE",
             "MEXC",
             "KUCOIN"
         ],
