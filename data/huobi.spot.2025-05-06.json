@@ -3235,6 +3235,26 @@
         "value-precision": 8
     },
     {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "b2",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 0.1,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
+        "min-order-amt": 0.1,
+        "min-order-value": 10,
+        "price-precision": 4,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 0.1,
+        "state": "online",
+        "symbol": "b2usdt",
+        "symbol-partition": "main",
+        "tags": "innovate",
+        "value-precision": 8
+    },
+    {
         "amount-precision": 2,
         "api-trading": "enabled",
         "base-currency": "babydoge",
@@ -9697,7 +9717,7 @@
         "quote-currency": "usdt",
         "sell-limit-must-greater-than": 0.9,
         "sell-market-min-order-amt": 1,
-        "state": "pre-online",
+        "state": "online",
         "symbol": "donkeyusdt",
         "symbol-partition": "main",
         "tags": "innovate",
@@ -10692,7 +10712,7 @@
         "state": "online",
         "symbol": "elizactousdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -12195,7 +12215,7 @@
         "state": "online",
         "symbol": "fightusdt",
         "symbol-partition": "main",
-        "tags": "st,innovate",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -22073,7 +22093,7 @@
         "state": "online",
         "symbol": "musicusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -23869,6 +23889,26 @@
         "sell-market-min-order-amt": 1,
         "state": "online",
         "symbol": "oasusdt",
+        "symbol-partition": "main",
+        "tags": "",
+        "value-precision": 8
+    },
+    {
+        "amount-precision": 4,
+        "api-trading": "enabled",
+        "base-currency": "obol",
+        "buy-limit-must-less-than": 1.1,
+        "limit-order-min-order-amt": 1,
+        "market-buy-order-rate-must-less-than": 0.05,
+        "market-sell-order-rate-must-less-than": 0.05,
+        "min-order-amt": 1,
+        "min-order-value": 10,
+        "price-precision": 6,
+        "quote-currency": "usdt",
+        "sell-limit-must-greater-than": 0.9,
+        "sell-market-min-order-amt": 1,
+        "state": "pre-online",
+        "symbol": "obolusdt",
         "symbol-partition": "main",
         "tags": "",
         "value-precision": 8
@@ -28190,7 +28230,7 @@
         "state": "online",
         "symbol": "rpkusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -29303,7 +29343,7 @@
         "state": "online",
         "symbol": "shrapusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -29704,7 +29744,7 @@
         "state": "online",
         "symbol": "smoleusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -30307,7 +30347,7 @@
         "state": "online",
         "symbol": "sparkletusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -33786,7 +33826,7 @@
         "state": "online",
         "symbol": "unibotusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
@@ -37514,7 +37554,7 @@
         "state": "online",
         "symbol": "xzkusdt",
         "symbol-partition": "main",
-        "tags": "st",
+        "tags": "innovate",
         "value-precision": 8
     },
     {
